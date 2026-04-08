@@ -1,18 +1,21 @@
 {
-  "model": "openrouter/anthropic/claude-sonnet-4",
-  "agent": {
-    "build": {
-      "model": "openrouter/anthropic/claude-sonnet-4",
-      "max_steps": 80
-    }
-  },
   "provider": {
     "openrouter": {
       "npm": "@ai-sdk/openai-compatible",
-      "baseURL": "https://openrouter.ai/api/v1",
-      "apiKey": "{env:OPENROUTER_API_KEY}"
+      "name": "OpenRouter",
+      "options": {
+        "baseURL": "https://openrouter.ai/api/v1",
+        "apiKey": "{env:OPENROUTER_API_KEY}"
+      },
+      "models": {
+        "anthropic/claude-sonnet-4": {
+          "name": "Claude Sonnet 4",
+          "limit": { "context": 200000, "output": 16384 }
+        }
+      }
     }
   },
+  "model": "openrouter/anthropic/claude-sonnet-4",
   "permission": {
     "bash": "allow",
     "write": "allow",
