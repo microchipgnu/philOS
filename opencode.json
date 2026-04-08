@@ -19,6 +19,9 @@
   "permission": {
     "bash": "allow",
     "write": "allow",
-    "read": "allow"
+    "read": "allow",
+    "external_directory": {
+      "~/.agentwallet/*": "allow"
+    }
   }
 }
