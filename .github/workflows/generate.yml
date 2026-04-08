@@ -38,8 +38,9 @@ jobs:
       - name: Run PhilOS agent
         env:
           OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+        timeout-minutes: 15
         run: |
-          opencode --prompt "$(cat .philos/prompt.md)"
+          opencode run "$(cat .philos/prompt.md)"
 
       - name: Commit reports
         run: |
