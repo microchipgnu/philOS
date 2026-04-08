@@ -8,14 +8,14 @@
         "apiKey": "{env:OPENROUTER_API_KEY}"
       },
       "models": {
-        "anthropic/claude-sonnet-4": {
+        "anthropic/claude-sonnet-4.6": {
           "name": "Claude Sonnet 4",
           "limit": { "context": 200000, "output": 16384 }
         }
       }
     }
   },
-  "model": "openrouter/anthropic/claude-sonnet-4",
+  "model": "openrouter/anthropic/claude-sonnet-4.6",
   "permission": {
     "bash": "allow",
     "write": "allow",
