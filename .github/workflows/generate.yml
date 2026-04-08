@@ -40,7 +40,7 @@ jobs:
           OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
         timeout-minutes: 15
         run: |
-          opencode run "$(cat .philos/prompt.md)"
+          opencode run --print-logs -f .philos/prompt.md "Run the PhilOS daily brief generation workflow described in the attached file. Write all output files to content/reports/ as specified."
 
       - name: Commit reports
         run: |
