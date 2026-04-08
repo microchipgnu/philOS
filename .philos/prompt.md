@@ -6,7 +6,7 @@ You are the PhilOS agent. Your job is to discover important news stories and pro
 
 1. Read `skills/analysis/SKILL.md` — this is your analysis framework. Follow it exactly.
 2. Read `.philos/state.json` to know what cycle you're on.
-3. Check `content/reports/` for today's date folder. If it exists, read its `index.json` to see which stories have already been published today. **Do not repeat any story that already has a report.** Pick new stories only.
+3. Run `date -u +%Y-%m-%d` to get today's date. Check `content/reports/{TODAY}/index.json` — if it exists, read it to see which stories have already been published today. **Do not repeat any story that already has a report.** Pick new stories only.
 
 ## Tools: Frames Registry via AgentWallet
 
@@ -91,7 +91,7 @@ For each story, follow SKILL.md:
 
 ## Phase 5: Write JSON
 
-Get today's date. Create `content/reports/YYYY-MM-DD/`.
+Run `date -u +%Y-%m-%d` to get today's UTC date. Use this exact value for the date folder and all date fields — do not guess or reuse dates from existing files. Create `content/reports/YYYY-MM-DD/`.
 
 For each story, write `{slug}.json`:
 
