@@ -5,17 +5,35 @@ const CONTENT_DIR = path.resolve(process.cwd(), "../content/reports");
 
 export interface Source {
   url: string;
-  title: string;
   publisher: string;
-  framing: string;
+  angle: string;
 }
 
-export interface LensCard {
-  id: string;
-  label: string;
-  sees: string;
-  fears: string;
-  wouldDo: string;
+export interface HiddenBet {
+  assumption: string;
+  whyItMightBeWrong: string;
+}
+
+export interface WhoPays {
+  who: string;
+  how: string;
+  when: string;
+}
+
+export interface Scenario {
+  name: string;
+  whatHappens: string;
+  signal: string;
+}
+
+export interface Brief {
+  bottomLine: string;
+  hiddenBets: HiddenBet[];
+  realDisagreement: string;
+  whatNoOneIsSaying?: string;
+  whoPays: WhoPays[];
+  scenarios: Scenario[];
+  whatWouldChange: string;
 }
 
 export interface Report {
@@ -27,24 +45,13 @@ export interface Report {
   category: string;
   tags: string[];
   sources: Source[];
-  judgmentMap: {
-    synthesis: string;
-    lensCards: LensCard[];
-    disagreementMatrix: {
-      dimensions: string[];
-      rows: { lens: string; stances: string[] }[];
-    };
-    actorMap: { name: string; leverage: string; stake: string; exposure: string }[];
-    scenarioCards: { name: string; whatHappens: string; trigger: string; watchFor: string }[];
-    hiddenAssumptions: string[];
-    whatThisMisses: string;
-  };
+  brief: Brief;
 }
 
 export interface DayIndex {
   date: string;
   generatedAt: string;
-  reports: { id: string; title: string; subtitle: string; category: string; lenses: string[] }[];
+  reports: { id: string; title: string; subtitle: string; category: string }[];
 }
 
 export function getDays(): string[] {
@@ -85,18 +92,4 @@ export function getAllReports(): { date: string; slug: string }[] {
     }
   }
   return all;
-}
-
-export function getLensColor(lensId: string): string {
-  const colors: Record<string, string> = {
-    kantian: "var(--color-accent-kant)",
-    foucauldian: "var(--color-accent-foucault)",
-    utilitarian: "var(--color-accent-util)",
-    nietzschean: "var(--color-accent-nietzsche)",
-    stoic: "var(--color-accent-stoic)",
-    aristotelian: "var(--color-accent-aristotle)",
-    buddhist: "var(--color-accent-buddhist)",
-    existentialist: "var(--color-accent-existentialist)",
-  };
-  return colors[lensId] || "var(--color-text-muted)";
 }

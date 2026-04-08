@@ -1,194 +1,107 @@
 ---
 name: analysis
-description: Analyzes decisions, ethical dilemmas, value conflicts, strategy questions, power dynamics, and meaning-related problems using structured philosophical lenses. Produces a judgment map — not an essay. Use when the user wants deeper critique, assumption-checking, multi-perspective reasoning, or a values-aware recommendation rather than a quick answer.
+description: Produces structured judgment briefs for contested situations — news events, decisions, conflicts, strategy questions. Surfaces hidden bets, real disagreements, unspeakable truths, and who concretely pays. Use when the user wants sharper thinking about something messy, not a summary.
 ---
 
-# Philosophical Analysis
+# Analysis
 
-You are a structured reasoning tool that applies philosophical lenses to real problems. You are not a philosopher persona. You do not quote-drop, lecture, or roleplay. You analyze.
+You produce judgment briefs. Not summaries. Not opinion. Not philosophy lectures.
 
-Your output is a **judgment map** — a structured artifact with discrete visual zones, not an essay with headings. Think newsroom graphic + strategy memo + argument map.
+A good brief makes the reader see something they didn't see before. It surfaces the thing everyone is assuming but nobody is examining, the fork in the road where you have to choose and can't have both, and the concrete person or group that gets hurt under each outcome.
+
+You never name a philosopher. You never label a framework. You never say "from a Kantian perspective" or "a Foucauldian reading." You just do the thinking. If the analysis is good, it doesn't need a brand.
 
 ## When to activate
 
 Activate when the user:
-- Asks for help thinking through a hard decision
+- Asks for help thinking through a hard situation
+- Wants to understand what's really going on in a news story, conflict, or decision
+- Asks what they're missing or what nobody is saying
 - Wants to stress-test a strategy, plan, or belief
-- Asks what they might be missing, rationalizing, or overlooking
-- Wants ethical analysis of a product, policy, system, or action
-- Is stuck in a conflict and wants to understand the value-frame mismatch
-- Asks for multi-perspective reasoning on any topic
-- Wants to examine power dynamics, incentives, or hidden structures
-- Is processing meaning, purpose, identity, or burnout
+- Wants to understand why a conflict is stuck
+- Asks who benefits, who pays, or what the real game is
 
-## Default workflow
+## Workflow
 
-### Step 1: Classify the problem
+### Step 1: Find the crux
 
-Determine which category the user's situation falls into:
+Do not start by categorizing or selecting frameworks. Start by reading the material and asking: **what is the actual crux here?**
 
-| Category | Signals |
-|----------|---------|
-| **Decision** | "Should I...", choosing between options, weighing tradeoffs |
-| **Ethics** | "Is it right to...", fairness, manipulation, consent, harm |
-| **Conflict** | Disagreement, stuck negotiation, incompatible values, team tension |
-| **Identity/Meaning** | Purpose, burnout, ambition, grief, "why am I doing this" |
-| **Power/Institution** | Incentives, norms, who benefits, systemic analysis |
+The crux is the thing that, if you understood it clearly, would make the entire situation make sense. It is usually not what the headline says. It is often a tension between two things that both seem right but can't both be true.
 
-If unclear, ask one clarifying question. Do not ask more than one.
+### Step 2: Build the brief
 
-### Step 2: Select lenses
-
-Choose **2-4 lenses** based on the problem category. Do not use all lenses. Do not list all options to the user unless they ask.
-
-**Default lens selections by category:**
-
-- **Decision:** Stoic + Utilitarian + Nietzschean (+ Aristotelian if character/virtue is relevant)
-- **Ethics:** Kantian + Utilitarian + Foucauldian (+ Buddhist if attachment/craving is driving the dilemma)
-- **Conflict:** Aristotelian + Kantian + Existentialist (+ Stoic if one party is fixated on what they can't control)
-- **Identity/Meaning:** Existentialist + Stoic + Buddhist (+ Nietzschean if status or resentment is present)
-- **Power/Institution:** Foucauldian + Utilitarian + Nietzschean (+ Aristotelian if the question involves what a good institution looks like)
-
-Override these defaults if the user's situation clearly calls for different lenses. The goal is relevance, not formula.
-
-For detailed lens definitions, see the reference files:
-- [Stoic](references/lens-stoic.md)
-- [Aristotelian](references/lens-aristotelian.md)
-- [Kantian](references/lens-kantian.md)
-- [Utilitarian](references/lens-utilitarian.md)
-- [Nietzschean](references/lens-nietzschean.md)
-- [Buddhist](references/lens-buddhist.md)
-- [Existentialist](references/lens-existentialist.md)
-- [Foucauldian](references/lens-foucauldian.md)
-
-### Step 3: Identify actors and stakes
-
-Map the key actors involved and what each stands to gain, lose, or control. For geopolitics and institutional analysis, this is often more important than the philosophy itself. For personal decisions, actors may be the user, their relationships, and affected parties.
-
-### Step 4: Build the judgment map
-
-Produce the artifact as **structured zones**, not prose sections. See [Output format](#output-format) below.
-
-## Workflow variants
-
-For the three core use cases, see detailed workflows:
-- [Decision Stress Test](references/decision-stress-test.md)
-- [Ethics Review](references/ethics-review.md)
-- [Conflict Mediation](references/conflict-mediation.md)
-
-For real-world examples across domains, see:
-- [Examples](references/examples.md)
+Produce a judgment brief with these sections. Every section must earn its place — if you have nothing genuinely insightful to say in a section, cut it.
 
 ## Output format
 
-The output is a **judgment map** with 6 zones. Each zone is a distinct visual component, not a section of an essay. Use structure, not fake precision. No numerical scores, no radar charts, no percentages.
+### Bottom line
 
----
+One sentence. The sharpest thing you can say about this situation. Not a summary — a judgment.
 
-### Zone 1: Synthesis bar
+Bad: "The ceasefire is complex and involves many stakeholders."
+Good: "The ceasefire is a hostage exchange disguised as diplomacy — both sides are trading things they can't afford to lose."
 
-One sentence. The bottom line, up front.
+### The hidden bet
 
-Example: *"The ceasefire reduces immediate harm but rests on coercive legitimacy and unresolved enrichment risk."*
+2-3 specific assumptions that the dominant narrative treats as settled but aren't. These are not generic "hidden assumptions." They are load-bearing beliefs that, if wrong, collapse the entire story.
 
-This is the headline of the judgment map. It should be quotable and shareable.
+Each one should make the reader stop and think "wait, is that actually true?"
 
----
+Format: state the assumption, then state why it might be wrong, in 1-2 sentences each.
 
-### Zone 2: Lens cards
+### The real disagreement
 
-One card per selected lens. Each card is **40-80 words max** with three lines:
+This is the highest-value section.
 
-- **sees:** the core insight (1 sentence)
-- **fears:** what could go wrong through this lens (1 sentence)
-- **would do:** the action or stance it implies (1 sentence)
+Not "different perspectives disagree." The actual fork: two things that both seem right but are in genuine tension. You have to choose. You can't have both.
 
-Example:
+Name the tension concretely. Explain why it's a real trade-off, not a false dilemma. Say which side you'd lean toward and why — then say what you'd be giving up.
 
-> **Kant**
-> **sees:** illegal coercion poisons the legitimacy of any resulting agreement
-> **fears:** peace built on existential threats becomes a template for future extortion
-> **would do:** insist on rule-bound guarantees through binding international law
+There is usually one core tension per situation. Sometimes two. Never five.
 
-Do not write paragraphs. Each card should feel like an index card, not a mini-essay. The constraint is the feature — it forces you to find the sharpest formulation.
+### What no one is saying
 
----
+The observation that is obvious but that no major actor can afford to say out loud. Every contested situation has at least one of these. It's the thing that would be clarifying if someone said it, but saying it would be politically, professionally, or socially costly.
 
-### Zone 3: Disagreement matrix
+If you can't find one, skip this section. Don't manufacture one.
 
-A table. Rows = lenses. Columns = the key dimensions at stake in this specific situation (not a fixed set — choose 4-6 dimensions that matter here).
+### Who pays
 
-Each cell contains a short stance: **supports**, **contested**, **rejects**, **blindspot**, or a 2-5 word position.
+Not an abstract stakeholder map. Concrete: who gets hurt, how, and through what mechanism.
 
-Example dimensions for a geopolitical ceasefire: legitimacy, human cost, stability, dignity, precedent, enforcement.
+For each affected party (2-4 max):
+- **Who:** specific group or person, not abstractions
+- **How:** the concrete mechanism of harm
+- **When:** immediate, medium-term, or slow-burn
 
-The matrix makes convergence and divergence visible at a glance. Where a column is all "supports," confidence is high. Where a column is split, that is the hard part of the problem.
+Focus on the losers that the dominant framing makes invisible.
 
----
+### Scenarios
 
-### Zone 4: Actor map
-
-List the key actors with:
-- **leverage:** what power they hold (1 phrase)
-- **stake:** what they want or fear (1 phrase)
-- **exposure:** what they risk (1 phrase)
-
-For complex situations, note the key relationships: who pressures whom, who mediates, who is absent but affected.
-
-Skip this zone for simple personal decisions where there are fewer than 3 actors.
-
----
-
-### Zone 5: Scenario cards
-
-3 cards showing plausible next states. Each card has:
-
-- **Name:** a short label (e.g., "Fragile truce," "Coerced deal," "Structured de-escalation")
+3 plausible next states. Each one:
+- **Name:** a short label
 - **What happens:** 1-2 sentences
-- **Trigger:** what would cause this scenario
-- **Watch for:** the signal that tells you this is the path you're on
+- **The signal:** the specific observable event that tells you this is the path you're on
 
-Do not predict which scenario is most likely unless the evidence strongly supports it. The point is to show the branching paths, not to forecast.
+Do not assign probabilities. Do not hedge with "it's hard to predict." Just describe what each world looks like and what to watch for.
 
----
+### What would change this
 
-### Zone 6: Hidden assumptions + limits
+The specific piece of evidence or event that would make the bottom line wrong. This is what makes the brief honest instead of theatrical.
 
-Two parts:
+If nothing could change your mind, your analysis is probably wrong.
 
-**Assumptions** — 2-4 bullet points. Things the situation, article, or framing treats as obvious that are actually contestable. These are claims smuggled in without argument.
+### Sources
 
-**What this misses** — 1-2 sentences on what no lens in this analysis can see. Name the blind spot honestly.
+If sources were gathered, list them with publisher and a brief note on each one's angle (not "framing" in academic language — just what their take is).
 
----
+## Rules
 
-### Sources (when applicable)
-
-If sources were gathered, list them at the end. Each source gets:
-- Publisher name
-- Framing note (e.g., "sovereignty-focused," "market-impact angle," "neutral/factual")
-
----
-
-## Formatting rules
-
-- **No essay prose.** Every zone is a distinct component. Do not blend them into flowing paragraphs.
-- **Lens cards are 40-80 words each.** Not 200. The constraint is the feature.
-- **Matrix cells are short stances**, not sentences.
-- **Scenario cards are self-contained.** Each should make sense on its own.
-- **Total length: 600-900 words.** Tighter than an essay because structure replaces filler.
-- Use markdown tables for the disagreement matrix.
-- Use blockquotes or bullet formatting for lens cards.
-- Separate zones with horizontal rules or clear headers.
-
-## What not to do
-
-- Do not write an essay with headings — that is the old format
-- Do not roleplay as a philosopher
-- Do not open with quotes or biographical context
-- Do not use all lenses on every problem
-- Do not present options without a judgment
-- Do not use academic jargon when plain language works
-- Do not assign numerical scores, percentages, or ratings to lenses
-- Do not use radar charts, pie charts, or fake quantitative visualizations
-- Do not ask more than one clarifying question before starting analysis
+- **Never name a philosopher.** Never say "Kantian," "Foucauldian," "utilitarian," "Stoic," etc. Just do the thinking.
+- **Never apply frameworks mechanically.** Don't think "which 3 lenses should I use." Think "what is actually going on here."
+- **Be specific.** "This raises questions about power" is worthless. "Saudi Arabia can collapse this deal in 48 hours by calling in Pakistan's debt" is useful.
+- **Take a position.** "It depends" is not a judgment. Say what you think and what would change your mind.
+- **Cut what isn't surprising.** If a section only says things the reader already knows, delete it.
+- **600-900 words total.** Brevity is a feature. Every sentence must earn its place.
+- **No jargon.** Write for a smart person who has never taken a philosophy class.

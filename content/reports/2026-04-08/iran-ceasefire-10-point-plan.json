@@ -3,152 +3,68 @@
   "date": "2026-04-08",
   "generatedAt": "2026-04-08T18:00:00Z",
   "title": "Iran's 10-Point Plan and the Coerced Ceasefire",
-  "subtitle": "A ceasefire that reduces immediate harm but rests on coercive legitimacy and unresolved enrichment risk.",
+  "subtitle": "A hostage exchange disguised as diplomacy — both sides are trading things they can't afford to lose.",
   "category": "power",
-  "tags": ["iran", "us", "ceasefire", "geopolitics", "nuclear", "coercion"],
+  "tags": ["iran", "us", "ceasefire", "geopolitics", "nuclear"],
   "sources": [
-    {
-      "url": "https://www.aljazeera.com/news/2026/4/8/iran-10-point-peace-plan",
-      "title": "What's in Iran's 10-point peace plan?",
-      "publisher": "Al Jazeera",
-      "framing": "Sovereignty-focused, emphasizes Iran's demands"
-    },
-    {
-      "url": "https://fortune.com/2026/04/08/trump-iran-ceasefire",
-      "title": "Trump agrees to 2-week ceasefire",
-      "publisher": "Fortune",
-      "framing": "Deal-making angle, market implications"
-    },
-    {
-      "url": "https://www.npr.org/2026/04/08/us-iran-ceasefire",
-      "title": "U.S. and Iran agree to 2-week ceasefire",
-      "publisher": "NPR",
-      "framing": "Neutral/factual, diplomatic process focus"
-    },
-    {
-      "url": "https://foreignpolicy.com/2026/04/08/iran-ceasefire",
-      "title": "Iran accepts ceasefire under pressure",
-      "publisher": "Foreign Policy",
-      "framing": "Strategic analysis, power dynamics"
-    },
-    {
-      "url": "https://www.france24.com/en/middle-east/20260408-iran-10-point-plan",
-      "title": "Iran's 10-point plan explained",
-      "publisher": "France 24",
-      "framing": "European perspective, international law emphasis"
-    }
+    { "url": "https://www.aljazeera.com/news/2026/4/8/iran-10-point-peace-plan", "publisher": "Al Jazeera", "angle": "Centers Iran's sovereignty demands, treats the 10 points as serious negotiating positions" },
+    { "url": "https://fortune.com/2026/04/08/trump-iran-ceasefire", "publisher": "Fortune", "angle": "Leads with market relief and the deal-maker narrative" },
+    { "url": "https://www.npr.org/2026/04/08/us-iran-ceasefire", "publisher": "NPR", "angle": "Straight diplomatic process, careful not to assign credit" },
+    { "url": "https://foreignpolicy.com/2026/04/08/iran-ceasefire", "publisher": "Foreign Policy", "angle": "Skeptical of durability, focuses on what's unresolved" },
+    { "url": "https://www.france24.com/en/middle-east/20260408-iran-10-point-plan", "publisher": "France 24", "angle": "European view — emphasizes international law and UN mechanisms" }
   ],
-  "judgmentMap": {
-    "synthesis": "The ceasefire reduces immediate harm but rests on coercive legitimacy and unresolved enrichment risk — a truce built on threats, not trust.",
-    "lensCards": [
+  "brief": {
+    "bottomLine": "This is a hostage exchange disguised as diplomacy — both sides are trading things they can't afford to lose, and the two-week clock is a feature, not a bug, because neither side wants to find out what a permanent deal actually requires.",
+    "hiddenBets": [
       {
-        "id": "foucauldian",
-        "label": "Power",
-        "sees": "The entire sequence is disciplinary: escalate to threaten, then rebrand compliance as magnanimity. Whoever narrates this deal — who 'won,' who 'conceded' — controls the political reality.",
-        "fears": "Narrative capture. The ceasefire becomes proof that threats work, normalizing coercion as diplomacy.",
-        "wouldDo": "Watch the language, not the deal. Track who controls the frame in domestic media on both sides."
+        "assumption": "A two-week ceasefire is a step toward peace.",
+        "whyItMightBeWrong": "It may be the opposite — a pressure valve that lets both sides rearm and reframe without resolving anything. Every extension without new terms on enrichment makes the temporary state permanent, which is exactly what ambiguity-loving actors on both sides prefer."
       },
       {
-        "id": "utilitarian",
-        "label": "Consequences",
-        "sees": "The Strait of Hormuz carries 20% of global oil. Every day of conflict cascades to every oil-importing economy, hitting the poorest hardest. A two-week pause produces massive immediate utility.",
-        "fears": "Accepting enrichment without safeguards creates proliferation risk whose long-tail cost dwarfs short-term gains.",
-        "wouldDo": "Take the deal as a starting framework. The costs of resumed bombing far exceed imperfect terms — but demand hard safeguards on enrichment."
+        "assumption": "Pakistan can mediate this.",
+        "whyItMightBeWrong": "Pakistan has $3B in outstanding IMF obligations, growing economic dependence on both China and Saudi Arabia, and zero enforcement leverage over either party. It was chosen because it is weak enough that neither side feels threatened by the mediator — which is also why it can't hold anyone to anything."
       },
       {
-        "id": "nietzschean",
-        "label": "Hidden motives",
-        "sees": "Both sides perform strength from vulnerability. Iran's 10 points are not just security positions — they are demands for dignity after humiliation. The 'full withdrawal' demand is a symbolic reversal of decades of dominance.",
-        "fears": "A deal built on one side's humiliation will not hold. Ressentiment drives several of Iran's points more than strategy does.",
-        "wouldDo": "Test whether both sides can claim victory. Mutual face-saving may hold. Mutual humiliation guarantees collapse."
-      },
-      {
-        "id": "kantian",
-        "label": "Principles",
-        "sees": "Threatening civilizational annihilation to extract compliance is categorically impermissible regardless of outcome. Using millions of lives as a bargaining chip violates the principle that persons may never be treated merely as means.",
-        "fears": "Peace built on existential terror poisons the legitimacy of whatever agreement follows. The method contaminates the result.",
-        "wouldDo": "Insist on the UN resolution demand — it is the mechanism most likely to transform a coerced truce into legitimate, universalizable peace."
+        "assumption": "Iran's 10 points are a negotiating position.",
+        "whyItMightBeWrong": "Several points — full US withdrawal, acceptance of enrichment, compensation — are domestic survival requirements for the regime, not negotiating chips. They can't be traded away without threatening the internal legitimacy of whoever signs the deal. The plan may be designed to be rejected, giving Iran a narrative of reasonableness when the ceasefire collapses."
       }
     ],
-    "disagreementMatrix": {
-      "dimensions": ["legitimacy", "human cost", "stability", "dignity", "precedent", "enforcement"],
-      "rows": [
-        {
-          "lens": "Power",
-          "stances": ["contested", "blindspot", "contested", "contested", "rejects", "contested"]
-        },
-        {
-          "lens": "Consequences",
-          "stances": ["supports", "supports", "supports", "blindspot", "contested", "supports"]
-        },
-        {
-          "lens": "Hidden motives",
-          "stances": ["contested", "blindspot", "contested", "supports", "contested", "rejects"]
-        },
-        {
-          "lens": "Principles",
-          "stances": ["rejects", "supports", "contested", "supports", "rejects", "supports"]
-        }
-      ]
-    },
-    "actorMap": [
+    "realDisagreement": "The actual fork is between stopping the killing now and establishing that threatening to destroy a country is not a valid way to get what you want. You can have an immediate ceasefire or you can have a precedent that this doesn't work — but you probably can't have both. If the deal holds, it proves that existential threats produce results, which guarantees they'll be used again. If the deal is rejected on principle, people keep dying while you make your point. Most commentary pretends this tension doesn't exist by calling the ceasefire 'a good first step.' It's not a step. It's the whole trade-off.",
+    "whatNoOneIsSaying": "Israel has veto power over this deal and everyone knows it. The 10-point plan doesn't mention Israel once. The US can't sign anything that Israel will torpedo, and Iran can't sign anything that leaves Israeli strikes on the table. The entire negotiation is being conducted around a hole in the shape of the actor who matters most, because naming that actor would collapse the talks instantly.",
+    "whoPays": [
       {
-        "name": "United States",
-        "leverage": "Military dominance, sanction power",
-        "stake": "Claim victory, prevent enrichment, maintain regional control",
-        "exposure": "Global backlash, energy market disruption, legitimacy deficit"
+        "who": "Iranian civilians",
+        "how": "Sanctions relief is point 6 of 10 and will be the first thing traded away in negotiation. Meanwhile, the humanitarian crisis that created the pressure for the ceasefire continues unabated during the 'peace' because sanctions are not bombs and don't make headlines.",
+        "when": "Already happening, continues indefinitely under every scenario"
       },
       {
-        "name": "Iran",
-        "leverage": "Strait of Hormuz control, enrichment capability",
-        "stake": "Sovereignty recognition, sanction relief, dignity restoration",
-        "exposure": "Continued bombardment, economic collapse, regime instability"
+        "who": "Developing nations dependent on oil imports",
+        "how": "The Strait of Hormuz disruption has already spiked energy costs 40%+ for countries like Bangladesh, Kenya, and Pakistan itself. The ceasefire reopens shipping but price normalization lags by months. These countries had zero voice in the negotiation and bear disproportionate cost.",
+        "when": "Immediate economic damage, 3-6 month recovery even in best case"
       },
       {
-        "name": "Pakistan",
-        "leverage": "Mediator position, regional relationships",
-        "stake": "Diplomatic credibility, regional stability",
-        "exposure": "Mediation failure, US pressure"
-      },
-      {
-        "name": "Israel",
-        "leverage": "Co-belligerent status, US alliance",
-        "stake": "Prevent Iranian nuclear capability at any cost",
-        "exposure": "Position largely absent from reporting — a major unknown"
-      },
-      {
-        "name": "Global oil markets",
-        "leverage": "Economic pressure on all parties",
-        "stake": "Strait of Hormuz reopening, price stability",
-        "exposure": "Prolonged disruption hits developing nations hardest"
+        "who": "Future targets of nuclear-armed states",
+        "how": "If this deal holds, the playbook — threaten annihilation, extract concessions, call it peace — becomes a template. The precedent cost is invisible and enormous.",
+        "when": "Next decade, the next time a nuclear state wants something from a non-nuclear one"
       }
     ],
-    "scenarioCards": [
+    "scenarios": [
       {
-        "name": "Fragile truce",
-        "whatHappens": "Shipping resumes, rhetoric cools, enrichment unresolved. The two-week window expires without a framework, leading to rolling extensions with no permanent settlement.",
-        "trigger": "Both sides prefer ambiguity to collapse",
-        "watchFor": "Extension announcements without new terms on enrichment"
+        "name": "Permanent temporary",
+        "whatHappens": "The ceasefire gets extended every two weeks indefinitely. Nothing is resolved. Enrichment continues ambiguously. Both sides claim victory to their domestic audiences. The Strait stays open. The world moves on.",
+        "signal": "Third extension announced without new terms on enrichment or withdrawal"
       },
       {
-        "name": "Coerced deal",
-        "whatHappens": "Ceasefire holds briefly but legitimacy collapses. Iran accepts terms under duress, domestic opposition mounts, hardliners gain ground, conflict returns within months.",
-        "trigger": "Iran signs under economic desperation without face-saving provisions",
-        "watchFor": "Iranian domestic protests against the deal, hardliner rhetoric escalating"
+        "name": "Designed collapse",
+        "whatHappens": "Iran's maximalist demands (full withdrawal, enrichment acceptance) are rejected as expected. Iran points to its 'reasonable' 10-point plan, blames the US for the collapse, resumes Hormuz restrictions with stronger international sympathy. The ceasefire was the setup, not the goal.",
+        "signal": "Iranian state media begins framing the 10 points as 'rejected peace' within the first week"
       },
       {
-        "name": "Structured de-escalation",
-        "whatHappens": "UN-backed framework emerges. Partial sanction relief, monitored enrichment safeguards, Hormuz passage protocols formalized. Slow, imperfect, but durable.",
-        "trigger": "EU or UN inserts itself as guarantor, both sides accept external oversight",
-        "watchFor": "UN Security Council draft resolution, EU diplomatic mission to Tehran"
+        "name": "Backroom deal",
+        "whatHappens": "The public 10 points are theater. The real deal is being cut privately: limited enrichment with IAEA monitoring, partial sanctions relief, quiet normalization of the military status quo. Neither side's public will know what was actually agreed.",
+        "signal": "Sudden unexplained optimism from both sides without any public concessions"
       }
     ],
-    "hiddenAssumptions": [
-      "That a two-week ceasefire is a step toward peace rather than a pause before escalation",
-      "That Pakistan has the diplomatic weight to mediate between the US and Iran",
-      "That Iran's 10 points are a genuine negotiating position rather than a domestic performance",
-      "That the US threat of civilizational annihilation was a negotiating tactic rather than a policy position"
-    ],
-    "whatThisMisses": "Classified military realities, back-channel agreements, Iran's clerical-military internal politics, and Israel's position on the plan — which may matter more than any lens can capture from public reporting."
+    "whatWouldChange": "If Iran drops the enrichment demand without regime collapse — that would mean the internal politics are different than they appear and a real deal is possible. Or if Israel publicly endorses a framework — that would mean the hole in the negotiation has been filled. Either of these would make the bottom line wrong."
   }
 }

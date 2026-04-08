@@ -5,16 +5,14 @@
     {
       "id": "iran-ceasefire-10-point-plan",
       "title": "Iran's 10-Point Plan and the Coerced Ceasefire",
-      "subtitle": "A ceasefire that reduces immediate harm but rests on coercive legitimacy and unresolved enrichment risk.",
-      "category": "power",
-      "lenses": ["foucauldian", "utilitarian", "nietzschean", "kantian"]
+      "subtitle": "A hostage exchange disguised as diplomacy — both sides are trading things they can't afford to lose.",
+      "category": "power"
     },
     {
       "id": "spain-sanchez-rebuke",
-      "title": "Sánchez's 'Bucket' Rebuke and the Cost of NATO Dissent",
-      "subtitle": "Spain's PM refuses to credit Trump for a ceasefire he says Trump caused — testing what alliance solidarity actually requires.",
-      "category": "conflict",
-      "lenses": ["foucauldian", "kantian", "nietzschean", "aristotelian"]
+      "title": "Sánchez's Bucket and What It Costs to Say No Inside NATO",
+      "subtitle": "Spain's PM said the obvious thing — you don't get credit for putting out a fire you started. The interesting question is why he's the only one.",
+      "category": "conflict"
     }
   ]
 }

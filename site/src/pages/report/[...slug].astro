@@ -1,6 +1,6 @@
 ---
 import Base from "../../layouts/Base.astro";
-import { getAllReports, getReport, getLensColor } from "../../lib/reports";
+import { getAllReports, getReport } from "../../lib/reports";
 
 export function getStaticPaths() {
   const all = getAllReports();
@@ -14,153 +14,102 @@ const { date, slug } = Astro.props;
 const report = getReport(date, slug);
 if (!report) return Astro.redirect("/");
 
-const { judgmentMap: jm } = report;
-
-function stanceClass(stance: string): string {
-  const map: Record<string, string> = {
-    supports: "text-[var(--color-stance-supports)]",
-    contested: "text-[var(--color-stance-contested)]",
-    rejects: "text-[var(--color-stance-rejects)]",
-    blindspot: "text-[var(--color-stance-blindspot)] italic",
-  };
-  return map[stance] || "text-[var(--color-text-muted)]";
-}
+const { brief } = report;
 ---
 
 <Base title={report.title} description={report.subtitle}>
-  <article>
-    <!-- Zone 1: Synthesis bar -->
-    <div class="mb-3 flex items-center gap-2">
+  <article class="mx-auto max-w-2xl">
+
+    <!-- Header -->
+    <div class="mb-2 flex items-center gap-3">
       <span class="rounded bg-[var(--color-surface-overlay)] px-2 py-0.5 text-xs uppercase tracking-wider text-[var(--color-text-muted)]">
         {report.category}
       </span>
       <span class="text-xs text-[var(--color-text-dim)]">{report.date}</span>
     </div>
-    <h1 class="font-serif text-3xl font-bold leading-tight md:text-4xl">{report.title}</h1>
-    <p class="mt-4 rounded-lg border border-[var(--color-border)] bg-[var(--color-surface-raised)] p-4 text-lg leading-relaxed text-[var(--color-text-muted)]">
-      {jm.synthesis}
+    <h1 class="font-serif text-3xl font-bold leading-tight">{report.title}</h1>
+
+    <!-- Bottom line -->
+    <p class="mt-6 border-l-2 border-[var(--color-text-dim)] pl-4 text-lg leading-relaxed text-[var(--color-text-muted)]">
+      {brief.bottomLine}
     </p>
 
-    <!-- Zone 2: Lens cards -->
+    <!-- Hidden bets -->
     <section class="mt-10">
-      <h2 class="mb-4 text-xs font-semibold uppercase tracking-wider text-[var(--color-text-dim)]">Lens Cards</h2>
-      <div class="grid gap-4 md:grid-cols-2">
-        {jm.lensCards.map((card) => (
-          <div
-            class="rounded-lg border border-[var(--color-border)] bg-[var(--color-surface-raised)] p-5"
-            style={`border-left: 3px solid ${getLensColor(card.id)}`}
-          >
-            <h3 class="mb-3 text-sm font-bold" style={`color: ${getLensColor(card.id)}`}>
-              {card.label}
-            </h3>
-            <div class="space-y-2 text-sm leading-relaxed">
-              <p><span class="text-[var(--color-text-dim)]">sees:</span> {card.sees}</p>
-              <p><span class="text-[var(--color-text-dim)]">fears:</span> {card.fears}</p>
-              <p><span class="text-[var(--color-text-dim)]">would do:</span> {card.wouldDo}</p>
-            </div>
+      <h2 class="mb-4 text-xs font-semibold uppercase tracking-widest text-[var(--color-text-dim)]">The Hidden Bet</h2>
+      <div class="space-y-5">
+        {brief.hiddenBets.map((bet) => (
+          <div>
+            <p class="font-medium">{bet.assumption}</p>
+            <p class="mt-1 text-sm leading-relaxed text-[var(--color-text-muted)]">{bet.whyItMightBeWrong}</p>
           </div>
         ))}
       </div>
     </section>
 
-    <!-- Zone 3: Disagreement matrix -->
+    <!-- Real disagreement -->
     <section class="mt-10">
-      <h2 class="mb-4 text-xs font-semibold uppercase tracking-wider text-[var(--color-text-dim)]">Disagreement Matrix</h2>
-      <div class="overflow-x-auto rounded-lg border border-[var(--color-border)]">
-        <table class="w-full text-sm">
-          <thead>
-            <tr class="border-b border-[var(--color-border)] bg-[var(--color-surface-raised)]">
-              <th class="px-4 py-3 text-left text-xs font-semibold uppercase tracking-wider text-[var(--color-text-dim)]">Lens</th>
-              {jm.disagreementMatrix.dimensions.map((d) => (
-                <th class="px-4 py-3 text-center text-xs font-semibold uppercase tracking-wider text-[var(--color-text-dim)]">{d}</th>
-              ))}
-            </tr>
-          </thead>
-          <tbody>
-            {jm.disagreementMatrix.rows.map((row) => (
-              <tr class="border-b border-[var(--color-border-subtle)]">
-                <td class="px-4 py-3 font-medium">{row.lens}</td>
-                {row.stances.map((s) => (
-                  <td class:list={["px-4 py-3 text-center text-xs font-medium", stanceClass(s)]}>
-                    {s}
-                  </td>
-                ))}
-              </tr>
-            ))}
-          </tbody>
-        </table>
-      </div>
+      <h2 class="mb-4 text-xs font-semibold uppercase tracking-widest text-[var(--color-text-dim)]">The Real Disagreement</h2>
+      <p class="leading-relaxed">{brief.realDisagreement}</p>
     </section>
 
-    <!-- Zone 4: Actor map -->
+    <!-- What no one is saying -->
+    {brief.whatNoOneIsSaying && (
+      <section class="mt-10">
+        <h2 class="mb-4 text-xs font-semibold uppercase tracking-widest text-[var(--color-text-dim)]">What No One Is Saying</h2>
+        <p class="leading-relaxed">{brief.whatNoOneIsSaying}</p>
+      </section>
+    )}
+
+    <!-- Who pays -->
     <section class="mt-10">
-      <h2 class="mb-4 text-xs font-semibold uppercase tracking-wider text-[var(--color-text-dim)]">Actor Map</h2>
-      <div class="grid gap-3 md:grid-cols-2 lg:grid-cols-3">
-        {jm.actorMap.map((actor) => (
+      <h2 class="mb-4 text-xs font-semibold uppercase tracking-widest text-[var(--color-text-dim)]">Who Pays</h2>
+      <div class="space-y-4">
+        {brief.whoPays.map((p) => (
           <div class="rounded-lg border border-[var(--color-border)] bg-[var(--color-surface-raised)] p-4">
-            <h3 class="mb-2 text-sm font-bold">{actor.name}</h3>
-            <div class="space-y-1 text-xs leading-relaxed text-[var(--color-text-muted)]">
-              <p><span class="text-[var(--color-text-dim)]">leverage:</span> {actor.leverage}</p>
-              <p><span class="text-[var(--color-text-dim)]">stake:</span> {actor.stake}</p>
-              <p><span class="text-[var(--color-text-dim)]">exposure:</span> {actor.exposure}</p>
-            </div>
+            <p class="text-sm font-bold">{p.who}</p>
+            <p class="mt-1 text-sm leading-relaxed text-[var(--color-text-muted)]">{p.how}</p>
+            <p class="mt-1 text-xs text-[var(--color-text-dim)]">{p.when}</p>
           </div>
         ))}
       </div>
     </section>
 
-    <!-- Zone 5: Scenario cards -->
+    <!-- Scenarios -->
     <section class="mt-10">
-      <h2 class="mb-4 text-xs font-semibold uppercase tracking-wider text-[var(--color-text-dim)]">Scenarios</h2>
-      <div class="grid gap-4 md:grid-cols-3">
-        {jm.scenarioCards.map((sc) => (
-          <div class="rounded-lg border border-[var(--color-border)] bg-[var(--color-surface-raised)] p-5">
-            <h3 class="mb-3 text-sm font-bold">{sc.name}</h3>
-            <p class="mb-3 text-sm leading-relaxed text-[var(--color-text-muted)]">{sc.whatHappens}</p>
-            <div class="space-y-1 text-xs text-[var(--color-text-dim)]">
-              <p><span class="font-semibold">trigger:</span> {sc.trigger}</p>
-              <p><span class="font-semibold">watch for:</span> {sc.watchFor}</p>
-            </div>
+      <h2 class="mb-4 text-xs font-semibold uppercase tracking-widest text-[var(--color-text-dim)]">Scenarios</h2>
+      <div class="space-y-4">
+        {brief.scenarios.map((sc) => (
+          <div class="rounded-lg border border-[var(--color-border)] bg-[var(--color-surface-raised)] p-4">
+            <p class="text-sm font-bold">{sc.name}</p>
+            <p class="mt-1 text-sm leading-relaxed text-[var(--color-text-muted)]">{sc.whatHappens}</p>
+            <p class="mt-2 text-xs text-[var(--color-text-dim)]"><span class="font-semibold">Signal:</span> {sc.signal}</p>
           </div>
         ))}
       </div>
     </section>
 
-    <!-- Zone 6: Hidden assumptions + limits -->
+    <!-- What would change this -->
     <section class="mt-10">
-      <h2 class="mb-4 text-xs font-semibold uppercase tracking-wider text-[var(--color-text-dim)]">Hidden Assumptions</h2>
-      <ul class="mb-6 space-y-2">
-        {jm.hiddenAssumptions.map((a) => (
-          <li class="flex gap-2 text-sm leading-relaxed text-[var(--color-text-muted)]">
-            <span class="mt-1 text-[var(--color-stance-contested)]">&bull;</span>
-            {a}
-          </li>
-        ))}
-      </ul>
-      <div class="rounded-lg border border-[var(--color-border)] bg-[var(--color-surface-raised)] p-4">
-        <p class="text-xs font-semibold uppercase tracking-wider text-[var(--color-text-dim)]">What this misses</p>
-        <p class="mt-2 text-sm leading-relaxed text-[var(--color-text-muted)]">{jm.whatThisMisses}</p>
-      </div>
+      <h2 class="mb-4 text-xs font-semibold uppercase tracking-widest text-[var(--color-text-dim)]">What Would Change This</h2>
+      <p class="leading-relaxed">{brief.whatWouldChange}</p>
     </section>
 
     <!-- Sources -->
     <section class="mt-10 border-t border-[var(--color-border)] pt-6">
-      <h2 class="mb-4 text-xs font-semibold uppercase tracking-wider text-[var(--color-text-dim)]">Sources</h2>
-      <div class="space-y-2">
+      <h2 class="mb-3 text-xs font-semibold uppercase tracking-widest text-[var(--color-text-dim)]">Sources</h2>
+      <div class="space-y-1">
         {report.sources.map((s) => (
           <div class="flex items-baseline gap-2 text-sm">
-            <a href={s.url} target="_blank" rel="noopener" class="font-medium text-[var(--color-text)] hover:underline">
-              {s.publisher}
-            </a>
-            <span class="text-xs text-[var(--color-text-dim)]">— {s.framing}</span>
+            <a href={s.url} target="_blank" rel="noopener" class="font-medium hover:underline">{s.publisher}</a>
+            <span class="text-xs text-[var(--color-text-dim)]">— {s.angle}</span>
           </div>
         ))}
       </div>
     </section>
 
-    <!-- Back -->
     <div class="mt-10">
-      <a href="/" class="text-sm text-[var(--color-text-muted)] hover:text-[var(--color-text)]">&larr; Back to today</a>
+      <a href="/" class="text-sm text-[var(--color-text-muted)] hover:text-[var(--color-text)]">&larr; Back</a>
     </div>
   </article>
 </Base>
