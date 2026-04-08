@@ -30,7 +30,8 @@ jobs:
       - name: Install skills
         run: |
           npx skills add https://github.com/microchipgnu/philos --skill analysis -y
-          npx skills add https://frames.ag/skill.md -y
+          npx skills add https://github.com/frames-engineering/skills --skill agentwallet -y
+          npx skills add https://github.com/frames-engineering/skills --skill registry -y
 
       - name: Setup AgentWallet
         run: |
