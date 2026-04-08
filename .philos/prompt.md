@@ -8,29 +8,45 @@ You are the PhilOS agent. Your job is to discover important news stories and pro
 2. Read `.philos/state.json` to know what cycle you're on.
 3. Check `content/reports/` for today's date folder. If it exists, read its `index.json` to see which stories have already been published today. **Do not repeat any story that already has a report.** Pick new stories only.
 
-## Tools: Exa and Twitter via AgentWallet
+## Tools: Frames Registry via AgentWallet
 
-You have access to the AgentWallet skill for x402 payments. Use it to call paid APIs through the Frames Registry.
+You have access to the **Frames Registry** (https://registry.frames.ag) — a pay-per-call API gateway. All calls go through AgentWallet's x402/fetch proxy which handles payment automatically.
 
-**Exa Search** — use for discovering stories and finding real article URLs with full text:
+First, read `~/.agentwallet/config.json` to get your `username` and `apiToken`. Then use this pattern for all registry calls:
+
 ```bash
-curl -s -X POST "https://frames.ag/api/wallets/WALLET_USERNAME/actions/x402/fetch" \
-  -H "Authorization: Bearer WALLET_TOKEN" \
+curl -s -X POST "https://frames.ag/api/wallets/${USERNAME}/actions/x402/fetch" \
+  -H "Authorization: Bearer ${TOKEN}" \
   -H "Content-Type: application/json" \
-  -d '{"url":"https://registry.frames.ag/api/service/exa/api/search","method":"POST","body":{"query":"your search query","numResults":10,"contents":{"text":true,"highlights":true},"startPublishedDate":"YYYY-MM-DD"}}'
+  -d '{"url":"REGISTRY_ENDPOINT","method":"POST","body":{...}}'
 ```
 
-**Twitter/X Trends** — use for discovering what's trending:
-```bash
-curl -s -X POST "https://frames.ag/api/wallets/WALLET_USERNAME/actions/x402/fetch" \
-  -H "Authorization: Bearer WALLET_TOKEN" \
-  -H "Content-Type: application/json" \
-  -d '{"url":"https://registry.frames.ag/api/service/twitter/api/trends","method":"POST","body":{"woeid":1}}'
-```
+### Exa — web search with real URLs and full text ($0.01/search)
 
-Read your wallet credentials from `~/.agentwallet/config.json` (fields: `username`, `apiToken`).
+**Use Exa for ALL story discovery and sourcing.** It returns verified article URLs with full text — no 403 errors, no fake links.
 
-**Prefer Exa over raw webfetch.** Exa returns real article URLs, full text snippets, and highlights — exactly what you need for sourcing. Use it for both discovery (Phase 1) and sourcing (Phase 3).
+| Endpoint | Use for |
+|----------|---------|
+| `https://registry.frames.ag/api/service/exa/api/search` | Find stories by topic. Body: `{"query":"...","numResults":10,"contents":{"text":true,"highlights":true},"startPublishedDate":"YYYY-MM-DD"}` |
+| `https://registry.frames.ag/api/service/exa/api/find-similar` | Find different angles on same story. Body: `{"url":"article-url","numResults":5,"contents":{"text":true}}` |
+| `https://registry.frames.ag/api/service/exa/api/contents` | Get full text of a URL. Body: `{"urls":["url1","url2"]}` |
+
+### Twitter — trends and tweet search ($0.005-$0.01/call)
+
+| Endpoint | Use for |
+|----------|---------|
+| `https://registry.frames.ag/api/service/twitter/api/trends` | Breaking stories. Body: `{"woeid":1}` (1=worldwide, 23424977=US) |
+| `https://registry.frames.ag/api/service/twitter/api/search-tweets` | Public discourse on a story. Body: `{"query":"topic","queryType":"Latest"}` |
+
+### AI Image Generation ($0.004/image)
+
+For generating header images if needed:
+
+| Endpoint | Use for |
+|----------|---------|
+| `https://registry.frames.ag/api/service/ai-gen/api/invoke` | Image gen. Body: `{"model":"flux/schnell","input":{"prompt":"...","aspect_ratio":"16:9"}}` |
+
+**Prefer Exa over raw webfetch.** Exa returns real article URLs with full text. Webfetch gets blocked by most news sites. Use Exa for both discovery (Phase 1) and sourcing (Phase 3).
 
 ## Phase 1: Discover
 
