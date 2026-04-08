@@ -18,23 +18,25 @@ const { title, description = "Structured judgment for things that are hard to th
     <title>{title} — PhilOS</title>
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter:wght@400;500;600&display=swap" rel="stylesheet" />
   </head>
   <body class="min-h-screen">
-    <header class="border-b border-[var(--color-border)] px-6 py-4">
-      <nav class="mx-auto flex max-w-5xl items-center justify-between">
-        <a href="/" class="text-xl font-bold tracking-tight">PhilOS</a>
-        <div class="flex gap-6 text-sm text-[var(--color-text-muted)]">
+    <header class="border-b border-[var(--color-border)] px-6 py-5">
+      <nav class="mx-auto flex max-w-3xl items-center justify-between">
+        <a href="/" class="font-serif text-2xl italic text-[var(--color-text)]">PhilOS</a>
+        <div class="flex gap-6 text-[13px] font-medium uppercase tracking-wider text-[var(--color-text-tertiary)]">
           <a href="/" class="hover:text-[var(--color-text)]">Today</a>
           <a href="/archive" class="hover:text-[var(--color-text)]">Archive</a>
         </div>
       </nav>
     </header>
-    <main class="mx-auto max-w-5xl px-6 py-8">
+    <main class="mx-auto max-w-3xl px-6">
       <slot />
     </main>
-    <footer class="border-t border-[var(--color-border)] px-6 py-6 text-center text-xs text-[var(--color-text-dim)]">
-      PhilOS — structured judgment for things that are hard to think about
+    <footer class="mt-20 border-t border-[var(--color-border)] px-6 py-8">
+      <div class="mx-auto max-w-3xl text-[12px] text-[var(--color-text-tertiary)]">
+        PhilOS — structured judgment for things that are hard to think about
+      </div>
     </footer>
   </body>
 </html>

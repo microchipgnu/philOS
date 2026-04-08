@@ -7,31 +7,35 @@ const day = getLatestDay();
 
 <Base title="Today">
   {!day ? (
-    <p class="text-[var(--color-text-muted)]">No reports yet.</p>
+    <p class="py-20 text-[var(--color-text-tertiary)]">No reports yet.</p>
   ) : (
-    <div>
-      <p class="mb-8 text-sm text-[var(--color-text-muted)]">{day.date}</p>
-      <div class="grid gap-6">
-        {day.reports.map((r, i) => (
-          <a
-            href={`/report/${day.date}/${r.id}`}
-            class="group block rounded-lg border border-[var(--color-border)] bg-[var(--color-surface-raised)] p-6 transition hover:border-[var(--color-text-dim)]"
-          >
-            <span class="mb-2 inline-block rounded bg-[var(--color-surface-overlay)] px-2 py-0.5 text-xs uppercase tracking-wider text-[var(--color-text-muted)]">
+    <div class="py-10">
+      <div class="mb-10 flex items-baseline justify-between">
+        <h1 class="font-serif text-4xl italic">{day.date}</h1>
+        <span class="text-[13px] text-[var(--color-text-tertiary)]">{day.reports.length} briefs</span>
+      </div>
+
+      {day.reports.map((r, i) => (
+        <a
+          href={`/report/${day.date}/${r.id}`}
+          class:list={[
+            "group block border-b border-[var(--color-border)] py-7 transition-colors hover:bg-[var(--color-surface-warm)]",
+            i === 0 && "border-t",
+          ]}
+        >
+          <div class="flex items-baseline gap-3">
+            <span class="text-[11px] font-semibold uppercase tracking-widest text-[var(--color-accent)]">
               {r.category}
             </span>
-            <h2 class:list={[
-              "font-serif font-bold leading-tight group-hover:text-white",
-              i === 0 ? "text-2xl" : "text-xl",
-            ]}>
-              {r.title}
-            </h2>
-            <p class="mt-2 text-sm text-[var(--color-text-muted)] leading-relaxed">
-              {r.subtitle}
-            </p>
-          </a>
-        ))}
-      </div>
+          </div>
+          <h2 class="mt-2 font-serif text-[28px] leading-tight group-hover:text-[var(--color-accent)]">
+            {r.title}
+          </h2>
+          <p class="mt-2 text-[15px] leading-relaxed text-[var(--color-text-secondary)]">
+            {r.subtitle}
+          </p>
+        </a>
+      ))}
     </div>
   )}
 </Base>

@@ -1,34 +1,30 @@
 @import "tailwindcss";
 
 @theme {
-  --font-serif: "Georgia", "Times New Roman", serif;
+  --font-serif: "Instrument Serif", "Georgia", serif;
   --font-sans: "Inter", system-ui, sans-serif;
+  --font-mono: "JetBrains Mono", monospace;
 
-  --color-surface: #0a0a0a;
-  --color-surface-raised: #141414;
-  --color-surface-overlay: #1e1e1e;
-  --color-border: #2a2a2a;
-  --color-text: #e5e5e5;
-  --color-text-muted: #888888;
-  --color-text-dim: #555555;
-
-  --color-accent-kant: #d4a843;
-  --color-accent-foucault: #9b72cf;
-  --color-accent-util: #4caf7a;
-  --color-accent-nietzsche: #cf4f4f;
-  --color-accent-stoic: #5b8db8;
-  --color-accent-aristotle: #b8845b;
-  --color-accent-buddhist: #d4a843;
-  --color-accent-existentialist: #8a8a8a;
-
-  --color-stance-supports: #4caf7a;
-  --color-stance-contested: #d4a843;
-  --color-stance-rejects: #cf4f4f;
-  --color-stance-blindspot: #555555;
+  --color-surface: #fafaf8;
+  --color-surface-warm: #f3f1ec;
+  --color-surface-inset: #eae7e0;
+  --color-surface-dark: #1a1a18;
+  --color-border: #d8d4cc;
+  --color-border-strong: #b8b4ac;
+  --color-text: #1a1a18;
+  --color-text-secondary: #4a4a44;
+  --color-text-tertiary: #8a8a82;
+  --color-accent: #c43d2e;
+  --color-accent-muted: #d4694020;
 }
 
 body {
   font-family: var(--font-sans);
   background: var(--color-surface);
   color: var(--color-text);
+  -webkit-font-smoothing: antialiased;
+}
+
+::selection {
+  background: var(--color-accent-muted);
 }
