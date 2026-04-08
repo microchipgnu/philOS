@@ -50,79 +50,43 @@ export const GET: APIRoute = async ({ props }) => {
           height: "100%",
           display: "flex",
           flexDirection: "column",
-          justifyContent: "space-between",
-          padding: "60px",
-          background: "#fafaf8",
+          justifyContent: "center",
+          padding: "70px 80px",
+          background: "linear-gradient(135deg, #1a1a18 0%, #2a2826 100%)",
           fontFamily: "Inter",
         },
         children: [
           {
             type: "div",
             props: {
-              style: { display: "flex", flexDirection: "column" },
+              style: {
+                display: "flex",
+                alignItems: "center",
+                gap: "16px",
+                marginBottom: "32px",
+              },
               children: [
                 {
-                  type: "div",
+                  type: "span",
                   props: {
                     style: {
-                      display: "flex",
-                      alignItems: "center",
-                      gap: "12px",
-                      marginBottom: "24px",
+                      fontSize: "18px",
+                      fontWeight: 600,
+                      textTransform: "uppercase",
+                      letterSpacing: "0.12em",
+                      color: "#c43d2e",
                     },
-                    children: [
-                      {
-                        type: "span",
-                        props: {
-                          style: {
-                            fontSize: "14px",
-                            fontWeight: 600,
-                            textTransform: "uppercase",
-                            letterSpacing: "0.1em",
-                            color: "#c43d2e",
-                          },
-                          children: report.category,
-                        },
-                      },
-                      {
-                        type: "span",
-                        props: {
-                          style: {
-                            fontSize: "14px",
-                            color: "#8a8a82",
-                          },
-                          children: report.date,
-                        },
-                      },
-                    ],
+                    children: report.category,
                   },
                 },
                 {
-                  type: "div",
+                  type: "span",
                   props: {
                     style: {
-                      fontSize: "48px",
-                      fontFamily: "Instrument Serif",
-                      lineHeight: 1.1,
-                      color: "#1a1a18",
+                      fontSize: "18px",
+                      color: "#666660",
                     },
-                    children: title,
-                  },
-                },
-                {
-                  type: "div",
-                  props: {
-                    style: {
-                      marginTop: "24px",
-                      borderLeft: "3px solid #8a8a82",
-                      paddingLeft: "20px",
-                      fontSize: "22px",
-                      fontFamily: "Instrument Serif",
-                      fontStyle: "italic",
-                      lineHeight: 1.4,
-                      color: "#4a4a44",
-                    },
-                    children: bottomLine,
+                    children: report.date,
                   },
                 },
               ],
@@ -132,19 +96,49 @@ export const GET: APIRoute = async ({ props }) => {
             type: "div",
             props: {
               style: {
+                fontSize: "64px",
+                fontFamily: "Instrument Serif",
+                lineHeight: 1.05,
+                color: "#fafaf8",
+              },
+              children: title,
+            },
+          },
+          {
+            type: "div",
+            props: {
+              style: {
+                marginTop: "32px",
+                borderLeft: "4px solid #c43d2e",
+                paddingLeft: "24px",
+                fontSize: "26px",
+                fontFamily: "Instrument Serif",
+                fontStyle: "italic",
+                lineHeight: 1.4,
+                color: "#a0a098",
+              },
+              children: bottomLine,
+            },
+          },
+          {
+            type: "div",
+            props: {
+              style: {
                 display: "flex",
                 justifyContent: "space-between",
-                alignItems: "flex-end",
+                alignItems: "center",
+                marginTop: "auto",
+                paddingTop: "40px",
               },
               children: [
                 {
                   type: "span",
                   props: {
                     style: {
-                      fontSize: "24px",
+                      fontSize: "30px",
                       fontFamily: "Instrument Serif",
                       fontStyle: "italic",
-                      color: "#1a1a18",
+                      color: "#fafaf8",
                     },
                     children: "PhilOS",
                   },
@@ -153,10 +147,7 @@ export const GET: APIRoute = async ({ props }) => {
                   type: "span",
                   props: {
                     style: {
-                      display: "flex",
-                      alignItems: "center",
-                      gap: "8px",
-                      fontSize: "14px",
+                      fontSize: "18px",
                       fontWeight: 600,
                       color: "#c43d2e",
                     },
