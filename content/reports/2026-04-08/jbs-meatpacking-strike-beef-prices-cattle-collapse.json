@@ -1,0 +1,85 @@
+{
+  "id": "jbs-meatpacking-strike-beef-prices-cattle-collapse",
+  "date": "2026-04-08",
+  "generatedAt": "2026-04-08T22:30:00Z",
+  "title": "The Strike That Reveals Who Owns Your Steak",
+  "subtitle": "JBS workers ended the first major US meatpacking strike since 1985 without a new contract — returning to work into a supply chain where their employer is recording record profits while beef is unaffordable for the people who process it.",
+  "category": "conflict",
+  "tags": ["JBS", "meatpacking", "labor strike", "beef prices", "cattle supply", "food system", "union"],
+  "sources": [
+    {
+      "url": "https://www.reuters.com/business/world-at-work/striking-jbs-workers-return-colorado-plant-promise-talks-2026-04-05/",
+      "publisher": "Reuters",
+      "angle": "Neutral wire service reporting on the strike's end: workers returned without a new contract, JBS agreed to resume talks April 9-10, company's 'Last, Best and Final' offer remains on the table unchanged."
+    },
+    {
+      "url": "https://www.kunc.org/news/2026-04-06/workers-plan-to-halt-strike-at-jbs-meatpacking-plant-and-resume-negotiations",
+      "publisher": "KUNC (Colorado Public Radio)",
+      "angle": "Local Colorado perspective; places the strike in context of JBS being Greeley's top employer, details the 75-year cattle supply low and how it intersects with record profits for meatpackers even as ranchers and workers both struggle."
+    },
+    {
+      "url": "https://finance.yahoo.com/economy/policy/articles/jbs-workers-end-strike-major-111900841.html",
+      "publisher": "Yahoo Finance",
+      "angle": "Industry-focused angle: notes Tyson Foods already closed a beef plant in Nebraska and reduced Texas operations, making JBS Greeley's capacity critical — the strike dealt a measurable blow to US processing capacity at an already constrained moment."
+    },
+    {
+      "url": "https://www.foodprocessing.com/workforce/news/55369074/striking-jbs-greeley-colo-workers-return-to-work",
+      "publisher": "Food Processing",
+      "angle": "Trade publication perspective focused on operational disruption: workers returning without a new contract means the underlying grievances — wages not tracking inflation, charges for replacing protective equipment — are unresolved, making a second stoppage likely."
+    }
+  ],
+  "brief": {
+    "bottomLine": "JBS workers returned to the plant without a new contract because they couldn't afford not to — which is exactly the leverage JBS has always had, and which makes any 'resumption of talks' more theatrical than consequential.",
+    "hiddenBets": [
+      {
+        "assumption": "The resumption of negotiations signals JBS is willing to make meaningful concessions.",
+        "whyItMightBeWrong": "JBS called its pre-strike offer the 'Last, Best and Final' offer and has not changed it. Companies use that phrase specifically to signal there is nothing left to negotiate. The workers returned to work under the same conditions they struck against. JBS agreed to talk — not to change its position. The union's bargaining leverage is now lower than it was before the strike, because workers demonstrated they will return without a deal."
+      },
+      {
+        "assumption": "Record beef prices benefit everyone in the supply chain.",
+        "whyItMightBeWrong": "The cattle supply is at a 75-year low because sustained drought and low prices paid to ranchers decimated the herd over the past decade. Beef is expensive at retail because of scarcity, but the meatpackers — not the ranchers and not the workers — are capturing the margin. JBS's $17 billion market cap is not trickling down to the 3,800 workers in Greeley asking for wages that track inflation."
+      },
+      {
+        "assumption": "This strike is primarily about wages.",
+        "whyItMightBeWrong": "The union's stated grievances include JBS charging workers to replace protective equipment — meaning the company is extracting revenue from workers for the basic safety gear required to do the job. This is not a wage dispute with a simple midpoint; it is a conflict over whether the employer's profit motive operates inside or outside the safety relationship with its workforce. That conflict does not resolve at a negotiating table."
+      }
+    ],
+    "realDisagreement": "The real tension is between food system consolidation — four companies control over 80% of US beef processing — and the public interest in a food supply that doesn't collapse when any single one of them has a labor dispute. JBS Greeley's three-week strike, combined with Tyson's plant closures, visibly demonstrated that US beef processing is a single-point-of-failure industry. The question is whether that concentration should be regulated, broken up, or treated as a market outcome that workers and consumers just have to live with. I lean toward regulation: a food processing oligopoly that can hold the country's beef supply hostage to labor negotiations and profit extraction is a national vulnerability, not just a market structure. What you give up: the libertarian argument that consolidation enabled scale efficiencies that made beef cheaper before the cattle collapse.",
+    "whatNoOneIsSaying": "JBS is a Brazilian-owned company. The largest meatpacking operation in the United States — the top employer in Greeley, Colorado — is foreign-owned and its profits are repatriated. When workers strike for wages that track inflation and JBS holds firm, the political difficulty of that situation is that the company has no political constituency in the US and no domestic shareholder pressure to settle quickly. The standard union leverage mechanisms — investor pressure, reputational costs in domestic markets, political accountability — are blunted by the ownership structure.",
+    "whoPays": [
+      {
+        "who": "JBS Greeley workers",
+        "how": "Returned to work without a new contract after a three-week strike in which they received no wages; their strike fund depleted without achieving a contract change; they now negotiate from a weaker position",
+        "when": "Immediate; talks resume April 9-10 with JBS holding the same 'last and final' position"
+      },
+      {
+        "who": "US cattle ranchers",
+        "how": "A 75-year low in cattle supply is partly a consequence of years of meatpackers offering low prices for cattle during the herd contraction — ranchers who couldn't sustain their herds at those prices exited the industry, and the resulting scarcity now benefits the processors who created the scarcity",
+        "when": "Already realized over the past decade; ongoing as herd rebuilding takes 3-5 years minimum"
+      },
+      {
+        "who": "Low-income US households",
+        "how": "Beef prices at record highs are not equally burdensome — households that spend a higher share of income on food bear a disproportionate fraction of the cost; ground beef at $7-9/lb represents a meaningful budget constraint for families earning under $50,000",
+        "when": "Ongoing; herd rebuilding timelines mean elevated prices for at least 2-3 more years"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Capitulation Without Contract",
+        "whatHappens": "Negotiations on April 9-10 produce minor modifications to JBS's existing offer — minor wage adjustments, no change to equipment charges — that the union recommends workers accept. The vote passes narrowly. The structural issues remain. A second, smaller strike happens within 18 months.",
+        "signal": "Watch whether the union calls for a member ratification vote within two weeks of the April 9-10 talks — a fast ratification vote signals they accepted terms close to JBS's original offer."
+      },
+      {
+        "name": "Second Strike",
+        "whatHappens": "Negotiations fail or produce a deal workers reject. Workers strike again with broader labor solidarity, potentially drawing in other UFCW locals. The political visibility of a second strike at the same plant makes congressional attention to meatpacking consolidation more likely.",
+        "signal": "Watch whether any UFCW national leadership appears in Greeley before or during the April 9-10 talks — national union involvement signals preparation for escalation."
+      },
+      {
+        "name": "Antitrust Attention",
+        "whatHappens": "The combination of JBS Greeley's strike, Tyson plant closures, and record beef prices triggers a DOJ or FTC investigation into meatpacking market concentration. This is the longest-odds scenario given the current administration's antitrust priorities.",
+        "signal": "Watch for any congressional hearing on food price inflation that specifically invites testimony about meatpacking consolidation — that's the legislative pathway into an antitrust investigation."
+      }
+    ],
+    "whatWouldChange": "If JBS withdrew the 'Last, Best and Final' designation on its offer before April 9 — signaling genuine willingness to negotiate new terms — that would indicate the strike had shifted the company's calculus. The company calling the offer final while agreeing to more talks suggests the talks are a cooling-off mechanism, not a real negotiation."
+  }
+}

@@ -43,6 +43,42 @@
       "title": "Sánchez's Bucket and What It Costs to Say No Inside NATO",
       "subtitle": "Spain's PM said the obvious thing — you don't get credit for putting out a fire you started. The interesting question is why he's the only one.",
       "category": "conflict"
+    },
+    {
+      "id": "china-russia-hormuz-veto-un-security-council",
+      "title": "China and Russia Kill the Hormuz Lifeline",
+      "subtitle": "Beijing and Moscow didn't veto a resolution protecting shipping — they vetoed the idea that the UN Security Council has any authority over a war they're quietly backing.",
+      "category": "power"
+    },
+    {
+      "id": "openai-robot-tax-public-wealth-fund-new-deal",
+      "title": "OpenAI's Robin Hood Pitch",
+      "subtitle": "The company racing hardest to automate the global workforce has published a 13-page plan to compensate everyone it displaces — which is either the most responsible move in AI history or the most successful rebranding.",
+      "category": "decision"
+    },
+    {
+      "id": "trump-tariffs-illegal-no-refunds-liberation-day",
+      "title": "The $166 Billion Tax Nobody Gets Back",
+      "subtitle": "The Supreme Court ruled Trump's tariffs illegal. American businesses and families paid $166 billion. One year later, the government has not issued a single refund — and is imposing new tariffs to replace the overturned ones.",
+      "category": "power"
+    },
+    {
+      "id": "india-transgender-amendment-self-id-to-state-control",
+      "title": "India Revokes the Right to Know Who You Are",
+      "subtitle": "A 2014 Supreme Court ruling said transgender Indians had a constitutional right to self-identify their gender. The 2026 amendment says the state, through a medical board, will decide instead.",
+      "category": "identity"
+    },
+    {
+      "id": "jbs-meatpacking-strike-beef-prices-cattle-collapse",
+      "title": "The Strike That Reveals Who Owns Your Steak",
+      "subtitle": "JBS workers ended the first major US meatpacking strike since 1985 without a new contract — returning to work into a supply chain where their employer is recording record profits while beef is unaffordable for the people who process it.",
+      "category": "conflict"
+    },
+    {
+      "id": "bannon-contempt-scotus-congress-accountability",
+      "title": "The End of Congressional Subpoenas",
+      "subtitle": "The Supreme Court cleared the way for Steve Bannon's contempt conviction to be dismissed — not on a legal principle, but on a presidential request. Congress's power to compel testimony from executive allies has now been tested and found unenforceable.",
+      "category": "power"
     }
   ]
 }

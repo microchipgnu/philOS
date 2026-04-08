@@ -1,0 +1,85 @@
+{
+  "id": "china-russia-hormuz-veto-un-security-council",
+  "date": "2026-04-08",
+  "generatedAt": "2026-04-08T22:30:00Z",
+  "title": "China and Russia Kill the Hormuz Lifeline",
+  "subtitle": "Beijing and Moscow didn't veto a resolution protecting shipping — they vetoed the idea that the UN Security Council has any authority over a war they're quietly backing.",
+  "category": "power",
+  "tags": ["China", "Russia", "Iran", "Strait of Hormuz", "UN Security Council", "energy", "shipping"],
+  "sources": [
+    {
+      "url": "https://www.aljazeera.com/news/2026/4/7/russia-and-china-block-un-resolution-on-strait-of-hormuz",
+      "publisher": "Al Jazeera",
+      "angle": "Straightforward reporting on the vote and the diplomatic context, with background on how shipping through Hormuz has effectively halted and the humanitarian downstream effects."
+    },
+    {
+      "url": "https://www.pbs.org/newshour/world/russia-and-china-veto-watered-down-un-resolution-aimed-at-reopening-the-strait-of-hormuz",
+      "publisher": "PBS NewsHour / Associated Press",
+      "angle": "Details how the resolution was progressively stripped of all teeth — from 'all necessary means' to 'defensive means only' to no Security Council authorization at all — and Russia and China still vetoed it."
+    },
+    {
+      "url": "https://news.un.org/en/story/2026/04/1167261",
+      "publisher": "UN News",
+      "angle": "Procedural account of the vote; includes the US ambassador's condemnation framing Russia and China as enabling Iran to hold the global economy 'at gunpoint.'"
+    },
+    {
+      "url": "https://www.euronews.com/2026/04/07/russia-and-china-veto-un-resolution-aimed-at-reopening-hormuz-strait-as-us-deadline-for-de",
+      "publisher": "Euronews",
+      "angle": "European perspective on the veto arriving hours before Trump's ultimatum deadline, with context on fuel price spikes hitting European households."
+    }
+  ],
+  "brief": {
+    "bottomLine": "China and Russia didn't veto a shipping safety resolution — they signaled that Iran's stranglehold on the Strait of Hormuz is geopolitically useful to them, and they'll absorb the diplomatic cost to keep it.",
+    "hiddenBets": [
+      {
+        "assumption": "The veto is about protecting Iran from undue pressure.",
+        "whyItMightBeWrong": "China is Iran's largest oil customer and has been purchasing discounted Iranian crude throughout the war — a reopened strait on US terms likely accelerates a peace that normalizes Iran under Western conditions, which Beijing doesn't want. The veto is as much about locking in the current discount as it is about principle."
+      },
+      {
+        "assumption": "The UN Security Council veto is a meaningful act of defiance against US power.",
+        "whyItMightBeWrong": "The resolution had already been stripped of every enforcement mechanism, authorization language, and offensive measure. Vetoing a text with no teeth is almost cost-free theatrics — Russia and China could have abstained and let it pass without any real consequence for Iran. The choice to veto the emptied text signals something more deliberate: they want no international consensus on Hormuz, not just no enforcement."
+      },
+      {
+        "assumption": "Global energy markets will self-correct once the war ends.",
+        "whyItMightBeWrong": "Twenty percent of global oil and gas previously passed through Hormuz. If the infrastructure for alternative routing and storage has adapted during the war, some of that rerouting becomes permanent. The reshaping of global energy logistics under wartime conditions may outlast the ceasefire."
+      }
+    ],
+    "realDisagreement": "The real fork is whether China and Russia's veto represents opportunistic free-riding on Iran's leverage, or a coordinated long-term strategy to demonstrate that the US-led international order cannot protect global commons when the P5 split. Both readings are defensible. The opportunist reading says Beijing and Moscow are just cashing in on a discount while they can. The strategic reading says this veto is a proof-of-concept: the Security Council is paralyzed when great powers disagree, so the US cannot rely on multilateral cover for unilateral interests. The strategic reading is more alarming and more likely to be correct — China has been too deliberate about this veto for it to be purely transactional. What you give up by leaning that way: a cleaner story where China is just cheap and this ends when the war does.",
+    "whatNoOneIsSaying": "The resolution was watered down specifically to get France to support it, because France had earlier opposed authorizing any use of force. The diplomatic energy went into managing an ally, not an adversary — which is why the veto caught no one off guard. The US spent its diplomatic capital on optics, not outcomes.",
+    "whoPays": [
+      {
+        "who": "Asian energy-importing nations, particularly India, Japan, South Korea, and Pakistan",
+        "how": "Hormuz blockade forces alternative routing via Cape of Good Hope, adding 10-14 days of shipping time and corresponding cost; some Asian governments have already rationed fuel consumption",
+        "when": "Immediate and ongoing throughout the war's duration"
+      },
+      {
+        "who": "Humanitarian operations in Gaza, Sudan, and the Congo",
+        "how": "US Ambassador Waltz cited the blockade's interference with medical aid and supply chains to active humanitarian crises — the Hormuz closure is not only an energy problem",
+        "when": "Immediate"
+      },
+      {
+        "who": "Iranian civilians under continued bombardment",
+        "how": "The veto removes any international pressure architecture that might have accelerated a negotiated settlement; the war continues partly because China and Russia have calculated the status quo suits them",
+        "when": "Ongoing, with no near-term mechanism for acceleration toward peace"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Managed Paralysis",
+        "whatHappens": "The ceasefire holds in the US-Iran-Israel track, but the Strait remains officially contested. China continues purchasing discounted Iranian oil; Russia continues diplomatic cover. The UN Security Council becomes irrelevant to this conflict, setting precedent for future crises.",
+        "signal": "Watch whether China publicly endorses the 10-point peace framework Iran released — if Beijing stays silent on any peace plan, this is the path."
+      },
+      {
+        "name": "Alternative Architecture",
+        "whatHappens": "The US and Gulf states begin constructing a parallel shipping protection regime outside the UN — similar to the Red Sea coalition — that operates without Security Council authorization. This de facto normalizes bypassing the multilateral framework.",
+        "signal": "Watch for US-Bahrain-UAE military coordination on strait protection that does not go back to the Security Council for another vote."
+      },
+      {
+        "name": "China Blinks",
+        "whatHappens": "Sustained energy price pain in Asia — particularly domestic political pressure in India — forces China to quietly signal Iran that continued closure is too costly. Iran reopens the strait with face-saving conditions, and China claims credit for facilitating the outcome.",
+        "signal": "Watch for any Chinese diplomatic trip to Tehran not framed as support but as 'economic dialogue.'"
+      }
+    ],
+    "whatWouldChange": "If Russia or China explicitly endorsed one of Iran's peace conditions and publicly called for reopening the strait, that would indicate the veto was purely tactical — buying time for a negotiated outcome they wanted. The absence of any positive Chinese peace diplomacy is the tell that the status quo blockade is the goal, not a side effect."
+  }
+}
