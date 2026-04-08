@@ -37,8 +37,8 @@ export const GET: APIRoute = async ({ props }) => {
       : report.brief.bottomLine;
 
   const title =
-    report.title.length > 80
-      ? report.title.slice(0, 77) + "..."
+    report.title.length > 60
+      ? report.title.slice(0, 57) + "..."
       : report.title;
 
   const svg = await satori(
@@ -70,7 +70,7 @@ export const GET: APIRoute = async ({ props }) => {
                   type: "span",
                   props: {
                     style: {
-                      fontSize: "18px",
+                      fontSize: "22px",
                       fontWeight: 600,
                       textTransform: "uppercase",
                       letterSpacing: "0.12em",
@@ -83,7 +83,7 @@ export const GET: APIRoute = async ({ props }) => {
                   type: "span",
                   props: {
                     style: {
-                      fontSize: "18px",
+                      fontSize: "22px",
                       color: "#666660",
                     },
                     children: report.date,
@@ -96,7 +96,7 @@ export const GET: APIRoute = async ({ props }) => {
             type: "div",
             props: {
               style: {
-                fontSize: "64px",
+                fontSize: "76px",
                 fontFamily: "Instrument Serif",
                 lineHeight: 1.05,
                 color: "#fafaf8",
@@ -111,10 +111,10 @@ export const GET: APIRoute = async ({ props }) => {
                 marginTop: "32px",
                 borderLeft: "4px solid #c43d2e",
                 paddingLeft: "24px",
-                fontSize: "26px",
+                fontSize: "30px",
                 fontFamily: "Instrument Serif",
                 fontStyle: "italic",
-                lineHeight: 1.4,
+                lineHeight: 1.35,
                 color: "#a0a098",
               },
               children: bottomLine,
@@ -135,7 +135,7 @@ export const GET: APIRoute = async ({ props }) => {
                   type: "span",
                   props: {
                     style: {
-                      fontSize: "30px",
+                      fontSize: "34px",
                       fontFamily: "Instrument Serif",
                       fontStyle: "italic",
                       color: "#fafaf8",
@@ -147,7 +147,7 @@ export const GET: APIRoute = async ({ props }) => {
                   type: "span",
                   props: {
                     style: {
-                      fontSize: "18px",
+                      fontSize: "22px",
                       fontWeight: 600,
                       color: "#c43d2e",
                     },
