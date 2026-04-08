@@ -1,5 +1,7 @@
 # PhilOS
 
+![PhilOS — Philosophers gathered around a round table](header.jpeg)
+
 **Structured judgment for things that are hard to think about.**
 
 Not a chatbot. A report generator for difficult thinking. Drop in a thing — get a lens report.
