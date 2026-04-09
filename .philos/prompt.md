@@ -65,7 +65,13 @@ Use Exa to search for today's most significant stories. Run **one search per top
 | **Economy** | Labor, markets, corporate strategy, trade, inflation, inequality | "strike", "tariffs", "interest rates", "merger" |
 | **Society** | Culture wars, education, health, rights, media, environment | "social media ban", "abortion law", "climate policy" |
 
-Run 5 Exa searches (one per topic) with `startPublishedDate` set to today. Also check Twitter trends for breaking stories.
+Run 5 Exa searches (one per topic) with `startPublishedDate` set to today.
+
+Then use Twitter to supplement:
+- **Trends** (`/api/trends` with `woeid: 1`) — catch breaking stories Exa hasn't indexed yet
+- **Search** (`/api/search-tweets`) — for each topic, search recent tweets to find stories generating real debate. Look for high-engagement threads where people genuinely disagree, not just outrage. Use queries like `"AI regulation" lang:en`, `"tariffs" filter:replies min_faves:100`
+
+Twitter is especially useful for finding the **"what no one is saying" angle** — the takes that experts and insiders post but mainstream outlets won't publish.
 
 Collect 15-20 candidates across all topics.
 
