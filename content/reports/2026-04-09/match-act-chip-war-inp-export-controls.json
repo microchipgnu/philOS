@@ -91,6 +91,20 @@
       }
     ],
     "whatWouldChange": "If the US announces a strategic indium reserve program — similar to the Strategic Petroleum Reserve — and fast-tracks domestic InP wafer production subsidies, the bottom line shifts: the administration is treating this as a full materials war, not just an equipment fight. Absence of that move confirms the US is still thinking about this primarily as a chipmaking equipment problem.",
-    "whatHappened": "The US introduced the MATCH Act in April 2026, seeking to cut China off from Dutch-made DUV lithography tools — the last major chipmaking equipment China can still access. Days later, China imposed export controls on indium phosphide (InP), a critical semiconductor material used in AI data center components that China dominates globally. The moves mark a new escalation in the US-China technology war."
+    "whatHappened": "The US introduced the MATCH Act in April 2026, seeking to cut China off from Dutch-made DUV lithography tools — the last major chipmaking equipment China can still access. Days later, China imposed export controls on indium phosphide (InP), a critical semiconductor material used in AI data center components that China dominates globally. The moves mark a new escalation in the US-China technology war.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Will Taiwan Semiconductor (TSM) beat quarterly earnings?",
+        "url": "https://polymarket.com/event/tsm-quarterly-earnings-gaap-eps-04-16-2026-3pt31",
+        "probability": 0.89
+      },
+      {
+        "platform": "Polymarket",
+        "question": "Will the US federal government take a stake in The Boeing Company?",
+        "url": "https://polymarket.com/event/which-companies-will-the-us-take-a-stake-in",
+        "probability": 0.4
+      }
+    ]
   }
 }

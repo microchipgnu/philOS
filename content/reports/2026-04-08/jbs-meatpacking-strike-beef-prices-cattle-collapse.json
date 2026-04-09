@@ -89,6 +89,20 @@
       }
     ],
     "whatWouldChange": "If JBS withdrew the 'Last, Best and Final' designation on its offer before April 9 — signaling genuine willingness to negotiate new terms — that would indicate the strike had shifted the company's calculus. The company calling the offer final while agreeing to more talks suggests the talks are a cooling-off mechanism, not a real negotiation.",
-    "whatHappened": "Workers at JBS meatpacking plants across the US ended the first major meatpacking strike since 1985, returning to work without a new contract after several weeks on the picket line. JBS, the world's largest meat processor, reported record profits in its most recent quarter while retail beef prices remain at historic highs and cattle ranchers face collapsing margins."
+    "whatHappened": "Workers at JBS meatpacking plants across the US ended the first major meatpacking strike since 1985, returning to work without a new contract after several weeks on the picket line. JBS, the world's largest meat processor, reported record profits in its most recent quarter while retail beef prices remain at historic highs and cattle ranchers face collapsing margins.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Will ground beef hit $7 per pound in 2026?",
+        "url": "https://polymarket.com/event/will-ground-beef-hit-in-2026",
+        "probability": 0.53
+      },
+      {
+        "platform": "Polymarket",
+        "question": "Will ground beef hit $8 per pound in 2026?",
+        "url": "https://polymarket.com/event/will-ground-beef-hit-in-2026",
+        "probability": 0.51
+      }
+    ]
   }
 }

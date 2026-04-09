@@ -94,6 +94,20 @@
       }
     ],
     "whatWouldChange": "If verified reporting shows that Iran's negotiating team explicitly accepted terms that were not in its original 10-point framework — concrete nuclear limitations, genuine proxy force reductions, verified military drawbacks — then the balance of concessions shifts and Trump's victory framing becomes credible. Absent that, the structure of the deal is the verdict.",
-    "whatHappened": "The US and Iran agreed to a two-week ceasefire on April 8, 2026, mediated by Pakistan. Trump declared total victory, claiming the US had achieved all military objectives. Iran released its 10-point peace plan, which included demands for full US withdrawal, acceptance of enrichment, sanction relief, and a binding UN resolution. The ceasefire terms closely follow Iran's framework rather than stated US objectives."
+    "whatHappened": "The US and Iran agreed to a two-week ceasefire on April 8, 2026, mediated by Pakistan. Trump declared total victory, claiming the US had achieved all military objectives. Iran released its 10-point peace plan, which included demands for full US withdrawal, acceptance of enrichment, sanction relief, and a binding UN resolution. The ceasefire terms closely follow Iran's framework rather than stated US objectives.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Iran x Israel/US conflict ends by December 31?",
+        "url": "https://polymarket.com/event/iran-x-israelus-conflict-ends-by",
+        "probability": 0.94
+      },
+      {
+        "platform": "Polymarket",
+        "question": "Iran x Israel/US conflict ends by April 30?",
+        "url": "https://polymarket.com/event/iran-x-israelus-conflict-ends-by",
+        "probability": 0.67
+      }
+    ]
   }
 }

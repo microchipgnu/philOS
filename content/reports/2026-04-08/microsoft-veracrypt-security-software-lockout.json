@@ -78,6 +78,7 @@
       }
     ],
     "whatWouldChange": "Evidence that Microsoft's restrictions genuinely prevent security threats would justify platform control. Evidence that restricted tools are being banned for competitive rather than security reasons would prove the censorship concern.",
-    "whatHappened": "Microsoft locked out the lead developer of VeraCrypt, the most widely used open-source disk encryption software, from their developer account in April 2026. The lockout prevents VeraCrypt from receiving code-signing certificates needed to distribute software on Windows without triggering security warnings, effectively making the tool unusable for most Windows users."
+    "whatHappened": "Microsoft locked out the lead developer of VeraCrypt, the most widely used open-source disk encryption software, from their developer account in April 2026. The lockout prevents VeraCrypt from receiving code-signing certificates needed to distribute software on Windows without triggering security warnings, effectively making the tool unusable for most Windows users.",
+    "markets": []
   }
 }

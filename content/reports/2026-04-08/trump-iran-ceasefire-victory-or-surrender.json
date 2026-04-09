@@ -83,6 +83,20 @@
       }
     ],
     "whatWouldChange": "Evidence that Trump's threats were always theater would vindicate the ceasefire as shrewd diplomacy. Evidence that Iran used the pause to strengthen its position would prove the critics right about American weakness.",
-    "whatHappened": "President Trump agreed to a two-week ceasefire with Iran on April 8, 2026, days after threatening to 'wipe out Iran's civilization.' The deal was mediated by Pakistan and based on Iran's 10-point peace plan. Trump declared the US had 'already met and exceeded all military objectives.' Coverage split sharply between outlets framing it as diplomatic success and those calling it a retreat from maximalist threats."
+    "whatHappened": "President Trump agreed to a two-week ceasefire with Iran on April 8, 2026, days after threatening to 'wipe out Iran's civilization.' The deal was mediated by Pakistan and based on Iran's 10-point peace plan. Trump declared the US had 'already met and exceeded all military objectives.' Coverage split sharply between outlets framing it as diplomatic success and those calling it a retreat from maximalist threats.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Iran x Israel/US conflict ends by December 31?",
+        "url": "https://polymarket.com/event/iran-x-israelus-conflict-ends-by",
+        "probability": 0.94
+      },
+      {
+        "platform": "Polymarket",
+        "question": "Iran x Israel/US conflict ends by April 30?",
+        "url": "https://polymarket.com/event/iran-x-israelus-conflict-ends-by",
+        "probability": 0.67
+      }
+    ]
   }
 }

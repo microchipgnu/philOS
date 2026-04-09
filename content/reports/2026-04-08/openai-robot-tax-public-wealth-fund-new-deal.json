@@ -89,6 +89,20 @@
       }
     ],
     "whatWouldChange": "If OpenAI committed to unilaterally seeding the wealth fund before legislation passes — putting a floor of, say, $500 million into it from OpenAI's own balance sheet — that would be evidence the company genuinely believes in the proposal rather than using it as regulatory pre-emption. The absence of any voluntary first-mover action is the tell.",
-    "whatHappened": "OpenAI published a 13-page policy paper in April 2026 proposing a 'robot tax' on AI-driven automation, a public wealth fund to redistribute gains, a four-day workweek, and guaranteed income floors for displaced workers. CEO Sam Altman presented it as a framework for ensuring AI benefits are shared broadly. The paper came weeks after OpenAI's $300 billion valuation and amid growing public concern about AI job displacement."
+    "whatHappened": "OpenAI published a 13-page policy paper in April 2026 proposing a 'robot tax' on AI-driven automation, a public wealth fund to redistribute gains, a four-day workweek, and guaranteed income floors for displaced workers. CEO Sam Altman presented it as a framework for ensuring AI benefits are shared broadly. The paper came weeks after OpenAI's $300 billion valuation and amid growing public concern about AI job displacement.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "OpenAI IPO closing market cap above $800B?",
+        "url": "https://polymarket.com/event/openai-ipo-closing-market-cap-above",
+        "probability": 0.69
+      },
+      {
+        "platform": "Polymarket",
+        "question": "OpenAI IPO closing market cap above $1T?",
+        "url": "https://polymarket.com/event/openai-ipo-closing-market-cap-above",
+        "probability": 0.54
+      }
+    ]
   }
 }

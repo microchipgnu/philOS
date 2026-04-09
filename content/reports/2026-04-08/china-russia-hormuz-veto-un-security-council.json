@@ -89,6 +89,20 @@
       }
     ],
     "whatWouldChange": "If Russia or China explicitly endorsed one of Iran's peace conditions and publicly called for reopening the strait, that would indicate the veto was purely tactical — buying time for a negotiated outcome they wanted. The absence of any positive Chinese peace diplomacy is the tell that the status quo blockade is the goal, not a side effect.",
-    "whatHappened": "China and Russia vetoed a UN Security Council resolution on April 8, 2026, that would have authorized international protection for commercial shipping through the Strait of Hormuz during the US-Iran conflict. The resolution had broad support from Western and Asian nations dependent on Gulf oil shipments, which carry roughly 20% of global supply."
+    "whatHappened": "China and Russia vetoed a UN Security Council resolution on April 8, 2026, that would have authorized international protection for commercial shipping through the Strait of Hormuz during the US-Iran conflict. The resolution had broad support from Western and Asian nations dependent on Gulf oil shipments, which carry roughly 20% of global supply.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Strait of Hormuz traffic returns to normal by end of April?",
+        "url": "https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-april-30",
+        "probability": 0.26
+      },
+      {
+        "platform": "Polymarket",
+        "question": "Bab el-Mandeb Strait effectively closed by April 30?",
+        "url": "https://polymarket.com/event/bab-el-mandeb-strait-effectively-closed-by",
+        "probability": 0.12
+      }
+    ]
   }
 }

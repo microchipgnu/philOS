@@ -91,6 +91,14 @@
       }
     ],
     "whatWouldChange": "If a subsequent analysis showed that stablecoin yield programs were systematically draining deposits from banks serving low-income communities — rather than from large-cap banks — the bottom line shifts: the yield ban becomes a consumer protection issue rather than a bank protection issue. The CEA report does not analyze distributional effects by bank size on the deposit side. That gap is the one piece of evidence that would change the story.",
-    "whatHappened": "The CLARITY Act, a major US stablecoin regulation bill, nearly stalled in Congress after banking industry lobbying pushed for a provision banning stablecoin issuers from offering yield (interest) to holders. A new White House economic analysis found that the proposed yield ban would increase bank lending capacity by just 0.02% while costing consumers approximately $800 million annually in lost returns."
+    "whatHappened": "The CLARITY Act, a major US stablecoin regulation bill, nearly stalled in Congress after banking industry lobbying pushed for a provision banning stablecoin issuers from offering yield (interest) to holders. A new White House economic analysis found that the proposed yield ban would increase bank lending capacity by just 0.02% while costing consumers approximately $800 million annually in lost returns.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Will USD-denominated stablecoin market share fall below 99% in 2026?",
+        "url": "https://polymarket.com/event/will-usd-denominated-stablecoin-market-share-fall-below-99-in-2026",
+        "probability": 0.26
+      }
+    ]
   }
 }

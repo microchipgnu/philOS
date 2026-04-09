@@ -91,6 +91,20 @@
       }
     ],
     "whatWouldChange": "If the administration publishes an executive order citing a specific statute — Section 232, a new emergency declaration, or an Arms Export Control Act determination — the bottom line changes from theater to genuine policy. The absence of such an order within two weeks of the announcement is the clearest confirmation that this was a pressure signal, not an enforceable act.",
-    "whatHappened": "Hours after signing the Iran ceasefire on April 8, Trump announced that any country supplying arms to Iran would face 50% tariffs. He cited no specific legal authority for the threat. The announcement came just days after the Supreme Court stripped his primary tariff enforcement mechanism (IEEPA) and one week before a scheduled meeting with Chinese President Xi Jinping."
+    "whatHappened": "Hours after signing the Iran ceasefire on April 8, Trump announced that any country supplying arms to Iran would face 50% tariffs. He cited no specific legal authority for the threat. The announcement came just days after the Supreme Court stripped his primary tariff enforcement mechanism (IEEPA) and one week before a scheduled meeting with Chinese President Xi Jinping.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Will France, UK, or Germany strike Iran by June 30?",
+        "url": "https://polymarket.com/event/will-france-uk-or-germany-strike-iran-by-june-30-259",
+        "probability": 0.05
+      },
+      {
+        "platform": "Polymarket",
+        "question": "Will UK strike Iran by April 30?",
+        "url": "https://polymarket.com/event/which-countries-will-conduct-military-action-against-iran-by-april-30",
+        "probability": 0.03
+      }
+    ]
   }
 }

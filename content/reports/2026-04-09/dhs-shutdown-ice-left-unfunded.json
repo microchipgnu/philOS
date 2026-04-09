@@ -90,6 +90,20 @@
       }
     ],
     "whatWouldChange": "If ICE ERO's supplemental $75 billion runs out before the next appropriations cycle — making the regular appropriations fight actually consequential for operations — the bottom line changes. At that point, Democrats would have genuine leverage rather than symbolic leverage. Check ICE's burn rate on supplemental funds.",
-    "whatHappened": "The US Senate ended a 52-day Department of Homeland Security shutdown on April 9, 2026, by passing a funding bill that restored operations for TSA, FEMA, the Secret Service, and the Coast Guard while leaving ICE Enforcement and Removal Operations and Customs and Border Protection without appropriations. The Trump administration accepted the deal and called it a victory."
+    "whatHappened": "The US Senate ended a 52-day Department of Homeland Security shutdown on April 9, 2026, by passing a funding bill that restored operations for TSA, FEMA, the Secret Service, and the Coast Guard while leaving ICE Enforcement and Removal Operations and Customs and Border Protection without appropriations. The Trump administration accepted the deal and called it a victory.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Will the DHS shutdown end between April 13-16, 2026?",
+        "url": "https://polymarket.com/event/when-will-the-dhs-shutdown-end-521",
+        "probability": 0.12
+      },
+      {
+        "platform": "Polymarket",
+        "question": "Will the DHS shutdown end between April 17-20, 2026?",
+        "url": "https://polymarket.com/event/when-will-the-dhs-shutdown-end-521",
+        "probability": 0.12
+      }
+    ]
   }
 }

@@ -94,6 +94,14 @@
       }
     ],
     "whatWouldChange": "If Trump's post-ceasefire 50% tariff threat on Iran-weapons suppliers gets formally implemented through a named statutory authority that courts uphold, then the IEEPA ruling was narrower than it appeared and executive trade power is largely intact. That would flip the bottom line entirely.",
-    "whatHappened": "The Supreme Court ruled in February 2026 that the president cannot use the International Emergency Economic Powers Act to impose tariffs, striking down $166 billion in trade levies. By April, the Trump administration was threatening new 50% tariffs on multiple countries without citing any specific legal authority, suggesting either a bluff or a willingness to force another Supreme Court confrontation."
+    "whatHappened": "The Supreme Court ruled in February 2026 that the president cannot use the International Emergency Economic Powers Act to impose tariffs, striking down $166 billion in trade levies. By April, the Trump administration was threatening new 50% tariffs on multiple countries without citing any specific legal authority, suggesting either a bluff or a willingness to force another Supreme Court confrontation.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Will the Court Force Trump to Refund Tariffs?",
+        "url": "https://polymarket.com/event/will-the-court-force-trump-to-refund-tariffs-2026-06-30",
+        "probability": 0.51
+      }
+    ]
   }
 }

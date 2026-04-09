@@ -92,6 +92,20 @@
       }
     ],
     "whatWouldChange": "If Iran drops the enrichment demand without regime collapse — that would mean the internal politics are different than they appear and a real deal is possible. Or if Israel publicly endorses a framework — that would mean the hole in the negotiation has been filled. Either of these would make the bottom line wrong.",
-    "whatHappened": "Iran published a 10-point peace plan on April 8, 2026, as the basis for ceasefire negotiations with the United States. The plan demands full US military withdrawal from the region, acceptance of Iran's right to uranium enrichment, sanction relief, compensation for war damages, and a binding UN Security Council resolution. Hours earlier, Trump had threatened to 'wipe out Iran's civilization,' then called the plan 'workable.' Pakistan is mediating, and a two-week ceasefire has been agreed."
+    "whatHappened": "Iran published a 10-point peace plan on April 8, 2026, as the basis for ceasefire negotiations with the United States. The plan demands full US military withdrawal from the region, acceptance of Iran's right to uranium enrichment, sanction relief, compensation for war damages, and a binding UN Security Council resolution. Hours earlier, Trump had threatened to 'wipe out Iran's civilization,' then called the plan 'workable.' Pakistan is mediating, and a two-week ceasefire has been agreed.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Iran x Israel/US conflict ends by December 31?",
+        "url": "https://polymarket.com/event/iran-x-israelus-conflict-ends-by",
+        "probability": 0.94
+      },
+      {
+        "platform": "Polymarket",
+        "question": "Iran x Israel/US conflict ends by April 30?",
+        "url": "https://polymarket.com/event/iran-x-israelus-conflict-ends-by",
+        "probability": 0.67
+      }
+    ]
   }
 }

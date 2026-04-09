@@ -89,6 +89,14 @@
       }
     ],
     "whatWouldChange": "If the administration issued a refund processing timeline — even a vague one — that would indicate good-faith compliance with the Court ruling. The current silence, one year after Liberation Day and months after the IEEPA ruling, is the evidence that no refund is coming voluntarily.",
-    "whatHappened": "The Supreme Court ruled in February 2026 that Trump's sweeping tariffs imposed under the International Emergency Economic Powers Act (IEEPA) were unconstitutional, striking down approximately $166 billion in levies. As of April, the government has not issued refunds to any of the businesses or consumers who paid the tariffs. The administration has begun imposing new tariffs under alternative legal theories to replace the overturned ones."
+    "whatHappened": "The Supreme Court ruled in February 2026 that Trump's sweeping tariffs imposed under the International Emergency Economic Powers Act (IEEPA) were unconstitutional, striking down approximately $166 billion in levies. As of April, the government has not issued refunds to any of the businesses or consumers who paid the tariffs. The administration has begun imposing new tariffs under alternative legal theories to replace the overturned ones.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Will the Court Force Trump to Refund Tariffs?",
+        "url": "https://polymarket.com/event/will-the-court-force-trump-to-refund-tariffs-2026-06-30",
+        "probability": 0.51
+      }
+    ]
   }
 }

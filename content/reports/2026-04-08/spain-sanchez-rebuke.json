@@ -73,6 +73,20 @@
       }
     ],
     "whatWouldChange": "If Spain's economy takes a measurable hit from US trade retaliation and Sánchez maintains the position anyway — that would prove it's conviction, not cheap coalition politics. Or if another major NATO member (France, Germany) publicly joins the criticism — that would transform this from personal defiance into systemic realignment.",
-    "whatHappened": "Spanish Prime Minister Pedro Sánchez publicly refused to credit Trump for the Iran ceasefire on April 8, 2026, saying 'you don't applaud someone who puts out a fire they started.' Spain had already closed its airspace to US military flights and denied base access for operations against Iran. Trump responded with trade threats against Spanish exports. The FDD, a hawkish US think tank, published an analysis titled 'Spain Cuts Adrift from the Western Alliance.'"
+    "whatHappened": "Spanish Prime Minister Pedro Sánchez publicly refused to credit Trump for the Iran ceasefire on April 8, 2026, saying 'you don't applaud someone who puts out a fire they started.' Spain had already closed its airspace to US military flights and denied base access for operations against Iran. Trump responded with trade threats against Spanish exports. The FDD, a hawkish US think tank, published an analysis titled 'Spain Cuts Adrift from the Western Alliance.'",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Will US withdraw from NATO before 2027?",
+        "url": "https://polymarket.com/event/will-us-withdraw-from-nato-before-2027",
+        "probability": 0.12
+      },
+      {
+        "platform": "Polymarket",
+        "question": "Will US withdraw from NATO by April 30?",
+        "url": "https://polymarket.com/event/will-us-withdraw-from-nato-before-2027",
+        "probability": 0.02
+      }
+    ]
   }
 }

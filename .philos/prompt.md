@@ -183,10 +183,11 @@ Also write `content/reports/YYYY-MM-DD/index.json`:
 
 After writing each brief, search for related prediction markets on Polymarket and Kalshi. These ground the analysis in real-money probability signals.
 
-**Polymarket search:**
+**Polymarket search** (use `/public-search` not `/markets`):
 ```bash
-curl -s "https://gamma-api.polymarket.com/markets?limit=5&search=QUERY" | python3 -c "import sys,json; [print(json.dumps({'platform':'Polymarket','question':m.get('question',''),'url':'https://polymarket.com/event/'+m.get('slug',''),'probability':round(float(m.get('outcomePrices','[0.5]').strip('[]').split(',')[0]),2)})) for m in json.loads(sys.stdin.read()) if m.get('active')]"
+curl -s "https://gamma-api.polymarket.com/public-search?q=QUERY&events_status=active&limit_per_type=5"
 ```
+Response has `events[].markets[]`. Each market has `question`, `outcomePrices` (JSON array where first element is yes probability), `active`, `closed`. Build the URL as `https://polymarket.com/event/{event.slug}`.
 
 **Kalshi search:**
 ```bash

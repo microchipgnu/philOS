@@ -89,6 +89,20 @@
       }
     ],
     "whatWouldChange": "If Cheng returns from Beijing with a concrete Chinese concession — something Beijing has given rather than only demanded — then the visit is genuine diplomacy rather than a one-sided political operation. Absent that, the ledger runs entirely in Beijing's direction.",
-    "whatHappened": "KMT chairman Eric Chu traveled to Beijing in April 2026 on a 'Journey of Peace,' meeting senior Chinese officials and signing economic cooperation agreements. The visit happened weeks before a planned Trump-Xi summit and without coordination with Taiwan's ruling DPP government, which condemned it as undermining Taiwan's democratic sovereignty."
+    "whatHappened": "KMT chairman Eric Chu traveled to Beijing in April 2026 on a 'Journey of Peace,' meeting senior Chinese officials and signing economic cooperation agreements. The visit happened weeks before a planned Trump-Xi summit and without coordination with Taiwan's ruling DPP government, which condemned it as undermining Taiwan's democratic sovereignty.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Will China invade Taiwan by June 30, 2026?",
+        "url": "https://polymarket.com/event/will-china-invade-taiwan-by-june-30-2026",
+        "probability": 0.03
+      },
+      {
+        "platform": "Polymarket",
+        "question": "Will China invade Taiwan by end of 2026?",
+        "url": "https://polymarket.com/event/will-china-invade-taiwan-before-2027",
+        "probability": 0.1
+      }
+    ]
   }
 }

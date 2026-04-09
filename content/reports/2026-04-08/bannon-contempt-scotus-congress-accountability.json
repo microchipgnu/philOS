@@ -89,6 +89,14 @@
       }
     ],
     "whatWouldChange": "If the Supreme Court had issued even a brief opinion explaining the legal basis for vacating the conviction — rather than acting by brief order with no noted dissents — it would have constrained future use of the same mechanism. The Court's silence is a deliberate choice to leave the door open without writing the reason. Evidence that this is limited: if the DC Circuit writes a detailed opinion on remand explaining exactly what must be shown for executive privilege to defeat a congressional contempt charge. That opinion has not yet been written and may never be.",
-    "whatHappened": "Steve Bannon defied a congressional subpoena from the January 6 committee in 2021, was convicted of contempt of Congress, and served four months in prison. In April 2026, the Supreme Court vacated his conviction after the DOJ — now under the Trump administration — requested dismissal, citing a question about whether Bannon's defiance was 'willful.'"
+    "whatHappened": "Steve Bannon defied a congressional subpoena from the January 6 committee in 2021, was convicted of contempt of Congress, and served four months in prison. In April 2026, the Supreme Court vacated his conviction after the DOJ — now under the Trump administration — requested dismissal, citing a question about whether Bannon's defiance was 'willful.'",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Steve Bannon exonerated by April 30?",
+        "url": "https://polymarket.com/event/steve-bannon-exonerated-by-april-30",
+        "probability": 0.33
+      }
+    ]
   }
 }
