@@ -26,6 +26,13 @@ export interface Scenario {
   signal: string;
 }
 
+export interface Market {
+  platform: string;
+  question: string;
+  url: string;
+  probability: number;
+}
+
 export interface Brief {
   whatHappened?: string;
   bottomLine: string;
@@ -35,6 +42,7 @@ export interface Brief {
   whoPays: WhoPays[];
   scenarios: Scenario[];
   whatWouldChange: string;
+  markets?: Market[];
 }
 
 export interface Report {

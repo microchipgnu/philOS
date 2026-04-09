@@ -149,7 +149,15 @@ For each story, write `{slug}.json`:
         "signal": "The observable event that tells you this is the path"
       }
     ],
-    "whatWouldChange": "The specific evidence that would make the bottom line wrong."
+    "whatWouldChange": "The specific evidence that would make the bottom line wrong.",
+    "markets": [
+      {
+        "platform": "Polymarket|Kalshi",
+        "question": "The market question",
+        "url": "Direct link to the market",
+        "probability": 0.42
+      }
+    ]
   }
 }
 ```
@@ -170,6 +178,24 @@ Also write `content/reports/YYYY-MM-DD/index.json`:
   ]
 }
 ```
+
+## Phase 5b: Find prediction markets
+
+After writing each brief, search for related prediction markets on Polymarket and Kalshi. These ground the analysis in real-money probability signals.
+
+**Polymarket search:**
+```bash
+curl -s "https://gamma-api.polymarket.com/markets?limit=5&search=QUERY" | python3 -c "import sys,json; [print(json.dumps({'platform':'Polymarket','question':m.get('question',''),'url':'https://polymarket.com/event/'+m.get('slug',''),'probability':round(float(m.get('outcomePrices','[0.5]').strip('[]').split(',')[0]),2)})) for m in json.loads(sys.stdin.read()) if m.get('active')]"
+```
+
+**Kalshi search:**
+```bash
+curl -s "https://api.elections.kalshi.com/trade-api/v2/markets?status=open&limit=5&search=QUERY"
+```
+
+For each story, try 2-3 search queries based on the key actors and outcomes (e.g., "Iran ceasefire", "Trump tariffs", "AI regulation"). Include any markets where the question directly relates to the story's scenarios or hidden bets. If no relevant markets exist, set `"markets": []` — don't force it.
+
+**Only include markets you actually found via the API.** Do not fabricate market URLs or probabilities.
 
 ## Phase 6: Update state
 
