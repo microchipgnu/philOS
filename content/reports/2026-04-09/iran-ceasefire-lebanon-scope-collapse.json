@@ -1,0 +1,108 @@
+{
+  "id": "iran-ceasefire-lebanon-scope-collapse",
+  "date": "2026-04-09",
+  "generatedAt": "2026-04-09T12:45:00Z",
+  "title": "The Ceasefire Has Three Versions. None of Them Cover Lebanon.",
+  "subtitle": "VP Vance admitted there are three conflicting drafts of the Iran truce circulating simultaneously. That isn't a diplomatic misunderstanding. It is the deal.",
+  "topic": "geopolitics",
+  "category": "conflict",
+  "tags": ["iran", "israel", "lebanon", "hezbollah", "ceasefire", "strait-of-hormuz", "vance", "islamabad", "oil"],
+  "sources": [
+    {
+      "url": "https://www.axios.com/2026/04/08/lebanon-attacks-israel-iran-ceasfire",
+      "publisher": "Axios",
+      "angle": "White House confirmed on record that the ceasefire does not cover Israeli strikes in Lebanon, contradicting Pakistan and Iran who said Lebanon was explicitly included."
+    },
+    {
+      "url": "https://www.cnn.com/2026/04/09/world/live-news/iran-war-trump-us-ceasefire",
+      "publisher": "CNN",
+      "angle": "Live blog covering the Lebanon strikes (182 dead, 890 wounded in 10 minutes), Hormuz traffic near zero with 400 tankers anchored, Islamabad talks, and Vance's admission of three competing ceasefire texts."
+    },
+    {
+      "url": "https://fortune.com/2026/04/09/iran-ceasefire-oil-price-strait-hormuz-peace-talks/",
+      "publisher": "Fortune",
+      "angle": "Markets and commodities lens: WTI at $97/barrel, S&P futures sliding, vessel tracking still shows ships avoiding Hormuz despite Trump declaring it open and safe."
+    }
+  ],
+  "brief": {
+    "whatHappened": "Two days after President Trump announced a two-week US-Iran ceasefire, Israel launched its largest coordinated strike on Lebanon since the war began, hitting over 100 Hezbollah sites in 10 minutes and killing at least 182 people. Iran, Pakistan, France, and most of the EU declared Lebanon was explicitly covered by the deal. The US and Israel said it was not. VP JD Vance then admitted publicly that three different versions of the 10-point ceasefire text are currently circulating simultaneously, and that the US had rejected Iran's original draft entirely. Vessel traffic through the Strait of Hormuz remained near zero on April 9 despite Trump posting on Truth Social that the strait was 'OPEN and SAFE,' with over 400 tankers anchored in the Persian Gulf and Brent crude at $97.80 per barrel.",
+    "bottomLine": "The ceasefire is not a paused war. It is a documented disagreement about whether a war is paused, with the party doing the bombing insisting it isn't bound by the truce it helped announce.",
+    "hiddenBets": [
+      {
+        "assumption": "The Islamabad talks will produce a durable framework.",
+        "whyItMightBeWrong": "Vance himself said Iran was 'lying' about the ceasefire terms before the talks even began. Both sides have domestic constituencies that punish compromise: Iran's parliament speaker called negotiations 'unreasonable,' and Netanyahu has political survival incentives to keep striking Lebanon regardless of what Washington says."
+      },
+      {
+        "assumption": "The ceasefire holds long enough for the Hormuz to reopen.",
+        "whyItMightBeWrong": "Polymarket puts Hormuz traffic returning to normal by end of April at just 25%. The IRGC's stated precondition for reopening is the Lebanon strikes stopping. The US position is that Lebanon is not part of the deal. These are not reconcilable in the near term."
+      },
+      {
+        "assumption": "Trump's 'maximum pressure' framing successfully credits him for the ceasefire.",
+        "whyItMightBeWrong": "Iran's negotiating position was its own 10-point plan, which the US rejected. The deal that emerged from something close to Iran's framework. Calling that a US victory requires ignoring what Iran actually agreed to and what the US conceded."
+      }
+    ],
+    "realDisagreement": "Whether the Lebanon exclusion is a cynical stitch-up or a legitimate ambiguity determines everything. If Trump and Netanyahu privately agreed before the announcement that Lebanon would remain a free-fire zone, then the ceasefire was announced knowing it would immediately appear to be violated, giving Iran an impossible choice: accept the Lebanon strikes as the new normal, or walk away and be blamed for collapsing the peace. If it was a genuine miscommunication, the talks in Islamabad have a narrow but real path. The evidence leans toward the former: Vance knew there were three versions of the text and said so publicly before the talks opened, which is not the behavior of someone trying to preserve trust. The side to lean toward: this was deliberate ambiguity designed to let Israel keep operating while giving Trump a ceasefire announcement. What you give up by leaning that way: the chance that Vance's transparency was itself a good-faith move to reset expectations rather than cover for bad faith.",
+    "whatNoOneIsSaying": "Saudi Arabia is the country most directly injured by both the war and the ceasefire's instability. Hormuz exports are running at half pre-war volume, its oil facilities have been struck, and its non-oil PMI just contracted for the first time in years. MBS cannot publicly criticize the ceasefire without appearing to prefer continued war, and cannot publicly criticize Israel without jeopardizing chip access and the US defense agreement he needs. So he says nothing useful, which is itself a signal about how little leverage anyone with real skin in the game has over this deal.",
+    "whoPays": [
+      {
+        "who": "Asian and European energy importers",
+        "how": "Hormuz carries approximately 20% of global oil trade. With 400 tankers anchored and normal traffic at near zero, prices are 40% above pre-war levels and freight insurance costs have spiked. These costs pass through to consumers and manufacturers on a 4-6 week lag.",
+        "when": "Already in effect; compounding weekly the strait remains closed."
+      },
+      {
+        "who": "Lebanese civilians in Hezbollah-adjacent areas",
+        "how": "Israel's largest coordinated Lebanon strike since the war began happened during an active ceasefire announcement, with 182 dead and 890 wounded. The ceasefire's Lebanon exclusion has removed the one diplomatic brake that might have restrained further strikes.",
+        "when": "Immediate and ongoing."
+      },
+      {
+        "who": "Iranian private sector and middle class",
+        "how": "Sanctions, the war, and now the ceasefire instability have compressed every economic pathway. If talks collapse and military operations resume, Iran's oil exports (already constrained) and foreign investment prospects (near zero) face another downward lurch.",
+        "when": "Medium-term, conditional on Islamabad talks."
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Managed Ambiguity",
+        "whatHappens": "US and Iran agree in Islamabad to a tacit understanding: Lebanon is not formally included in the ceasefire text, but Israel scales back its strike tempo. Hormuz reopens partially. Oil falls back toward $85. The root causes remain unresolved.",
+        "signal": "Vessel tracking shows Hormuz traffic climbing past 60 ships per day by April 15. Polymarket currently prices this at roughly 35% probability."
+      },
+      {
+        "name": "Ceasefire Collapse",
+        "whatHappens": "Iran walks out of Islamabad citing the Lebanon strikes. Military operations resume. Hormuz closes again. Oil surges past $110. US faces pressure to either re-engage militarily or allow Iran to reconstitute its nuclear program under cover of resumed conflict.",
+        "signal": "Iran's foreign minister publicly suspends the ceasefire by name, or Israel conducts a strike on Lebanese territory that kills Iranian Revolutionary Guard personnel."
+      },
+      {
+        "name": "Talks Grind Forward",
+        "whatHappens": "Both sides stay at the table past the two-week window. No formal extension is announced, but no formal collapse either. Hormuz traffic recovers slowly to 50-60% of normal. Oil remains elevated. The nuclear question is deferred to a separate track.",
+        "signal": "Vance and the Iranian foreign minister issue a joint statement after Islamabad, even a vague one. Polymarket prices full conflict end by April 30 at 66.5%."
+      }
+    ],
+    "whatWouldChange": "If vessel tracking data showed Hormuz traffic recovering toward normal while the Lebanon strikes continued, that would suggest Iran has accepted the Lebanon exclusion as the price of peace, which would make the bottom line wrong. Alternatively, if Iran released its 10-point ceasefire proposal publicly and it was materially different from the US version, it would clarify whether this is ambiguity or deception.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Iran x Israel/US conflict ends by April 30?",
+        "url": "https://polymarket.com/event/iran-x-israelus-conflict-ends-by",
+        "probability": 0.665
+      },
+      {
+        "platform": "Polymarket",
+        "question": "Strait of Hormuz traffic returns to normal by end of April?",
+        "url": "https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-april-30",
+        "probability": 0.25
+      },
+      {
+        "platform": "Polymarket",
+        "question": "Israel x Hezbollah ceasefire by April 30, 2026?",
+        "url": "https://polymarket.com/event/israel-x-hezbollah-ceasefire-by",
+        "probability": 0.355
+      },
+      {
+        "platform": "Polymarket",
+        "question": "US x Iran meeting by April 15, 2026?",
+        "url": "https://polymarket.com/event/us-x-iran-diplomatic-meeting-by-833",
+        "probability": 0.82
+      }
+    ]
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": "wisconsin-court-liberal-majority-judicial-power",
+  "date": "2026-04-09",
+  "generatedAt": "2026-04-09T12:45:00Z",
+  "title": "Wisconsin Just Gave Liberals a 5-2 Court Majority. The 2028 Election May Depend on It.",
+  "subtitle": "Chris Taylor won by 20 points, the fourth consecutive liberal landslide in Wisconsin court races. The state court now controls redistricting, election administration, and any litigation over the 2028 presidential result in the most contested swing state in the country.",
+  "topic": "politics",
+  "category": "power",
+  "tags": ["wisconsin", "supreme-court", "elections", "redistricting", "voting-rights", "2028", "judicial-power", "gerrymandering"],
+  "sources": [
+    {
+      "url": "http://www.guardian.co.uk/us-news/2026/apr/07/wisconsin-supreme-court-election",
+      "publisher": "The Guardian",
+      "angle": "Fourth consecutive double-digit Democratic victory in Wisconsin court races. Taylor openly campaigned on pushing back against federal overreach, while Lazar ran on court neutrality while holding positions aligned with Republican priorities."
+    },
+    {
+      "url": "https://www.wispolitics.com/2026/taylor-wins-supreme-court-race-expanding-liberal-majority-to-5-2/",
+      "publisher": "WisPolitics",
+      "angle": "Election mechanics: Taylor won 59.8% to 40.1%, outspent Lazar 8-to-1, liberal majority locked in through at least 2028, and conservative Justice Ziegler retiring next year means a 2027 win could produce a 6-1 majority through the 2031 redistricting cycle."
+    },
+    {
+      "url": "https://talkingpointsmemo.com/news/dem-backed-judge-will-win-wisconsin-supreme-court-expanding-its-liberal-majority",
+      "publisher": "Talking Points Memo",
+      "angle": "Taylor endorsed by Obama and Eric Holder, consistent with months of polling. The court will rule on pending gerrymandering challenges and election administration disputes in a state expected to be critical in 2028."
+    },
+    {
+      "url": "https://www.washingtonpost.com/politics/2026/04/09/supreme-court-conservative-trump-rulings/",
+      "publisher": "The Washington Post",
+      "angle": "Broader context: federal Supreme Court remade by Trump is the first since at least the 1950s to reject civil rights claims in a majority of cases involving women and minorities, making state courts the last line of defense for rights the federal court is rolling back."
+    }
+  ],
+  "brief": {
+    "whatHappened": "Liberal appeals court judge Chris Taylor defeated conservative rival Maria Lazar in Wisconsin's state Supreme Court election on April 7, 2026, by approximately 20 percentage points with 59.8% of the vote. The result expands the court's liberal majority to 5-2, the fourth consecutive double-digit Democratic victory in the state's high court races. Taylor was endorsed by Barack Obama and former Attorney General Eric Holder, outspent Lazar 8-to-1 at $7.9 million in combined spending versus Lazar's $946,000 raised, and campaigned explicitly on using the court to defend reproductive rights, push back against federal overreach, and protect election access. Conservative Justice Annette Ziegler retires next year, meaning a liberal win in 2027 could produce a 6-1 majority running through the 2031 redistricting cycle.",
+    "bottomLine": "Wisconsin's state Supreme Court is becoming one of the most consequential judicial bodies in the country, not because of the issues on its docket now, but because it will adjudicate the rules of the 2028 presidential election in a state that has decided three presidential elections by margins under 25,000 votes.",
+    "hiddenBets": [
+      {
+        "assumption": "The federal Supreme Court will be the decisive body on election law questions in 2028.",
+        "whyItMightBeWrong": "State supreme courts control state election administration law, redistricting, and the initial determination of which ballots count in state-run elections. The federal court only takes cases that raise federal constitutional questions. Wisconsin's court has already redrawn legislative maps once. It will do it again after 2031. The party that controls the state court controls the state's electoral architecture for a decade."
+      },
+      {
+        "assumption": "Four consecutive liberal wins means Wisconsin has permanently shifted toward Democrats in judicial races.",
+        "whyItMightBeWrong": "All four wins happened against a backdrop of Dobbs backlash, Trump's legal controversies, and a collapse of Republican judicial fundraising in the state. Conservative infrastructure is rebuilding. The 2027 race for Ziegler's seat will be the most expensive in state history and will attract national Republican money that was absent in 2026."
+      },
+      {
+        "assumption": "The court's liberal majority will be internally unified.",
+        "whyItMightBeWrong": "Taylor campaigned on resisting federal overreach, which includes some issues where liberals disagree internally, such as federal preemption questions in labor and environmental law. A 5-2 majority can crack on individual cases. The cases that matter most in 2028 will be ones where the pressure to rule a particular way will be intense from both parties."
+      }
+    ],
+    "realDisagreement": "The genuine tension is between two views of what courts are for. The liberal case is that courts protect rights when legislatures fail, and that a court that declines to do this under cover of 'neutrality' is making a political choice, just one that favors the status quo. The conservative case is that courts doing political work under a judicial label corrodes institutional legitimacy and produces an arms race where each party tries to capture the judiciary rather than win legislative majorities. Both arguments have force. But the arms race has already happened: conservatives spent thirty years methodically reshaping the federal judiciary and the Wisconsin Republican Party gerrymandered the state legislature to the point where Democrats won 54% of the vote in 2022 and 38% of the legislative seats. Taylor's win is partly a response to that. The question is whether it produces de-escalation or escalation, and recent history strongly suggests escalation.",
+    "whatNoOneIsSaying": "If Taylor's court strikes down Wisconsin's legislative maps in the next redistricting cycle, the Wisconsin legislature might respond by passing a law stripping the state court of jurisdiction over redistricting questions, or by moving to a legislative appointment model for Supreme Court justices. Republican-controlled legislatures in other states have already done both. The court's majority is real, but the levers available to the legislature to constrain it are also real, and no one is modeling that counterattack.",
+    "whoPays": [
+      {
+        "who": "Wisconsin voters in gerrymandered districts",
+        "how": "If the court redraws legislative maps, some districts that currently return safe Republican seats could become competitive. The mechanism is direct: each redrawn district changes who is eligible to vote for whom.",
+        "when": "After 2031 census and redistricting cycle, unless a constitutional challenge triggers earlier action."
+      },
+      {
+        "who": "Republican Party of Wisconsin",
+        "how": "The state party bet its structural advantage on gerrymandered maps and has allowed judicial fundraising to atrophy. A 5-2 or 6-1 liberal court running through 2033 means a decade of hostile rulings on the rules of state-level electoral competition.",
+        "when": "Already visible: four consecutive losses by double digits indicates an organization that has not adapted."
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "The 2028 Backstop",
+        "whatHappens": "A close 2028 presidential result in Wisconsin generates litigation over ballot-counting rules, mail ballot deadlines, or certification timelines. The 5-2 state supreme court rules in ways that favor the Democratic position on contested ballots. The federal Supreme Court takes the case. The outcome depends on which legal question the federal court is willing to reach.",
+        "signal": "Watch for the Wisconsin Supreme Court's rulings on Watson v. RNC (mail ballot deadlines) at the federal level. If the federal court rules narrowly, state courts retain jurisdiction over state-specific questions."
+      },
+      {
+        "name": "Republican Legislative Counter",
+        "whatHappens": "After one or two major adverse rulings on redistricting or election administration, the Wisconsin Republican legislature passes a jurisdiction-stripping bill removing the court's authority over electoral maps, or moves to a legislative appointment model. Democrats challenge this in federal court. The federal Supreme Court declines to intervene.",
+        "signal": "Any Republican legislation filed in the first two years of Taylor's term that would reduce the court's power or change how justices are selected."
+      },
+      {
+        "name": "Maps Redrawn, Legislature Flips",
+        "whatHappens": "The court orders new legislative maps before 2028. Democrats win enough seats to deadlock or flip the legislature in 2026 or 2028. Wisconsin governance becomes genuinely competitive at all levels for the first time since 2011.",
+        "signal": "A court order to redraw maps before the 2026 midterms, which would require an expedited timeline the court would have to explicitly choose."
+      }
+    ],
+    "whatWouldChange": "If conservative Justice Ziegler retires but the Republican candidate wins the 2027 race, the majority narrows to 4-3, which dramatically changes the court's operating environment. If the federal Supreme Court issues a ruling in Watson v. RNC that preempts state court authority over mail ballot deadlines, it removes the most time-sensitive election law question from the state court's docket.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "SCOTUS bars counting mail ballots after election day?",
+        "url": "https://polymarket.com/event/scotus-bars-counting-mail-ballots-after-election-day",
+        "probability": 0.685
+      }
+    ]
+  }
+}

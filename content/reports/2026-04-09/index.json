@@ -1,6 +1,6 @@
 {
   "date": "2026-04-09",
-  "generatedAt": "2026-04-09T08:46:54.192802Z",
+  "generatedAt": "2026-04-09T12:45:00Z",
   "reports": [
     {
       "id": "ieepa-collapse-executive-trade-power",
@@ -24,6 +24,36 @@
       "id": "federal-ai-preemption-fight",
       "title": "Zero Federal AI Laws, 1,561 State Bills, and a White House Framework Nobody Has to Follow",
       "subtitle": "The US has no binding AI law while the EU enforces its Act across 27 countries. The federal-state collision is now the biggest AI governance story in the world.",
+      "category": "power"
+    },
+    {
+      "id": "iran-ceasefire-lebanon-scope-collapse",
+      "title": "The Ceasefire Has Three Versions. None of Them Cover Lebanon.",
+      "subtitle": "VP Vance admitted there are three conflicting drafts of the Iran truce circulating simultaneously. That isn't a diplomatic misunderstanding. It is the deal.",
+      "category": "conflict"
+    },
+    {
+      "id": "gulf-ai-chip-bet-humain-stargate",
+      "title": "Saudi Arabia Killed The Line and Built a Data Center Instead",
+      "subtitle": "MBS suspended his $500 billion linear city after 1.4% completion, pivoted $23 billion to AI infrastructure, and made Elon Musk's Grok the kingdom's national AI layer. The geopolitical bet underneath this is enormous.",
+      "category": "power"
+    },
+    {
+      "id": "save-act-voter-id-disenfranchisement",
+      "title": "The SAVE Act Would Disenfranchise 21 Million People. Speaker Johnson Says That's the Point.",
+      "subtitle": "Trump's voter ID bill passed the House in February. A Republican speaker was caught on a hot mic saying it would cut 18% of the electorate. The Senate is now deciding whether that counts as a selling point.",
+      "category": "power"
+    },
+    {
+      "id": "wisconsin-court-liberal-majority-judicial-power",
+      "title": "Wisconsin Just Gave Liberals a 5-2 Court Majority. The 2028 Election May Depend on It.",
+      "subtitle": "Chris Taylor won by 20 points, the fourth consecutive liberal landslide in Wisconsin court races. The state court now controls redistricting, election administration, and any litigation over the 2028 presidential result.",
+      "category": "power"
+    },
+    {
+      "id": "trump-tariff-iran-threat-no-legal-authority",
+      "title": "Trump Threatened 50% Tariffs on Iran's Arms Suppliers. He Has No Law to Do It With.",
+      "subtitle": "The same Supreme Court that struck down $166 billion in IEEPA tariffs in February is now being asked to validate a new 50% tariff threat posted on Truth Social. The UK is expecting to be hit.",
       "category": "power"
     }
   ]

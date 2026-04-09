@@ -1,0 +1,106 @@
+{
+  "id": "save-act-voter-id-disenfranchisement",
+  "date": "2026-04-09",
+  "generatedAt": "2026-04-09T12:45:00Z",
+  "title": "The SAVE Act Would Disenfranchise 21 Million People. Speaker Johnson Says That's the Point.",
+  "subtitle": "Trump's voter ID bill passed the House in February. A Republican speaker was caught on a hot mic saying it would cut 18% of the electorate. The Senate is now deciding whether that counts as a selling point.",
+  "topic": "politics",
+  "category": "power",
+  "tags": ["voting-rights", "save-act", "voter-id", "elections", "trump", "senate", "midterms", "disenfranchisement"],
+  "sources": [
+    {
+      "url": "https://time.com/article/2026/04/03/voting-restrictions-citizenship-proof-state-laws-ballot-measures-trump-save-act/",
+      "publisher": "TIME",
+      "angle": "The federal bill appears stalled in the Senate, but four Republican governors have already signed state equivalents into law (Florida, Mississippi, South Dakota, Utah), and five more states are pursuing constitutional amendments for the November 2026 ballot."
+    },
+    {
+      "url": "https://www.thenation.com/article/politics/save-america-act-voter-disenfranchisement/",
+      "publisher": "The Nation",
+      "angle": "Rep. Gwen Moore (D-WI), first Black congressmember from Wisconsin, argues the act is 'Jim Crow 2026': Speaker Johnson caught on hot mic saying it would disenfranchise 18% of the electorate, which translates to 20 million people at 2022 midterm turnout levels."
+    },
+    {
+      "url": "https://thebrunswicknews.com/naomi-ishisaka-how-the-save-america-act-would-make-it-harder-for-you-to-vote/article_7755e1b1-1cd4-557a-b145-061cdedef8f1.html",
+      "publisher": "The Brunswick News",
+      "angle": "Washington State analysis: only 33% of residents hold qualifying enhanced ID, implementation cost $35 million for Washington alone, Heritage Foundation fraud database shows 0.0000008% of ballots fraudulent over 25 years."
+    },
+    {
+      "url": "https://local.newsbreak.com/the-hill-560476/4575938020785-what-documents-would-you-need-to-vote-if-save-act-passes",
+      "publisher": "The Hill",
+      "angle": "Practical documentation requirements: passports work everywhere, but driver's licenses qualify in only five states. Trump himself said the law was 'necessary for Republicans to win in the midterm elections,' a statement Democrats have flagged as admission of intent."
+    },
+    {
+      "url": "https://www.ndrn.org/resource/saveact/",
+      "publisher": "National Disability Rights Network",
+      "angle": "Disability community angle: the law eliminates accessible voting alternatives that disabled voters depend on, with coalition arguing it is a 'solution in search of a problem' given the evidence base on actual fraud rates."
+    }
+  ],
+  "brief": {
+    "whatHappened": "The SAVE America Act (Safeguard American Voter Eligibility Act) passed the House in February 2026 and is now pending Senate action. The law would require documentary proof of US citizenship to register to vote in any federal election, mandate in-person registration for most voters, and require a copy of photo ID with mail-in ballots. A passport works in all 50 states under the bill, but a driver's license qualifies only in five states that issue enhanced REAL IDs. The Brennan Center for Justice found that 21 million voting-age citizens lack ready access to the required documents. Four Republican governors have already signed state-level equivalents into law. Republican Speaker Mike Johnson was caught on a hot mic saying the bill would disenfranchise up to 18% of the electorate.",
+    "bottomLine": "When the bill's own author is caught saying it will cut 18% of voters, and the President says it is 'necessary for Republicans to win in the midterm elections,' the election integrity framing is not a good-faith argument. It is a rationale constructed after the goal was decided.",
+    "hiddenBets": [
+      {
+        "assumption": "The Senate will block the federal bill, making it a non-issue.",
+        "whyItMightBeWrong": "Four states have already passed their own versions. Five more have constitutional amendments heading to November 2026 ballots. The federal bill's failure would accelerate the patchwork state strategy, which courts have been slower to block than advocates anticipated. The effect is the same whether the federal bill passes or not."
+      },
+      {
+        "assumption": "Courts will strike down these laws before the 2026 midterms.",
+        "whyItMightBeWrong": "Polymarket gives 68.5% probability that SCOTUS bars counting mail ballots received after election day, which suggests the court will rule on related questions in ways that validate stricter voting rules rather than block them. A court that just approved birthright citizenship restrictions is unlikely to draw the line at documentary proof of citizenship for voting."
+      },
+      {
+        "assumption": "The 21 million affected voters will be disproportionately non-citizens or ineligible voters.",
+        "whyItMightBeWrong": "The Heritage Foundation's own 25-year fraud database, cited by the bill's opponents and available publicly, documented 1,620 fraudulent votes out of 1.3 billion cast. The 21 million people who lack required documents are documented US citizens. They are not ineligible voters. They are eligible voters who cannot easily prove it."
+      }
+    ],
+    "realDisagreement": "The genuine tension here is not about fraud prevention. It is about whether a democracy can set its own membership criteria without those criteria being examined for who they exclude. The Republican argument is that citizenship verification is a basic, reasonable condition for a citizenship-based franchise. The Democratic argument is that the real-world implementation of 'reasonable' conditions has historically operated as a sorting mechanism, and that Johnson's hot-mic comment and Trump's stated rationale make the intent legible. The question that actually matters is whether intent is relevant when evaluating a facially neutral law. The Supreme Court's current posture suggests it is not, or at least not disqualifyingly so. Lean toward: the law will pass in some form, state-level or federal, and will reshape the 2026 midterm electorate in ways that favor Republicans. What you give up by leaning that way: the genuine procedural case that some voter ID is reasonable in principle, which this law is not, because its specific documentation requirements go well beyond what any other democracy imposes.",
+    "whatNoOneIsSaying": "Trump said the law was 'necessary for Republicans to win in the midterm elections.' He said this publicly. No Republican senator has distanced themselves from that framing. The debate is proceeding as though the stated goal of the bill's champion is not the most relevant fact about its purpose.",
+    "whoPays": [
+      {
+        "who": "70 million married women whose legal names differ from birth certificates",
+        "how": "The bill requires name matching between documents. A married woman whose driver's license shows her married name and birth certificate shows her maiden name needs additional documentation to resolve the discrepancy, adding cost and bureaucratic burden at every registration cycle.",
+        "when": "Immediately upon implementation."
+      },
+      {
+        "who": "21 million citizens without ready access to qualifying documents",
+        "how": "Getting a qualifying document costs money (passport: $130+), time (weeks of processing), transportation, and the ability to navigate government bureaucracy. These are not equally distributed barriers. They fall hardest on low-income voters, rural voters, elderly voters, voters of color, and disabled voters.",
+        "when": "Within the registration window before the 2026 midterms if the bill passes this year."
+      },
+      {
+        "who": "State election administrators",
+        "how": "Implementation costs are estimated at $35 million for Washington State alone, and states like D.C. and the 11 other jurisdictions that currently allow registration without documentation would need complete system overhauls with essentially no transition period.",
+        "when": "Months after passage; costs accelerate as the midterm registration deadline approaches."
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Federal Bill Fails, States Lead",
+        "whatHappens": "The Senate blocks the SAVE Act on filibuster grounds. However, Florida, Mississippi, South Dakota, and Utah laws stand, and five more state constitutional amendments pass in November 2026. The result is a patchwork that achieves most of the electoral effect without a single point of legal vulnerability.",
+        "signal": "Senate Democrats hold the filibuster, but no Republican senator explicitly condemns the state-level equivalents."
+      },
+      {
+        "name": "Bill Passes, Courts Delay",
+        "whatHappens": "The Senate changes filibuster rules or uses reconciliation to pass the SAVE Act. Courts issue preliminary injunctions that delay implementation until after the 2026 midterms, limiting immediate electoral impact but establishing a legal battle that runs through the 2028 cycle.",
+        "signal": "Injunctions are filed within 48 hours of passage, as they were for Trump's birthright citizenship executive order."
+      },
+      {
+        "name": "Bill Passes, Courts Uphold",
+        "whatHappens": "SAVE Act passes. Courts decline to issue injunctions, citing the Supreme Court's permissive posture on voting restrictions. Voter registration drops sharply in the affected demographics ahead of the November 2026 midterms. Republican margins in competitive races benefit from a smaller, older, wealthier electorate.",
+        "signal": "SCOTUS declines emergency applications for injunctions, consistent with its recent trend on election law cases. Polymarket's 68.5% probability on SCOTUS blocking mail ballot counting is a directional indicator."
+      }
+    ],
+    "whatWouldChange": "If the Heritage Foundation's fraud database were updated to show materially higher rates of non-citizen voting, the factual basis of the opposition collapses. If Republican senators publicly acknowledge Johnson's hot-mic comment and explicitly commit to amendments that reduce the documentary burden while preserving a citizenship check, there might be a version of the bill that is genuinely about fraud prevention rather than electorate sculpting.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "SCOTUS bars counting mail ballots after election day?",
+        "url": "https://polymarket.com/event/scotus-bars-counting-mail-ballots-after-election-day",
+        "probability": 0.685
+      },
+      {
+        "platform": "Polymarket",
+        "question": "SCOTUS strikes down Trump's Birthright Citizenship EO?",
+        "url": "https://polymarket.com/event/scotus-strikes-down-trumps-birthright-citizenship-eo",
+        "probability": 0.9545
+      }
+    ]
+  }
+}
