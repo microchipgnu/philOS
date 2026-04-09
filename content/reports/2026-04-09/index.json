@@ -1,0 +1,30 @@
+{
+  "date": "2026-04-09",
+  "generatedAt": "2026-04-09T08:46:54.192802Z",
+  "reports": [
+    {
+      "id": "ieepa-collapse-executive-trade-power",
+      "title": "The Court Took Away the President's Tariff Gun. He's Already Looking for Another One.",
+      "subtitle": "SCOTUS killed $166 billion in tariffs in February. By April, Trump was threatening new 50% levies with no named legal authority.",
+      "category": "power"
+    },
+    {
+      "id": "kmt-beijing-visit-taiwan-wedge",
+      "title": "Beijing Invited the Opposition. Taiwan's Government Should Be Alarmed.",
+      "subtitle": "The KMT chair's 'Journey of Peace' to Beijing is a sophisticated move to split Taiwanese politics before Trump meets Xi.",
+      "category": "power"
+    },
+    {
+      "id": "us-iran-ceasefire-who-won",
+      "title": "The Iran Ceasefire: Trump's Victory Lap Is a Cover Story",
+      "subtitle": "The deal was built on Iran's 10-point plan. Calling that a win requires ignoring what the plan says.",
+      "category": "conflict"
+    },
+    {
+      "id": "federal-ai-preemption-fight",
+      "title": "Zero Federal AI Laws, 1,561 State Bills, and a White House Framework Nobody Has to Follow",
+      "subtitle": "The US has no binding AI law while the EU enforces its Act across 27 countries. The federal-state collision is now the biggest AI governance story in the world.",
+      "category": "power"
+    }
+  ]
+}

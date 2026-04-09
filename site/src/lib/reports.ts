@@ -75,8 +75,28 @@ export function getDays(): string[] {
 
 export function getDayIndex(date: string): DayIndex | null {
   const indexPath = path.join(CONTENT_DIR, date, "index.json");
-  if (!fs.existsSync(indexPath)) return null;
-  return JSON.parse(fs.readFileSync(indexPath, "utf-8"));
+  if (fs.existsSync(indexPath)) {
+    return JSON.parse(fs.readFileSync(indexPath, "utf-8"));
+  }
+
+  // Fallback: build index from individual JSON files
+  const dayDir = path.join(CONTENT_DIR, date);
+  if (!fs.existsSync(dayDir)) return null;
+
+  const files = fs.readdirSync(dayDir).filter((f) => f.endsWith(".json") && f !== "index.json");
+  if (files.length === 0) return null;
+
+  const reports = files.map((f) => {
+    const data = JSON.parse(fs.readFileSync(path.join(dayDir, f), "utf-8"));
+    return {
+      id: data.id,
+      title: data.title,
+      subtitle: data.subtitle,
+      category: data.category,
+    };
+  });
+
+  return { date, generatedAt: new Date().toISOString(), reports };
 }
 
 export function getReport(date: string, slug: string): Report | null {
