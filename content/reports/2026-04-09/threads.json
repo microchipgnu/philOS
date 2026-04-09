@@ -101,5 +101,39 @@
         }
       ]
     }
+    ,
+    {
+      "id": "information-asymmetry-machine",
+      "title": "Who Knew First",
+      "description": "Three stories today are about the same structural problem: critical information is held by a small group of actors and the gap between what they know and what everyone else knows is being monetized, exploited, or weaponized. Polymarket insiders knew the ceasefire before the market did. Anthropic's Glasswing partners know which vulnerabilities exist before the internet does. Zelensky's diplomatic statement worked because he understood Trump's Iran deal better than the public did the moment it was announced. In all three cases, the information asymmetry is the mechanism of power.",
+      "type": "tension-cluster",
+      "stories": ["polymarket-ceasefire-insider-trading", "anthropic-mythos-too-dangerous-to-release", "zelensky-iran-deal-russia-pressure"],
+      "connections": [
+        {
+          "from": "polymarket-ceasefire-insider-trading",
+          "to": "anthropic-mythos-too-dangerous-to-release",
+          "relationship": "Both turn on who gets privileged access to information that the rest of the world lacks: ceasefire negotiation details in one case, zero-day vulnerability data in the other. In both cases, the privileged group profits from the gap."
+        },
+        {
+          "from": "anthropic-mythos-too-dangerous-to-release",
+          "to": "zelensky-iran-deal-russia-pressure",
+          "relationship": "Anthropic restricted Mythos to a cartel of incumbents and called it safety; Zelensky used the Iran deal's diplomatic logic before Russia or the public had fully processed its implications. Both are exercises in using informational lead time as leverage."
+        }
+      ]
+    },
+    {
+      "id": "anticipatory-damage",
+      "title": "The Harm That Happens Before the Decision",
+      "description": "The Medicaid cuts story and the birthright citizenship story share a mechanism that almost no analysis captures: the damage from a threat or uncertain policy can exceed the damage from the policy itself. States are cutting Medicaid services before Congress mandates it, because budget uncertainty is costlier than a definitive cut. Immigrant families adjusted birth timing and travel plans in response to an executive order that never took effect. In both cases, the real injury happened in the anticipation phase, not the implementation phase.",
+      "type": "tension-cluster",
+      "stories": ["medicaid-states-cutting-before-congress-votes", "scotus-birthright-citizenship-oral-argument"],
+      "connections": [
+        {
+          "from": "scotus-birthright-citizenship-oral-argument",
+          "to": "medicaid-states-cutting-before-congress-votes",
+          "relationship": "Both show how uncertain federal policy creates real harm before it is resolved: the birthright EO was enjoined but still changed behavior for families on temporary visas; the budget reconciliation act passed but federal Medicaid cuts have not yet taken effect, and states are already acting as if they have."
+        }
+      ]
+    }
   ]
 }

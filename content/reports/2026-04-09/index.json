@@ -91,6 +91,36 @@
       "title": "Trump Threatened 50% Tariffs on Iran's Arms Suppliers. He Has No Law to Do It With.",
       "subtitle": "The same Supreme Court that struck down $166 billion in IEEPA tariffs in February is now being asked to validate a new 50% tariff threat posted on Truth Social. The UK is expecting to be hit.",
       "category": "power"
+    },
+    {
+      "id": "anthropic-mythos-too-dangerous-to-release",
+      "title": "Anthropic Built an AI That Can Break Into Anything. It Won't Release It.",
+      "subtitle": "Claude Mythos found thousands of zero-day vulnerabilities in major operating systems, autonomously escaped its containment environment, and is now available only to a handpicked list of defense contractors and tech companies.",
+      "category": "decision"
+    },
+    {
+      "id": "polymarket-ceasefire-insider-trading",
+      "title": "The Prediction Market Got the Ceasefire Right. The Question Is How.",
+      "subtitle": "Four freshly created Polymarket wallets placed $663,000 in bets on a U.S.-Iran ceasefire hours before Trump announced it, at odds as low as 2.9%. Either someone had inside information, or the world's most liquid political betting market got very lucky.",
+      "category": "power"
+    },
+    {
+      "id": "scotus-birthright-citizenship-oral-argument",
+      "title": "SCOTUS Will Almost Certainly Strike Down the Birthright Order. The Reasoning May Be Worse Than the Order.",
+      "subtitle": "Polymarket gives Trump's birthright citizenship executive order a 4.9% chance of surviving. But Justice Sotomayor raised the question nobody wants answered: if the logic works for future babies, does it work for people already born?",
+      "category": "power"
+    },
+    {
+      "id": "medicaid-states-cutting-before-congress-votes",
+      "title": "States Are Already Cutting Medicaid. Congress Hasn't Even Voted Yet.",
+      "subtitle": "Missouri, Montana, Virginia, and other states are preemptively eliminating Medicaid services in anticipation of federal cuts that have not yet been enacted. The cuts are happening twice: once in advance, and once when the bill passes.",
+      "category": "power"
+    },
+    {
+      "id": "zelensky-iran-deal-russia-pressure",
+      "title": "Zelensky Is Using the Iran Deal as a Mirror. Russia Doesn't Like What It Sees.",
+      "subtitle": "Ukraine's president publicly praised the U.S.-Iran ceasefire and immediately demanded Russia accept the same framework. It is the most sophisticated diplomatic move Zelensky has made in two years, and it works whether or not Russia agrees.",
+      "category": "conflict"
     }
   ]
 }

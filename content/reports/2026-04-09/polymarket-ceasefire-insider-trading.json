@@ -1,0 +1,101 @@
+{
+  "id": "polymarket-ceasefire-insider-trading",
+  "date": "2026-04-09",
+  "generatedAt": "2026-04-09T22:25:00Z",
+  "title": "The Prediction Market Got the Ceasefire Right. The Question Is How.",
+  "subtitle": "Four freshly created Polymarket wallets placed $663,000 in bets on a U.S.-Iran ceasefire hours before Trump announced it, at odds as low as 2.9%. Either someone had inside information, or the world's most liquid political betting market got very lucky.",
+  "topic": "economy",
+  "category": "power",
+  "tags": ["Polymarket", "prediction markets", "insider trading", "Iran ceasefire", "crypto regulation"],
+  "coverImage": {
+    "url": "https://www.theglobeandmail.com/resizer/v2/JTBATK4NE5HSDHZFTPHWD5UDE4.jpg?auth=ae1e6090534a1a9ed3faf78a3b6eeeddba3edcbc0d798f6e62874050a348b7ae&width=1200&height=800&quality=80&smart=true",
+    "local": "/images/reports/2026-04-09/polymarket-ceasefire-insider-trading.jpg",
+    "credit": "The Associated Press via Globe and Mail"
+  },
+  "sources": [
+    {
+      "url": "https://www.bostonherald.com/2026/04/08/polymarket-us-iran-ceasefire/",
+      "publisher": "Boston Herald (AP)",
+      "angle": "Primary AP report: documents the four wallets, their creation dates, bet sizes, odds at time of purchase, and the $663K total profit; includes on-chain analytics from LooknChain"
+    },
+    {
+      "url": "https://www.theglobeandmail.com/business/article-polymarket-bets-ceasefire-iran-war-us-israel-prediction-markets/",
+      "publisher": "Globe and Mail",
+      "angle": "Same AP report with editorial context on the regulatory implications for crypto-based prediction markets"
+    },
+    {
+      "url": "https://gizmodo.com/trumps-botched-iran-ceasefire-puts-polymarket-bettors-in-a-bind-2000744091",
+      "publisher": "Gizmodo",
+      "angle": "Focuses on the market structure problem: the ceasefire language is ambiguous enough that Polymarket may dispute the resolution, leaving alleged insiders in limbo"
+    },
+    {
+      "url": "https://bitcoinworld.co.in/insider-trading-polymarket-us-iran-ceasefire/",
+      "publisher": "Bitcoin World",
+      "angle": "Crypto-industry reaction: notes the SEC's existing attention to prediction markets after the 2024 election cycle and argues this incident accelerates regulatory action"
+    }
+  ],
+  "brief": {
+    "actors": ["Polymarket", "Trump", "SEC", "CFTC"],
+    "whatHappened": "On April 7, hours before President Trump announced a two-week U.S.-Iran ceasefire, four newly created wallets on Polymarket placed concentrated bets that the ceasefire would happen, entering at odds of 2.9% to 10.3%. More than $170 million in total bets were placed on ceasefire markets across the platform, making it one of the largest political betting events in the market's history. The four suspicious wallets collectively profited approximately $663,000. On-chain analytics firm LooknChain flagged the wallets on April 8; AP reported the story the same day. Polymarket has not commented publicly on whether it will investigate or claw back the winnings.",
+    "bottomLine": "The ceasefire insider trading incident is not primarily a story about fraud. It is a story about what prediction markets are for, and who they actually benefit when political information is this unevenly distributed.",
+    "hiddenBets": [
+      {
+        "assumption": "Polymarket's odds accurately reflected the probability of a ceasefire before the announcement",
+        "whyItMightBeWrong": "If informed traders (with or without inside information) were systematically moving the odds toward YES in the hours before the announcement, the published probability was not a market consensus. It was a lagging signal with noise injected by people who already knew the answer. The odds did not reflect genuine uncertainty. They reflected information asymmetry."
+      },
+      {
+        "assumption": "Insider trading rules don't apply to crypto prediction markets",
+        "whyItMightBeWrong": "The CFTC has jurisdiction over prediction markets operating in the US and has previously pursued enforcement against Polymarket. The question is not whether existing laws technically cover this, but whether the CFTC treats it as a priority. After the 2024 election controversy and now this, the political cost of not acting is rising."
+      },
+      {
+        "assumption": "This is an anomaly in an otherwise efficient market",
+        "whyItMightBeWrong": "The 2024 election cycle saw similar pre-announcement movements in Trump victory markets. The pattern of wallets being created, funded, and used for a single large directional bet with no prior history is a consistent fingerprint across multiple events. This is not an isolated incident. It is a business model."
+      }
+    ],
+    "realDisagreement": "The deeper fork: prediction markets are justified by the claim that they aggregate dispersed information better than polls or pundits, and that the profit motive draws out people who genuinely know things. If that is true, then someone betting big on a ceasefire right before it happens might simply be a very well-connected analyst who read the situation correctly. The market worked. If it is not true, then what happened is that people with access to government deliberations used a lightly regulated financial instrument to extract money from retail bettors who lacked that access. Both cannot be simultaneously true in this case. The lean is toward the second interpretation, because the wallets were created and funded on the same day, placed exactly one bet each, and had no prior activity. That is not the footprint of a sophisticated analyst building a position over time. That is a burner account.",
+    "whatNoOneIsSaying": "The Trump administration has been publicly enthusiastic about prediction markets as a tool for governance. Several senior officials have discussed consulting Polymarket odds when making decisions. If those same officials or their associates are profiting from inside knowledge of the decisions that then move those markets, the circle is tighter than any regulator has acknowledged publicly.",
+    "whoPays": [
+      {
+        "who": "Retail bettors on the NO side of the ceasefire market",
+        "how": "They provided the liquidity that the alleged insiders collected. At odds of 90-97% in their favor, they believed they were taking a safe bet. The money that funded the $663K profit came directly from their positions.",
+        "when": "Already happened; April 7-8"
+      },
+      {
+        "who": "Legitimate prediction market analysts and researchers",
+        "how": "Every high-profile insider trading incident degrades the signal value of the market for everyone who uses it in good faith. If large political bets near announcement time reflect information leakage rather than genuine forecasting skill, the market's reputation as an epistemic tool erodes.",
+        "when": "Gradual, ongoing"
+      },
+      {
+        "who": "Polymarket itself",
+        "how": "The platform now faces either a regulatory confrontation or the perception that it tolerates insider trading. Neither path is good for its US market ambitions. If it claws back the winnings, it sets a precedent for intervention that undermines the immutability pitch. If it does not, it is the headline every regulator will use to justify shutting it down.",
+        "when": "Within 30-60 days as regulatory response develops"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Regulatory reckoning",
+        "whatHappens": "The CFTC opens a formal investigation into the four wallets. Polymarket cooperates or is compelled to provide KYC data from the account creation process. The investigation reveals connection to a person with access to administration deliberations and becomes the predicate for new prediction market regulations.",
+        "signal": "CFTC issues a civil investigative demand to Polymarket within 60 days"
+      },
+      {
+        "name": "Soft burial",
+        "whatHappens": "Polymarket issues a statement saying it is reviewing the transactions but takes no action. The CFTC declines to pursue the case. The story fades and the market continues operating with the implicit understanding that connected players can trade on political inside information without consequence.",
+        "signal": "No CFTC action announced by June 2026 and Polymarket makes no disclosure about the wallets"
+      },
+      {
+        "name": "Market fractures",
+        "whatHappens": "Institutional participants and media organizations that cited Polymarket odds as legitimate signals publicly downgrade the market's credibility. Volume migrates to newer platforms with stronger KYC and smaller addressable markets. The liquidity that made Polymarket's odds meaningful drains.",
+        "signal": "Total open interest in major US political markets drops more than 30% in Q2 2026 compared to Q1"
+      }
+    ],
+    "whatWouldChange": "If on-chain analysis showed that the four wallets had a history of correct bets across multiple events without any pattern of new-account creation, the inside information interpretation would weaken. That would not prove innocence, but it would be consistent with an unusually well-calibrated analyst building a new pseudonymous position. The single-bet, new-wallet, maximum-position structure makes that alternative very difficult to defend.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "US x Iran ceasefire by April 30?",
+        "url": "https://polymarket.com/event/us-x-iran-ceasefire-by",
+        "probability": 1.0
+      }
+    ]
+  }
+}
