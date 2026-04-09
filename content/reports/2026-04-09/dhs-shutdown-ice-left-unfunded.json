@@ -110,5 +110,11 @@
     "url": "https://i0.wp.com/media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-03/260325-tsa-lines-ch-1049-31a04f.jpg",
     "local": "/images/reports/2026-04-09/dhs-shutdown-ice-left-unfunded.jpg",
     "credit": "Custom Map Poster (syndicated news)"
-  }
+  },
+  "actors": [
+    "Congress",
+    "Trump",
+    "ICE",
+    "DHS"
+  ]
 }

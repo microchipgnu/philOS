@@ -108,5 +108,10 @@
     "url": "https://govtransparencyproject.org/images/ieepa-scotus-ruling-section-122-trade-framework-2026-hero.jpg",
     "local": "/images/reports/2026-04-09/ieepa-collapse-executive-trade-power.jpg",
     "credit": "Gov Transparency Project"
-  }
+  },
+  "actors": [
+    "Trump",
+    "SCOTUS",
+    "Congress"
+  ]
 }

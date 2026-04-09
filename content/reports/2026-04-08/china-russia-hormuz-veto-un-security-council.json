@@ -109,5 +109,11 @@
     "url": "https://www.aljazeera.com/wp-content/uploads/2026/04/afp_69d547b48f9c-1775585204.jpg?resize=1920%2C1440",
     "local": "/images/reports/2026-04-08/china-russia-hormuz-veto-un-security-council.jpg",
     "credit": "Al Jazeera"
-  }
+  },
+  "actors": [
+    "China",
+    "Russia",
+    "Iran",
+    "UN Security Council"
+  ]
 }

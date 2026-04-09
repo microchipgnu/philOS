@@ -103,5 +103,10 @@
     "url": "https://static.foxnews.com/static/orion/styles/img/fox-news/og/og-fox-news.png",
     "local": "/images/reports/2026-04-08/trump-iran-ceasefire-victory-or-surrender.jpg",
     "credit": "Fox News"
-  }
+  },
+  "actors": [
+    "Trump",
+    "Iran",
+    "Pakistan"
+  ]
 }

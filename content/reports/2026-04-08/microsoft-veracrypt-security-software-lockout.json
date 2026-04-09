@@ -85,5 +85,9 @@
     "url": "https://techcrunch.com/wp-content/uploads/2026/04/blue-screen-error-2162004949.jpg?resize=1200,798",
     "local": "/images/reports/2026-04-08/microsoft-veracrypt-security-software-lockout.jpg",
     "credit": "TechCrunch"
-  }
+  },
+  "actors": [
+    "Microsoft",
+    "VeraCrypt"
+  ]
 }

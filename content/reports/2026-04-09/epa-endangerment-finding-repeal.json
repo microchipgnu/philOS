@@ -96,5 +96,10 @@
     "url": "https://www.propublica.org/wp-content/uploads/2026/04/Climate-Change-Immunity-Lead.jpg?resize=2000,1333",
     "local": "/images/reports/2026-04-09/epa-endangerment-finding-repeal.jpg",
     "credit": "ProPublica"
-  }
+  },
+  "actors": [
+    "EPA",
+    "Lee Zeldin",
+    "SCOTUS"
+  ]
 }

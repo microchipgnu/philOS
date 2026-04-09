@@ -161,6 +161,7 @@ For each story, write `{slug}.json`:
     }
   ],
   "brief": {
+    "actors": ["Trump", "Iran", "SCOTUS", "EU"],
     "whatHappened": "3-4 sentences. The actual news event — who did what, when, consequences. No analysis.",
     "bottomLine": "The sharpest thing you can say. Not a summary — a judgment.",
     "hiddenBets": [
@@ -227,5 +228,6 @@ Update `.philos/state.json` — increment `cycle`, set `lastRun`, update `report
 - Take a position. "It depends" is not a judgment.
 - Cut anything that isn't surprising.
 - 600-900 words per brief.
+- **`actors` must be short, normalized entity names** like "Trump", "Iran", "SCOTUS", "EU", "OpenAI", "China". Not descriptions, not sentences. These are used to connect stories in the knowledge graph. Reuse the same name across stories (e.g., always "Iran" not "Iranian government" or "Tehran").
 - **Never use em dashes (—).** Use periods, commas, colons, or semicolons instead. Rewrite any sentence that would need an em dash.
 - **NEVER fabricate source URLs.** Only include sources you actually fetched and read. If a URL returned an error or you couldn't access it, do not include it. Use the real URL of the specific article, not a homepage. If you only found 2 real sources, list 2 — not 5 fake ones.

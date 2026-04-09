@@ -109,5 +109,10 @@
     "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2026/03/Sam-Altman-OpenAI.png",
     "local": "/images/reports/2026-04-08/openai-robot-tax-public-wealth-fund-new-deal.jpg",
     "credit": "The Next Web"
-  }
+  },
+  "actors": [
+    "OpenAI",
+    "Sam Altman",
+    "Congress"
+  ]
 }

@@ -88,5 +88,12 @@
         "probability": 0.02
       }
     ]
-  }
+  },
+  "actors": [
+    "Sanchez",
+    "Trump",
+    "NATO",
+    "EU",
+    "Spain"
+  ]
 }

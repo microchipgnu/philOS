@@ -60,6 +60,7 @@ export interface Report {
   topic?: string;
   category: string;
   tags: string[];
+  actors?: string[];
   coverImage?: CoverImage;
   sources: Source[];
   brief: Brief;

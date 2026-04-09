@@ -51,11 +51,11 @@ export function buildDayGraph(date: string): DayGraph | null {
     nodeIds.add(rid);
   }
 
-  // Extract actors from whoPays and find shared ones
+  // Extract actors from the actors field (normalized entity names)
   const actorToReports = new Map<string, string[]>();
   for (const r of reports) {
-    for (const wp of r.brief.whoPays || []) {
-      const actorKey = wp.who.toLowerCase().trim();
+    for (const actor of r.actors || []) {
+      const actorKey = actor.toLowerCase().trim();
       if (!actorToReports.has(actorKey)) actorToReports.set(actorKey, []);
       actorToReports.get(actorKey)!.push(r.id);
     }
@@ -66,8 +66,8 @@ export function buildDayGraph(date: string): DayGraph | null {
     if (reportIds.length < 2) continue;
     const aid = `actor:${actorKey}`;
     const originalName = reports
-      .flatMap((r) => r.brief.whoPays || [])
-      .find((wp) => wp.who.toLowerCase().trim() === actorKey)?.who || actorKey;
+      .flatMap((r) => r.actors || [])
+      .find((a) => a.toLowerCase().trim() === actorKey) || actorKey;
 
     nodes.push({
       id: aid,

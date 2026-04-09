@@ -107,5 +107,12 @@
         "probability": 0.67
       }
     ]
-  }
+  },
+  "actors": [
+    "Iran",
+    "Trump",
+    "Pakistan",
+    "Israel",
+    "UN"
+  ]
 }

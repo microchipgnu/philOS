@@ -85,5 +85,10 @@
     "url": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2243719467.jpg?resize=1200,800",
     "local": "/images/reports/2026-04-08/greece-social-media-ban-children-global-trend.jpg",
     "credit": "TechCrunch"
-  }
+  },
+  "actors": [
+    "Greece",
+    "Meta",
+    "Google"
+  ]
 }

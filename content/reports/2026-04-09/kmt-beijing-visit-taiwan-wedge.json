@@ -109,5 +109,12 @@
     "url": "https://foreignpolicy.com/wp-content/uploads/2026/04/XI-TAIWAN-KMT-GettyImages-2243453084.png",
     "local": "/images/reports/2026-04-09/kmt-beijing-visit-taiwan-wedge.jpg",
     "credit": "Foreign Policy"
-  }
+  },
+  "actors": [
+    "KMT",
+    "China",
+    "Taiwan",
+    "Trump",
+    "Xi Jinping"
+  ]
 }

@@ -104,5 +104,9 @@
         "probability": 0.51
       }
     ]
-  }
+  },
+  "actors": [
+    "JBS",
+    "UFCW"
+  ]
 }

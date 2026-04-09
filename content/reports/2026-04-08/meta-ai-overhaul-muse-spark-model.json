@@ -85,5 +85,11 @@
     "url": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2225880947.jpg?w=1024",
     "local": "/images/reports/2026-04-08/meta-ai-overhaul-muse-spark-model.jpg",
     "credit": "TechCrunch"
-  }
+  },
+  "actors": [
+    "Meta",
+    "OpenAI",
+    "Google",
+    "Anthropic"
+  ]
 }

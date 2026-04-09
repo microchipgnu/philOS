@@ -111,5 +111,11 @@
     "url": "https://image.cnbcfm.com/api/v1/image/108019821-1723561950847-gettyimages-1900810562-raa-asmlhold240104_npWrR.jpeg?v=1775551832&amp;w=1920&amp;h=1080",
     "local": "/images/reports/2026-04-09/match-act-chip-war-inp-export-controls.jpg",
     "credit": "CNBC"
-  }
+  },
+  "actors": [
+    "Congress",
+    "China",
+    "ASML",
+    "SMIC"
+  ]
 }

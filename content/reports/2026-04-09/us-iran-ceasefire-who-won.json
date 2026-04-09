@@ -114,5 +114,11 @@
     "url": "https://ichef.bbci.co.uk/news/1024/branded_news/063b/live/9d8855b0-333f-11f1-8606-05fe34b06e1b.jpg",
     "local": "/images/reports/2026-04-09/us-iran-ceasefire-who-won.jpg",
     "credit": "BBC News"
-  }
+  },
+  "actors": [
+    "Trump",
+    "Iran",
+    "Pakistan",
+    "Israel"
+  ]
 }

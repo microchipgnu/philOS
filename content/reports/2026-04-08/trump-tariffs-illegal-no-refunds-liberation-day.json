@@ -103,5 +103,10 @@
     "url": "https://storage.ghost.io/c/d0/36/d03604c6-8166-4cf4-9b5d-db021c7f1747/content/images/2026/04/passport-ieepa-tariffs-overturned.webp",
     "local": "/images/reports/2026-04-08/trump-tariffs-illegal-no-refunds-liberation-day.jpg",
     "credit": "Atlantic City Focus / Passport"
-  }
+  },
+  "actors": [
+    "Trump",
+    "SCOTUS",
+    "Congress"
+  ]
 }
