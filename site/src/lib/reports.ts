@@ -75,12 +75,7 @@ export function getDays(): string[] {
 }
 
 export function getDayIndex(date: string): DayIndex | null {
-  const indexPath = path.join(CONTENT_DIR, date, "index.json");
-  if (fs.existsSync(indexPath)) {
-    return JSON.parse(fs.readFileSync(indexPath, "utf-8"));
-  }
-
-  // Fallback: build index from individual JSON files
+  // Always build index from actual files on disk — index.json may be stale
   const dayDir = path.join(CONTENT_DIR, date);
   if (!fs.existsSync(dayDir)) return null;
 
