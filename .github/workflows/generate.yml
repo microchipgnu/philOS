@@ -70,7 +70,7 @@ jobs:
           OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
           AGENTWALLET_USERNAME: ${{ secrets.AGENTWALLET_USERNAME }}
           AGENTWALLET_API_TOKEN: ${{ secrets.AGENTWALLET_API_TOKEN }}
-        timeout-minutes: 15
+        timeout-minutes: 25
         run: |
           opencode run --print-logs "$(cat .philos/prompt.md)"
 
