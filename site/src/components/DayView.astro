@@ -79,20 +79,6 @@ const lastItem = hasOddRest ? rest[rest.length - 1] : null;
   </div>
 </header>
 
-{dayVideo && dayVideo.headerVideo && (
-  <div class="mt-6 overflow-hidden rounded-lg">
-    <video
-      src={dayVideo.headerVideo}
-      autoplay
-      muted
-      loop
-      playsinline
-      class="w-full object-cover"
-      style="max-height: 360px;"
-    />
-  </div>
-)}
-
 {graph && <DayGraph graph={graph} />}
 
 {day.reports.length > 0 && (
