@@ -40,11 +40,6 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site || "https://phil-os-
     <main class="mx-auto max-w-3xl px-6">
       <slot />
     </main>
-    <footer class="mt-20 border-t border-[var(--color-border)] px-6 py-8">
-      <div class="mx-auto max-w-3xl text-[12px] text-[var(--color-text-tertiary)]">
-        PhilOS — structured judgment for things that are hard to think about
-      </div>
-    </footer>
     <script>
       import { inject } from "@vercel/analytics";
       inject();
