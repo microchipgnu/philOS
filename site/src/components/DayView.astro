@@ -62,49 +62,23 @@ const gridItems = hasOddRest ? rest.slice(0, -1) : rest;
 const lastItem = hasOddRest ? rest[rest.length - 1] : null;
 ---
 
-{leadImage && (
-  <div class="-mx-6 mb-0">
-    <img
-      src={leadImage}
-      alt=""
-      class="w-full object-cover"
-      style="max-height: 320px;"
-      loading="eager"
-    />
-    {leadImageCredit && (
-      <p class="px-6 pt-2 text-[11px] text-[var(--color-text-tertiary)]">{leadImageCredit}</p>
-    )}
+<!-- Compact top bar: date + nav + connections -->
+<header class="flex items-center justify-between border-b border-[var(--color-border)] py-4">
+  {prevDate ? (
+    <a href={`/day/${prevDate}`} class="text-[13px] font-medium text-[var(--color-text-tertiary)] hover:text-[var(--color-text)]">&larr; {shortDate(prevDate)}</a>
+  ) : (
+    <span />
+  )}
+  <div class="flex items-center gap-3">
+    <p class="text-[14px] font-medium">{weekday}, {monthName} {dayNum}</p>
+    {graph && <DayGraph graph={graph} />}
   </div>
-)}
-
-<!-- Calendar header -->
-<header class="border-b border-[var(--color-border)] py-8">
-  <div class="flex items-center justify-between">
-    {prevDate ? (
-      <a href={`/day/${prevDate}`} class="flex items-center gap-1 text-[13px] font-medium text-[var(--color-text-tertiary)] hover:text-[var(--color-text)]">
-        <span class="text-[18px]">&larr;</span>
-        <span>{shortDate(prevDate)}</span>
-      </a>
-    ) : (
-      <span />
-    )}
-    <div class="text-center">
-      <p class="text-[11px] font-semibold uppercase tracking-widest text-[var(--color-text-tertiary)]">{weekday}</p>
-      <p class="mt-1 font-serif text-[56px] leading-none">{dayNum}</p>
-      <p class="mt-1 text-[13px] text-[var(--color-text-tertiary)]">{monthName} {yearNum}</p>
-    </div>
-    {nextDate ? (
-      <a href={`/day/${nextDate}`} class="flex items-center gap-1 text-[13px] font-medium text-[var(--color-text-tertiary)] hover:text-[var(--color-text)]">
-        <span>{shortDate(nextDate)}</span>
-        <span class="text-[18px]">&rarr;</span>
-      </a>
-    ) : (
-      <a href="/" class="text-[13px] font-medium text-[var(--color-accent)] hover:text-[var(--color-text)]">today</a>
-    )}
-  </div>
+  {nextDate ? (
+    <a href={`/day/${nextDate}`} class="text-[13px] font-medium text-[var(--color-text-tertiary)] hover:text-[var(--color-text)]">{shortDate(nextDate)} &rarr;</a>
+  ) : (
+    <span />
+  )}
 </header>
-
-{graph && <DayGraph graph={graph} />}
 
 {day.reports.length > 0 && (
   <!-- Hero: lead story -->
