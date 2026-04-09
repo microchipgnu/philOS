@@ -1,5 +1,7 @@
 ---
 import { getReport, type DayIndex } from "../lib/reports";
+import { buildDayGraph } from "../lib/graph";
+import DayGraph from "./DayGraph.astro";
 
 interface Props {
   day: DayIndex;
@@ -34,6 +36,8 @@ const monthName = d.toLocaleDateString("en-US", { month: "long" });
 const yearNum = d.getFullYear();
 const weekday = d.toLocaleDateString("en-US", { weekday: "long" });
 
+const graph = buildDayGraph(day.date);
+
 const rest = day.reports.slice(1);
 const hasOddRest = rest.length % 2 !== 0;
 const gridItems = hasOddRest ? rest.slice(0, -1) : rest;
@@ -66,6 +70,8 @@ const lastItem = hasOddRest ? rest[rest.length - 1] : null;
     )}
   </div>
 </header>
+
+{graph && <DayGraph graph={graph} />}
 
 {day.reports.length > 0 && (
   <!-- Hero: lead story -->

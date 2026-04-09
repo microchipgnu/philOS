@@ -1,0 +1,118 @@
+---
+import type { DayGraph } from "../lib/graph";
+
+interface Props {
+  graph: DayGraph;
+}
+
+const { graph } = Astro.props;
+---
+
+<div class="my-8 overflow-hidden rounded-lg border border-[var(--color-border)] bg-[var(--color-surface-dark)]">
+  <div class="px-5 pt-4">
+    <p class="text-[11px] font-semibold uppercase tracking-widest text-[var(--color-accent)]">Today's connections</p>
+    <p class="mt-1 text-[12px] text-[#888]">Shared actors and themes across briefs</p>
+  </div>
+  <div id="day-graph" class="w-full" style="height: 380px;"></div>
+</div>
+
+<script define:vars={{ graphData: JSON.stringify(graph) }}>
+  const graph = JSON.parse(graphData);
+
+  async function renderGraph() {
+    const d3 = await import("https://esm.sh/d3@7");
+    const container = document.getElementById("day-graph");
+    if (!container) return;
+
+    const width = container.clientWidth;
+    const height = 380;
+
+    const svg = d3.select(container)
+      .append("svg")
+      .attr("width", width)
+      .attr("height", height)
+      .attr("viewBox", [0, 0, width, height]);
+
+    const typeColors = {
+      report: "#c43d2e",
+      actor: "#d4a843",
+      tag: "#5b8db8",
+    };
+
+    const simulation = d3.forceSimulation(graph.nodes)
+      .force("link", d3.forceLink(graph.edges).id(d => d.id).distance(100))
+      .force("charge", d3.forceManyBody().strength(-200))
+      .force("center", d3.forceCenter(width / 2, height / 2))
+      .force("collision", d3.forceCollide().radius(d => d.type === "report" ? 35 : 20));
+
+    // Edges
+    const link = svg.append("g")
+      .selectAll("line")
+      .data(graph.edges)
+      .join("line")
+      .attr("stroke", "#333")
+      .attr("stroke-opacity", 0.5)
+      .attr("stroke-width", d => d.weight);
+
+    // Node groups
+    const node = svg.append("g")
+      .selectAll("g")
+      .data(graph.nodes)
+      .join("g")
+      .style("cursor", d => d.url ? "pointer" : "default")
+      .on("click", (event, d) => {
+        if (d.url) window.location.href = d.url;
+      })
+      .call(d3.drag()
+        .on("start", (event, d) => {
+          if (!event.active) simulation.alphaTarget(0.3).restart();
+          d.fx = d.x;
+          d.fy = d.y;
+        })
+        .on("drag", (event, d) => {
+          d.fx = event.x;
+          d.fy = event.y;
+        })
+        .on("end", (event, d) => {
+          if (!event.active) simulation.alphaTarget(0);
+          d.fx = null;
+          d.fy = null;
+        })
+      );
+
+    // Circles
+    node.append("circle")
+      .attr("r", d => d.type === "report" ? 8 : 5)
+      .attr("fill", d => typeColors[d.type] || "#888")
+      .attr("stroke", d => d.type === "report" ? "#fafaf8" : "none")
+      .attr("stroke-width", d => d.type === "report" ? 1.5 : 0);
+
+    // Labels
+    node.append("text")
+      .text(d => d.label)
+      .attr("x", d => d.type === "report" ? 14 : 10)
+      .attr("y", 4)
+      .attr("font-size", d => d.type === "report" ? "12px" : "10px")
+      .attr("font-weight", d => d.type === "report" ? "500" : "400")
+      .attr("fill", d => d.type === "report" ? "#e5e5e5" : "#888")
+      .attr("font-family", "Inter, system-ui, sans-serif");
+
+    simulation.on("tick", () => {
+      // Keep nodes in bounds
+      graph.nodes.forEach(d => {
+        d.x = Math.max(60, Math.min(width - 60, d.x));
+        d.y = Math.max(20, Math.min(height - 20, d.y));
+      });
+
+      link
+        .attr("x1", d => d.source.x)
+        .attr("y1", d => d.source.y)
+        .attr("x2", d => d.target.x)
+        .attr("y2", d => d.target.y);
+
+      node.attr("transform", d => `translate(${d.x},${d.y})`);
+    });
+  }
+
+  renderGraph();
+</script>
