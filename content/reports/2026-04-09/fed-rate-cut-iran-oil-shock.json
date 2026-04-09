@@ -1,0 +1,119 @@
+{
+  "id": "fed-rate-cut-iran-oil-shock",
+  "date": "2026-04-09",
+  "generatedAt": "2026-04-09T17:45:00Z",
+  "title": "The Ceasefire Did What the Fed Couldn't: Repriced the Entire Year",
+  "subtitle": "Oil crashed 18% overnight and Fed rate-cut odds doubled. But the Strait is still closed, March CPI is still coming, and nobody knows if this ceasefire holds.",
+  "topic": "economy",
+  "category": "decision",
+  "tags": ["Federal Reserve", "oil", "inflation", "interest rates", "Iran", "ceasefire", "markets"],
+  "coverImage": {
+    "url": "https://www.reuters.com/resizer/v2/2UBHKG46GNMZ7DCVNWMRZ67U5Y.jpg?auth=d2554a4c92e98225e5f86e34a0743dda52c672e0c72a91e39d1bd7967e9d7c50&height=1005&width=1920&quality=80&smart=true",
+    "local": "/images/reports/2026-04-09/fed-rate-cut-iran-oil-shock.jpg",
+    "credit": "Reuters"
+  },
+  "sources": [
+    {
+      "url": "https://www.reuters.com/business/fed-rate-cut-bets-revived-bit-by-iran-war-ceasefire-2026-04-08/",
+      "publisher": "Reuters",
+      "angle": "Careful report noting the ceasefire eased fears but oil is still 30% above pre-war levels. Fed minutes show some policymakers were open to rate hikes if inflation persisted. Fed's Daly said it was too early to assess the economic impact."
+    },
+    {
+      "url": "https://www.cnbc.com/2026/04/08/markets-shift-back-towards-potential-fed-rate-cut-this-year-with-iran-ceasefire-in-place.html",
+      "publisher": "CNBC",
+      "angle": "Reports CME FedWatch odds jumped to 43% for a cut immediately after the ceasefire announcement. Evercore's Guha said the market should be pricing in closer to one full cut. Citigroup is outlier forecasting three cuts."
+    },
+    {
+      "url": "https://www.businessinsider.com/interest-rate-cuts-federal-reserve-hike-economy-trump-iran-ceasefire-2026-4",
+      "publisher": "Business Insider",
+      "angle": "Notes the ceasefire quickly became fragile — Iran halted Hormuz passage again by midday Wednesday as Israeli strikes on Lebanon continued. Economist Eric Diton warned the market may be pricing in cuts as a 'knee-jerk reaction.'"
+    },
+    {
+      "url": "https://cdn1.benzinga.com/markets/equities/26/04/51711096/iran-ceasefire-fed-rate-cut-hopes-rate-sensitive-stocks-april-2026",
+      "publisher": "Benzinga",
+      "angle": "Detailed Polymarket data: before ceasefire, 43% chance of zero Fed cuts in 2026; after, that dropped to 33%. Probability of rate hike fell from 25% to 14%. Sectors most leveraged to rate relief rallied hard: homebuilders, clean energy, regional banks."
+    }
+  ],
+  "brief": {
+    "actors": ["Federal Reserve", "Iran", "Trump", "CNBC", "Citigroup", "Evercore"],
+    "whatHappened": "The U.S.-Iran ceasefire announced April 7 triggered an immediate 18% crash in WTI crude oil to $92 per barrel, the largest single-day drop in the Iran conflict. CME FedWatch odds for at least one Fed rate cut by year-end jumped from 14% to 43% overnight, as markets repriced the inflation trajectory. The Polymarket prediction market for 'How many Fed rate cuts in 2026?' shifted right: the probability of zero cuts fell from 43% to 33%. By April 8 midday, Iran had halted Strait of Hormuz passage again after Israeli strikes resumed in Lebanon, and oil rebounded, pulling rate-cut odds back to a one-in-four chance for year-end. The Fed will receive its first hard inflation data of the post-war period this week: March CPI, expected at 3.3%, reflects war-induced energy price increases.",
+    "bottomLine": "Markets are pricing the ceasefire as if it were a peace deal. It is a two-week truce with three conflicting drafts, a Strait still not reopened, and Israeli strikes already continuing in Lebanon. The rate-cut repricing is real but fragile in proportion to the ceasefire itself.",
+    "hiddenBets": [
+      {
+        "assumption": "Oil down 18% means the inflation shock is over.",
+        "whyItMightBeWrong": "WTI at $92 is still roughly 30% above pre-war levels, according to Reuters. Oil prices falling from a wartime spike does not erase the embedded price increases that have already worked through the supply chain. March CPI will likely print at 3.3% and the Fed has to respond to actual readings, not market hopes."
+      },
+      {
+        "assumption": "The Fed can cut rates if the ceasefire holds.",
+        "whyItMightBeWrong": "The Fed's March meeting minutes showed some policymakers were open to rate hikes if inflation persisted. The Fed is data-dependent, and the incoming data reflects the war period. Even a ceasefire that holds does not immediately change the March numbers, the February PCE numbers, or the labor market data. The Fed cutting on a two-week ceasefire would be front-running peace it doesn't control."
+      },
+      {
+        "assumption": "Three rate cuts (Citi's forecast) is the bullish but plausible scenario.",
+        "whyItMightBeWrong": "Citi's three-cut forecast requires oil continuing to fall, inflation showing benign trends, and labor market weakness emerging. The Benzinga analysis of Polymarket data shows only 20% probability of two cuts and 11% for three. Citi is a visible outlier, not a central forecast."
+      }
+    ],
+    "realDisagreement": "The genuine tension is between the Fed's stated commitment to data-dependent decisions and the market's demand for forward-looking guidance. If the Fed acts on data, it will see elevated March CPI numbers regardless of the ceasefire and hold rates. If it acts on its own forward assessment that the inflation shock is transitory, it may begin signaling cuts by summer. The problem: 'transitory' is a word the Fed burned badly in 2021-2022. Using that framework again, even with better evidence, risks its credibility. The side worth leaning toward is patience: the Fed cutting on a fragile ceasefire before the Strait reopens and before energy prices normalize would be repeating the mistake of front-running uncertain geopolitical outcomes.",
+    "whatNoOneIsSaying": "The immediate market rally on the ceasefire news and the rate-cut repricing creates a political dynamic: if the ceasefire collapses, the market selloff will be framed as Trump's failure. Every day markets price optimism that then reverses creates political accountability for the administration. Nobody in financial commentary wants to say that markets are not just forecasting economic outcomes; they are creating political incentives around whether the ceasefire holds.",
+    "whoPays": [
+      {
+        "who": "Homebuyers and homebuilders",
+        "how": "The homebuilder sector rallied 8-9% on the ceasefire news because lower rates mean lower mortgage costs. If the ceasefire collapses and rates stay elevated, those gains reverse and the housing market remains locked in the unaffordability that was building before the Iran war began.",
+        "when": "Within weeks, depending on whether the ceasefire holds through the Islamabad talks."
+      },
+      {
+        "who": "Households carrying adjustable-rate debt",
+        "how": "Variable-rate credit card and HELOC borrowers have been carrying historically high interest burdens. Every month the Fed holds rates is another month of above-normal interest payments on debt that cannot be refinanced. The war extended that by at least six months from pre-conflict expectations.",
+        "when": "Ongoing; estimated 45 million U.S. households carry adjustable-rate consumer debt."
+      },
+      {
+        "who": "Emerging market sovereign borrowers",
+        "how": "High U.S. rates and dollar strength during the war period have increased the cost of servicing dollar-denominated sovereign debt for countries that import oil. If rates stay elevated and the Strait stays partially closed, several vulnerable countries face debt service crises.",
+        "when": "Medium-term, likely reaching acute stages by Q3 2026 for the most exposed borrowers."
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Durable ceasefire, gradual Fed pivot",
+        "whatHappens": "The Islamabad talks produce a 90-day extended agreement, the Strait reopens with international escort, oil stabilizes around $80, and the Fed signals one cut in September. Markets reprice toward one to two cuts for 2026.",
+        "signal": "Tanker tracking data shows resumption of commercial transits through the Strait within two weeks of the Pakistan talks."
+      },
+      {
+        "name": "Ceasefire collapses, Fed stays on hold",
+        "whatHappens": "Israeli strikes resume full scale in Lebanon, Iran re-closes the Strait, oil rebounds past $100, and the Fed uses the March CPI print to justify holding. Rate-cut odds fall back to near zero and the 10-year yield rises above 4.5%.",
+        "signal": "Iran announces formal re-closure of the Strait of Hormuz with mine-laying operations resuming."
+      },
+      {
+        "name": "Fed cuts anyway on labor market weakness",
+        "whatHappens": "Jobless claims begin rising as the war-driven consumer spending freeze extends and the Fed decides the labor market deterioration outweighs the inflation concern, cutting in October regardless of the energy picture. Citi's scenario becomes real.",
+        "signal": "Two consecutive weekly jobless claims readings above 280,000 and a payroll report under 100,000 jobs."
+      }
+    ],
+    "whatWouldChange": "The bottom line changes if March CPI comes in materially below consensus at 2.7% or lower, suggesting the energy shock didn't pass through to core inflation as expected. That would give the Fed genuine data-based cover for a summer cut and would suggest the war's inflation impact was narrower than feared.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Will no Fed rate cuts happen in 2026?",
+        "url": "https://polymarket.com/event/how-many-fed-rate-cuts-in-2026",
+        "probability": 0.356
+      },
+      {
+        "platform": "Polymarket",
+        "question": "Will 1 Fed rate cut happen in 2026?",
+        "url": "https://polymarket.com/event/how-many-fed-rate-cuts-in-2026",
+        "probability": 0.245
+      },
+      {
+        "platform": "Polymarket",
+        "question": "Will 2 Fed rate cuts happen in 2026?",
+        "url": "https://polymarket.com/event/how-many-fed-rate-cuts-in-2026",
+        "probability": 0.205
+      },
+      {
+        "platform": "Polymarket",
+        "question": "Iran x Israel/US conflict ends by April 30?",
+        "url": "https://polymarket.com/event/iran-x-israelus-conflict-ends-by",
+        "probability": 0.725
+      }
+    ]
+  }
+}

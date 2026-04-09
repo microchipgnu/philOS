@@ -1,0 +1,102 @@
+{
+  "id": "hormuz-ships-wont-return",
+  "date": "2026-04-09",
+  "generatedAt": "2026-04-09T17:45:00Z",
+  "title": "The Ceasefire Happened. The Ships Are Not Coming Back.",
+  "subtitle": "Maersk, Norwegian shipowners, and every major tanker operator say the ceasefire is not enough to resume Strait of Hormuz transits. The gap between 'political agreement' and 'safe passage' is where the energy crisis lives.",
+  "topic": "geopolitics",
+  "category": "conflict",
+  "tags": ["Strait of Hormuz", "Iran", "shipping", "Maersk", "oil", "energy", "ceasefire"],
+  "sources": [
+    {
+      "url": "https://www.infomarine.net/en/global-shipping-news/19-world-maritime-news/71285-norway-shipping-group-maintains-hormuz-transit-pause.html",
+      "publisher": "Baird Maritime via Infomarine",
+      "angle": "Norwegian Shipowners' Association says members will not resume transits 'until there is real security for safe passage.' Maersk confirmed the ceasefire does not yet provide sufficient certainty to resume normal operations."
+    },
+    {
+      "url": "https://www.infomarine.net/en/global-shipping-news/19-world-maritime-news/71269-maersk-cautious-on-strait-of-hormuz%20shipping%20despite-us-iran-ceasefire.html",
+      "publisher": "qCaptain Daily via Reuters",
+      "angle": "Maersk official statement: ceasefire 'could open some opportunities' but is not making any changes to specific services. The company's de facto blockade of Hormuz routes remains in effect."
+    },
+    {
+      "url": "https://kosgodaturtlecare.com/article/oil-shipping-resumption-uncertainty-and-challenges-ahead",
+      "publisher": "Independent energy analysis",
+      "angle": "The real barrier to Hormuz resumption is insurance, not politics. War risk insurance must be reinstated, tanker owners need government-to-government assurances, and physical infrastructure damage requires weeks to months of repair."
+    },
+    {
+      "url": "https://carnegieendowment.org/emissary/2026/04/iran-ceasefire-hormuz-oil-crisis",
+      "publisher": "Carnegie Endowment for International Peace",
+      "angle": "Identifies Russia and China as winners of the Hormuz crisis (Russian oil premium restored, China had pre-positioned). Europe is the clearest loser: cut Russian energy, now facing both a seaborne oil crisis and renewed NATO withdrawal threats."
+    }
+  ],
+  "brief": {
+    "actors": ["Iran", "Maersk", "Trump", "EU", "Russia", "China", "UK"],
+    "whatHappened": "Despite the U.S.-Iran ceasefire announced April 7, the world's largest container shipping company (Maersk) and the Norwegian Shipowners' Association both confirmed April 9 that they are not resuming transits through the Strait of Hormuz. Norway's industry group stated explicitly that members 'will not resume transits until there is real security for safe passage.' Maersk said the ceasefire 'could open some opportunities' but that it is 'not making any changes to specific services.' The French president separately said approximately 15 countries are planning to facilitate Hormuz traffic resumption, but a coordinated maritime operation has not yet formed. Roughly 20% of the world's oil supply normally passes through the Strait, and its partial closure since February has driven oil prices 30% above pre-war levels.",
+    "bottomLine": "The ceasefire ended the shooting but not the crisis: the Strait of Hormuz functions when ships are insured, captains are willing, and governments guarantee safe passage. None of those conditions exist yet. Oil prices will not normalize until all three do.",
+    "hiddenBets": [
+      {
+        "assumption": "The ceasefire automatically reopens the Strait.",
+        "whyItMightBeWrong": "Reopening the Strait requires three separate processes to align: Iran must physically remove any mines or maritime obstacles, international insurers must reinstate war risk coverage (which requires underwriting new risk assessments), and tanker owners and captains must be willing to transit. These are sequential, not simultaneous, and the insurance piece alone can take weeks."
+      },
+      {
+        "assumption": "Global energy markets will normalize quickly once ships start moving.",
+        "whyItMightBeWrong": "Persian Gulf oil infrastructure itself may require weeks to months of repair and retooling. Saudi Arabia's pipeline was struck by Iran during the conflict. Offshore production facilities in the Gulf need physical inspection before resuming full output. Even if ships transit tomorrow, the supply pipeline behind them is not at pre-war capacity."
+      },
+      {
+        "assumption": "This crisis established a new incentive for energy diversification.",
+        "whyItMightBeWrong": "Every major energy disruption produces expert commentary about diversification. The structural economics of Gulf oil remain intact: it is the world's cheapest marginal barrel, and no amount of crisis changes the extraction economics. The diversification lesson from this crisis will be treated as important until the next price spike makes cheap Gulf oil attractive again."
+      }
+    ],
+    "realDisagreement": "The core tension is between the speed at which financial markets price geopolitical resolution and the speed at which physical logistics can actually change. Markets repriced 18% the day of the ceasefire announcement; ships will not move for weeks at best. This gap is not a market failure; it is rational forward-looking behavior assuming the ceasefire holds. The problem is that the ceasefire is fragile and each day markets price in full Hormuz resumption while ships don't move creates an increasing risk of a downward correction when the physical reality reasserts itself. The side worth taking is the physical constraint side: insurance is the actual gating factor, not political will, and insurance companies are not going to write policies on a two-week ceasefire.",
+    "whatNoOneIsSaying": "Russia won the Strait closure. Russian oil commands a premium again after two years of discounted sales under sanctions. China pre-positioned energy reserves ahead of the conflict, per the Carnegie analysis, suggesting Beijing had intelligence about the likely timeline. Both countries had structural incentives to let the crisis continue, and neither played any role in ending it quickly. The ceasefire happened when it became strategically convenient for the U.S. and Iran, not because the other major powers facilitated it.",
+    "whoPays": [
+      {
+        "who": "European energy consumers and governments",
+        "how": "Europe cut Russian pipeline gas and oil imports after the 2022 invasion of Ukraine and replaced them primarily with seaborne LNG and Gulf crude. The Hormuz closure hit Europe's replacement supply harder than it hit Asia or the U.S. France is already reporting fuel shortages. Germany's industrial production costs are elevated. Unlike the U.S., Europe cannot simply increase domestic production.",
+        "when": "Ongoing until the Strait fully reopens; structural vulnerability persists beyond that."
+      },
+      {
+        "who": "South Asian and Southeast Asian importers",
+        "how": "Pakistan, India, Sri Lanka, Bangladesh, and the Philippines are among the most exposed: they import large fractions of their energy from the Gulf, have limited storage capacity, and have currencies under pressure from high U.S. rates. The delay in Hormuz reopening extends a balance-of-payments stress that is approaching sovereign debt risk for the most exposed.",
+        "when": "Acute risk by Q3 2026 for the most vulnerable importers."
+      },
+      {
+        "who": "Shipping crews",
+        "how": "Crews of tankers diverted around the Cape of Good Hope face extra weeks at sea per voyage, extended time away from families, and wages that don't always compensate for the additional risk. Seafarer welfare organizations reported elevated distress cases during the crisis period.",
+        "when": "Ongoing until normal routing resumes."
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Phased reopening with escort",
+        "whatHappens": "UK, France, and about 15 other nations form an ad-hoc naval escort coalition. Insurers reinstate war risk coverage on a conditional basis for escorted transits. Ships begin moving in convoy within 3-4 weeks. Oil stabilizes at $85.",
+        "signal": "A formal multinational naval coordination meeting is announced by UK government before April 20."
+      },
+      {
+        "name": "Extended standoff",
+        "whatHappens": "The Islamabad peace talks stall over Lebanon's scope in any final agreement. Iran refuses to physically remove maritime obstacles until the Lebanon question is settled. Ships stay rerouted for months. Oil remains above $95 through summer.",
+        "signal": "The Islamabad talks end without a joint communique or produce a 10-day extension rather than a 90-day framework."
+      },
+      {
+        "name": "Insurance-led reopening",
+        "whatHappens": "Lloyd's of London and major reinsurers, facing pressure from major trading nations and attracted by premium revenue, reinstate coverage for Hormuz transits before a full physical security protocol is in place. Ships move, creating facts on the ground that push Iran toward formal reopening.",
+        "signal": "A Lloyd's of London announcement of revised war risk zones covering the Strait."
+      }
+    ],
+    "whatWouldChange": "The bottom line reverses if tanker tracking data from sites like Marine Traffic shows commercial vessels transiting the Strait's main shipping lane within 10 days of the ceasefire announcement. Physical movement of commercial ships is the only signal that matters; diplomatic statements, announcements, and market prices are all irrelevant until ships move.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Iran x Israel/US conflict ends by April 30?",
+        "url": "https://polymarket.com/event/iran-x-israelus-conflict-ends-by",
+        "probability": 0.725
+      },
+      {
+        "platform": "Polymarket",
+        "question": "Trump announces end of military operations against Iran by April 30?",
+        "url": "https://polymarket.com/event/trump-announces-end-of-military-operations-against-iran-by",
+        "probability": 0.53
+      }
+    ]
+  }
+}

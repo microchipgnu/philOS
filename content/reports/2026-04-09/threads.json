@@ -43,6 +43,63 @@
           "relationship": "Beijing timed the KMT visit to split Taiwan's politics before the Trump-Xi summit, where Iran tariffs will be on the table"
         }
       ]
+    },
+    {
+      "id": "records-and-rights-erasure",
+      "title": "The Administration Is Trying to Make Itself Unaccountable to History",
+      "description": "The DOJ's move to void the Presidential Records Act and the SCOTUS civil rights reversal are superficially unconnected. But both remove established institutional accountability mechanisms: one prevents future documentation of executive conduct, the other removes the judicial remedy for discrimination. Together they narrow the set of tools available to hold power accountable in ways that will be felt long after this administration ends.",
+      "type": "tension-cluster",
+      "stories": ["doj-presidential-records-act-unconstitutional", "scotus-civil-rights-reversal", "save-act-voter-id-disenfranchisement"],
+      "connections": [
+        {
+          "from": "doj-presidential-records-act-unconstitutional",
+          "to": "scotus-civil-rights-reversal",
+          "relationship": "The OLC opinion removes documentary accountability for executive actions; the SCOTUS civil rights reversal removes judicial accountability for discriminatory enforcement of those actions."
+        },
+        {
+          "from": "scotus-civil-rights-reversal",
+          "to": "save-act-voter-id-disenfranchisement",
+          "relationship": "A court rejecting a majority of civil rights claims is less likely to strike down voting restrictions as unconstitutional, removing the legal backstop that previously constrained voter suppression legislation."
+        }
+      ]
+    },
+    {
+      "id": "ceasefire-gap",
+      "title": "The Ceasefire Is a Press Release. The Crisis Is Physical.",
+      "description": "The Iran ceasefire story, the Hormuz shipping paralysis, and the Federal Reserve repricing story all turn on the same gap: political announcements moved instantly while physical reality changed slowly. Markets repriced 18% on an announcement; ships didn't move. Rate-cut odds doubled on a ceasefire; the Strait stayed closed. The political and economic layers are moving at different speeds, and the collision between them is where the real risk lives in the next 60 days.",
+      "type": "cause-effect",
+      "stories": ["hormuz-ships-wont-return", "fed-rate-cut-iran-oil-shock", "iran-ceasefire-lebanon-scope-collapse"],
+      "connections": [
+        {
+          "from": "iran-ceasefire-lebanon-scope-collapse",
+          "to": "hormuz-ships-wont-return",
+          "relationship": "The ceasefire's three conflicting drafts mean no single version establishes clear enough security conditions to trigger insurance reinstatement, which is the actual gate for ship movement."
+        },
+        {
+          "from": "hormuz-ships-wont-return",
+          "to": "fed-rate-cut-iran-oil-shock",
+          "relationship": "Markets priced oil down 18% on the ceasefire announcement, but oil cannot actually normalize until ships transit the Strait, which requires insurance that requires security that the ceasefire doesn't yet provide."
+        }
+      ]
+    },
+    {
+      "id": "alliance-accountability-gap",
+      "title": "The War That Broke the Atlantic Alliance Was Not Won",
+      "description": "Trump's NATO fracture story and the Georgia MAGA midterm signal are both about the domestic and international political costs of the Iran war accruing simultaneously. Externally, the war produced the worst NATO crisis since France left the integrated command structure in 1966. Internally, it produced enough Republican defections in a deep-red Georgia district to collapse what should have been a 29-point margin. Both signals are running in the same direction.",
+      "type": "cause-effect",
+      "stories": ["trump-nato-iran-fracture", "georgia-maga-fracture-midterm-signal", "us-iran-ceasefire-who-won"],
+      "connections": [
+        {
+          "from": "us-iran-ceasefire-who-won",
+          "to": "trump-nato-iran-fracture",
+          "relationship": "A ceasefire built on Iran's own 10-point plan cannot credibly justify the political costs the war imposed on the Atlantic alliance, which is why European allies who refused to join see themselves as vindicated."
+        },
+        {
+          "from": "trump-nato-iran-fracture",
+          "to": "georgia-maga-fracture-midterm-signal",
+          "relationship": "European NATO allies and Republican voters in the Georgia 14th are both registering the same judgment about the Iran war; the scale is different but the direction of the signal is identical."
+        }
+      ]
     }
   ]
 }

@@ -1,7 +1,43 @@
 {
   "date": "2026-04-09",
-  "generatedAt": "2026-04-09T12:45:00Z",
+  "generatedAt": "2026-04-09T17:50:00Z",
   "reports": [
+    {
+      "id": "doj-presidential-records-act-unconstitutional",
+      "title": "The DOJ Just Said Trump Doesn't Have to Hand Over His Records. Ever.",
+      "subtitle": "A 52-page OLC opinion declares a post-Nixon law unconstitutional, giving Trump the legal cover to keep his presidency's documents permanently.",
+      "category": "power"
+    },
+    {
+      "id": "trump-nato-iran-fracture",
+      "title": "NATO Survived the Cold War. Whether It Survives Trump Depends on Who Blinks First.",
+      "subtitle": "Trump called NATO a 'paper tiger' and threatened withdrawal after European allies refused to join Operation Epic Fury. The alliance is now more fractured than at any point since 1966.",
+      "category": "conflict"
+    },
+    {
+      "id": "fed-rate-cut-iran-oil-shock",
+      "title": "The Ceasefire Did What the Fed Couldn't: Repriced the Entire Year",
+      "subtitle": "Oil crashed 18% overnight and Fed rate-cut odds doubled. But the Strait is still closed, March CPI is still coming, and nobody knows if this ceasefire holds.",
+      "category": "decision"
+    },
+    {
+      "id": "scotus-civil-rights-reversal",
+      "title": "The Court That Remade America: SCOTUS Is Now the First Since the 1950s to Reject Most Civil Rights Claims",
+      "subtitle": "A Washington Post statistical analysis finds Trump's three appointees pushed the Court to reject civil rights cases at a rate not seen in 70 years. Justice Sotomayor is publicly naming what happened.",
+      "category": "power"
+    },
+    {
+      "id": "hormuz-ships-wont-return",
+      "title": "The Ceasefire Happened. The Ships Are Not Coming Back.",
+      "subtitle": "Maersk, Norwegian shipowners, and every major tanker operator say the ceasefire is not enough to resume Strait of Hormuz transits. The gap between 'political agreement' and 'safe passage' is where the energy crisis lives.",
+      "category": "conflict"
+    },
+    {
+      "id": "georgia-maga-fracture-midterm-signal",
+      "title": "The MAGA Stronghold Held. But a Democrat Got 42% in Marjorie Taylor Greene's Old Seat.",
+      "subtitle": "Clay Fuller won Georgia's 14th district special election, but the margin collapsed from a 29-point blowout to 15 points. Republicans are calling it a spending anomaly. Democrats are calling it a bellwether.",
+      "category": "power"
+    },
     {
       "id": "ieepa-collapse-executive-trade-power",
       "title": "The Court Took Away the President's Tariff Gun. He's Already Looking for Another One.",
