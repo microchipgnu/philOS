@@ -106,15 +106,30 @@ For each story, try 2-3 search queries based on key actors and outcomes. Only ke
 
 ## Phase 4b: Pick a cover image
 
-For each story, find a strong editorial image from one of the source articles. Exa search results include an `image` field. Pick the best one, not a logo or generic stock photo, but a real editorial image that captures the story.
+For each story, find a strong editorial image from one of the source articles. Exa search results include an `image` field. Pick the best one, not a logo or generic stock photo.
 
-Download it to `site/public/images/reports/{DATE}/{SLUG}.jpg`:
+**Download it AND verify the file exists before adding to JSON.**
+
 ```bash
 mkdir -p site/public/images/reports/{DATE}
 curl -sL -o "site/public/images/reports/{DATE}/{SLUG}.jpg" "IMAGE_URL"
+
+# CRITICAL: verify the file was actually downloaded
+if [ -f "site/public/images/reports/{DATE}/{SLUG}.jpg" ] && [ -s "site/public/images/reports/{DATE}/{SLUG}.jpg" ]; then
+  SIZE=$(wc -c < "site/public/images/reports/{DATE}/{SLUG}.jpg")
+  if [ "$SIZE" -lt 5000 ]; then
+    rm "site/public/images/reports/{DATE}/{SLUG}.jpg"
+    echo "Image too small, removing"
+  else
+    echo "Image OK: $SIZE bytes"
+  fi
+else
+  echo "Image download failed"
+fi
 ```
 
-Add to the report JSON:
+**Only add `coverImage` to the JSON if the file was successfully downloaded and is larger than 5KB.** If the download failed, try the next source's image. If all fail, omit the `coverImage` field entirely — do NOT write it with a local path to a missing file.
+
 ```json
 "coverImage": {
   "url": "original image URL",
@@ -123,7 +138,7 @@ Add to the report JSON:
 }
 ```
 
-If no good image is available from any source, skip this field. Do not use logos, icons, or placeholder images.
+Do not use logos, icons, or placeholder images. If the og:image URL redirects or returns HTML instead of an image, skip it.
 
 ## Phase 5: Analyze
 
