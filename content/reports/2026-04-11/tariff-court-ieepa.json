@@ -1,0 +1,102 @@
+{
+  "id": "tariff-court-ieepa",
+  "date": "2026-04-11",
+  "generatedAt": "2026-04-11T12:00:00Z",
+  "title": "The Tariff That Outlived Its Legal Theory",
+  "subtitle": "Trump's 10% global tariff is standing on a 1974 law the Supreme Court already gutted, and a panel of judges just told him so.",
+  "topic": "economy",
+  "category": "power",
+  "tags": ["Trump", "tariffs", "IEEPA", "trade court", "SCOTUS", "trade deficit", "states"],
+  "coverImage": {
+    "url": "https://cdn.abcotvs.com/dip/images/18866507_trump-tariff-img.png?w=1600",
+    "local": "/images/reports/2026-04-11/tariff-court-ieepa.jpg",
+    "credit": "ABC News"
+  },
+  "sources": [
+    {
+      "url": "https://www.reuters.com/legal/government/us-trade-court-weighs-legality-trump-10-global-tariff-2026-04-10/",
+      "publisher": "Reuters",
+      "angle": "Neutral wire report; judges openly questioned whether a trade deficit qualifies as an 'emergency' under the 1974 Trade Act; Trump administration claims broad authority regardless of SCOTUS precedent."
+    },
+    {
+      "url": "https://abc30.com/post/judges-hear-arguments-legality-new-trump-administration-tariffs/18866471/",
+      "publisher": "ABC News",
+      "angle": "Despite three hours of skeptical questioning, judges seemed to push back on the plaintiffs' procedural arguments too; outcome not clearly in plaintiffs' favor."
+    },
+    {
+      "url": "https://www.businesstimes.com.sg/international/us-trade-court-challenges-trumps-basis-10-global-tariffs",
+      "publisher": "The Business Times",
+      "angle": "International trade policy framing; notes this challenge targets only the 10% baseline tariff, leaving country-specific rates untouched."
+    },
+    {
+      "url": "https://politicalwire.com/2026/04/10/trade-court-urged-to-scrap-latest-trump-tariffs/",
+      "publisher": "Political Wire",
+      "angle": "Aggregates Bloomberg and Washington Post; flags that 24 states and small businesses argue the legal authority is 'outdated since the US left the gold standard.'"
+    }
+  ],
+  "brief": {
+    "actors": ["Trump", "SCOTUS", "States", "Congress", "WTO"],
+    "whatHappened": "A three-judge panel of the US Court of International Trade heard arguments on April 10 challenging the legality of Trump's 10% universal baseline tariff on most imports. The suit was brought by 24 mostly Democratic-led states and several businesses, arguing that the 1974 Trade Act authority Trump invoked was an inadequate legal basis after the Supreme Court earlier this year struck down his IEEPA tariffs. The judges pressed the administration hard on whether a trade deficit constitutes a national emergency under the statute, with some suggesting it may not. A ruling has not been issued. The tariffs, which the White House estimated would cost the average household roughly $1,000 per year, remain in effect while litigation proceeds.",
+    "bottomLine": "The administration is playing legal whack-a-mole: each time one tariff authority gets struck down, Trump reaches for a different statute and forces a new multi-year court fight, betting that the economic disruption of striking tariffs mid-enforcement outweighs the legal risk.",
+    "hiddenBets": [
+      {
+        "assumption": "The courts are the key battlefield for tariff policy.",
+        "whyItMightBeWrong": "Even if this challenge succeeds, the administration has four or five fallback statutory authorities it has not yet fully invoked, including Section 232 national security claims and executive orders under the International Emergency Economic Powers Act structured differently. The legal challenge may win a battle that doesn't end the war."
+      },
+      {
+        "assumption": "Congress is not involved in this fight.",
+        "whyItMightBeWrong": "The core legal question is whether Congress delegated tariff authority to the president clearly enough. If courts keep striking down executive tariff authority, the pressure shifts to Congress to either pass explicit delegation or reassert its own trade power. Republican members facing agricultural-state blowback from retaliatory tariffs have a real incentive to move."
+      },
+      {
+        "assumption": "The 51% market probability that courts force tariff refunds reflects balanced uncertainty.",
+        "whyItMightBeWrong": "That 51% estimate on Polymarket likely prices in years of appeals and partial outcomes. The administration's track record suggests it will comply narrowly if forced to issue refunds while finding new tariff instruments, meaning importers who paid the 10% may wait years for any recovery."
+      }
+    ],
+    "realDisagreement": "The real tension is between two legitimate constitutional claims that cannot both be fully honored. Congress unambiguously has the power to set tariffs. Congress also has the power to delegate that authority to the executive. The question is how clearly that delegation must be stated, and for how long a president can claim 'emergency' conditions. The administration's position is that any statutory grant is enough, full stop. The challengers' position is that emergency powers require actual emergencies that Congress specifically authorized, not perpetual trade deficit conditions that have existed for decades. The Supreme Court's IEEPA ruling earlier this year said the latter view prevails for that statute. But the 1974 law has different text. The side I'd lean toward: the judiciary will uphold narrow emergency powers while striking down indefinite broad-based tariffs, forcing a Congressional fix that never comes because neither party wants to own the vote on tariff policy.",
+    "whatNoOneIsSaying": "The plaintiffs winning would create a problem for Democrats too: a ruling that confirms congressional trade primacy hands the next Democratic president far less flexibility on trade than the Obama administration used. No Democratic senator who might want to use executive trade authority in 2029 is advertising that they hope this challenge fully succeeds.",
+    "whoPays": [
+      {
+        "who": "Small importers and retailers who already paid the 10% tariff",
+        "how": "If courts eventually order refunds, Customs will process them but the litigation timeline means businesses that couldn't absorb the upfront cost have already closed or changed suppliers. The refund will arrive after the damage is done.",
+        "when": "Refund possibility is 12-36 months out pending appeals; the damage is happening now"
+      },
+      {
+        "who": "US households in the lowest income quartile",
+        "how": "Tariffs function as a regressive consumption tax. A $1,000 annual household cost estimate represents a higher share of income for lower earners. The states challenging the tariffs argue this is the sharpest harm, but courts do not weigh distributive justice; they weigh statutory authority.",
+        "when": "Ongoing, immediate"
+      },
+      {
+        "who": "American companies that built supply chains around the exemption carve-outs",
+        "how": "Country-specific tariff rates are not challenged in this suit. Companies that shifted suppliers to tariff-exempt jurisdictions face continued disruption regardless of this ruling's outcome.",
+        "when": "Ongoing"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Court strikes down the 10% tariff",
+        "whatHappens": "The trade court panel rules the 1974 Act does not authorize indefinite broad tariffs based on a chronic trade deficit. Trump appeals, enforcement is paused or not, and the case heads to a federal circuit court for 12-18 months.",
+        "signal": "A ruling that uses the phrase 'major questions doctrine' or cites the SCOTUS IEEPA decision directly as controlling precedent."
+      },
+      {
+        "name": "Court upholds the tariff, with limitations",
+        "whatHappens": "Judges rule the 150-day temporary tariff authority is valid, but signal it cannot be renewed indefinitely. The administration interprets this as a green light and simply re-invokes the authority every 150 days.",
+        "signal": "A ruling that distinguishes 'temporary emergency measures' from 'permanent tariff policy' without enjoining the tariff."
+      },
+      {
+        "name": "Congress moves first",
+        "whatHappens": "Republican senators from agricultural states facing retaliatory tariffs push a bill clarifying and limiting emergency tariff authority. Trump threatens vetoes but the political dynamic makes a congressional fix more likely than a judicial one.",
+        "signal": "Any Senate committee markup of tariff authority legislation, especially bipartisan co-sponsorship."
+      }
+    ],
+    "whatWouldChange": "If the trade court upholds the tariff and the Supreme Court declines to take an appeal, the bottom line is wrong: that outcome would confirm the executive has broad permanent tariff-setting authority and the whack-a-mole strategy succeeded."
+  ,
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Will the Court Force Trump to Refund Tariffs?",
+        "url": "https://polymarket.com/event/will-the-court-force-trump-to-refund-tariffs-2026-06-30",
+        "probability": 0.51
+      }
+    ]
+  }
+}

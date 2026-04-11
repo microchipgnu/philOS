@@ -1,0 +1,36 @@
+{
+  "date": "2026-04-11",
+  "generatedAt": "2026-04-11T12:00:00Z",
+  "reports": [
+    {
+      "id": "vance-iran-islamabad-talks",
+      "title": "The Islamabad Gamble",
+      "subtitle": "Vance flew to Pakistan to negotiate a peace with Iran that neither side can fully afford to want.",
+      "category": "conflict"
+    },
+    {
+      "id": "tariff-court-ieepa",
+      "title": "The Tariff That Outlived Its Legal Theory",
+      "subtitle": "Trump's 10% global tariff is standing on a 1974 law the Supreme Court already gutted, and a panel of judges just told him so.",
+      "category": "power"
+    },
+    {
+      "id": "dhs-shutdown-recall",
+      "title": "Shutdown Theater",
+      "subtitle": "DHS ordered furloughed workers back to their desks during a shutdown, which is either a constitutional violation or proof that 'shutdown' no longer means what it used to.",
+      "category": "power"
+    },
+    {
+      "id": "ai-regulation-congress",
+      "title": "Two Parties, Two Theories of What AI Is",
+      "subtitle": "Both parties want to regulate AI, but they disagree on whether the problem is the technology itself or what people do with it, and that gap cannot be bridged.",
+      "category": "power"
+    },
+    {
+      "id": "ukraine-easter-ceasefire",
+      "title": "32 Hours of Nothing",
+      "subtitle": "Putin announced a ceasefire for Orthodox Easter. Ukraine accepted. The war did not.",
+      "category": "conflict"
+    }
+  ]
+}
