@@ -1,0 +1,118 @@
+{
+  "id": "iran-ceasefire-collapse",
+  "date": "2026-04-12",
+  "generatedAt": "2026-04-12T07:00:00Z",
+  "title": "No Deal in Islamabad",
+  "subtitle": "21 hours of direct talks between the US and Iran collapsed over nuclear weapons and the Strait of Hormuz. The ceasefire is now strain-tested with no replacement framework.",
+  "topic": "geopolitics",
+  "category": "conflict",
+  "tags": ["Iran", "US", "ceasefire", "nuclear", "Strait of Hormuz", "Pakistan", "Vance"],
+  "coverImage": {
+    "url": "https://dims.apnews.com/dims4/default/ac9ec96/2147483647/strip/true/crop/3882x2587+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F82%2F8a%2F00beb135fdebadf904165e239e2c%2Feefcd928f0f04b0896c030d21f40e25f",
+    "local": "/images/reports/2026-04-12/iran-ceasefire-collapse.jpg",
+    "credit": "AP News"
+  },
+  "sources": [
+    {
+      "url": "https://apnews.com/article/iran-us-israel-trump-lebanon-april-11-2026-2be904aee3f804892336730279e054b9",
+      "publisher": "AP News",
+      "angle": "Straight news: 21-hour talks ended without agreement; Vance cited Iran's refusal to commit to nuclear non-development as the dealbreaker"
+    },
+    {
+      "url": "https://www.reuters.com/world/asia-pacific/us-iran-talks-pause-now-disagreements-remain-2026-04-11/",
+      "publisher": "Reuters",
+      "angle": "Both sides blamed each other; Iran demanded Lebanon ceasefire, reparations, and control of Hormuz; US demanded nuclear commitment first"
+    },
+    {
+      "url": "https://www.cnbc.com/2026/04/11/us-iran-talks-set-to-begin-in-islamabad-after-delegations-arrive.html",
+      "publisher": "CNBC",
+      "angle": "Two US destroyers transited the Strait during talks as a show of force; Iran's state media denied it and claimed Iran turned one ship back"
+    },
+    {
+      "url": "https://www.npr.org/2026/04/11/nx-s1-5781760/pakistan-hosts-peace-talks-us-iran",
+      "publisher": "NPR",
+      "angle": "Historical framing: first direct face-to-face US-Iran talks in decades ended in failure before the ceasefire's 14-day window expires"
+    },
+    {
+      "url": "https://ifdrtech.com/article/iran-s-strait-of-hormuz-ceasefire-a-restricted-reopening",
+      "publisher": "IFDRTech (analysis)",
+      "angle": "Iran's reported offer to allow 10-15 ships per day through Hormuz is a trap: it gives Iran chokepoint control permanently while appearing to compromise"
+    }
+  ],
+  "brief": {
+    "actors": ["US", "Iran", "Vance", "Pakistan", "Trump"],
+    "whatHappened": "After 21 hours of direct face-to-face negotiations in Islamabad, the United States and Iran ended their talks on April 12 without an agreement. Vice President JD Vance led the US delegation. The sticking points were Iran's refusal to commit to not developing nuclear weapons, and the two sides' contradictory demands about the Strait of Hormuz. Iran wanted US recognition of Iranian control over ship passage through the strait and a ceasefire in Lebanon as preconditions. The US wanted Iran to renounce nuclear weapons development as a precondition. The fragile two-week ceasefire, announced just days earlier, now sits without a successor framework.",
+    "bottomLine": "Iran walked out of talks with its core leverage intact: the Strait of Hormuz stays closed on its terms, the ceasefire is temporary with no deal, and Tehran has now demonstrated it can sit across the table from Washington without conceding anything.",
+    "hiddenBets": [
+      {
+        "assumption": "The ceasefire is a breathing space before a deal",
+        "whyItMightBeWrong": "Iran entered the talks demanding things no US administration can agree to publicly: explicit control over who transits the Strait, reparations, and a Lebanon commitment. These are not bargaining chips. They are the terms Iran needs to show its domestic audience it won. A deal on US terms would topple the regime's narrative."
+      },
+      {
+        "assumption": "The nuclear weapons red line is the real sticking point",
+        "whyItMightBeWrong": "The Strait of Hormuz fight is the actual crux. Global oil prices and US credibility in the Gulf depend on who controls that chokepoint. The nuclear commitment is a demand the US can hold publicly; Hormuz sovereignty is the demand neither side can publicly yield on."
+      },
+      {
+        "assumption": "Pakistan can mediate a second round",
+        "whyItMightBeWrong": "Pakistan's leverage as a mediator depends on both sides wanting a deal badly enough to keep talking. Iran just demonstrated it can absorb the cost of no deal. Pakistan's position becomes weaker each time talks fail on its soil."
+      }
+    ],
+    "realDisagreement": "The real fork is whether the ceasefire is a pause in a war that will resume, or a permanent end to hostilities that just needs a formal framework. The US is treating it as the latter: sweep the strait, negotiate, move on. Iran is treating it as the former: the war is paused because Iran chose to pause it, and it can un-pause it. These cannot both be true. Iran's framing is more consistent with the facts on the ground. The US sent destroyers through the Strait during talks to test the claim that it controls access. Iran's media said one was turned back. Someone is lying about who controls that water. A bet on the US framing requires believing Iran will accept a settlement that looks like a loss at home. That requires evidence that doesn't yet exist.",
+    "whatNoOneIsSaying": "Trump's comment during the talks, 'whether we make a deal or not makes no difference to me,' is either a negotiating tactic or a genuine strategic posture. If genuine, it means the US has accepted a permanent partial closure of the Strait as a cost of doing business, which would be the largest shift in US Middle East policy in a generation and no one is saying so out loud.",
+    "whoPays": [
+      {
+        "who": "Global energy importers, especially South Asia and East Asia",
+        "how": "Every day the Strait remains at reduced throughput, oil prices carry a risk premium that hits import-dependent economies hardest. Japan, South Korea, India, and Pakistan are absorbing costs the US and Europe can partially buffer with strategic reserves.",
+        "when": "Ongoing, with compounding effect if ceasefire collapses within weeks"
+      },
+      {
+        "who": "Iranian civilian population",
+        "how": "Six weeks of war have killed thousands and shaken global markets. Sanctions remain in place. Any resumption of fighting means the regime absorbs the cost of continued isolation while civilians bear the food, medicine, and infrastructure consequences.",
+        "when": "Already paying; worse if ceasefire breaks"
+      },
+      {
+        "who": "Pakistan",
+        "how": "Islamabad has exposed itself as a mediator, spending political capital with both sides. A failed ceasefire undermines Pakistan's regional standing and leaves it holding the liability of having hosted talks that produced nothing.",
+        "when": "Medium-term reputational damage, immediate if conflict resumes"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Ceasefire holds, talks resume",
+        "whatHappens": "Both sides step back from maximalist positions and agree to a narrower interim framework: Hormuz stays partially open, nuclear talks are deferred to a technical working group, and fighting pauses indefinitely. This is less a deal than a shared agreement to avoid the costs of renewed conflict.",
+        "signal": "Iran allows US military vessels through Hormuz without incident for 72+ hours"
+      },
+      {
+        "name": "Ceasefire collapses, war resumes",
+        "whatHappens": "Iran uses a Hormuz incident or a US military probe as justification to resume hostilities. Oil prices spike past $130/barrel. The US faces the choice of escalating militarily or accepting that it cannot compel Iran without a ground campaign it has not prepared for.",
+        "signal": "Iran's Revolutionary Guard announces 'defensive operations' in the Gulf within 10 days of talks collapsing"
+      },
+      {
+        "name": "Frozen conflict",
+        "whatHappens": "The ceasefire holds technically but the Strait remains at restricted throughput indefinitely. No deal is reached. The conflict becomes a slow economic siege with occasional military provocations, neither side willing to pay the cost of escalation or make the concessions needed for peace.",
+        "signal": "Both sides stop publicly demanding preconditions and start talking about 'ongoing dialogue' with no timeline"
+      }
+    ],
+    "whatWouldChange": "If Iran publicly accepts a US naval transit through the Strait without challenge, it signals Iran is willing to trade Hormuz control for sanctions relief. That would change the bottom line: a deal becomes possible. Until then, Iran's position is that it won the war by surviving it.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "US x Iran permanent peace deal by April 30, 2026?",
+        "url": "https://polymarket.com/event/us-x-iran-permanent-peace-deal-by",
+        "probability": 0.14
+      },
+      {
+        "platform": "Polymarket",
+        "question": "US-Iran nuclear deal by April 30?",
+        "url": "https://polymarket.com/event/us-iran-nuclear-deal-by-april-30",
+        "probability": 0.1285
+      },
+      {
+        "platform": "Polymarket",
+        "question": "US-Iran nuclear deal by June 30?",
+        "url": "https://polymarket.com/event/us-iran-nuclear-deal-by-june-30",
+        "probability": 0.335
+      }
+    ]
+  }
+}

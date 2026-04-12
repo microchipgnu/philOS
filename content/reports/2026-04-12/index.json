@@ -1,0 +1,41 @@
+{
+  "date": "2026-04-12",
+  "generatedAt": "2026-04-12T07:00:00Z",
+  "reports": [
+    {
+      "id": "iran-ceasefire-collapse",
+      "title": "No Deal in Islamabad",
+      "subtitle": "21 hours of direct talks between the US and Iran collapsed over nuclear weapons and the Strait of Hormuz. The ceasefire is now strain-tested with no replacement framework.",
+      "category": "conflict",
+      "topic": "geopolitics"
+    },
+    {
+      "id": "trump-section-122-tariff-court",
+      "title": "Tariff Whack-a-Mole",
+      "subtitle": "After SCOTUS killed the IEEPA tariffs, Trump pivoted to Section 122. Now that too is before a federal court, and the question is whether any statutory authority can sustain his trade policy.",
+      "category": "power",
+      "topic": "economy"
+    },
+    {
+      "id": "trump-nato-iran-war-fracture",
+      "title": "Alliance Without a War",
+      "subtitle": "Trump threatened to pull the US from NATO after European allies refused to back his Iran war. The alliance survived its first real test of whether it still means anything when Washington acts unilaterally.",
+      "category": "power",
+      "topic": "geopolitics"
+    },
+    {
+      "id": "congress-ai-regulation-divide",
+      "title": "Regulate the Machine or Regulate the Person",
+      "subtitle": "Both parties want to regulate AI but disagree on the target: Republicans want to control how the technology is built; Democrats want to control how individuals misuse it. The difference is not semantic.",
+      "category": "power",
+      "topic": "tech"
+    },
+    {
+      "id": "youth-social-media-ban-wave",
+      "title": "The Under-16 Consensus",
+      "subtitle": "The US House, Canada's Liberal Party, Australia's eSafety regulator, and Massachusetts have all moved this week to restrict or ban children's social media use. The policy idea has gone global. The implementation gap is enormous.",
+      "category": "ethics",
+      "topic": "society"
+    }
+  ]
+}

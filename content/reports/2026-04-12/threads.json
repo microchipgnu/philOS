@@ -1,0 +1,52 @@
+{
+  "date": "2026-04-12",
+  "threads": [
+    {
+      "id": "executive-power-without-authority",
+      "title": "Acting Without a Legal Foundation",
+      "description": "Three of today's stories are about the same underlying question: can an executive act without clear legal authorization, and what happens when courts or allies say no? Trump's tariff shopping after SCOTUS struck down IEEPA, his threat to punish NATO allies for not joining a war they were never legally obligated to join, and his negotiating position in Iran all share this structure: assert authority, face pushback, find the next lever. The pattern is not Trump being thwarted. It is a system where executive overreach is slowed but not stopped.",
+      "type": "tension-cluster",
+      "stories": ["trump-section-122-tariff-court", "trump-nato-iran-war-fracture", "iran-ceasefire-collapse"],
+      "connections": [
+        {
+          "from": "trump-section-122-tariff-court",
+          "to": "trump-nato-iran-war-fracture",
+          "relationship": "The same pattern of executive authority assertion and judicial or allied resistance that defines the tariff fight also defines NATO: Trump acts unilaterally, faces pushback, and finds the next available lever rather than accepting constraint."
+        },
+        {
+          "from": "trump-nato-iran-war-fracture",
+          "to": "iran-ceasefire-collapse",
+          "relationship": "Trump's threat to punish NATO allies for sitting out the Iran war is a direct extension of the Iran conflict: allies who calculated the war was not their obligation are now being threatened for that calculation, which mirrors how Iran is being handled in talks where the US demands concessions without offering equivalents."
+        }
+      ]
+    },
+    {
+      "id": "platform-liability-inversion",
+      "title": "Who Is Responsible for What Platforms Do",
+      "description": "The AI regulation divide and the youth social media ban wave are both, at root, about the same unresolved question: are platforms responsible for what their technology enables, or only for what their users choose to do? Republicans want to regulate AI at the model level, which assigns responsibility to developers. Democrats want to regulate misuse, which assigns responsibility to individual bad actors. Youth social media bans place enforcement on platforms (age verification) or parents (consent requirements), but not on the algorithmic design that makes these platforms harmful. Both policy debates are avoiding the actual mechanism of harm.",
+      "type": "tension-cluster",
+      "stories": ["congress-ai-regulation-divide", "youth-social-media-ban-wave"],
+      "connections": [
+        {
+          "from": "congress-ai-regulation-divide",
+          "to": "youth-social-media-ban-wave",
+          "relationship": "The partisan split on AI regulation (regulate the model vs. regulate the misuse) maps directly onto the youth social media ban debate: governments are banning access rather than requiring platforms to redesign the algorithmic features that cause harm, which is the same evasion of upstream responsibility that characterizes the Democratic approach to AI."
+        }
+      ]
+    },
+    {
+      "id": "iran-war-economic-cascade",
+      "title": "The Iran War's Invisible Costs",
+      "description": "The Iran ceasefire collapse and the tariff court battle are connected through a mechanism no single story makes visible: the US is simultaneously conducting an economically disruptive war and fighting a domestic legal battle over tariffs that were partly justified by the trade disruptions that war caused. Trump's 50% metals tariff (Section 232, national security grounds) and the Iran war are linked: the same 'national security' framing that justified military action is being used to justify tariffs. If the Iran situation stabilizes, one of the key arguments for emergency trade measures weakens. If it escalates, tariff justifications multiply.",
+      "type": "cause-effect",
+      "stories": ["iran-ceasefire-collapse", "trump-section-122-tariff-court"],
+      "connections": [
+        {
+          "from": "iran-ceasefire-collapse",
+          "to": "trump-section-122-tariff-court",
+          "relationship": "The Iran war and Strait of Hormuz disruption strengthen the 'national security emergency' framing that Section 232 metals tariffs rely on; a ceasefire and reopening of Hormuz undercuts the emergency justification and makes tariff legal challenges easier to win."
+        }
+      ]
+    }
+  ]
+}

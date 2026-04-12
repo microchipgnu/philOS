@@ -1,0 +1,102 @@
+{
+  "id": "trump-section-122-tariff-court",
+  "date": "2026-04-12",
+  "generatedAt": "2026-04-12T07:00:00Z",
+  "title": "Tariff Whack-a-Mole",
+  "subtitle": "After SCOTUS killed the IEEPA tariffs, Trump pivoted to Section 122. Now that too is before a federal court, and the question is whether any statutory authority can sustain his trade policy.",
+  "topic": "economy",
+  "category": "power",
+  "tags": ["tariffs", "Trump", "SCOTUS", "Section 122", "trade", "Court of International Trade", "IEEPA"],
+  "coverImage": {
+    "url": "https://www.republicanherald.com/wp-content/uploads/2026/04/Trump_86757-1.jpg?w=1024&h=682",
+    "local": "/images/reports/2026-04-12/trump-tariff-court.jpg",
+    "credit": "Republican Herald / AP"
+  },
+  "sources": [
+    {
+      "url": "https://www.tribtoday.com/news/national-news-apwire/2026/04/federal-court-hears-new-case-against-trumps-latest-global-tariffs/",
+      "publisher": "Tribune Chronicle / AP",
+      "angle": "Straight news: CIT heard oral arguments April 10 on whether Section 122 10% tariffs exceed statutory authority; 24 states and 2 small businesses are plaintiffs"
+    },
+    {
+      "url": "https://www.aol.com/news/u-trade-court-weighs-legality-160525620.html",
+      "publisher": "AOL / AP",
+      "angle": "Oregon's lawyer argued the court should block now rather than let the 150-day timeline expire, warning Trump will use other statutes to extend tariffs indefinitely"
+    },
+    {
+      "url": "https://www.tspr.org/2026-04-11/a-legal-scholar-explains-the-challenges-with-trumps-global-tariffs",
+      "publisher": "NPR",
+      "angle": "Legal scholar Ilya Somin explains why Section 122 has the same constitutional flaw as IEEPA: Congress never intended to permanently delegate tariff authority to the executive"
+    },
+    {
+      "url": "https://tradelawdaily.com/article/2026/04/09/importers-us-states-file-reply-briefs-in-suits-on-legality-of-section-122-tariffs-2604080039?BC=bc_69d7955b3676e",
+      "publisher": "Trade Law Daily",
+      "angle": "Detailed legal brief: conditions for Section 122 invocation (balance-of-payments deficits) are not currently met, making the tariff legally indefensible on its own terms"
+    }
+  ],
+  "brief": {
+    "actors": ["Trump", "SCOTUS", "Congress", "Court of International Trade"],
+    "whatHappened": "In February 2026, the Supreme Court struck down Trump's IEEPA-based global tariffs, ruling Congress had not delegated that authority to the president. The same day, Trump announced a new 10% across-the-board global import tariff under Section 122 of the Trade Act of 1974, a statute intended to address balance-of-payments deficits. On April 10, 2026, a three-judge panel of the US Court of International Trade heard oral arguments from 24 state governments and two small businesses arguing the Section 122 tariffs are also illegal. The legal theory is the same: conditions for the statute's use are not met, and even if they were, Congress cannot indefinitely delegate tariff-setting authority to the executive.",
+    "bottomLine": "Trump's tariff policy is now a legal strategy game: find any statutory hook that survives long enough to matter economically, then move to the next one when courts strike it down. The question is not whether these tariffs are legal but whether the courts can rule fast enough to stop them before the damage is done.",
+    "hiddenBets": [
+      {
+        "assumption": "If the court strikes down Section 122, Trump is out of tariff tools",
+        "whyItMightBeWrong": "Trump has already shown he will find the next statute. Section 232 (national security), Section 201 (safeguards), and proclamation authority over specific countries all remain. The real pattern is executive branch tariff shopping, not a single legal fight."
+      },
+      {
+        "assumption": "The court will rule quickly enough to matter",
+        "whyItMightBeWrong": "Section 122 tariffs have a 150-day statutory sunset. Oregon's lawyer explicitly warned the court that Trump will issue new tariffs under different authorities before the 150-day clock expires. The legal victory arrives after the economic effect has already occurred."
+      },
+      {
+        "assumption": "SCOTUS striking down IEEPA was a constraint on executive power",
+        "whyItMightBeWrong": "Tariff revenue has actually dropped $4 billion since October, partly because the IEEPA decision reduced what was collected. But Trump responded by raising metals tariffs to 50% under Section 232. The revenue loss has been partially offset by sector-specific escalation. SCOTUS did not reduce tariff protection; it redistributed who bears it."
+      }
+    ],
+    "realDisagreement": "The core tension: the Constitution gives Congress the power to set tariffs, but Congress passed dozens of statutes over the 20th century that delegated pieces of that power to the executive. The real question is whether those delegations are individually valid or whether the cumulative effect was an unconstitutional abdication of legislative authority. Courts have been reluctant to strike down delegations wholesale. If they hold that line, Trump can always find the next statute. If they adopt the major questions doctrine broadly, they invalidate decades of trade law. Neither outcome is clean. The first enables executive trade policy forever; the second upends the entire post-WWII tariff architecture. The path of least resistance for courts is to find narrow grounds to block each tariff in sequence, which is exactly what is happening, and it changes nothing structurally."
+    ,
+    "whatNoOneIsSaying": "The 24 states suing Trump include several that depend on manufacturing sectors protected by these very tariffs. Their legal argument is that the tariffs exceed statutory authority. Their political interest is in replacing an executive tariff with a congressional one they can influence. This is not a free-trade coalition. It is a coalition fighting for who controls the lever, not whether the lever exists.",
+    "whoPays": [
+      {
+        "who": "US importers and their customers",
+        "how": "A 10% across-the-board import tax raises prices on everything from consumer electronics to industrial inputs. Small businesses that cannot absorb or pass through these costs are being squeezed between legal uncertainty (is the tariff even valid?) and practical reality (it is being collected today).",
+        "when": "Immediate and ongoing since February 24"
+      },
+      {
+        "who": "US trading partners",
+        "how": "Countries that had negotiated bilateral deals expecting the IEEPA tariffs to be replaced by nothing are instead facing a 10% floor under a different authority. The diplomatic cost is that no one can rely on any framework negotiated with the current administration.",
+        "when": "Ongoing; compound damage if Section 122 tariffs survive and new ones are added"
+      },
+      {
+        "who": "US steel and metals consumers",
+        "how": "Trump's 50% Section 232 metals tariff, announced in early April, hit downstream manufacturers who use steel, aluminum, and copper as inputs. The benefit flows to domestic producers; the cost flows to manufacturers, construction, and auto sectors.",
+        "when": "Immediate"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Section 122 struck down, new authority invoked",
+        "whatHappens": "The Court of International Trade rules the conditions for Section 122 are not met. Trump invokes Section 232 or a new emergency declaration under different statutory authority within days. The tariff stays, the legal fight restarts.",
+        "signal": "The White House issues a new tariff proclamation within 72 hours of any court order blocking Section 122"
+      },
+      {
+        "name": "Section 122 upheld, tariffs become permanent",
+        "whatHappens": "The court rules balance-of-payments concerns are within presidential discretion. The 10% tariff survives past its 150-day statutory window via extension or new proclamation. US trade partners accelerate WTO challenges and bilateral retaliation.",
+        "signal": "EU, China, or Canada announce retaliatory tariffs on US exports within 30 days of an adverse ruling"
+      },
+      {
+        "name": "Congress intervenes",
+        "whatHappens": "Congressional Republicans, facing constituent pressure from manufacturers hit by metals tariffs, pass legislation either formally delegating specific tariff authority or limiting executive tariff power. This is the constitutional solution but the least politically likely near-term outcome.",
+        "signal": "Senate Finance Committee marks up a trade authority bill with bipartisan support"
+      }
+    ],
+    "whatWouldChange": "If the Court of International Trade applies the major questions doctrine broadly, ruling that any tariff affecting trillions in trade requires explicit congressional authorization, Trump loses the Section 122 anchor. But the administration's legal team has already identified the next statute. The real constraint on tariff policy is not the courts but economic damage severe enough to break Republican congressional support.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Will the Court Force Trump to Refund Tariffs?",
+        "url": "https://polymarket.com/event/will-the-court-force-trump-to-refund-tariffs-2026-06-30",
+        "probability": 0.505
+      }
+    ]
+  }
+}

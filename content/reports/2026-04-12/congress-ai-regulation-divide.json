@@ -1,0 +1,88 @@
+{
+  "id": "congress-ai-regulation-divide",
+  "date": "2026-04-12",
+  "generatedAt": "2026-04-12T07:00:00Z",
+  "title": "Regulate the Machine or Regulate the Person",
+  "subtitle": "Both parties want to regulate AI but disagree on the target: Republicans want to control how the technology is built; Democrats want to control how individuals misuse it. The difference is not semantic.",
+  "topic": "tech",
+  "category": "power",
+  "tags": ["AI", "Congress", "regulation", "LLM", "deepfake", "Republicans", "Democrats", "Klobuchar"],
+  "coverImage": {
+    "url": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2026/03/featureAI.jpg",
+    "local": "/images/reports/2026-04-12/ai-regulation-congress.jpg",
+    "credit": "Reason Magazine"
+  },
+  "sources": [
+    {
+      "url": "https://reason.com/2026/04/11/democrats-and-republicans-both-want-to-regulate-ai-they-just-cant-agree-on-how/",
+      "publisher": "Reason",
+      "angle": "Detailed comparison of Republican vs. Democratic AI bills: Republicans regulate LLM developers and deployment; Democrats regulate individual misuse (deepfakes, manipulation, harassment)"
+    },
+    {
+      "url": "https://www.aol.com/news/democrats-republicans-both-want-regulate-100023929.html",
+      "publisher": "AOL / Reason",
+      "angle": "Sen. Klobuchar's deepfake bill as the archetype of the Democratic approach: the harm is a specific bad actor doing a specific bad thing with AI"
+    },
+    {
+      "url": "https://reason.com/2026/04/03/maine-bill-proves-states-are-capable-of-adopting-bad-data-center-policies-without-federal-intervention/",
+      "publisher": "Reason",
+      "angle": "States filling the federal vacuum: Maine is banning new data centers above 20MW; a dozen states have similar proposals. State-level fragmentation is accelerating as Congress stalls."
+    }
+  ],
+  "brief": {
+    "actors": ["Congress", "Republicans", "Democrats", "Klobuchar", "OpenAI"],
+    "whatHappened": "As of April 2026, Congress has introduced dozens of AI-related bills but passed none at the federal level. The partisan divide has become structural: Republican-authored bills generally target the upstream technology, seeking to regulate how large language models are developed and deployed. Democratic-authored bills generally target downstream harms, focusing on specific misuses such as deepfakes, AI-generated disinformation, and harassment. Senator Klobuchar's response to an AI-generated deepfake of herself is a paradigm case of the Democratic approach: the law should punish the person who makes the deepfake, not the model that makes it possible. Meanwhile, nearly a dozen states are advancing legislation to restrict data center construction, and one state (Maine) is poised to become the first to pass such a bill.",
+    "bottomLine": "Republicans and Democrats are not fighting over whether to regulate AI. They are fighting over who pays the political cost: regulating the technology means regulating the companies that make it, which are overwhelmingly based in Democratic-leaning states. Regulating the individual misuse means regulating speech and behavior, which is a culture-war lever Republicans prefer to leave to states.",
+    "hiddenBets": [
+      {
+        "assumption": "The Republican approach (regulate the model) is more powerful",
+        "whyItMightBeWrong": "Regulating LLM development at the federal level requires defining what a 'dangerous' model is, which is technically and politically contested. Every threshold that captures harmful models also captures legitimate research. The EU AI Act is discovering this in enforcement. Regulating the model is in theory more upstream and therefore more powerful; in practice it requires technical definitions regulators do not yet have."
+      },
+      {
+        "assumption": "The Democratic approach (regulate the misuse) is weaker",
+        "whyItMightBeWrong": "Deepfake laws, if broadly written and aggressively enforced, create liability for platforms that host AI-generated content. That is an upstream intervention wearing downstream clothing. Section 230 reform or platform liability for AI-generated content would be far more consequential than regulating the LLMs directly."
+      },
+      {
+        "assumption": "Federal inaction means no regulation",
+        "whyItMightBeWrong": "State-level fragmentation is creating a de facto regulatory environment. Maine banning data centers, Texas banning AI-generated political ads, Florida restricting AI hiring tools: these are creating a patchwork that affects national companies without any coherent federal standard. The practical effect is heavier regulation than any federal bill would impose, applied inconsistently."
+      }
+    ],
+    "realDisagreement": "The genuine tension: AI regulation that targets the underlying model necessarily limits what the technology can do, constraining both harmful and beneficial applications. AI regulation that targets individual misuse leaves the technology unconstrained but requires law enforcement to catch harms after they occur. Both approaches have merit. The Republican approach is more protective of innovation but less protective against harms that emerge from how the technology is built. The Democratic approach is more protective of speech but less protective against the infrastructure-level risks of uncontrolled model development. A competent federal framework would do both. The question is whether the partisan division is genuine or a cover for protecting different constituent interests: Republicans protecting AI companies from liability; Democrats protecting plaintiffs' lawyers and state AGs from preemption.",
+    "whatNoOneIsSaying": "The companies most exposed to meaningful AI regulation, Google, Microsoft, Amazon, and OpenAI, are all working both sides of the partisan divide through lobbying. They prefer Democratic-style individual liability bills because individual liability is prosecutable after the fact and creates no pre-deployment obligation. Republican-style model regulation creates certification requirements, audits, and deployment gates that hit the development process directly. The companies are not neutral on this. They prefer to be regulated for what their users do, not for what their models are capable of.",
+    "whoPays": [
+      {
+        "who": "Independent AI developers and open-source community",
+        "how": "Either regulatory approach, if applied at the model level, requires compliance infrastructure that large companies can absorb but small developers and open-source projects cannot. The practical effect is raising barriers to entry that protect incumbents.",
+        "when": "As soon as any federal bill passes with model-level requirements"
+      },
+      {
+        "who": "Victims of AI-generated deepfakes",
+        "how": "Without a federal standard, victims must navigate a patchwork of state laws that vary wildly in what they cover, what damages are available, and whether platforms are liable. Many victims, especially those not in states with strong laws, have no meaningful legal recourse.",
+        "when": "Ongoing"
+      },
+      {
+        "who": "States hosting planned data centers",
+        "how": "State-level data center restrictions, like Maine's proposed moratorium, will redirect investment to less regulated states. This creates a race to the bottom on regulation and a geographic concentration of AI infrastructure in states that compete on permissiveness.",
+        "when": "Medium-term; 2-5 years as capital investment decisions are made"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Partisan deadlock, states regulate",
+        "whatHappens": "No federal AI bill passes in 2026. States continue expanding their own frameworks. By 2027, companies operating nationally face compliance requirements in 15+ states with contradictory standards. Large AI companies lobby for federal preemption to clear the field.",
+        "signal": "A major AI company announces it will not serve customers in Maine or another state due to regulatory burden"
+      },
+      {
+        "name": "Narrow federal compromise",
+        "whatHappens": "Congress passes a narrow bill focused on deepfakes and AI-generated political content, the one area where both parties have clear constituent demand. Model-level regulation is explicitly deferred. The bill creates a federal standard that preempts state deepfake laws while leaving everything else to the states.",
+        "signal": "A bipartisan deepfake bill clears committee with co-sponsors from both parties"
+      },
+      {
+        "name": "Executive action fills the vacuum",
+        "whatHappens": "The White House issues executive orders establishing voluntary AI safety commitments and a federal AI certification program modeled on FedRAMP. This creates a de facto regulatory standard for government-adjacent AI without congressional action.",
+        "signal": "OMB issues an AI procurement rule requiring certification for government AI contracts"
+      }
+    ],
+    "whatWouldChange": "A major AI-enabled harm, a deepfake that manipulates an election, an AI system that causes a mass casualty event, or a large-scale data breach traced to LLM training data, would break the partisan deadlock by creating a specific concrete harm that both parties must respond to. The current stalemate depends on the harms remaining diffuse and theoretical."
+  }
+}
