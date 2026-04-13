@@ -1,0 +1,94 @@
+{
+  "id": "epa-endangerment-finding-repeal",
+  "date": "2026-04-13",
+  "generatedAt": "2026-04-13T12:50:00Z",
+  "title": "The Legal Spine of Climate Policy Just Broke",
+  "subtitle": "The EPA repealed its 2009 endangerment finding in February. Environmental groups sued in April. The outcome of that case determines whether the US has any federal climate authority at all.",
+  "topic": "society",
+  "category": "power",
+  "tags": ["EPA", "climate", "Zeldin", "endangerment finding", "Clean Air Act", "litigation"],
+  "coverImage": {
+    "url": "https://www.jurist.org/news/wp-content/uploads/sites/4/2026/04/Environmental_Protection_Agency_building_15011151177.jpg",
+    "local": "/images/reports/2026-04-13/epa-endangerment-finding.jpg",
+    "credit": "JURIST / Wikimedia Commons"
+  },
+  "sources": [
+    {
+      "url": "https://cascadedaily.com/article.php?id=7687",
+      "publisher": "Cascade Daily",
+      "angle": "Detailed legal analysis: the endangerment finding was the statutory spine of all major US climate regulation, and its repeal requires the EPA to argue in court that 15 years of peer-reviewed science was wrong"
+    },
+    {
+      "url": "https://www.cbsnews.com/news/epa-lee-zeldin-tells-climate-skeptics-to-celebrate-vindication/?intcid=CNR-01-0623",
+      "publisher": "CBS News",
+      "angle": "EPA Administrator Zeldin told a Heartland Institute conference that climate skeptics should 'celebrate vindication,' framing the repeal as reversing political manipulation of science, while signaling his likely promotion to attorney general"
+    },
+    {
+      "url": "https://www.jurist.org/news/2026/04/environmental-groups-challenge-epa-repeal-of-greenhouse-gas-study/",
+      "publisher": "JURIST",
+      "angle": "Legal filing details: Food & Water Watch and Alaskan tribes sued in DC District Court, arguing the repeal runs counter to Massachusetts v. EPA (2007), which compelled the finding in the first place"
+    },
+    {
+      "url": "https://www.foodandwaterwatch.org/2026/04/08/food-water-watch-and-allies-sue-epa-for-illegal-repeal-of-climate-protections/",
+      "publisher": "Food & Water Watch",
+      "angle": "Plaintiff's framing: the repeal eliminates the EPA's legal authority to regulate greenhouse gases under Section 202(a) of the Clean Air Act, which Congress did not authorize"
+    }
+  ],
+  "brief": {
+    "actors": ["EPA", "Zeldin", "Trump", "Heartland Institute", "Food & Water Watch", "SCOTUS"],
+    "whatHappened": "In February 2026, the EPA under Administrator Lee Zeldin issued a final rule repealing the 2009 greenhouse gas endangerment finding. That finding, originally required by the Supreme Court's 2007 Massachusetts v. EPA ruling, was the legal basis for virtually all federal climate regulation including the Clean Power Plan, vehicle emissions standards, and methane rules. In early April, Zeldin addressed the Heartland Institute climate skeptics conference and told attendees to 'celebrate vindication.' Environmental groups and Alaskan tribes filed suit in DC District Court on April 8, challenging the repeal as exceeding the EPA's authority and contradicting the 2007 SCOTUS ruling.",
+    "bottomLine": "The EPA has not just rolled back a regulation. It has declared that it has no legal authority to regulate greenhouse gases at all. Whether that declaration survives in court is the only climate policy question that matters in the United States for the next decade.",
+    "hiddenBets": [
+      {
+        "assumption": "Courts will quickly strike down the repeal, restoring the status quo.",
+        "whyItMightBeWrong": "The legal path is long. The DC Circuit and ultimately the Supreme Court will decide. The current Supreme Court's West Virginia v. EPA (2022) ruling already limited EPA climate authority through the major questions doctrine. A Court that constrained the finding in 2022 may not be eager to restore it fully in 2026. The repeal could survive or be sent back to the EPA for revision rather than outright restored."
+      },
+      {
+        "assumption": "The repeal is about climate policy.",
+        "whyItMightBeWrong": "Zeldin is widely reported to be under consideration for promotion to Attorney General following Pam Bondi's departure. His Heartland speech was an audition for a promotion, not just a policy statement. The repeal serves dual purposes: it delivers to the fossil fuel industry, and it establishes Zeldin's ideological credibility for a higher role. The climate outcome may be secondary to the political positioning."
+      },
+      {
+        "assumption": "Future administrations can simply restore the finding.",
+        "whyItMightBeWrong": "The regulatory record created by this repeal will create a procedural obstacle. Any future EPA will have to argue against the Trump EPA's administrative record, which now includes a formal finding that the 2009 science was politically distorted. Courts treat agency reversals skeptically when the underlying agency record is contested."
+      }
+    ],
+    "realDisagreement": "The genuine fork is between two theories of what environmental governance is for. Theory one: environmental regulation is a scientific and technical project, and agencies should follow the evidence wherever it leads. Theory two: environmental regulation is an economic policy choice, and agencies should balance costs against benefits with elected officials setting the weights. The 2009 endangerment finding was issued under theory one; the 2026 repeal is issued under theory two. These cannot coexist in the same legal framework. The Supreme Court has spent the last decade gradually shifting the administrative state toward theory two. The repeal is the logical endpoint of that shift. The question is whether Congress ever intended to authorize the EPA to choose theory two, or whether that choice requires legislation. The courts will answer this, but slowly.",
+    "whatNoOneIsSaying": "Alaskan tribes are among the plaintiffs in the lawsuit, and their inclusion is not symbolic. Alaska is experiencing some of the fastest warming on the planet, with permafrost collapse destroying village foundations, coastal erosion eliminating native communities, and shifting fishery ranges threatening subsistence food supplies. The tribes are in court because they are losing land they have inhabited for thousands of years. They are not a footnote to a regulatory dispute.",
+    "whoPays": [
+      {
+        "who": "Alaskan Native communities",
+        "how": "Permafrost thaw and coastal erosion accelerate without federal emissions constraints. Village relocation costs run $50-$200 million per community for the dozen or more villages facing imminent displacement.",
+        "when": "Ongoing, accelerating over 10-20 years"
+      },
+      {
+        "who": "US auto manufacturers",
+        "how": "Vehicle emissions standards derived from the endangerment finding are now legally uncertain. Manufacturers who invested in EV platforms to meet those standards face regulatory whiplash: the standards may be struck down, but then restored by a future administration, and the investment cycle for new vehicle platforms is 5-8 years.",
+        "when": "Investment decisions in next 12-18 months"
+      },
+      {
+        "who": "States with independent climate authority",
+        "how": "California, New York, and 15 other states have their own climate regulations. A federal repeal does not directly affect them, but it removes the floor that prevented federal pre-emption fights. Fossil fuel interests will use the repeal as an argument to challenge state authority in federal court.",
+        "when": "Litigation cycle, 2-5 years"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Courts Restore the Finding",
+        "whatHappens": "The DC Circuit or SCOTUS vacates the repeal as inconsistent with the 2007 Massachusetts v. EPA ruling. Federal climate authority is restored, though specific regulations may still need to be rebuilt. The repeal becomes a legal dead end.",
+        "signal": "DC Circuit grants a preliminary injunction against enforcement of the repeal within 60 days of filing."
+      },
+      {
+        "name": "SCOTUS Rewrites the Question",
+        "whatHappens": "The Supreme Court takes the case and issues a ruling that neither restores nor fully endorses the repeal, instead requiring Congress to explicitly authorize any future climate regulation. This effectively kills federal climate policy until Congress acts, which it will not under the current majority.",
+        "signal": "SCOTUS grants certiorari on expedited basis and frames the question around the major questions doctrine rather than Massachusetts v. EPA precedent."
+      },
+      {
+        "name": "Regulatory Limbo",
+        "whatHappens": "Lower courts issue conflicting rulings. The repeal is blocked in some circuits and upheld in others. Federal climate regulation enters a years-long state of uncertainty where neither industry nor agencies know what rules apply. Investment in both fossil fuels and clean energy stalls.",
+        "signal": "The DC Circuit issues a stay of the repeal pending appeal, but does not vacate it."
+      }
+    ],
+    "whatWouldChange": "If Congress passed legislation explicitly authorizing or prohibiting EPA greenhouse gas regulation, the entire case becomes moot. Congress has not done this in 30 years of trying. The absence of congressional action is precisely why courts have had to interpret the Clean Air Act's reach. That is not changing.",
+    "markets": []
+  }
+}

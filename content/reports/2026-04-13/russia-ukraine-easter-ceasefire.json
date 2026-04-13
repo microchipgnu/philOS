@@ -1,0 +1,113 @@
+{
+  "id": "russia-ukraine-easter-ceasefire",
+  "date": "2026-04-13",
+  "generatedAt": "2026-04-13T12:45:00Z",
+  "title": "The Truce That Never Was",
+  "subtitle": "Russia and Ukraine agreed to a 32-hour Easter ceasefire. Ukraine counted 2,299 violations. The ceasefire expired with both sides accusing each other and Trump's peace plan no closer than before.",
+  "topic": "geopolitics",
+  "category": "conflict",
+  "tags": ["Russia", "Ukraine", "ceasefire", "Putin", "Zelensky", "Trump", "peace talks"],
+  "coverImage": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/04/AP26101432635782-1775998827.jpg?resize=1200%2C630",
+    "local": "/images/reports/2026-04-13/russia-ukraine-easter-ceasefire.jpg",
+    "credit": "AP via Al Jazeera"
+  },
+  "sources": [
+    {
+      "url": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-putin-zelensky-easter-ceasefire-drone-attack-b2945082.html",
+      "publisher": "The Independent",
+      "angle": "Live coverage of ceasefire violations: Ukraine logged 2,299 breaches including a drone strike on an ambulance in Sumy; Zelensky called on Putin to extend it after Easter ended"
+    },
+    {
+      "url": "https://www.france24.com/en/europe/20260413-russia-ukraine-easter-truce-expires-amid-mutual-accusations-of-violations",
+      "publisher": "France 24",
+      "angle": "Post-truce analysis: the 32-hour ceasefire expired with mutual accusations, minimal verified pause in strikes, and no progress on peace framework"
+    },
+    {
+      "url": "https://www.reuters.com/world/russia-says-ukraine-is-violating-easter-truce-russian-news-agencies-report-2026-04-12/",
+      "publisher": "Reuters",
+      "angle": "Russia's counter-claims: Ukrainian drone strikes injured five people; Kremlin framed the truce as a 'humanitarian gesture' while keeping troops in position"
+    },
+    {
+      "url": "https://www.pbs.org/newshour/world/russia-and-ukraine-accuse-each-other-of-easter-ceasefire-violations",
+      "publisher": "PBS NewsHour",
+      "angle": "US angle: the failed Easter truce complicates Trump's push for a broader peace deal and highlights the gap between a ceremonial pause and any durable agreement"
+    }
+  ],
+  "brief": {
+    "actors": ["Putin", "Zelensky", "Russia", "Ukraine", "Trump"],
+    "whatHappened": "Russia announced a 32-hour Easter ceasefire beginning Saturday April 12 at 4 p.m., matching an earlier Ukrainian proposal. Both sides had agreed in principle, but within hours each was accusing the other of thousands of violations. Ukraine's military counted 2,299 Russian violations including drone attacks on a Sumy ambulance; Russia said Ukrainian drones injured five people. The ceasefire expired Monday at midnight without extension. Zelensky called on Putin to continue the truce into the week; Moscow did not respond. Polymarket put the odds of a formal ceasefire by April 30 at 2.3%.",
+    "bottomLine": "The Easter ceasefire was not a peace signal. It was a performance for an American audience, executed by both sides in a way that preserved full military capability while appearing to comply.",
+    "hiddenBets": [
+      {
+        "assumption": "A short ceasefire demonstrates both sides can stop fighting, making a longer deal more feasible.",
+        "whyItMightBeWrong": "The 32-hour window was too short to verify, too narrow to trust, and designed by both sides to collapse. Russia called it a 'humanitarian gesture' while keeping troops at the front line. Ukraine logged violations immediately. Neither side treated it as a test of peace. It tested the opposite: how to maintain a war while producing footage of a ceasefire."
+      },
+      {
+        "assumption": "Trump's pressure on both sides is moving them toward negotiation.",
+        "whyItMightBeWrong": "The war has been running for over four years. The Easter truce, the most-covered pause since the war began, collapsed in hours. Polymarket puts a ceasefire before June 30 at 9.5% and before April 30 at 2.3%. The betting markets are pricing in near-zero chance of progress. Trump's envoy pressure appears to be producing theater, not movement."
+      },
+      {
+        "assumption": "Russia wants a ceasefire and Ukraine is the obstacle.",
+        "whyItMightBeWrong": "Russia is gaining territory. A ceasefire locks in current lines and gives Ukraine time to rearm. Putin has every strategic incentive to let negotiations drag while advancing. The Russian violation count Ukraine cited may be inflated, but the Kremlin's willingness to announce and then immediately breach a truce it proposed suggests no real intent to stop."
+      }
+    ],
+    "realDisagreement": "The real fork is between two theories of what would end this war. Theory one: a negotiated land-for-peace deal, where Ukraine cedes occupied territory in exchange for a security guarantee from the West. Theory two: Russia collapses or moderates under military and economic pressure, making a deal possible on better terms. Both sides are betting on theory two about themselves: Ukraine believes Russia will fold, Russia believes Ukraine will. The US is trying to force a theory-one outcome on a timetable neither combatant accepts. You cannot have both theories be right simultaneously. The side that is wrong about itself pays for the miscalculation with territory or regime stability.",
+    "whatNoOneIsSaying": "Ukraine has 2 million draft-dodgers, per its own defense minister. Russia has run partial mobilizations three times. Both militaries are under severe manpower strain. The Easter ceasefire was also a rest period for exhausted forces on both sides. Neither government can say this publicly, but it is why a ceremonial pause produces thousands of violations: troops are not uniformly under central command control, and local commanders use every hour of quiet to move and resupply.",
+    "whoPays": [
+      {
+        "who": "Ukrainian civilians in front-line oblasts",
+        "how": "Sumy, Kharkiv, Odesa, and Kherson remain under drone and missile attack regardless of declared ceasefires. The ambulance strike during a announced humanitarian pause illustrates that civilian infrastructure is not protected by declarations.",
+        "when": "Continuous"
+      },
+      {
+        "who": "Ukrainian draft-age men",
+        "how": "With 2 million draft-dodgers and a conscription crisis, pressure to mobilize is intensifying. Failed peace talks mean the mobilization machine will turn harder.",
+        "when": "Next 3-6 months"
+      },
+      {
+        "who": "European governments",
+        "how": "Each failed ceasefire makes the case harder to sustain that military aid produces peace progress. Domestic political pressure to reduce Ukraine support grows in Hungary, Slovakia, and Germany with each failed diplomatic moment.",
+        "when": "Accumulating over 6-12 months"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Frozen Conflict",
+        "whatHappens": "Neither side achieves a decisive military breakthrough. Fighting continues at current intensity. Trump withdraws active US mediation by summer, citing the Iran war as the priority. The war enters its fifth year unresolved.",
+        "signal": "Polymarket ceasefire-by-June-30 market stays below 15% through May."
+      },
+      {
+        "name": "Forced Partition Deal",
+        "whatHappens": "US pressure on Ukraine's weapons supply and financial aid forces Kyiv to accept a negotiated territorial freeze. Zelensky resists but is overruled by coalition governments in Warsaw, Paris, and Berlin who face their own domestic political pressures.",
+        "signal": "Zelensky travels to Washington for a meeting where no joint statement is issued."
+      },
+      {
+        "name": "Russian Breakthrough",
+        "whatHappens": "Russia exploits Ukraine's conscription crisis with a summer offensive that takes a major city. US and European responses divide sharply. Negotiations resume from a position of further Ukrainian weakness.",
+        "signal": "A Ukrainian oblast capital comes under sustained Russian assault in May or June."
+      }
+    ],
+    "whatWouldChange": "If a credible third-party mediator, Turkey or Saudi Arabia, produced a draft territorial framework that both militaries formally endorsed at the officer level, the theater dynamic would shift. Presidential declarations that collapse in hours are not the same as operational military agreements. The absence of any such framework is what makes every ceasefire announcement performative.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Russia x Ukraine ceasefire by April 30, 2026?",
+        "url": "https://polymarket.com/event/russia-x-ukraine-ceasefire-by-april-30-2026",
+        "probability": 0.023
+      },
+      {
+        "platform": "Polymarket",
+        "question": "Russia x Ukraine ceasefire by June 30, 2026?",
+        "url": "https://polymarket.com/event/russia-x-ukraine-ceasefire-by-june-30-2026",
+        "probability": 0.095
+      },
+      {
+        "platform": "Polymarket",
+        "question": "Russia x Ukraine ceasefire by end of 2026?",
+        "url": "https://polymarket.com/event/russia-x-ukraine-ceasefire-before-2027",
+        "probability": 0.295
+      }
+    ]
+  }
+}

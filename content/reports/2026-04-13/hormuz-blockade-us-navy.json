@@ -1,0 +1,113 @@
+{
+  "id": "hormuz-blockade-us-navy",
+  "date": "2026-04-13",
+  "generatedAt": "2026-04-13T12:40:00Z",
+  "title": "The Blockade Begins",
+  "subtitle": "After ceasefire talks collapse in Islamabad, the US Navy moves to strangle Iranian ports. Oil hits $104. The question is not whether Iran will respond. It is how.",
+  "topic": "geopolitics",
+  "category": "conflict",
+  "tags": ["Iran", "US Navy", "Hormuz", "oil", "blockade", "CENTCOM"],
+  "coverImage": {
+    "url": "https://media.cnn.com/api/v1/images/stellar/prod/9522295.jpg?c=16x9&q=w_1280",
+    "local": "/images/reports/2026-04-13/hormuz-blockade-us-navy.jpg",
+    "credit": "CNN / US Navy"
+  },
+  "sources": [
+    {
+      "url": "https://apnews.com/article/iran-us-israel-trump-lebanon-april-12-2026-a8a0d22918fc3fb30bc3abf1cd5c5a13",
+      "publisher": "AP News",
+      "angle": "Ground-level reporting from Islamabad on the talks' collapse and CENTCOM's blockade announcement, including the narrowed scope from blocking the strait to blocking Iranian ports only"
+    },
+    {
+      "url": "https://www.cnn.com/2026/04/13/middleeast/us-iran-hormuz-blockade-minesweeping-explainer-intl-hnk-ml",
+      "publisher": "CNN",
+      "angle": "Technical explainer on how the Navy would execute a port blockade and minesweeping operations, and what the wider scope of interdicting ships that paid Iran tolls means"
+    },
+    {
+      "url": "https://www.outlookbusiness.com/news/global-oil-lifeline-at-risk-as-us-begins-hormuz-blockade-following-deadlocked-talks",
+      "publisher": "Outlook Business",
+      "angle": "Economic stakes: oil rising sharply, Iran's transit fee leverage, global energy supply disruption"
+    },
+    {
+      "url": "https://time.com/article/2026/04/12/trump-blockade-strait-of-hormuz-iran/",
+      "publisher": "TIME",
+      "angle": "Trump's Truth Social announcement framing the nuclear sticking point as the decisive failure in Islamabad, plus his attack on Pope Leo XIV for opposing the war"
+    }
+  ],
+  "brief": {
+    "actors": ["Trump", "Iran", "CENTCOM", "IRGC", "China", "Pope Leo XIV"],
+    "whatHappened": "US-Iran ceasefire talks in Islamabad collapsed on April 12 after 21 hours of negotiations failed on the nuclear question. President Trump announced on Truth Social that the US Navy would immediately begin blockading all Iranian ports, starting April 13 at 10 a.m. EDT. CENTCOM clarified the blockade covers Iranian ports only, not the full strait, and that non-Iranian traffic may still transit. Trump separately ordered the Navy to interdict any ship in international waters that paid Iran's transit toll. Oil prices jumped 7-8%, with Brent crude hitting $102 and WTI reaching $104.",
+    "bottomLine": "The blockade is not a negotiating move. Trump has escalated past the point where Iran can concede without political collapse, and past the point where the US can climb down without looking weak. Both sides are now locked in a confrontation neither fully controls.",
+    "hiddenBets": [
+      {
+        "assumption": "The blockade is designed to be lifted once Iran agrees to deal terms.",
+        "whyItMightBeWrong": "Trump's prior Iran threat round involved rolling back sanctions as leverage. This time the nuclear demand is non-negotiable, and Iran's supreme leader cannot survive agreeing to limits on enrichment. The blockade may be the end state, not the negotiating tool."
+      },
+      {
+        "assumption": "CENTCOM's narrowed scope (ports, not the strait) reduces the risk of escalation.",
+        "whyItMightBeWrong": "Iran's IRGC warned that military vessels approaching the strait will be treated as a ceasefire breach and 'dealt with severely.' Interdicting toll-paying ships in international waters could mean confronting Chinese, Indian, or Turkish flagged vessels, each of which creates its own crisis."
+      },
+      {
+        "assumption": "Oil markets will absorb this shock without triggering a broader economic spiral.",
+        "whyItMightBeWrong": "Brent was $70 before the war began in late February and is now at $102 on a single day's jump. Polymarket puts the odds of WTI hitting $125 this week at 50%. At $130-$140, US consumer inflation returns to the 2022 peak and the Fed faces a choice it cannot win."
+      }
+    ],
+    "realDisagreement": "The actual fork is between two readings of what Trump wants. Reading one: he is using maximum pressure to force Iran to a deal before a May summit, and the blockade is theater designed to be reversed. Reading two: the Trump team has concluded Iran's theocracy will not survive a nuclear deal, so the goal is regime collapse via economic strangulation, not negotiation. These two positions require opposite responses from every other actor. Reading one means China, India, and Europe should sit tight for a few weeks. Reading two means they are watching the beginning of a sustained war of attrition against a country that controls a strategic chokepoint. The evidence leans toward reading two: the nuclear demand is genuinely non-negotiable on both sides, and Trump attacked the Pope for calling for talks rather than ignoring him, which suggests the administration views diplomacy itself as the enemy.",
+    "whatNoOneIsSaying": "The toll Iran charged ships was a financial lifeline that created a back-channel arrangement: Iran needed the revenue, shippers needed the passage, and both sides quietly preferred it to continue. By ordering the Navy to interdict toll-paying ships, Trump has eliminated the one mechanism that was quietly keeping oil flowing and reducing pressure for a full naval confrontation. He is making the crisis worse in order to remove the escape valve.",
+    "whoPays": [
+      {
+        "who": "Asian oil importers: China, India, Japan, South Korea",
+        "how": "20% of global oil transited the strait before the war. Even with alternate routes, the premium on non-Iranian oil lifts global prices for every barrel. India and China face inflation on energy costs with no short-term substitution.",
+        "when": "Immediate and compounding over weeks"
+      },
+      {
+        "who": "US consumers",
+        "how": "Gasoline prices track Brent crude with a 4-6 week lag. At $102/barrel, retail gas rises toward $4.50-$5 per gallon. This is the inflation scenario the Fed cannot contain by raising rates, because the supply shock is external.",
+        "when": "4-6 weeks"
+      },
+      {
+        "who": "Iranian civilians",
+        "how": "A port blockade seizes the revenue stream from oil exports that funds food subsidies and consumer imports. The Iranian rial was already collapsing. A blockade-induced hard currency shortage accelerates food and medicine shortages that the government will blame on the US but cannot offset.",
+        "when": "Weeks to months"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Deal Climbs Down",
+        "whatHappens": "Trump, facing oil above $120 and domestic political pressure from inflation, authorizes a back-channel deal through Oman or Qatar that accepts Iranian enrichment at low levels in exchange for port reopening. Both sides declare victory.",
+        "signal": "A Qatari or Omani foreign minister travels to Tehran within the next 5 days."
+      },
+      {
+        "name": "Shooting Incident",
+        "whatHappens": "An IRGC vessel confronts a US destroyer interdicting a Chinese or Indian tanker. Shots are fired. The ceasefire collapses formally. Oil hits $130+. Congress is forced to vote on war powers.",
+        "signal": "CENTCOM reports an 'unsafe intercept' or 'warning shots fired' involving a third-country vessel in the strait."
+      },
+      {
+        "name": "Slow Siege",
+        "whatHappens": "Iran complies enough to avoid direct confrontation, limits IRGC harassment, but refuses the nuclear demand. The blockade holds for weeks. Oil stays $100-$115. The Iranian economy contracts sharply. The question becomes whether the regime fragments or hardens.",
+        "signal": "No major naval incident, but Iranian rial hits new all-time low against the dollar and food prices spike in Tehran."
+      }
+    ],
+    "whatWouldChange": "If Trump publicly backed away from the nuclear demand as a precondition for lifting the blockade, or if Khamenei signaled willingness to discuss enrichment limits through a third party, this analysis collapses. Neither looks likely: Trump called the nuclear issue the only point that 'really mattered,' and Khamenei has staked regime legitimacy on the enrichment program.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Will Donald Trump announce that the United States blockade of the Strait of Hormuz has been lifted by April 17, 2026?",
+        "url": "https://polymarket.com/event/trump-announces-us-blockade-of-hormuz-lifted-by",
+        "probability": 0.155
+      },
+      {
+        "platform": "Polymarket",
+        "question": "Will WTI Crude Oil hit $125 week of April 13, 2026?",
+        "url": "https://polymarket.com/event/will-wti-hit-week-of-april-13-2026",
+        "probability": 0.505
+      },
+      {
+        "platform": "Polymarket",
+        "question": "Will Trump agree to Iranian transit fees in the Strait of Hormuz in April?",
+        "url": "https://polymarket.com/event/what-will-the-us-agree-to",
+        "probability": 0.115
+      }
+    ]
+  }
+}

@@ -18,14 +18,19 @@
     {
       "id": "executive-without-limits",
       "title": "The Week the Executive Branch Claimed Everything",
-      "description": "Three of this week's stories are fundamentally about whether the executive branch can act without legal authority: Trump's executive order redefining citizenship, Trump's unilateral blockade announcement in international waters, and the Iran ceasefire's collapse after the US side made maximalist demands it had no Congressional authorization for. The Supreme Court is the check on one of these. The other two have no equivalent check in place.",
+      "description": "Four of this week's stories are about whether the executive branch can act without legal authority: Trump's executive order redefining citizenship, the Hormuz blockade announced by social media post, the EPA unilaterally declaring it has no authority to regulate climate, and the 50% China tariff threat issued through a TV interview. In each case, the action bypasses Congress and lands in courts, markets, or international law. The Supreme Court has a check on one. The others have no equivalent mechanism.",
       "type": "tension-cluster",
-      "stories": ["birthright-scotus-trump-v-barbara", "iran-islamabad-ceasefire"],
+      "stories": ["birthright-scotus-trump-v-barbara", "hormuz-blockade-us-navy", "epa-endangerment-finding-repeal", "trump-china-tariff-iran-arms"],
       "connections": [
         {
           "from": "birthright-scotus-trump-v-barbara",
-          "to": "iran-islamabad-ceasefire",
-          "relationship": "SCOTUS is weighing whether a president can redefine who is a citizen by executive order; simultaneously, Trump announced a naval blockade of international waters by posting on social media, an action with no legal review mechanism equivalent to what the courts provide for domestic policy"
+          "to": "hormuz-blockade-us-navy",
+          "relationship": "SCOTUS is reviewing whether a president can redefine citizenship by executive order; the blockade was announced via Truth Social with no legal review, congressional authorization, or war powers declaration, and no court can enjoin a naval operation the way it can enjoin an executive order"
+        },
+        {
+          "from": "epa-endangerment-finding-repeal",
+          "to": "trump-china-tariff-iran-arms",
+          "relationship": "The EPA repeal explicitly disclaimed the agency's authority to act, an unprecedented use of executive power to contractually surrender regulatory responsibility; Trump's tariff threat was issued without legal triggering conditions, creating a parallel: in both cases the executive is using unilateral action to bind the government's future options without Congressional input"
         }
       ]
     },
@@ -40,6 +45,44 @@
           "from": "social-media-addiction-kgm-verdict",
           "to": "openai-industrial-policy-ai-liability",
           "relationship": "The KGM verdict established that platform design choices can be the mechanism of legal harm; OpenAI's backing of the Illinois liability shield is a direct attempt to prevent AI companies from facing the same exposure in a future case where the harm is not $6M but catastrophic, and where the design features are not infinite scroll but autonomous decision-making systems"
+        }
+      ]
+    },
+    {
+      "id": "legal-belonging-under-pressure",
+      "title": "The Revocation of Legal Status",
+      "description": "Three stories today are about what it means to have legal status in the United States when the rules for acquiring and keeping it are being rewritten unilaterally. The birthright citizenship case threatens to retroactively change who counts as a citizen. The naturalization collapse shows that even the pathway to citizenship is being throttled. The EPA repeal, which stripped the legal basis for environmental protection, is the same logic applied to governance: the administration is unwinding legal foundations that previously seemed permanent. All three stories are about the same question: how durable is any legal status when the executive branch decides it wants it gone?",
+      "type": "tension-cluster",
+      "stories": ["birthright-scotus-trump-v-barbara", "us-citizenship-naturalizations", "epa-endangerment-finding-repeal"],
+      "connections": [
+        {
+          "from": "birthright-scotus-trump-v-barbara",
+          "to": "us-citizenship-naturalizations",
+          "relationship": "The SCOTUS birthright case directly accelerated the naturalization surge: permanent residents who feared their children would no longer be citizens if born in the US rushed to naturalize in early 2025, but were then caught by tighter USCIS scrutiny that reduced approvals; people who tried to use legal process to protect their family's status were blocked by administrative slowdown"
+        },
+        {
+          "from": "us-citizenship-naturalizations",
+          "to": "epa-endangerment-finding-repeal",
+          "relationship": "Both stories involve legal frameworks that were built over decades being dismantled through administrative action rather than legislation; the endangerment finding took 16 years to build and was repealed by a single final rule; citizenship through naturalization has been a 15-year journey for many immigrants now finding the endpoint removed by process attrition rather than explicit prohibition"
+        }
+      ]
+    },
+    {
+      "id": "iran-war-global-supply-chains",
+      "title": "One War, Five Economic Chokepoints",
+      "description": "The Iran war, ceasefire collapse, Hormuz blockade, and China tariff threat form a single causal chain that is simultaneously squeezing global oil supply, US-China trade, and Chinese export momentum. The events look like separate diplomatic stories, but they share the same underlying mechanism: a war at a global chokepoint is being used as leverage in every other bilateral relationship at once. China is being squeezed on Iran arms, oil imports, and the May summit simultaneously. The same war is driving oil inflation that undercuts the Fed's work, raises US consumer prices, and gives Trump incentive to deal quickly, which reduces his leverage.",
+      "type": "dependency-web",
+      "stories": ["iran-islamabad-ceasefire", "hormuz-blockade-us-navy", "trump-china-tariff-iran-arms"],
+      "connections": [
+        {
+          "from": "iran-islamabad-ceasefire",
+          "to": "hormuz-blockade-us-navy",
+          "relationship": "The collapse of Islamabad talks directly caused the blockade announcement: CENTCOM's orders were contingent on the negotiation failing, and Trump had the Truth Social post pre-drafted; the ceasefire failure was the trigger"
+        },
+        {
+          "from": "hormuz-blockade-us-navy",
+          "to": "trump-china-tariff-iran-arms",
+          "relationship": "The blockade raises the cost for every country importing Iranian oil or transiting the strait, including China; Trump's simultaneous tariff threat ties the arms supply question to the trade relationship, giving China two reasons to pressure Iran rather than one, and making the May summit the deadline for both"
         }
       ]
     }

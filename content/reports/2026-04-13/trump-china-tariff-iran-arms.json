@@ -1,0 +1,102 @@
+{
+  "id": "trump-china-tariff-iran-arms",
+  "date": "2026-04-13",
+  "generatedAt": "2026-04-13T12:55:00Z",
+  "title": "The Shoulder Missile Gambit",
+  "subtitle": "Trump threatened China with 50% tariffs over a reported MANPADS shipment to Iran. The shipment is unverified. The tariff is untriggered. Both sides are using the threat as a bargaining chip before a May summit.",
+  "topic": "economy",
+  "category": "power",
+  "tags": ["Trump", "China", "Iran", "tariffs", "MANPADS", "trade war", "arms"],
+  "coverImage": {
+    "url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2271046205.jpg?c=16x9&q=w_800,c_fill",
+    "local": "/images/reports/2026-04-13/trump-china-tariff-iran-arms.jpg",
+    "credit": "Getty Images via CNN"
+  },
+  "sources": [
+    {
+      "url": "https://www.cnbc.com/2026/04/13/trump-threatens-50percent-tariffs-on-china-as-report-suggests-plans-for-arms-shipment-to-iran.html",
+      "publisher": "CNBC",
+      "angle": "Detailed account of Trump's Fox News comments: the threat was conditional, based on unverified reports, and Trump simultaneously called the underlying CNN report 'fake news' while threatening to act on it"
+    },
+    {
+      "url": "https://regtechtimes.com/us-signal-50-tariff-risk-for-china-over-iran-arms/",
+      "publisher": "RegTech Times",
+      "angle": "The US has already signaled 50% tariffs for any country supplying Iran with military equipment; China's role is the largest outstanding question"
+    },
+    {
+      "url": "https://www.reuters.com/world/china/chinas-exports-set-lose-momentum-iran-war-undercuts-ai-driven-boom-2026-04-13/",
+      "publisher": "Reuters",
+      "angle": "Economic context: China's export boom driven by AI infrastructure demand is already losing momentum due to the Iran war; a 50% tariff would be a second major blow to Chinese growth"
+    }
+  ],
+  "brief": {
+    "actors": ["Trump", "China", "Iran", "Xi Jinping", "IRGC"],
+    "whatHappened": "On April 13, President Trump threatened a 50% tariff on China on a Fox News call, citing reports that Beijing was preparing to deliver man-portable air defense systems (MANPADS) to Iran. The underlying report came from CNN citing US intelligence assessments; Trump simultaneously called such reports 'fake' but stated he would act if the shipment occurred. The New York Times earlier reported that China had 'pressed' Iran toward the now-failed ceasefire. China's Foreign Ministry said only that it had been 'making active efforts to promote peace talks.' A US-China summit is scheduled for May. Trump's tariff threat is structured to expire if the shipment does not occur before the summit.",
+    "bottomLine": "Trump is using the Iran war to extract trade concessions from China before a May summit, and the MANPADS story is the leverage. The 50% tariff threat is not about arms control. It is about getting China to the negotiating table with something to lose.",
+    "hiddenBets": [
+      {
+        "assumption": "China is supplying Iran with weapons and the tariff threat is a genuine deterrent.",
+        "whyItMightBeWrong": "The shipment is unverified. US intelligence assessments leaked to CNN said it was 'impending.' Trump called the same reports 'fake.' China pushed Iran toward a ceasefire last week, which is the opposite of an arms-supply posture. The most plausible reading is that China is playing both sides: publicly moderating, privately allowing some commercial arms transfers, and using the ambiguity to extract US concessions before the summit."
+      },
+      {
+        "assumption": "A 50% tariff on China would be effective deterrence.",
+        "whyItMightBeWrong": "China's exports are already losing momentum due to the Iran war, per Reuters. The Polymarket market for courts forcing Trump to refund tariffs sits at 52%, meaning the market thinks existing tariff authority is legally shaky. A new 50% tariff imposed on national security grounds, rather than IEEPA, would face its own legal challenge. The threat may be designed never to be executed."
+      },
+      {
+        "assumption": "The May US-China summit will produce a durable trade deal.",
+        "whyItMightBeWrong": "Polymarket puts the probability of Trump visiting China by April 30 at 1.5%. The summit framework is fragile. If the Hormuz situation escalates or Iran fires on a US vessel, the political space for a China deal collapses. The tariff threat and the summit invitation are being run simultaneously, which makes both less credible."
+      }
+    ],
+    "realDisagreement": "The actual fork is between two theories of what the US-China-Iran triangle means. Theory one: Iran is a proxy theater where China and the US are running a parallel game, and the war is creating leverage for both sides on trade and tech competition. Under this theory, the MANPADS report is a useful fiction that both sides can exploit without it becoming real. Theory two: China's relationship with Iran is a genuine strategic commitment, not a bargaining chip. Under this theory, Beijing will not sacrifice Iran for a trade deal, because sacrificing Iran would signal to every other US-aligned or pressure-vulnerable country that China's security commitments are for sale. The CNBC story suggests theory one. The Reuters story on China's slowing exports suggests theory two is too costly. The question is whether Xi can afford theory one domestically.",
+    "whatNoOneIsSaying": "China 'pressed' Iran toward a ceasefire that then collapsed in 21 hours. If China's influence over Iran is significant enough to push a ceasefire, it is significant enough to push compliance. The failure of the ceasefire suggests either that China's influence is more limited than reported, or that China chose not to use it fully. Either answer is more alarming than the MANPADS story: either China cannot deliver Iran, or it chose not to.",
+    "whoPays": [
+      {
+        "who": "Chinese export manufacturers",
+        "how": "China's AI-driven export boom is already slowing due to the Iran war's effect on shipping and energy costs. A 50% tariff on top of existing levies would further compress margins for electronics, machinery, and consumer goods manufacturers who rely on the US market.",
+        "when": "Immediate if triggered, with Q2 earnings impact"
+      },
+      {
+        "who": "US importers and retailers",
+        "how": "A 50% tariff on Chinese goods would be passed to US consumers through higher retail prices. CNBC's markets reporting shows traders are already pricing tariff risk into import-heavy retail stocks.",
+        "when": "3-6 months if triggered"
+      },
+      {
+        "who": "Iran",
+        "how": "If China backs away from arms supply under tariff threat, Iran loses its main source of replacement air defense capability at precisely the moment the US Navy is beginning a port blockade.",
+        "when": "Immediate if the shipment is canceled"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Pre-Summit Deal",
+        "whatHappens": "China quietly cancels or delays the MANPADS shipment, Trump claims credit for the tariff threat working, and the May summit proceeds with a trade framework announcement. Both sides treat the Iran episode as resolved.",
+        "signal": "US intelligence reporting on the shipment goes quiet in the next 5-7 days, and China makes no public complaint about the tariff threat."
+      },
+      {
+        "name": "Shipment Confirmed",
+        "whatHappens": "US intelligence confirms the MANPADS transfer. Trump imposes the 50% tariff. China retaliates on US agricultural exports and rare earth minerals. The May summit is canceled. US-China relations enter a formal trade war alongside the Iran conflict.",
+        "signal": "CENTCOM reports Iranian forces using Chinese-made MANPADS against a US or allied aircraft."
+      },
+      {
+        "name": "Ambiguity Managed",
+        "whatHappens": "The shipment neither occurs nor is confirmed as canceled. Both sides maintain the ambiguity through the May summit. The tariff threat is not withdrawn, not executed. Trade talks proceed against the background of the threat, giving Trump leverage without escalation.",
+        "signal": "The tariff threat is not mentioned in any official May summit readout."
+      }
+    ],
+    "whatWouldChange": "If a US ally with intelligence-sharing agreements, the UK, Australia, or South Korea, publicly confirmed the MANPADS transfer, Trump would be forced to act on the tariff threat. That would remove the ambiguity that is currently allowing both sides to manage the situation. Conversely, if China publicly declared it would not supply arms to Iran and invited verification, the leverage evaporates.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Will the Court Force Trump to Refund Tariffs?",
+        "url": "https://polymarket.com/event/will-the-court-force-trump-to-refund-tariffs-2026-06-30",
+        "probability": 0.525
+      },
+      {
+        "platform": "Polymarket",
+        "question": "Trump announces tariff for Iran military cooperation by April 17?",
+        "url": "https://polymarket.com/event/trump-announces-tariff-for-iran-military-cooperation-by-april-17",
+        "probability": 0.07
+      }
+    ]
+  }
+}
