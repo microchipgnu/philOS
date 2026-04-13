@@ -1,0 +1,98 @@
+{
+  "id": "social-media-addiction-kgm-verdict",
+  "date": "2026-04-13",
+  "generatedAt": "2026-04-13T08:00:00Z",
+  "title": "Designed to Hook",
+  "subtitle": "A California jury found Meta and YouTube liable for building addictive platforms that harmed a child. The verdict targets architecture, not content.",
+  "topic": "society",
+  "category": "ethics",
+  "tags": ["Meta", "YouTube", "social media", "addiction", "liability", "children", "Section 230", "design"],
+  "coverImage": {
+    "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4354x2449+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fbd%2F21%2Fc8f4956a463eb96086449c91287a%2Fgettyimages-2261835328-1.jpg",
+    "local": "/images/reports/2026-04-13/social-media-addiction-trial.jpg",
+    "credit": "NPR / Getty Images"
+  },
+  "sources": [
+    {
+      "url": "https://www.clydeco.com/en/insights/2026/april/navigating-the-first-instance-judgments-in-social",
+      "publisher": "Clyde and Co",
+      "angle": "Legal analysis: verdict is not final; both companies intend to appeal; Section 230 defense was not fully adjudicated; this is an early-stage ruling in a developing landscape."
+    },
+    {
+      "url": "http://theepochtimes.com/article/after-landmark-verdict-next-trial-over-social-media-harms-focuses-on-teen-boys-addiction-6007026",
+      "publisher": "Epoch Times",
+      "angle": "The second bellwether case is underway, this time a teenage boy suing Instagram, YouTube, TikTok, Snapchat; broadens the demographic of harm."
+    },
+    {
+      "url": "https://500xpjvip.com/article/social-media-addiction-trial-instagram-and-youtube-found-liable",
+      "publisher": "Independent analysis",
+      "angle": "Explains why the verdict targets design features rather than content: infinite scroll, autoplay, algorithmic recommendations are framed as the mechanism of harm."
+    },
+    {
+      "url": "https://relaimguard.com/article/instagram-youtube-found-liable-landmark-social-media-addiction-trial-explained",
+      "publisher": "Independent analysis",
+      "angle": "Verdict details: $3M in compensatory damages, $3M in punitive damages; 70% liability to Meta, 30% to Google; plaintiff used YouTube from age 6 and Instagram from age 9."
+    },
+    {
+      "url": "https://kennelbiscotti.com/article/us-jury-finds-meta-youtube-addictive-by-design-what-it-means-for-australia-s-legal-duty-of-care",
+      "publisher": "Independent analysis",
+      "angle": "Global ripple effects: Australian law firms investigating cases; UK age verification legislation accelerating; EU Digital Services Act enforcement implications."
+    }
+  ],
+  "brief": {
+    "actors": ["Meta", "Google", "Section 230"],
+    "whatHappened": "On March 25, a Los Angeles County Superior Court jury found Meta (Instagram) and Google (YouTube) liable for designing platforms whose addictive features substantially contributed to psychological harm suffered by a plaintiff identified as KGM, a 20-year-old woman who had used YouTube from age six and Instagram from age nine. The jury allocated 70% responsibility to Meta and 30% to Google, awarding $6 million in total damages including $3 million in punitive damages. Both companies said they would appeal. A second bellwether trial is now underway in California state court against the same companies plus TikTok and Snapchat, this time brought by a teenage boy. The verdict targets design choices, specifically infinite scroll, autoplay, and algorithmic amplification, not the content those features surfaced.",
+    "bottomLine": "The tobacco moment people have been predicting for social media for a decade just arrived, small and in a California state court, with a plaintiff who is 20 years old and $6 million at stake. Whether it grows or gets reversed on appeal is a secondary question. The primary one is whether courts will allow 'we designed it to be engaging' to become 'we designed it to be harmful.'",
+    "hiddenBets": [
+      {
+        "assumption": "Section 230 protects platforms from design-based liability.",
+        "whyItMightBeWrong": "Section 230 protects platforms from liability for third-party content. This verdict is not about content; it is about the design of features that are created by the platforms themselves. The jury did not find Instagram liable for anything a user posted. It found Instagram liable for building infinite scroll and algorithmic recommendation. That is a product liability theory, not a content liability theory, and Section 230 has never been clearly applied to product design claims."
+      },
+      {
+        "assumption": "The $6 million verdict is the meaningful outcome.",
+        "whyItMightBeWrong": "Meta and Google will absorb $6 million without noticing. The meaningful outcomes are: the discovery process that forced senior executives including Mark Zuckerberg and Adam Mosseri to testify about internal knowledge of harm; the precedent that a jury found design features to be causes of injury; and the template for thousands of pending cases in the Social Media Adolescent Addiction Litigation (SMAAL) consolidated proceeding. The number is symbolic. The discovery record is not."
+      },
+      {
+        "assumption": "This verdict will change how platforms are designed.",
+        "whyItMightBeWrong": "Meta and Google are appealing. Even if the appeals fail, the companies face a calculation: pay verdicts case by case, or redesign the features that generate the highest engagement. The features under scrutiny drive meaningful revenue. Until the liability exposure materially exceeds the revenue from addictive design, the rational corporate choice is to litigate."
+      }
+    ],
+    "realDisagreement": "The core tension is between two readings of what platforms owe users. Reading one: platforms are neutral pipes that surface what users engage with. If a child keeps scrolling, that reflects user behavior and parental responsibility. Reading two: platforms deliberately engineer engagement loops that exploit developmental vulnerabilities in minors, knew this and concealed it, and the design itself is the product. The jury chose reading two. The appellate courts will decide whether that choice can stand legally. The harder question is political: if platforms are product manufacturers subject to design liability, the existing regulatory framework for the internet needs to change. Congress built Section 230 on reading one. The verdict implies reading two. Those cannot both be true at the same time.",
+    "whatNoOneIsSaying": "The internal documents that forced this verdict are now part of the court record. The next thousand cases will have access to the same documents. Meta and Google already know what is in those documents. The $6 million verdict is not what companies are actually afraid of. They are afraid of what happens when those documents are read by a jury in a case involving a child who died.",
+    "whoPays": [
+      {
+        "who": "Minors currently using algorithmically optimized platforms",
+        "how": "The features found harmful in this case are still live. The verdict does not require Meta or Google to change anything. The harm continues while the appeal proceeds.",
+        "when": "Ongoing"
+      },
+      {
+        "who": "Meta and Google shareholders",
+        "how": "The verdict creates a litigation liability that is currently uncapped. If the appeals fail and the design liability theory holds, the consolidated SMAAL cases representing tens of thousands of plaintiffs could produce damages that are materially significant.",
+        "when": "Medium-term; appeals will take 2-4 years; mass damages would follow if the theory holds"
+      },
+      {
+        "who": "Smaller platforms that cannot afford extended litigation",
+        "how": "If the liability theory holds on appeal, platforms without Meta and Google's legal budgets face existential exposure. TikTok is already in the second case. Snapchat has fewer resources to absorb years of litigation.",
+        "when": "Medium-term"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Appeals succeed, theory dies",
+        "whatHappens": "California state courts or federal appellate courts rule that Section 230 or product liability doctrine protects platform design choices. The verdict is reversed. The consolidated SMAAL cases settle for small amounts or are dismissed. The status quo continues.",
+        "signal": "Ninth Circuit rules in favor of Meta on a Section 230 design liability question in any pending case"
+      },
+      {
+        "name": "Theory holds, mass settlements",
+        "whatHappens": "The design liability theory survives appeals. Meta and Google negotiate aggregate settlements with plaintiffs in consolidated cases. They make incremental design changes to reduce liability exposure without eliminating profitable engagement features.",
+        "signal": "Meta announces a settlement fund or consent decree without admitting liability; new teen-specific design restrictions announced"
+      },
+      {
+        "name": "Legislative intervention",
+        "whatHappens": "Congressional anxiety about child safety, amplified by the trial's public testimony, produces a federal digital product liability law or Section 230 reform that codifies what the jury found. Platforms face statutory design standards for minor users.",
+        "signal": "A bipartisan Senate bill passes committee that references the KGM verdict; major tech companies engage in active lobbying either for or against"
+      }
+    ],
+    "whatWouldChange": "If Meta or Google's appeal produces a clear ruling that Section 230 bars design liability claims, the bottom line changes: the verdict is a dead end legally, however symbolically important. If the appeals fail or are not decided before the second case reaches a jury, the bottom line hardens."
+  }
+}

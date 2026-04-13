@@ -1,0 +1,36 @@
+{
+  "date": "2026-04-13",
+  "generatedAt": "2026-04-13T08:00:00Z",
+  "reports": [
+    {
+      "id": "iran-islamabad-ceasefire",
+      "title": "The Islamabad Impasse",
+      "subtitle": "Twenty-one hours of talks, no deal, and a blockade announced before dawn.",
+      "category": "conflict"
+    },
+    {
+      "id": "birthright-scotus-trump-v-barbara",
+      "title": "Who Is an American",
+      "subtitle": "SCOTUS heard two hours of argument on birthright citizenship. Conservative justices were skeptical of Trump. A ruling isn't the end of the story.",
+      "category": "power"
+    },
+    {
+      "id": "openai-industrial-policy-ai-liability",
+      "title": "OpenAI's Deal with the Future",
+      "subtitle": "A 13-page policy paper proposes robot taxes and wealth funds. The fine print backs a bill that shields AI companies from lawsuits when their systems kill people.",
+      "category": "power"
+    },
+    {
+      "id": "social-media-addiction-kgm-verdict",
+      "title": "Designed to Hook",
+      "subtitle": "A California jury found Meta and YouTube liable for building addictive platforms that harmed a child. The verdict targets architecture, not content.",
+      "category": "ethics"
+    },
+    {
+      "id": "orban-defeat-hungary-election",
+      "title": "Orban Falls",
+      "subtitle": "Hungary's Peter Magyar wins a two-thirds supermajority. The man JD Vance flew to Budapest to help is out after 16 years.",
+      "category": "power"
+    }
+  ]
+}

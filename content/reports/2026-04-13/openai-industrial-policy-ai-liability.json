@@ -1,0 +1,98 @@
+{
+  "id": "openai-industrial-policy-ai-liability",
+  "date": "2026-04-13",
+  "generatedAt": "2026-04-13T08:00:00Z",
+  "title": "OpenAI's Deal with the Future",
+  "subtitle": "A 13-page policy paper proposes robot taxes and wealth funds. The fine print backs a bill that shields AI companies from lawsuits when their systems kill people.",
+  "topic": "tech",
+  "category": "power",
+  "tags": ["OpenAI", "AI regulation", "Illinois", "liability", "Sam Altman", "robot tax", "industrial policy"],
+  "coverImage": {
+    "url": "https://substackcdn.com/image/fetch/w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fac14fa39-80f5-4ef0-84f9-903faef23f90_1600x1000.jpeg",
+    "local": "/images/reports/2026-04-13/openai-industrial-policy.jpg",
+    "credit": "The Corridors / Substack"
+  },
+  "sources": [
+    {
+      "url": "https://theprint.in/feature/sam-altman-robot-tax-open-ai/2901661/?amp=",
+      "publisher": "The Print",
+      "angle": "Straightforward summary of Altman's proposals: robot tax, four-day workweek, public wealth fund, rebalancing taxation from labor to capital."
+    },
+    {
+      "url": "https://www.yahoo.com/news/articles/openai-backs-illinois-bill-shield-130549090.html",
+      "publisher": "Yahoo Finance / Wired",
+      "angle": "The liability angle: OpenAI simultaneously backs Illinois SB 3444, which limits when AI developers can be sued for catastrophic harm."
+    },
+    {
+      "url": "https://aussieherald.com/tech/openai-supports-illinois-bill-shielding-ai-firms-from-liability-in-worst-case-sc",
+      "publisher": "Aussie Herald",
+      "angle": "Detailed read of the Illinois bill: liability shield requires only that companies publish safety reports; 'critical harm' threshold is 100+ deaths or $1B damage."
+    },
+    {
+      "url": "https://ship2pl.com/article/ai-companies-image-makeover-funding-think-tanks-and-policy-papers",
+      "publisher": "Ship2PL",
+      "angle": "Skeptical read: the policy paper is a PR exercise that shifts responsibility to governments while OpenAI pursues legislative protection."
+    },
+    {
+      "url": "https://ledstonequine.com/article/trump-s-ai-agenda-congress-vs-states",
+      "publisher": "Ledstone Quine",
+      "angle": "The federal vs. state framing: OpenAI favors a federal framework to preempt state-by-state rules that could create uneven liability exposure."
+    }
+  ],
+  "brief": {
+    "actors": ["OpenAI", "Sam Altman", "Illinois", "Congress", "Meta", "Google", "Anthropic"],
+    "whatHappened": "OpenAI released a 13-page policy paper titled 'Industrial Policy for the Intelligence Age,' proposing a set of government policies to manage AI-driven economic disruption: a robot tax on companies that replace human workers with automation, a four-day workweek, a public AI wealth fund, and rebalancing the tax system toward capital rather than labor. Separately, and with less fanfare, OpenAI publicly backed Illinois Senate Bill 3444, the Artificial Intelligence Safety Act, which limits the circumstances under which AI developers can be sued for catastrophic harms caused by their systems. The bill defines 'critical harm' as events causing 100 or more deaths or $1 billion in property damage, and grants liability protection to companies that publish safety reports and did not cause harm intentionally or recklessly. The qualifying threshold, $100 million in compute, would cover OpenAI, Google, Anthropic, Meta, and xAI.",
+    "bottomLine": "OpenAI is doing two things simultaneously: publishing a visionary document about sharing AI's wealth with workers, and lobbying for a law that limits what happens when AI kills people. The first is designed to be seen. The second is the one that matters.",
+    "hiddenBets": [
+      {
+        "assumption": "The policy paper represents OpenAI's actual policy agenda.",
+        "whyItMightBeWrong": "The paper proposes things that governments would do: robot taxes, wealth funds, workweek legislation. OpenAI controls none of that and has committed to none of it. The concrete policy action OpenAI took this week was backing a liability shield. A company that releases a utopian vision document while lobbying for litigation protection is running a sequencing play, not a policy agenda."
+      },
+      {
+        "assumption": "The Illinois liability shield is a safety-aligned policy.",
+        "whyItMightBeWrong": "The bill requires companies to publish safety reports, but it does not specify what those reports must contain, who verifies them, or what consequences follow if they are wrong. The 100-death threshold is not a safety standard; it is a legal threshold. A company could design a system that kills 99 people and faces no liability under this bill if the company published something called a safety report."
+      },
+      {
+        "assumption": "Federal preemption is better for AI safety than state-by-state rules.",
+        "whyItMightBeWrong": "OpenAI explicitly prefers a federal framework because it would preempt stricter state laws. California, for instance, has repeatedly tried to pass stronger AI liability legislation. A federal floor set at the Illinois level would cap, not floor, state protections. Framing federal preemption as 'reducing a patchwork' is accurate. It does not tell you whether the federal standard is high or low."
+      }
+    ],
+    "realDisagreement": "There are two ways to read the week. Reading one: OpenAI genuinely believes AI will be economically disruptive and is trying to get ahead of the politics by proposing redistribution mechanisms before the backlash arrives. Reading two: OpenAI is in a race to lock in favorable regulation before AI systems cause the first catastrophic liability event, and the policy paper is moral cover for the lobbying. The evidence for reading two is that the liability shield is concrete and the policy paper is not. But reading one is not absurd: Altman's paper directly acknowledges that the traditional tax base collapses if most work is automated, and that is a real problem that requires policy. Both things can be true at once. What is harder to defend is the specific combination of 'protect workers' rhetoric and 'limit corporate liability' action in the same week.",
+    "whatNoOneIsSaying": "The liability bill defines a 'frontier model' as one trained on more than $100 million in compute. That threshold is not arbitrary. It is calibrated to include the existing large lab incumbents and exclude nearly everyone else. A startup training a model for $50 million does not get the liability shield but also does not have the lobbying power to shape the bill. The bill is competition policy disguised as safety policy.",
+    "whoPays": [
+      {
+        "who": "Future victims of AI-caused mass harm",
+        "how": "If the Illinois framework becomes the national standard, companies that publish a safety report and cause harm non-intentionally face capped or limited liability. Victims face a much harder path to compensation.",
+        "when": "Whenever the first major AI harm event meets the 100-person threshold, likely within 3-5 years at current deployment rates"
+      },
+      {
+        "who": "Workers displaced by automation in the near term",
+        "how": "The robot tax is a proposal with no legislative path. Workers being displaced now have no recourse from the paper. The policy timeline for the vision is 'when governments act'; the policy timeline for the liability shield is 'this year.'",
+        "when": "Ongoing; the paper explicitly says the economic transition is already beginning"
+      },
+      {
+        "who": "Smaller AI developers and open-source projects",
+        "how": "If federal preemption standardizes at the Illinois framework, smaller developers who do not qualify for the liability shield face the same competitive environment but without the political protection the bill provides to incumbents.",
+        "when": "Medium-term, if federal legislation passes"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Federal preemption succeeds",
+        "whatHappens": "The Illinois framework or something like it becomes federal law, preempting stricter state bills. Large AI labs face predictable, limited liability for catastrophic harm. The policy paper's redistribution proposals are discussed but not legislated.",
+        "signal": "A federal AI liability bill is introduced that cites the Illinois framework as a model; OpenAI and other labs endorse it publicly"
+      },
+      {
+        "name": "State-by-state divergence",
+        "whatHappens": "California, New York, or another large state passes a significantly stricter liability law. OpenAI faces conflicting obligations. The patchwork the company warned about materializes, adding compliance costs and legal uncertainty.",
+        "signal": "California's legislature passes an AI liability bill that the Governor does not veto"
+      },
+      {
+        "name": "Liability event reframes everything",
+        "whatHappens": "A verifiable AI-caused catastrophic harm event, before any federal framework exists, creates political pressure for retroactive strict liability. The liability shield bill becomes politically toxic.",
+        "signal": "A documented mass casualty event with a clear AI causal link; congressional hearings with AI CEOs"
+      }
+    ],
+    "whatWouldChange": "If OpenAI commits to specific, binding safety and compensation mechanisms beyond publishing reports, the bottom line changes. Right now the gap between the vision document and the lobbying action is the whole story. Closing that gap would require commitments that the company has not made."
+  }
+}

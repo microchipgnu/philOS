@@ -1,0 +1,47 @@
+{
+  "date": "2026-04-13",
+  "threads": [
+    {
+      "id": "vance-weekend-failures",
+      "title": "JD Vance's Double Loss",
+      "description": "JD Vance spent the same weekend flying to Budapest to prop up an ally and leading 21 hours of Iran peace talks that ended with a naval blockade announcement. Both efforts failed visibly and publicly. The through line is not incompetence but strategy: Vance is building a foreign policy track record around strong personal interventions that substitute for institutional process. When the interventions fail, there is no institutional fallback.",
+      "type": "cause-effect",
+      "stories": ["iran-islamabad-ceasefire", "orban-defeat-hungary-election"],
+      "connections": [
+        {
+          "from": "orban-defeat-hungary-election",
+          "to": "iran-islamabad-ceasefire",
+          "relationship": "Vance's high-profile pre-election visit to Budapest, which failed to save Orban, was followed immediately by his personal leadership of the Iran talks, which also failed; the same governing theory, that Vance's presence can substitute for structural leverage, produced the same result in both cases"
+        }
+      ]
+    },
+    {
+      "id": "executive-without-limits",
+      "title": "The Week the Executive Branch Claimed Everything",
+      "description": "Three of this week's stories are fundamentally about whether the executive branch can act without legal authority: Trump's executive order redefining citizenship, Trump's unilateral blockade announcement in international waters, and the Iran ceasefire's collapse after the US side made maximalist demands it had no Congressional authorization for. The Supreme Court is the check on one of these. The other two have no equivalent check in place.",
+      "type": "tension-cluster",
+      "stories": ["birthright-scotus-trump-v-barbara", "iran-islamabad-ceasefire"],
+      "connections": [
+        {
+          "from": "birthright-scotus-trump-v-barbara",
+          "to": "iran-islamabad-ceasefire",
+          "relationship": "SCOTUS is weighing whether a president can redefine who is a citizen by executive order; simultaneously, Trump announced a naval blockade of international waters by posting on social media, an action with no legal review mechanism equivalent to what the courts provide for domestic policy"
+        }
+      ]
+    },
+    {
+      "id": "design-liability-converges",
+      "title": "What Happens When the Product Kills People",
+      "description": "The social media addiction verdict and OpenAI's simultaneous policy paper plus liability shield lobbying are the same story told from opposite ends of the timeline. Courts are beginning to hold platform design legally responsible for harm caused to users. AI companies are racing to build liability frameworks before their designs produce the first major catastrophic harm event. The social media companies did not get that framework in place before the first verdict. OpenAI and others are trying to get there first.",
+      "type": "dependency-web",
+      "stories": ["social-media-addiction-kgm-verdict", "openai-industrial-policy-ai-liability"],
+      "connections": [
+        {
+          "from": "social-media-addiction-kgm-verdict",
+          "to": "openai-industrial-policy-ai-liability",
+          "relationship": "The KGM verdict established that platform design choices can be the mechanism of legal harm; OpenAI's backing of the Illinois liability shield is a direct attempt to prevent AI companies from facing the same exposure in a future case where the harm is not $6M but catastrophic, and where the design features are not infinite scroll but autonomous decision-making systems"
+        }
+      ]
+    }
+  ]
+}
