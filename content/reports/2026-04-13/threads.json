@@ -85,6 +85,39 @@
           "relationship": "The blockade raises the cost for every country importing Iranian oil or transiting the strait, including China; Trump's simultaneous tariff threat ties the arms supply question to the trade relationship, giving China two reasons to pressure Iran rather than one, and making the May summit the deadline for both"
         }
       ]
+    },
+    {
+      "id": "courts-win-slowly",
+      "title": "Courts Keep Winning, Nothing Changes",
+      "description": "Three stories today are about the same pattern: courts are technically succeeding in checking executive overreach, but the checks arrive so slowly that the damage is permanent before the ruling lands. SCOTUS struck down the IEEPA tariffs in February; the $166B refund may take two years and importers are already selling claims at a discount. The trade court is questioning Section 122 tariffs while they remain in effect and businesses treat them as permanent. West Bank settlements were declared illegal by the ICJ in 2024; 100 new ones have since been approved. The legal system can say no, but it cannot unsay yes fast enough to matter.",
+      "type": "tension-cluster",
+      "stories": ["tariff-section122-refund-court", "west-bank-settlements-smotrich", "epa-endangerment-finding-repeal"],
+      "connections": [
+        {
+          "from": "tariff-section122-refund-court",
+          "to": "epa-endangerment-finding-repeal",
+          "relationship": "Both the tariff and EPA cases involve the executive using legal gray zones not to win in court, but to create facts on the ground before courts rule: tariff revenue collected before the ruling, climate regulatory authority dismantled before injunctions, so that even a favorable ruling cannot fully restore the prior state"
+        },
+        {
+          "from": "west-bank-settlements-smotrich",
+          "to": "tariff-section122-refund-court",
+          "relationship": "Smotrich's explicit strategy is to create irreversible demographic and physical facts before any legal or diplomatic constraint lands; Trump's tariff strategy has the same structure: impose the policy, collect the revenue, force businesses to adapt supply chains, then fight the legal battle knowing the economic disruption has already been priced in"
+        }
+      ]
+    },
+    {
+      "id": "enemies-list-by-agency",
+      "title": "Using Federal Agencies Against Political Targets",
+      "description": "The FTC probe into ad agencies that boycotted X and the tariff threat against China for alleged MANPADS shipments are both cases where federal power is being deployed not against market failure or national security threats in the traditional sense, but against actors who crossed Musk or are geopolitically inconvenient for a specific negotiation. The FTC is investigating whether companies exercised their right to not advertise somewhere. The tariff threat was based on an unverified intelligence report. In both cases the power of a federal agency or presidential authority is the bargaining chip, not the remedy.",
+      "type": "cause-effect",
+      "stories": ["ftc-ad-boycott-x-settlement", "trump-china-tariff-iran-arms"],
+      "connections": [
+        {
+          "from": "ftc-ad-boycott-x-settlement",
+          "to": "trump-china-tariff-iran-arms",
+          "relationship": "Both cases use federal power instrumentally: the FTC probe into ad agencies gives Musk leverage over the advertising industry, and the China tariff threat uses an unverified weapons shipment claim to extract concessions at the May summit; in both cases the investigation or threat is the tool, not the outcome"
+        }
+      ]
     }
   ]
 }

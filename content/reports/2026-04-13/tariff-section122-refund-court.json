@@ -1,0 +1,102 @@
+{
+  "id": "tariff-section122-refund-court",
+  "date": "2026-04-13",
+  "generatedAt": "2026-04-13T18:05:00Z",
+  "title": "The $166 Billion Waiting Room",
+  "subtitle": "The Supreme Court ordered a tariff refund. The money doesn't exist yet. Meanwhile Trump has already replaced the struck-down tariffs with a new legal theory a trade court is currently shredding.",
+  "topic": "economy",
+  "category": "power",
+  "tags": ["tariffs", "SCOTUS", "Section 122", "trade court", "IEEPA", "importers"],
+  "coverImage": {
+    "url": "https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/2113/2026/04/12172517/us-court-of-international-trade.jpeg",
+    "local": "/images/reports/2026-04-13/tariff-section122-court.jpg",
+    "credit": "Michigan Ag Today"
+  },
+  "sources": [
+    {
+      "url": "https://greyjournal.net/news/tariff-refund-loan-collateral-importers/",
+      "publisher": "Grey Journal",
+      "angle": "Detailed breakdown of the $166B refund backlog; explains the CAPE portal timeline, TD Securities 12-18 month estimate, and the new market for borrowing against refund claims."
+    },
+    {
+      "url": "https://www.michiganagtoday.com/2026/04/12/court-showdown-judges-question-legal-backbone-of-trumps-10-tariff-plan/",
+      "publisher": "Michigan Ag Today",
+      "angle": "Full account of the April 11 Court of International Trade arguments; covers Judge Stanceu's skeptical questions and the states' argument that Section 122 was designed for gold-standard monetary crises, not trade deficits."
+    },
+    {
+      "url": "https://kfgo.com/2026/04/13/trade-court-hears-arguments-for-against-trumps-global-tariff/",
+      "publisher": "KFGO/NAFB",
+      "angle": "Administration's defense of Section 122: trade deficits contribute to balance-of-payments problems and fall within the statute."
+    },
+    {
+      "url": "https://news.wjct.org/2026-04-11/a-legal-scholar-explains-the-challenges-with-trumps-global-tariffs",
+      "publisher": "WJCT Public Radio / NPR",
+      "angle": "Legal scholar analysis of why Section 122 is a weaker foundation than IEEPA, and what happens if it too gets struck down."
+    }
+  ],
+  "brief": {
+    "actors": ["Trump", "SCOTUS", "Court of International Trade", "CBP", "Congress"],
+    "whatHappened": "On February 20, 2026, the Supreme Court struck down Trump's IEEPA tariffs 6-3, ruling the president had overstepped his authority. The ruling made roughly $166 billion in tariff payments eligible for refunds across 330,000 US importers. CBP's new CAPE refund portal opens April 20, but trade analysts estimate most refunds will take 12-18 months, with contested cases potentially stretching to two years. Meanwhile, Trump pivoted immediately to Section 122 of the 1974 Trade Act to justify a new 10% global tariff. On April 11, a three-judge panel at the Court of International Trade spent nearly three hours questioning whether Section 122 can legally support what the administration is doing, with Judge Stanceu specifically noting that 'trade deficits and balance-of-payments deficits were understood differently when the statute was enacted.'",
+    "bottomLine": "Trump has turned US trade policy into a relay race of legal theories, each one designed to survive just long enough for the damage to be done before the courts catch up, and the $166 billion refund backlog is the proof that the strategy works even when the courts win.",
+    "hiddenBets": [
+      {
+        "assumption": "The refund process will work as described: importers file claims, CBP processes them in 45 days, money flows back.",
+        "whyItMightBeWrong": "The Trump administration has shown no enthusiasm for expediting repayment. CBP's CAPE portal is handling only Phase 1 entries first, with no timeline for Phase 2. Legal challenges to individual refund claims, eligibility reviews, and administrative appeals are all tools that slow the process. The administration has every political incentive to delay: each month of delay saves the government roughly $13 billion in cash outflows."
+      },
+      {
+        "assumption": "Section 122 will also be struck down, ending the tariff cycle.",
+        "whyItMightBeWrong": "Even if the trade court rules against the Section 122 tariff, Trump has already made the point that any replacement tariff starts another 150-day cycle before expiration, and Congress can extend it. The administration's goal may not be to win in court but to keep tariff policy in legal gray zones long enough that businesses treat them as permanent regardless of the law. The PwC survey finding that a 'supermajority of executives now view tariffs as a permanent planning assumption' is evidence this strategy is working."
+      },
+      {
+        "assumption": "Small importers will get their money back.",
+        "whyItMightBeWrong": "The minimum loan threshold for borrowing against refund claims sits at $10 million, meaning the new financial instrument is only available to mid-to-large importers. Small businesses must either wait out the full 12-24 month process or sell their claims outright at 55-75 cents on the dollar. That 25-45% haircut is effectively a non-refunded tariff by another name."
+      }
+    ],
+    "realDisagreement": "The actual tension is between two legitimate claims on executive power. On one side: trade policy is inherently political and Congress designed these statutes to give presidents flexibility to respond to economic threats without gridlock. On the other: the Constitution gives Congress the power to regulate commerce, and broad tariff authority is a delegation that requires some limiting principle or it is a blank check. The trade court judges are not asking whether tariffs are good policy. They are asking whether any statute can give a president unlimited tariff authority without a clear trigger and a real constraint. I lean toward the courts being right on the legal question, but the practical answer is that the tariffs remain in effect throughout the legal challenge, so being right about the law takes 12-18 months to mean anything economically."
+    ,
+    "whatNoOneIsSaying": "Congress could resolve this entire crisis by simply passing tariff legislation, which would give the president clear authority and make court challenges much harder. The fact that Congress has not done so is not an oversight. Tariff policy creates winners and losers by district, and no member of Congress wants to own that vote. The legal ping-pong between the White House and courts lets every legislator say they oppose bad tariffs while doing nothing to stop them.",
+    "whoPays": [
+      {
+        "who": "Small importers under $10M in refund claims",
+        "how": "Forced to either wait 12-24 months for refunds or sell claims at 55-75 cents on the dollar, effectively absorbing a 25-45% permanent tariff loss regardless of the legal ruling.",
+        "when": "Now through mid-2028"
+      },
+      {
+        "who": "Midwest agricultural exporters",
+        "how": "Retaliatory tariffs from trading partners responding to US tariffs reduce export prices for soybeans, corn, and pork. The Iran conflict has compounded this through oil price spikes increasing fuel and fertilizer costs.",
+        "when": "Ongoing; harvest season 2026 will be the first full accounting"
+      },
+      {
+        "who": "US consumers",
+        "how": "Importers who cannot recover tariff costs will pass them through to retail prices. The 10% base tariff on all imports is a regressive tax that hits lower-income households hardest as a share of income.",
+        "when": "Already priced in; accelerates if Section 122 tariff survives"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Courts win, briefly",
+        "whatHappens": "Court of International Trade strikes down Section 122 tariff; Trump immediately invokes another authority or proposes a new statutory basis; tariffs continue in the interim.",
+        "signal": "Watch for the administration to file for an emergency stay of any injunction, which would keep tariffs in place during appeal."
+      },
+      {
+        "name": "Congress acts",
+        "whatHappens": "Congressional Republicans, facing importer constituents and midterm pressure, pass a limited tariff authorization bill that gives Trump some authority but with clearer triggers and sunset provisions.",
+        "signal": "Watch for Ways and Means Committee hearings on tariff legislation, which have not started."
+      },
+      {
+        "name": "Permanent de facto tariff",
+        "whatHappens": "Legal challenges continue for years; in the meantime business adapts supply chains around the assumption tariffs are permanent; the legal outcome becomes economically irrelevant.",
+        "signal": "The PwC finding that executives already treat tariffs as permanent suggests this scenario is the baseline, not a scenario at all."
+      }
+    ],
+    "whatWouldChange": "If the Court of International Trade issued an immediate injunction blocking collection of the Section 122 tariff pending final ruling, and the Supreme Court declined to stay that injunction, the administration would face real legal and cash-flow constraints. That would be evidence the courts can actually stop this, not just rule on it.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Will the Court Force Trump to Refund Tariffs?",
+        "url": "https://polymarket.com/event/will-the-court-force-trump-to-refund-tariffs-2026-06-30",
+        "probability": 0.525
+      }
+    ]
+  }
+}

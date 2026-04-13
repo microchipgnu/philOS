@@ -1,6 +1,6 @@
 {
   "date": "2026-04-13",
-  "generatedAt": "2026-04-13T13:00:00Z",
+  "generatedAt": "2026-04-13T18:25:00Z",
   "reports": [
     {
       "id": "iran-islamabad-ceasefire",
@@ -61,6 +61,36 @@
       "title": "The Citizen Collapse",
       "subtitle": "2025 began with a surge in naturalization applications as immigrants sought security before Trump took office. It ended with the fewest approvals in years. The pipeline is now poisoned in both directions.",
       "category": "identity"
+    },
+    {
+      "id": "pope-leo-trump-feud",
+      "title": "God's Man Versus Caesar's",
+      "subtitle": "Trump called the first American pope 'WEAK,' posted AI of himself as Jesus, and got the US Conference of Catholic Bishops in return. The feud is real and the stakes are not about optics.",
+      "category": "power"
+    },
+    {
+      "id": "tariff-section122-refund-court",
+      "title": "The $166 Billion Waiting Room",
+      "subtitle": "The Supreme Court ordered a tariff refund. The money doesn't exist yet. Meanwhile Trump has already replaced the struck-down tariffs with a new legal theory a trade court is currently shredding.",
+      "category": "power"
+    },
+    {
+      "id": "west-bank-settlements-smotrich",
+      "title": "Annexation in Plain Sight",
+      "subtitle": "Israel's security cabinet secretly approved 34 new West Bank settlements in early April. Smotrich called it 'practical sovereignty.' Trump's own administration has said it opposes annexation. Nobody has done anything about it.",
+      "category": "power"
+    },
+    {
+      "id": "terafab-intel-musk-chips",
+      "title": "The Chip Factory That Has To Be Real",
+      "subtitle": "Musk's Terafab now has Intel as a partner, a $20-25B price tag, and a goal of 1 terawatt of computing per year. TSMC just had its best quarter ever. Whether TeraFab can actually close the gap is a question nobody in the announcement has answered.",
+      "category": "power"
+    },
+    {
+      "id": "ftc-ad-boycott-x-settlement",
+      "title": "The Boycott That Became a Federal Case",
+      "subtitle": "The FTC is in settlement talks with major ad agencies over whether they illegally coordinated to withhold ad spending from X. Whether or not the underlying conduct was illegal, the investigation itself tells you who has power at the FTC right now.",
+      "category": "power"
     }
   ]
 }
