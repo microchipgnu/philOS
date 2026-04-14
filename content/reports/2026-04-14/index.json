@@ -91,6 +91,36 @@
       "title": "The Deregulators Are Getting Blocked by Their Own Side",
       "subtitle": "The EPA is delaying dozens of PFAS approvals because Administrator Zeldin fears backlash from RFK Jr.'s MAHA movement. The administration that promised the largest deregulatory push in US history is holding up chemical approvals to avoid a fight with its own base.",
       "category": "power"
+    },
+    {
+      "id": "boasberg-contempt-killed",
+      "title": "The Court That Was Defied Just Got Its Inquiry Killed",
+      "subtitle": "A DC Circuit panel of Trump appointees has shut down the year-long contempt investigation into who ordered deportation planes to ignore a federal judge's order. The mechanism for holding the executive accountable just broke.",
+      "category": "power"
+    },
+    {
+      "id": "israel-lebanon-talks-washington",
+      "title": "Israel and Lebanon Met in Washington. One Side Wanted a Ceasefire. The Other Wanted Disarmament.",
+      "subtitle": "The first direct Israel-Lebanon diplomatic talks in 30 years ended without agreement. Israel came to demand Hezbollah's disarmament. Lebanon came to ask for a ceasefire. Those are not the same conversation.",
+      "category": "conflict"
+    },
+    {
+      "id": "nvidia-ising-quantum-ai",
+      "title": "NVIDIA Just Released the First AI Models Built to Fix Quantum Computing's Core Problem",
+      "subtitle": "NVIDIA's Ising family is the first open AI model suite for quantum error correction. It is not a quantum computer. It is the software that makes quantum computers worth building.",
+      "category": "power"
+    },
+    {
+      "id": "medicaid-cuts-hospital-closures",
+      "title": "446 Hospitals Are Now at High Risk of Closing. Most Are in Trump Country.",
+      "subtitle": "A new Public Citizen analysis names 446 hospitals across 44 states at heightened risk of closure after the Medicaid cuts in the One Big Beautiful Bill. The hospitals most exposed are rural, and the counties they serve voted heavily for Trump.",
+      "category": "power"
+    },
+    {
+      "id": "housing-freeze-iran-war",
+      "title": "The Spring Housing Market Is Dead. Oil at $115 Killed It.",
+      "subtitle": "Existing-home sales fell 3.6% in March. The NAR slashed its 2026 forecast from 14% growth to 4%. The Iran war doubled oil prices and pushed mortgage rates back above 6%, and now the most important homebuying season of the year is starting cold.",
+      "category": "decision"
     }
   ]
 }

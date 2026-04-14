@@ -148,6 +148,63 @@
           "relationship": "A Supreme Court ruling that agencies cannot impose civil fines without jury trials would remove the EPA's primary enforcement tool against PFAS violations, making the MAHA-driven delay moot: the legal authority to fine manufacturers would be gone regardless of what the White House decides politically"
         }
       ]
+    },
+    {
+      "id": "courts-cannot-hold-the-line",
+      "title": "The Judiciary Is Losing the Accountability Fight",
+      "description": "Three stories today converge on a single structural failure: courts are either being blocked from enforcing their orders or being preemptively stripped of the authority to do so. The DC Circuit killed Boasberg's contempt probe, meaning the executive faced no consequence for defying a named court order. The FCC v. AT&T case would strip agencies of the power to impose civil fines without jury trials. The SCOTUS tariff ruling found the law exceeded authority but cannot compel companies to pass the refunds through to consumers. In each case, courts produce rulings that are technically correct but functionally unenforceable against determined actors with better tools.",
+      "type": "tension-cluster",
+      "stories": ["boasberg-contempt-killed", "fcc-att-jury-trial", "scotus-ieepa-tariff-refund"],
+      "connections": [
+        {
+          "from": "boasberg-contempt-killed",
+          "to": "scotus-ieepa-tariff-refund",
+          "relationship": "Both cases show courts issuing orders that produced no concrete consequence for the party they were directed at: the deportation planes flew anyway and no one was held in contempt; the tariff refund was ordered but companies are keeping the money"
+        },
+        {
+          "from": "fcc-att-jury-trial",
+          "to": "boasberg-contempt-killed",
+          "relationship": "If SCOTUS rules that agencies cannot fine regulated entities without a jury trial, the executive branch simultaneously loses the ability to enforce its own regulatory orders and gains another tool to claim that court-imposed constraints require a higher procedural bar"
+        }
+      ]
+    },
+    {
+      "id": "iran-war-domestic-blowback",
+      "title": "The War That Came Home",
+      "description": "The US-Iran conflict is no longer just a foreign policy story. Oil at $115 per barrel has frozen the spring housing market, with NAR cutting its forecast from 14% to 4% growth and mortgage rates above 6%. The Iran war also forced the ceasefire that is the only thing holding the Hormuz blockade at bay, the same ceasefire Pakistan is trying to extend as talks stall on uranium enrichment. And the war's pressure on mortgage rates is occurring simultaneously with Medicaid cuts that threaten hospital closures in the same rural districts where housing affordability was already an acute problem. The domestic cost of the Middle East campaign is no longer theoretical; it is appearing in the housing data.",
+      "type": "cause-effect",
+      "stories": ["housing-freeze-iran-war", "iran-hormuz-blockade", "medicaid-cuts-hospital-closures"],
+      "connections": [
+        {
+          "from": "iran-hormuz-blockade",
+          "to": "housing-freeze-iran-war",
+          "relationship": "The Hormuz blockade drove oil to $115/barrel, which pushed inflation expectations up, which pushed mortgage rates from 5.98% in February to 6.37% today, which has frozen the spring housing market and caused NAR to slash its 2026 forecast by 10 percentage points"
+        },
+        {
+          "from": "housing-freeze-iran-war",
+          "to": "medicaid-cuts-hospital-closures",
+          "relationship": "Rural counties facing hospital closures from Medicaid cuts are the same counties where housing affordability was already stretched by stagnant incomes and rising rates; a frozen housing market means the asset appreciation that middle-income homeowners relied on to absorb healthcare cost increases is no longer available"
+        }
+      ]
+    },
+    {
+      "id": "ai-infrastructure-land-grab",
+      "title": "The Race to Own What AI Runs On",
+      "description": "Three stories today are about who controls the foundational infrastructure of the AI era, and all three show the same move: establish the standard layer before competitors can build proprietary alternatives. NVIDIA released Ising as open quantum error-correction software, mirroring its CUDA strategy, so that every quantum computer eventually runs on NVIDIA's framework. Anthropic deployed Mythos before governance existed, establishing offensive AI capability as a fait accompli. Samsung's memory engineers are striking because the AI boom is running through their chips while their wages are not. The infrastructure layer, the capability layer, and the labor layer of AI are all in active dispute simultaneously.",
+      "type": "tension-cluster",
+      "stories": ["nvidia-ising-quantum-ai", "anthropic-mythos-zero-days", "samsung-strike-bonus"],
+      "connections": [
+        {
+          "from": "nvidia-ising-quantum-ai",
+          "to": "anthropic-mythos-zero-days",
+          "relationship": "NVIDIA is securing the quantum computing infrastructure layer through open-source strategy before competitors arrive; Anthropic secured the offensive AI capability layer before regulation arrived; both moved preemptively to establish facts on the ground before governance could constrain their position"
+        },
+        {
+          "from": "samsung-strike-bonus",
+          "to": "nvidia-ising-quantum-ai",
+          "relationship": "Samsung makes the HBM memory that NVIDIA's AI infrastructure runs on; if the Samsung strike proceeds in May, it directly disrupts the supply chain that NVIDIA's Ising models depend on for training compute, creating a dependency between the labor dispute and NVIDIA's quantum AI roadmap"
+        }
+      ]
     }
   ]
 }

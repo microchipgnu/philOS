@@ -1,0 +1,112 @@
+{
+  "id": "housing-freeze-iran-war",
+  "date": "2026-04-14",
+  "generatedAt": "2026-04-14T22:50:00Z",
+  "title": "The Spring Housing Market Is Dead. Oil at $115 Killed It.",
+  "subtitle": "Existing-home sales fell 3.6% in March. The NAR slashed its 2026 forecast from 14% growth to 4%. The Iran war doubled oil prices and pushed mortgage rates back above 6%, and now the most important homebuying season of the year is starting cold.",
+  "topic": "economy",
+  "category": "decision",
+  "tags": ["housing", "mortgage rates", "Iran war", "oil prices", "NAR", "Fed", "recession"],
+  "coverImage": {
+    "url": "https://weartv.com/resources/media2/16x9/5769/1320/0x336/90/020d7340-6919-416f-b799-0c74affa5451-GettyImages21657531891.jpg",
+    "local": "/images/reports/2026-04-14/housing-freeze-iran-war.jpg",
+    "credit": "Getty Images via WEAR TV"
+  },
+  "sources": [
+    {
+      "url": "https://weartv.com/news/nation-world/lackluster-beginning-to-spring-homebuying-season-with-nar-downgrading-2026-forecast-national-association-of-realtors-bankrate-housing-market",
+      "publisher": "The National News Desk",
+      "angle": "Reports NAR's March data and forecast revision: home sales down 3.6%, forecast cut from 14% to 4% growth, median price hit record $408,800 with 33 consecutive months of year-over-year increases"
+    },
+    {
+      "url": "https://prestigeproperty318.com/blog/Iran-War-Dents-Hopes-for-2026-Housing-Market-as-Top-Economist-Sharply-Lowers-Forecast",
+      "publisher": "Prestige Property / NAR",
+      "angle": "Direct attribution: NAR chief economist Lawrence Yun says the Iran war drove oil prices up, which pushed mortgage rates up from 5.98% in February to 6.37%, forcing the forecast revision"
+    },
+    {
+      "url": "https://www.housingwire.com/articles/mortgage-rates-ceasefire-oil/",
+      "publisher": "HousingWire",
+      "angle": "Market mechanism: the two-week US-Iran ceasefire temporarily pushed mortgage rates back to 6.43% (down from higher levels), but 99.5% of traders expect the Fed to hold rates steady; any sustained mortgage rate improvement requires a permanent resolution"
+    },
+    {
+      "url": "https://www.inman.com/2026/04/14/oil-prices-jobs-and-mortgage-rates-numbers-to-know/",
+      "publisher": "Inman Real Estate News",
+      "angle": "Macro context: oil at $115/barrel as of April 7, double the January price; the biggest seller-to-buyer gap on record at 630,000 more sellers than buyers; 46.3% of listings have cut prices"
+    },
+    {
+      "url": "https://www.mcall.com/2026/04/13/trump-economy-housing/",
+      "publisher": "The Morning Call / AP",
+      "angle": "White House response: CEA report acknowledges a 10 million home shortage and proposes regulatory cuts to spur construction; a messaging attempt that implicitly admits housing affordability is a political liability"
+    }
+  ],
+  "brief": {
+    "actors": ["NAR", "Fed", "Trump", "Iran", "homebuyers", "Yun"],
+    "whatHappened": "The National Association of Realtors reported on April 14 that existing-home sales fell 3.6% in March month-over-month and 1% year-over-year, with the median price setting a record of $408,800, the 33rd consecutive month of annual price increases. NAR Chief Economist Lawrence Yun cut his 2026 forecast from 14% growth to 4%, blaming the Iran war's effect on oil prices. Oil reached $115 per barrel in early April, double the January price. Mortgage rates rose from 5.98% in February to 6.37% now. A two-week ceasefire between the US and Iran temporarily eased oil prices, but Yun expects rates to stay above 6% while the conflict remains unresolved. The US has a seller surplus of 630,000 properties, the largest buyer-seller gap on record.",
+    "bottomLine": "The spring housing market is frozen by a war no one expected to touch US mortgage rates. The economy is being taxed by the Middle East in ways that no domestic policy tool can fix.",
+    "hiddenBets": [
+      {
+        "assumption": "The Iran ceasefire will hold and oil prices will normalize",
+        "whyItMightBeWrong": "The two-week ceasefire expires April 22. A second round of talks has been offered by Pakistan but not confirmed. If talks fail and the conflict resumes at full intensity, oil could push above $130/barrel and mortgage rates could follow to 7%+. The housing market would not recover in 2026."
+      },
+      {
+        "assumption": "Record home prices indicate a healthy housing market",
+        "whyItMightBeWrong": "Prices are high because supply is constrained, not because demand is strong. Sales volume is at multi-year lows. A record median price in a market with 630,000 more sellers than buyers means sellers are still holding firm, but buyers are not bidding. At some point, sellers capitulate rather than wait, and prices correct sharply."
+      },
+      {
+        "assumption": "The Fed has the tools to fix housing affordability",
+        "whyItMightBeWrong": "The Fed's rate decisions affect mortgage rates through Treasury yields, but if oil-driven inflation is keeping rates elevated, the Fed faces the same dilemma it faced with tariff inflation: cutting rates into a supply shock makes inflation worse. The market already prices a 99.5% chance the Fed holds steady this month. Housing cannot wait for an inflation-neutral rate cut that may not come in 2026."
+      }
+    ],
+    "realDisagreement": "The real tension is whether this is a temporary war disruption or the end of the housing recovery that never fully happened. One reading: once the Iran situation resolves, oil comes down, rates normalize, and the 2026 spring market picks up in summer. Another reading: the housing market was already in a prolonged slump before the Iran war (sales essentially flat in 2025, the second consecutive slump year), and the war simply made a slow-motion problem acute. The second reading is harder to dismiss because the fundamentals were already broken: a 10-million-unit shortage, 33 consecutive months of price increases, and affordability at historic lows. Mortgage rates above 6% are the same rates that killed the 2023-2024 market. The ceasefire buys a pause; it does not buy a recovery.",
+    "whatNoOneIsSaying": "The White House's own economists acknowledged a 10-million-home shortage in the CEA report released Monday. Regulatory cuts to spur new construction cannot fix a problem caused by oil-price-driven mortgage rates. The administration created the Iran war conditions that are now harming the housing market its base cares most about.",
+    "whoPays": [
+      {
+        "who": "First-time homebuyers",
+        "how": "At 6.37% on a $408,800 median home, the monthly payment before taxes and insurance is approximately $2,550, up from $2,220 at 5.5% and $1,900 at 4.5%. Each rate point is roughly $300/month that separates a buyer from the market.",
+        "when": "Immediate; every day rates stay elevated excludes more buyers"
+      },
+      {
+        "who": "Existing homeowners who need to sell",
+        "how": "With 630,000 more sellers than buyers, sellers competing for a shrinking buyer pool; 46.3% of listings have already cut prices; those who need to sell (divorce, job change, estate) absorb the most downward pressure",
+        "when": "Ongoing through the spring and summer selling season"
+      },
+      {
+        "who": "Home construction workers",
+        "how": "New-home sales forecast revised to flat by NAR; builders who started production in anticipation of a 14% market recovery are now facing a 4% market; projects get shelved, layoffs follow",
+        "when": "6-12 months as project pipelines drain"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Ceasefire holds, summer recovery",
+        "whatHappens": "The US-Iran ceasefire extends beyond April 22. Oil stabilizes around $85-90/barrel. Mortgage rates drift back toward 6.0%. The spring market picks up in May-June, salvaging a modest recovery. NAR's revised 4% forecast holds.",
+        "signal": "Pakistan or another mediator announces a second Iran ceasefire extension before April 22, and oil futures drop below $95/barrel within one week"
+      },
+      {
+        "name": "Ceasefire fails, market freezes",
+        "whatHappens": "The April 22 ceasefire expires, oil surges past $120/barrel, mortgage rates approach 7.0%, and spring home sales fall below 4 million annualized. NAR revises the forecast again, this time to flat or negative. The White House faces a housing collapse heading into midterm season.",
+        "signal": "No ceasefire extension announced by April 21 and a spike in 10-year Treasury yields above 4.7% within one week"
+      },
+      {
+        "name": "Price correction begins",
+        "whatHappens": "Sellers who have been holding for two years begin capitulating as days-on-market stretch. Median prices fall 5-8% by year-end as inventory builds. Buyers return but only at lower prices, creating a correction that was already overdue.",
+        "signal": "NAR's monthly data showing a 2%+ month-over-month price decline, or Redfin reporting that the seller surplus grows beyond 700,000 by June"
+      }
+    ],
+    "whatWouldChange": "A credible, permanent end to the US-Iran conflict that brings oil below $80/barrel would normalize mortgage rates within months and unlock the housing market. Short of that, a Federal Reserve emergency rate cut citing geopolitical risk would temporarily suppress mortgage rates, though it would also likely reignite inflation. Neither is the expected path.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "US recession by end of 2026?",
+        "url": "https://polymarket.com/event/us-recession-by-end-of-2026",
+        "probability": 0.3
+      },
+      {
+        "platform": "Polymarket",
+        "question": "Will the U.S. 30-year Fixed-Rate Mortgage hit 7.00% by December 31, 2026?",
+        "url": "https://polymarket.com/event/will-the-30-year-mortgage-rate-hit-in-2026",
+        "probability": 0.52
+      }
+    ]
+  }
+}
