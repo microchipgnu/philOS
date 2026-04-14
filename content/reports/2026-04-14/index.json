@@ -61,6 +61,36 @@
       "title": "The Aviation Safety Bill Was Too Weak. Then Congress Weakened It More.",
       "subtitle": "67 people died in the Potomac River crash 15 months ago. The House safety bill needs a two-thirds vote tonight. Victims' families say it lacks strict timelines. The NTSB said the original was 'watered down.'",
       "category": "decision"
+    },
+    {
+      "id": "samsung-strike-bonus",
+      "title": "Samsung's Record Quarter Is Funding Its Own Undoing",
+      "subtitle": "The union is demanding $30 billion in bonuses. The company says that wipes out its R&D budget. An 18-day strike in May could hand Micron and China the memory market.",
+      "category": "conflict"
+    },
+    {
+      "id": "zelenskyy-merz-berlin-deal",
+      "title": "Europe Is Trying to Win a War the US Stopped Funding",
+      "subtitle": "Zelenskyy rejected a 'NATO-light' deal in Berlin, signed 10 defense agreements with Germany, and now expects a $105 billion EU loan after Orban's election loss. The market says there's still only a 10.5% chance of a ceasefire by June 30.",
+      "category": "conflict"
+    },
+    {
+      "id": "fcc-att-jury-trial",
+      "title": "The Case That Could Let Big Telecom Ignore Privacy Fines",
+      "subtitle": "The Supreme Court hears argument April 21 on whether AT&T and Verizon had a right to a jury trial before the FCC fined them $104 million for selling customer location data. The answer could gut every federal agency's ability to enforce its rules.",
+      "category": "power"
+    },
+    {
+      "id": "lausd-strike-averted",
+      "title": "LAUSD Bought Peace at 2 A.M. Now the Bills Come Due",
+      "subtitle": "The Los Angeles school district averted a coordinated strike by 70,000 workers with a 24% wage increase. Support staff earning $35,500 a year won. The district buried protections against AI in the contract and nobody noticed.",
+      "category": "decision"
+    },
+    {
+      "id": "epa-pfas-maha",
+      "title": "The Deregulators Are Getting Blocked by Their Own Side",
+      "subtitle": "The EPA is delaying dozens of PFAS approvals because Administrator Zeldin fears backlash from RFK Jr.'s MAHA movement. The administration that promised the largest deregulatory push in US history is holding up chemical approvals to avoid a fight with its own base.",
+      "category": "power"
     }
   ]
 }

@@ -1,0 +1,78 @@
+{
+  "id": "epa-pfas-maha",
+  "date": "2026-04-14",
+  "generatedAt": "2026-04-14T17:36:00Z",
+  "title": "The Deregulators Are Getting Blocked by Their Own Side",
+  "subtitle": "The EPA is delaying dozens of PFAS approvals because Administrator Zeldin fears backlash from RFK Jr.'s MAHA movement. The administration that promised the largest deregulatory push in US history is holding up chemical approvals to avoid a fight with its own base.",
+  "topic": "society",
+  "category": "power",
+  "tags": ["EPA", "PFAS", "MAHA", "RFK", "deregulation", "forever chemicals", "Zeldin", "Trump"],
+  "coverImage": {
+    "url": "https://web-cdnprod.aa.com.tr/uploads/Contents/2026/04/14/thumbs_b_c_7d8c73c1926478217f78fe1264cd6da9.jpg",
+    "local": "/images/reports/2026-04-14/epa-pfas-maha.jpg",
+    "credit": "Anadolu Agency"
+  },
+  "sources": [
+    {
+      "url": "https://www.aa.com.tr/en/americas/trump-administration-s-move-to-roll-back-environmental-rules-hindered-by-maha-report/3904683",
+      "publisher": "Anadolu Agency",
+      "angle": "Reports the EPA holding back PFAS approvals to avoid MAHA backlash, citing Washington Post reporting with anonymous sources"
+    }
+  ],
+  "brief": {
+    "actors": ["EPA", "Zeldin", "RFK", "Trump", "MAHA"],
+    "whatHappened": "The Environmental Protection Agency under Administrator Lee Zeldin has been holding back dozens of approvals for PFAS, or 'forever chemicals,' out of concern that approving them would provoke backlash from the Make America Healthy Again (MAHA) movement led by Health Secretary Robert F. Kennedy Jr., according to a Washington Post report. The delay contrasts sharply with the administration's public positioning: Zeldin has described EPA's deregulatory push as the largest in US history, and before taking office he pledged to clear a Biden-era backlog of PFAS approvals. PFAS are used in nonstick cookware, firefighting foam, and semiconductors. Research links them to cancer, immune system damage, infertility, and other conditions. The pending decisions include approximately a dozen new PFAS and reviews of dozens of existing ones that would set usage limits if finalized.",
+    "bottomLine": "The administration built its environmental agenda on deregulation, but the MAHA movement it invited into the coalition believes most modern chemicals are poisoning Americans. Those two commitments cannot coexist, and PFAS is where the contradiction is now visible.",
+    "hiddenBets": [
+      {
+        "assumption": "MAHA and pro-industry deregulation are compatible within the same administration",
+        "whyItMightBeWrong": "MAHA's founding premise is that industrial chemicals in food, water, and products are causing a chronic disease epidemic. EPA's deregulatory premise is that Biden-era chemical restrictions were excessive and that industry self-regulation and market forces produce safer outcomes. These are not compatible worldviews. They agree on hating the administrative state; they disagree completely on whether corporations should be trusted to manage chemical risks. PFAS is the first case where the contradiction became operational."
+      },
+      {
+        "assumption": "Zeldin is delaying PFAS approvals as a strategic calculation",
+        "whyItMightBeWrong": "The Washington Post report cites anonymous sources suggesting Zeldin is genuinely uncertain which direction to move, not just timing his announcement. If that is accurate, it means the EPA's enforcement architecture on forever chemicals is currently frozen, which is a different kind of problem: neither approving nor restricting, just deferring. That benefits manufacturers in the short term and nobody in the long term."
+      },
+      {
+        "assumption": "PFAS are primarily a consumer product issue",
+        "whyItMightBeWrong": "PFAS are also essential to semiconductor manufacturing. The same chemicals being reviewed for usage limits are used in the etching and cleaning processes for advanced chips. Any comprehensive PFAS restriction affects the domestic semiconductor supply chain that the CHIPS Act was designed to build. The trade-off between chip manufacturing capacity and chemical safety has not been addressed publicly by either EPA or Commerce."
+      }
+    ],
+    "realDisagreement": "The actual fork is between two groups who both distrust the current regulatory order but want opposite things from its replacement. Industry-aligned deregulators want fewer restrictions and faster approvals, on the grounds that the Biden-era precautionary approach was economically harmful and based on contested science. MAHA activists want the regulatory state to be more aggressive against specific categories of industrial chemicals, on the grounds that decades of regulatory capture allowed chemical companies to externalize health costs onto the public. Both positions are a reaction to real failures of the existing system. They point in opposite directions. The administration gambled it could hold both, and PFAS is where the bet is being called. I lean toward the MAHA diagnosis being substantively correct on the health effects, but the MAHA solution, which is more aggressive federal chemical regulation, is structurally at odds with everything else the administration is doing.",
+    "whatNoOneIsSaying": "Zeldin pledged before taking office to clear a backlog of PFAS approvals and is now blocking those same approvals. The people who most need the EPA to make a clear PFAS decision, communities near military bases and industrial facilities where PFAS contamination is already in the groundwater, are being left in regulatory limbo not because the science is uncertain but because two factions of the Republican coalition cannot agree on what they believe.",
+    "whoPays": [
+      {
+        "who": "Communities with PFAS-contaminated groundwater",
+        "how": "The EPA's existing cleanup rules and usage limits for PFAS that were finalized under Biden remain legally uncertain. Every month the administration delays a clear PFAS policy extends the period in which contaminated communities have no enforceable federal standard to point to in litigation against responsible parties.",
+        "when": "Ongoing; the delay compounds existing harm"
+      },
+      {
+        "who": "Chemical companies with PFAS products in the approval queue",
+        "how": "Companies that applied under Biden for new PFAS uses expected the Trump administration to clear the backlog quickly, as Zeldin promised. The MAHA hold means they are stuck in limbo, unable to launch products or invest in production lines.",
+        "when": "Immediate; some approvals have been pending for 18+ months"
+      },
+      {
+        "who": "Domestic semiconductor manufacturers",
+        "how": "If a comprehensive PFAS restriction eventually passes to satisfy MAHA, it would raise costs for advanced chip fabrication processes that depend on specific fluorinated compounds. Intel, TSMC Arizona, and Samsung's new US fabs all use PFAS in production. No one in the semiconductor policy community is modeling this scenario yet.",
+        "when": "Medium-term: 2-4 years, if restrictions are finalized"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "EPA Splits PFAS by Use",
+        "whatHappens": "Zeldin approves PFAS used in industrial and semiconductor applications while delaying or restricting consumer-product PFAS. MAHA claims a partial win. Industry claims a partial win. Enforcement becomes a category-by-category fight.",
+        "signal": "EPA announces a 'tiered review' framework separating industrial PFAS from consumer PFAS applications"
+      },
+      {
+        "name": "MAHA Wins the Internal Fight",
+        "whatHappens": "RFK's political leverage increases as administration approval ratings decline on health-related issues. Zeldin imposes a broad PFAS moratorium or stricter limits than Biden proposed. Industry groups file lawsuits. Chemical sector stocks drop.",
+        "signal": "MAHA social media campaign targets specific Zeldin approvals; Trump tweets supportively"
+      },
+      {
+        "name": "Deregulatory Faction Wins",
+        "whatHappens": "EPA clears the PFAS approval backlog with minimal restrictions. MAHA activists publicly break with the administration on this specific issue. A few Republican senators from states with PFAS contamination face constituent pressure and distance themselves from EPA.",
+        "signal": "EPA Federal Register notice announces approval of multiple PFAS without restrictions or usage limits"
+      }
+    ],
+    "whatWouldChange": "The bottom line flips if a specific PFAS-linked health crisis, such as a cluster of documented cancers in a contaminated community, becomes a major national news story at a moment when RFK is politically ascendant. That would give MAHA the political cover to demand action and make Zeldin's deregulatory position untenable within the coalition. Without that catalyst, the bureaucratic delay is likely to continue until one faction's internal leverage is clarified."
+  }
+}

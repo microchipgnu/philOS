@@ -1,0 +1,88 @@
+{
+  "id": "lausd-strike-averted",
+  "date": "2026-04-14",
+  "generatedAt": "2026-04-14T17:36:00Z",
+  "title": "LAUSD Bought Peace at 2 A.M. Now the Bills Come Due",
+  "subtitle": "The Los Angeles school district averted a coordinated strike by 70,000 workers with a 24% wage increase. Support staff earning $35,500 a year won. The district buried protections against AI in the contract and nobody noticed.",
+  "topic": "society",
+  "category": "decision",
+  "tags": ["LAUSD", "SEIU", "UTLA", "teachers", "labor", "Los Angeles", "AI", "education"],
+  "coverImage": {
+    "url": "https://dims.apnews.com/dims4/default/a9437db/2147483647/strip/true/crop/6000x3998+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F98%2F0a%2F5aa590b30407a16d306896b8e0a6%2Fd790941c3da947a78d61feb6405ca4af",
+    "local": "/images/reports/2026-04-14/lausd-strike-averted.jpg",
+    "credit": "AP News / Damian Dovarganes"
+  },
+  "sources": [
+    {
+      "url": "https://www.presstelegram.com/2026/04/14/lausd-reached-deal-with-seiu-local-99-averts-strike-schools-remain-open/",
+      "publisher": "Press Telegram",
+      "angle": "Detailed breakdown of all three contracts: SEIU 24% raise, UTLA 11.65-13.86% raise with AI protections and parental leave, AALA administrators' deal"
+    },
+    {
+      "url": "https://apnews.com/article/los-angeles-schools-deal-ac0d7cd47bb215c46c506059bb6ef69a",
+      "publisher": "AP News",
+      "angle": "Straight news reporting on the agreement, timeline, and context: first time all three unions threatened simultaneous strike"
+    },
+    {
+      "url": "https://www.cbsnews.com/news/los-angeles-schools-strike-averted-deal-reached-schools-open/",
+      "publisher": "CBS News",
+      "angle": "SEIU Local 99's framing: workers earning $35,500 average, part-time workers who could not qualify for health benefits at 2-hour shifts"
+    }
+  ],
+  "brief": {
+    "actors": ["LAUSD", "SEIU", "UTLA", "Karen Bass"],
+    "whatHappened": "At 2 a.m. on April 14, the Los Angeles Unified School District reached a tentative agreement with SEIU Local 99, averting a strike that would have shut down 1,000 schools for 400,000 students. SEIU represents 30,000 bus drivers, custodians, cafeteria workers, and special education assistants, whose average salary is $35,500 a year. The deal includes a 24% wage increase, expanded health care benefits, rescinded IT layoffs, and protections against subcontracting. LAUSD separately reached deals with the teachers union UTLA (11.65-13.86% raise, starting salary raised to $77,000, paid parental leave for the first time, AI protections) and the administrators union AALA (11.65%). Together the three unions represent 70,000 of the district's 83,000 workers. All three deals require ratification votes. Mayor Karen Bass was directly involved in negotiations.",
+    "bottomLine": "LAUSD bought labor peace with money it does not have, for workers who were genuinely underpaid, in a city where a $35,500 salary is below the poverty line for a family of four. The AI clause in the teachers' contract is the sleeper provision nobody is writing about.",
+    "hiddenBets": [
+      {
+        "assumption": "The 24% raise for support workers solves the recruitment and retention crisis",
+        "whyItMightBeWrong": "A $35,500 salary raised by 24% is roughly $44,000. The Los Angeles area median household income is over $80,000. Custodians and cafeteria workers earning $44,000 in Los Angeles still qualify for federal housing assistance. The raise moves workers from unacceptably low to merely inadequate. The underlying problem, that public school support work does not pay a living wage in high-cost cities, is not solved by a percentage increase on a broken baseline."
+      },
+      {
+        "assumption": "The district can afford these contracts",
+        "whyItMightBeWrong": "LAUSD has been cutting positions and running technology contracts widely criticized as wasteful. UTLA specifically noted the district 'sat on funds meant for classrooms' while pursuing costly tech contracts that failed. The three simultaneous deals will increase labor costs by hundreds of millions of dollars annually. California's state education funding formula is tied to enrollment, which has been declining in LAUSD for a decade. The arithmetic is not obviously stable."
+      },
+      {
+        "assumption": "The AI protections in the teachers' contract are symbolic",
+        "whyItMightBeWrong": "The UTLA agreement includes explicit contractual protections against AI replacing teacher roles. This is the first major US school district contract to include such language. If LAUSD attempts to use AI tools to replace instructional aide functions or administrative work, it now faces a grievance process. The contract language creates a model other unions will copy."
+      }
+    ],
+    "realDisagreement": "The fork is between two things: treating education workers fairly requires paying them wages that reflect the cost of living in the cities where schools operate; doing that with public money in cities where enrollment is falling and state funding is enrollment-tied is fiscally unsustainable without either raising taxes or cutting programs. The district cannot have both adequately paid workers and stable long-term finances at current funding levels. Today's deal averted a crisis and deferred a structural choice. Every year the district runs this model, the deferred choice gets more expensive. I would lean toward the workers' side on the merits, which means the long-term solution requires either California state funding reform or a fundamentally different cost structure, neither of which is being discussed.",
+    "whatNoOneIsSaying": "Special education assistants in LAUSD do physically demanding work including feeding children and performing diaper changes that is not classified as skilled labor under their pay scale. The average salary of $35,500 for this work reflects a social judgment that the people who physically care for the most vulnerable children deserve poverty wages. The 24% raise changes the number slightly. It does not change the judgment.",
+    "whoPays": [
+      {
+        "who": "Future LAUSD students",
+        "how": "Increased labor costs without commensurate revenue growth will eventually require program cuts, facility closures, or deferred maintenance. The district's enrollment decline means it is simultaneously paying more per worker and serving fewer students, accelerating the cost-per-student metric that triggers further state scrutiny.",
+        "when": "The budget pressure becomes visible within 2-3 years"
+      },
+      {
+        "who": "IT workers who were rehired",
+        "how": "The IT layoffs were rescinded as a deal term, but the district's underlying technology strategy has not changed. The same cost-cutting logic that produced the layoffs will reappear in the next budget cycle.",
+        "when": "Next budget cycle, likely in the 2027-28 school year negotiations"
+      },
+      {
+        "who": "EdTech companies",
+        "how": "The AI protections in the UTLA contract create a contractual barrier to deploying AI tools that reduce instructional positions. If this language spreads to other large urban districts, the addressable market for AI-assisted instruction and automated grading tools faces organized contractual resistance, not just political resistance.",
+        "when": "Immediately, as a precedent other unions will cite in 2026-2027 contract negotiations"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Contracts Ratified, Breathing Room",
+        "whatHappens": "All three unions ratify their deals. Schools stay stable for two years. AI protections get tested in one or two grievances over automated tools. The district manages the budget shortfall with targeted cuts to administrative overhead.",
+        "signal": "Ratification votes pass by wide margins within three weeks"
+      },
+      {
+        "name": "Ratification Problems",
+        "whatHappens": "One or more unions' membership votes down the tentative agreement. Negotiations reopen. The April 14 deadline passes. A later strike becomes more likely, not less, because the pressure relief valve has been removed.",
+        "signal": "Union leadership calls a ratification vote date but emphasizes ongoing concerns about specific provisions"
+      },
+      {
+        "name": "Budget Crisis Arrives Early",
+        "whatHappens": "California state budget projections worsen in May. LAUSD announces that honoring all three contracts requires cutting positions elsewhere, including special education support. SEIU files grievances. The peace lasts eight months.",
+        "signal": "California's May budget revision shows a decline in Proposition 98 education funding below current projections"
+      }
+    ],
+    "whatWouldChange": "The bottom line on fiscal sustainability flips if the California state legislature passes a cost-of-living adjustment to Proposition 98 education funding tied to major urban districts' actual wage levels. That is a specific ask that California teachers' unions have been making for years. If it passes in the current legislative session, LAUSD's math changes. There is no current sign it will pass."
+  }
+}

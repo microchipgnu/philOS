@@ -1,0 +1,78 @@
+{
+  "id": "fcc-att-jury-trial",
+  "date": "2026-04-14",
+  "generatedAt": "2026-04-14T17:36:00Z",
+  "title": "The Case That Could Let Big Telecom Ignore Privacy Fines",
+  "subtitle": "The Supreme Court hears argument April 21 on whether AT&T and Verizon had a right to a jury trial before the FCC fined them $104 million for selling customer location data. The answer could gut every federal agency's ability to enforce its rules.",
+  "topic": "politics",
+  "category": "power",
+  "tags": ["FCC", "AT&T", "Verizon", "SCOTUS", "Seventh Amendment", "administrative law", "privacy"],
+  "coverImage": {
+    "url": "https://www.scotusblog.com/wp-content/uploads/2025/11/GettyImages-2176485427.jpg",
+    "local": "/images/reports/2026-04-14/fcc-att-jury-trial.jpg",
+    "credit": "SCOTUSblog / Getty Images"
+  },
+  "sources": [
+    {
+      "url": "https://www.scotusblog.com/2026/04/justices-to-hear-argument-on-right-to-jury-trial-in-fcc-proceedings/",
+      "publisher": "SCOTUSblog",
+      "angle": "Detailed case preview: the specific Seventh Amendment arguments, how Jarkesy extends to FCC, the unconstitutional conditions doctrine, and both circuits' split rulings"
+    }
+  ],
+  "brief": {
+    "actors": ["SCOTUS", "FCC", "AT&T", "Verizon", "DOJ"],
+    "whatHappened": "The Supreme Court will hear oral argument on April 21 in FCC v. AT&T, a case arising from the FCC's $57 million fine against AT&T and $46.9 million fine against Verizon for selling customer location data without consent, in violation of the Telecommunications Act. Both companies argued they were entitled to a jury trial before the fine was imposed. The 5th Circuit agreed with AT&T and threw out the fine; the 2nd Circuit upheld Verizon's fine. The split circuits forced the Supreme Court to take the case. The FCC argues the Seventh Amendment is satisfied because companies can refuse to pay, forcing the DOJ to sue in federal court where a jury trial is available. AT&T and Verizon argue that 'penalty-now, trial-later' violates the Seventh Amendment and that the practical costs of refusing to pay constitute unconstitutional coercion.",
+    "bottomLine": "This is a repeat of Jarkesy but at the FCC. If AT&T wins, every federal agency that imposes civil fines through in-house proceedings faces the same challenge, and the privacy, robocall, and broadcasting rules the FCC enforces lose their teeth overnight.",
+    "hiddenBets": [
+      {
+        "assumption": "The case is primarily about telecommunications privacy",
+        "whyItMightBeWrong": "The real stakes are administrative law, not telecom. A ruling for AT&T would extend beyond the FCC to any agency that imposes civil monetary penalties without an Article III jury: the EPA, CFTC, CFPB, FTC, NLRB, and SEC for enforcement actions not covered by Jarkesy. The privacy fine is the vehicle. The destination is the architecture of the regulatory state."
+      },
+      {
+        "assumption": "Companies always pay FCC fines rather than fight them",
+        "whyItMightBeWrong": "AT&T and Verizon say carriers have always paid rather than face a DOJ lawsuit. But that pattern is evidence of coercion, not proof of procedural fairness. The question is whether the practical disadvantage of the 'refuse and wait' option (reputational harm, uncertainty, continued FCC pressure) is itself a constitutional violation. The 5th Circuit said yes. The 2nd Circuit said no."
+      },
+      {
+        "assumption": "A ruling for AT&T would simply require the FCC to use Article III courts going forward",
+        "whyItMightBeWrong": "The FCC warned the Supreme Court that requiring jury trials would 'seriously disrupt' its enforcement of communications laws. The agency's most important tools, including combating robocalls and protecting privacy, would become effectively unenforceable if every fine required a federal lawsuit before it could be issued. The Court's conservative majority has been methodically restricting agency power since 2022, and this case is the next step."
+      }
+    ],
+    "realDisagreement": "The fork is between two things that both seem essential. The first: regulated companies should have a constitutional right to a jury of peers before a government agency strips them of tens of millions of dollars, regardless of how practically inconvenient the timing is. The second: if every agency fine requires an Article III trial first, enforcement becomes prohibitively expensive, agencies stop trying to enforce marginal cases, and regulated industries learn that compliance is optional unless the government is willing to litigate. Both are real costs. The Court cannot give both sides what they want. I lean toward the 2nd Circuit's position, because the FCC's 'refuse and sue' option is a genuine trial right, not a fake one, and the unconstitutional conditions doctrine is being stretched here beyond what the text supports. But the current Court's trajectory on administrative law makes an AT&T victory at least as likely.",
+    "whatNoOneIsSaying": "AT&T and Verizon sold customer location data to data brokers who sold it to bounty hunters, bail bondsmen, and domestic abusers who used it to find people. The fines were $57 million and $46.9 million. AT&T's 2025 revenue was roughly $120 billion. The fine was 0.05% of one year's revenue. The constitutional fight over jury trial rights is being waged to eliminate even that.",
+    "whoPays": [
+      {
+        "who": "Consumers whose location data was sold",
+        "how": "If the FCC's fines are struck down and the 'penalty-now, trial-later' framework is invalidated, the agency's deterrent effect on telecom privacy violations collapses. Future violations will be cheaper to commit than to settle.",
+        "when": "Immediately, in terms of deterrence; the current case victims already paid in 2018-2019"
+      },
+      {
+        "who": "Every federal agency with civil enforcement authority",
+        "how": "A broad ruling for AT&T requires agencies to either get congressional authorization for explicit jury trial waivers or bring every significant fine as a federal lawsuit. Agencies with lean enforcement budgets, including the FTC and CFPB, would be unable to sustain enforcement loads.",
+        "when": "Within 12-18 months of a ruling, as pending enforcement actions are challenged"
+      },
+      {
+        "who": "The FCC's ability to fight robocalls",
+        "how": "The FCC explicitly cited robocall enforcement as one of the rules that would 'go effectively unenforced' if fines require jury trials first. The robocall problem is primarily fought through civil fines against shell companies, which would collapse as a tool if each fine requires an Article III proceeding.",
+        "when": "Within one enforcement cycle after a ruling"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Narrow AT&T Win",
+        "whatHappens": "Court rules the specific FCC forfeiture order scheme is unconstitutional but allows agencies to restructure their enforcement to cure the defect. FCC rewrites its rules to clearly make forfeiture orders non-binding pending DOJ suit. Privacy enforcement continues but is slower.",
+        "signal": "Oral argument questions focus tightly on whether the orders are 'final' rather than on the broad agency power question"
+      },
+      {
+        "name": "Broad AT&T Win",
+        "whatHappens": "Court rules that all civil penalty schemes without jury trials are unconstitutional unless the penalty-later option is genuinely coercion-free. Wave of challenges across agencies. EPA, CFTC, and CFPB enforcement all face immediate litigation.",
+        "signal": "Majority opinion broadly cites the major questions doctrine and Jarkesy without limiting its reasoning to the FCC's specific procedures"
+      },
+      {
+        "name": "FCC Wins",
+        "whatHappens": "Court upholds the 2nd Circuit. The penalty-now, trial-later framework is constitutional. Jarkesy is limited to its SEC-specific facts. Agency civil enforcement is stabilized. Privacy fines stand.",
+        "signal": "Oral argument questions from the conservative justices focus on distinguishing FCC enforcement from the SEC scheme in Jarkesy rather than expanding it"
+      }
+    ],
+    "whatWouldChange": "The bottom line flips if the Court writes a narrow ruling limited specifically to the FCC's forfeiture order wording, which Solicitor General Sauer explicitly offered as a cure. If the majority accepts that structural fix rather than ruling on the constitutional question, the broader implications for agency enforcement are neutralized. Watch whether the opinion is authored by Barrett or Kavanaugh versus Thomas or Gorsuch."
+  }
+}

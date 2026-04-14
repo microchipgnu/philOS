@@ -1,0 +1,89 @@
+{
+  "id": "samsung-strike-bonus",
+  "date": "2026-04-14",
+  "generatedAt": "2026-04-14T17:36:00Z",
+  "title": "Samsung's Record Quarter Is Funding Its Own Undoing",
+  "subtitle": "The union is demanding $30 billion in bonuses. The company says that wipes out its R&D budget. An 18-day strike in May could hand Micron and China the memory market.",
+  "topic": "economy",
+  "category": "conflict",
+  "tags": ["Samsung", "semiconductors", "labor", "HBM", "AI chips", "South Korea"],
+  "coverImage": {
+    "url": "https://wimg.heraldcorp.com/news/cms/2026/04/14/news-p.v1.20260414.b31f7a0070084e19b2c15cb8e9f2e626_T1.jpg",
+    "local": "/images/reports/2026-04-14/samsung-strike-bonus.jpg",
+    "credit": "The Korea Herald"
+  },
+  "sources": [
+    {
+      "url": "https://www.koreaherald.com/article/10716998",
+      "publisher": "The Korea Herald",
+      "angle": "Detailed breakdown of the union's 15% operating profit demand, internal fractures between semiconductor and consumer electronics divisions, and the blacklist allegation"
+    },
+    {
+      "url": "https://koreajoongangdaily.joins.com/news/2026-04-14/business/industry/Concerns-over-strike-at-Samsung-grow-as-unions-prepare-vests--and-alleged-blacklist/2568754",
+      "publisher": "Korea JoongAng Daily",
+      "angle": "Samsung's criminal complaint over the nonunion employee blacklist and the union's escalation timeline including the April 23 rally"
+    },
+    {
+      "url": "https://www.kedglobal.com/korean-chipmakers/newsView/ked202604140002",
+      "publisher": "KED Global",
+      "angle": "Market reaction: SK Hynix shares hit record high the same day Samsung reported its 755% profit surge, underlining how rivals benefit from any Samsung instability"
+    }
+  ],
+  "brief": {
+    "actors": ["Samsung", "UFCW", "SK Hynix", "Nvidia", "Micron", "China"],
+    "whatHappened": "Samsung Electronics reported a record 57.2 trillion won ($38.6 billion) in first-quarter operating profit on April 7, a 755% year-on-year surge driven by AI-fueled memory demand. The company's labor union responded by raising its bonus demand from 10% to 15% of operating profit. With full-year profit projected at 300 trillion won, the union's demand totals 45 trillion won ($30 billion), exceeding Samsung's entire 2025 R&D spending. Negotiations collapsed in late March. The union plans an 18-day general strike from May 21 through June 7. Samsung has separately filed a criminal complaint after discovering that union members allegedly compiled a blacklist of non-union employees by exploiting the union website's membership verification tool, singling out workers for potential retaliation.",
+    "bottomLine": "Samsung's record profits have made its union fight unwinnable on both sides: give the workers what they want and you gut the R&D budget that created the profits in the first place; refuse and you hand Micron and China the opening they have been waiting for since Samsung missed the HBM4 window with Nvidia.",
+    "hiddenBets": [
+      {
+        "assumption": "The strike will primarily hurt Samsung's production",
+        "whyItMightBeWrong": "The bigger damage is reputational. Global tech companies holding long-term supply contracts with large prepayments are already watching. One contract cancellation or rerouted order is more damaging than 18 days of reduced output, and it cannot be undone with a settlement."
+      },
+      {
+        "assumption": "The union speaks for Samsung workers",
+        "whyItMightBeWrong": "The bonus formula would give memory division engineers an average of 620 million won each, while employees in Samsung's loss-making foundry and system LSI units would see their bonus rate drop from 47% to 11% of salary. The union has created a class war within itself, which is why a blacklist of non-participants emerged rather than unified solidarity."
+      },
+      {
+        "assumption": "A deal before May 21 is likely",
+        "whyItMightBeWrong": "Samsung management has explicitly said the demand is incompatible with sustaining capital investment. The union's public escalation, complete with distributed protest vests at three campuses and a criminal complaint from management, has raised the political cost of a quiet compromise for both sides."
+      }
+    ],
+    "realDisagreement": "The actual fork is between two legitimate claims: workers who survived a brutal 2023 downturn when Samsung lost 15 trillion won are asking for a share of the supercycle they helped create. Samsung management argues that the same investment discipline that got the company through the downturn requires keeping that money in the business for the next one. Both are right. The problem is that a fixed profit-sharing ratio at 15% treats semiconductor cycles as permanent, which they are not. A settlement structured around the current peak year would institutionalize a payout level the company cannot sustain when demand normalizes. I'd lean toward management's position on the structure, though not on the amount, and that means the union probably gets a higher flat-rate bonus this year without the percentage formula, which solves nothing long-term.",
+    "whatNoOneIsSaying": "The blacklist is the real story. A union compiling surveillance lists of non-participants and threatening dismissal for those who work during a strike is not labor solidarity. It is coercion. The fact that Samsung had to file a criminal complaint under the Personal Information Protection Act to get anyone to notice suggests the Korean media and labor establishment have decided not to name it.",
+    "whoPays": [
+      {
+        "who": "Global AI infrastructure buyers with Samsung supply contracts",
+        "how": "Production delays trigger penalty clauses in long-term contracts. Companies like Nvidia and Microsoft that paid large prepayments for guaranteed HBM4 supply face either contract violations or scramble to redirect orders to SK Hynix, which is already at capacity.",
+        "when": "Immediately if the strike begins May 21; penalty liability materializes within weeks"
+      },
+      {
+        "who": "Samsung foundry and System LSI employees",
+        "how": "The proposed bonus formula would cut their effective bonus rate from 47% to 11% of salary to fund a payout concentrated in the memory division, which generates 95% of profit. They are being asked to subsidize a benefit they barely share in.",
+        "when": "Whenever the formula is ratified"
+      },
+      {
+        "who": "South Korea's export economy",
+        "how": "Semiconductors were 38% of South Korean exports in March at a record $32.8 billion. A production disruption at Samsung, combined with the reputational damage of supply contract failures, would register directly in monthly trade data and in the won.",
+        "when": "June and July if the strike runs its full 18 days"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Settled Before Strike",
+        "whatHappens": "Samsung offers a large one-time bonus without accepting the 15% formula. The union takes the money and postpones the structural fight. The blacklist criminal case is quietly dropped.",
+        "signal": "Samsung announces a special bonus offer tied to Q1 results before April 23 rally"
+      },
+      {
+        "name": "Strike Proceeds, Short Disruption",
+        "whatHappens": "The 18-day strike causes limited but real production delays. Global tech buyers absorb it without rerouting. Samsung emerges with weakened credibility as a reliable supplier, giving SK Hynix leverage in next-cycle contract negotiations.",
+        "signal": "No settlement announced by May 18; union members show up at Pyeongtaek campus in vests"
+      },
+      {
+        "name": "Strike Triggers Supply Chain Realignment",
+        "whatHappens": "One major buyer publicly announces a diversification order to SK Hynix or Micron. Samsung's share price drops sharply. This forces both sides to settle immediately, but the contract damage is already done.",
+        "signal": "News of a contract renegotiation or force majeure claim from a Samsung customer"
+      }
+    ],
+    "whatWouldChange": "If Samsung offers the union a profit-sharing formula tied to a 3-year average rather than a single year's peak profit, and the union accepts, this entire dispute gets resolved structurally. That would require both sides to admit the current demand is unsustainable, which neither can do publicly right now. A credible back-channel negotiation without the April 23 rally as backdrop is the only path to that outcome.",
+    "markets": []
+  }
+}

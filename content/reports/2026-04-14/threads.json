@@ -96,6 +96,58 @@
           "relationship": "The SCOTUS ruling that stripped IEEPA authority reduces Trump's tariff leverage over China precisely when he needs that leverage most; China may have timed its arms transfer activity knowing the administration's coercive toolkit just shrank"
         }
       ]
+    },
+    {
+      "id": "labor-ai-profit-reckoning",
+      "title": "Workers Who Built the AI Boom Are Asking to Share It",
+      "description": "Three labor stories today share a pattern that has nothing to do with traditional union politics: workers in industries directly powering the AI supercycle are using their position in critical supply chains to demand a share of AI-era profits. Samsung memory engineers helped build the chips that Nvidia sells for AI. LAUSD teachers won contractual AI protections because they fear being replaced by the systems they are being asked to teach children to use. The reckoning is structural: AI has concentrated profits in a small number of companies whose inputs are produced by workers with no equity stake in the outcome.",
+      "type": "tension-cluster",
+      "stories": ["samsung-strike-bonus", "lausd-strike-averted"],
+      "connections": [
+        {
+          "from": "samsung-strike-bonus",
+          "to": "lausd-strike-averted",
+          "relationship": "Samsung engineers demanding 15% of operating profit from an AI memory supercycle and LAUSD teachers winning contractual AI protections are both asserting that the workers closest to AI systems deserve a negotiated share of the value those systems create, not just market wages"
+        }
+      ]
+    },
+    {
+      "id": "republican-coalition-veto-problem",
+      "title": "The Administration Cannot Execute Its Own Agenda",
+      "description": "Four stories today reveal that the Trump administration's policy agenda is being blocked not by Democrats but by contradictions within its own coalition. The EPA cannot approve chemicals that industry wants because MAHA activists within the Republican base oppose them. FISA 702 cannot be cleanly extended because House conservatives demand warrant requirements the White House opposes. DHS cannot get funded because House Republicans disagree on whether ICE should be funded through reconciliation. The pattern is consistent: each faction has veto power over specific issues, and the coalition as a whole cannot agree on what it actually wants government to do.",
+      "type": "tension-cluster",
+      "stories": ["epa-pfas-maha", "fisa-702-reauthorization", "dhs-shutdown-reconciliation", "aviation-alert-act"],
+      "connections": [
+        {
+          "from": "epa-pfas-maha",
+          "to": "dhs-shutdown-reconciliation",
+          "relationship": "Both are cases where a faction of the Republican coalition (MAHA on chemicals, hardliners on ICE funding method) has blocked the administration from executing a policy it publicly committed to"
+        },
+        {
+          "from": "fisa-702-reauthorization",
+          "to": "aviation-alert-act",
+          "relationship": "Both the FISA and aviation safety bills were weakened by intraparty factions who opposed provisions the White House or Senate wanted, producing legislation that satisfies no one and resolves nothing"
+        },
+        {
+          "from": "dhs-shutdown-reconciliation",
+          "to": "epa-pfas-maha",
+          "relationship": "DHS forced workers back without pay using an expansive reading of emergency authority because Congress would not act; EPA is paralyzed on PFAS for the opposite reason: it has authority but is afraid to use it because of MAHA backlash"
+        }
+      ]
+    },
+    {
+      "id": "agency-enforcement-dismantled",
+      "title": "Two Different Ways to Destroy Regulatory Enforcement",
+      "description": "The FCC v. AT&T case and the EPA PFAS paralysis are eroding federal enforcement from opposite directions simultaneously. AT&T and Verizon are using the courts to strip the legal authority for agency fines. The EPA is voluntarily refusing to use authority it has because of internal political pressure. One path runs through the Supreme Court; the other runs through the White House. Together they are producing the same result: federal agencies that announce rules but cannot enforce them against the specific actors the rules were designed to govern.",
+      "type": "cause-effect",
+      "stories": ["fcc-att-jury-trial", "epa-pfas-maha"],
+      "connections": [
+        {
+          "from": "fcc-att-jury-trial",
+          "to": "epa-pfas-maha",
+          "relationship": "A Supreme Court ruling that agencies cannot impose civil fines without jury trials would remove the EPA's primary enforcement tool against PFAS violations, making the MAHA-driven delay moot: the legal authority to fine manufacturers would be gone regardless of what the White House decides politically"
+        }
+      ]
     }
   ]
 }
