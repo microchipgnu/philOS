@@ -1,0 +1,96 @@
+{
+  "id": "tariff-refunds-bypass-consumers",
+  "date": "2026-04-14",
+  "generatedAt": "2026-04-14T12:40:00Z",
+  "title": "Billions in Tariff Refunds Are Coming. Consumers Won't See a Dollar.",
+  "subtitle": "The Supreme Court struck down Trump's tariffs and ordered $133 billion in refunds. A CFO survey found most companies plan to keep the money. 86% of CEOs now treat tariffs as permanent anyway.",
+  "topic": "economy",
+  "category": "power",
+  "tags": ["tariffs", "refunds", "consumers", "CEOs", "PwC", "trade", "IEEPA"],
+  "coverImage": {
+    "url": "https://s.yimg.com/ny/api/res/1.2/OM4U8Xi46uCf27xwer7atw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://media.zenfs.com/en/aol_business_insider_articles_308/f956ef22096de99ecec17e35858663a0",
+    "local": "/images/reports/2026-04-14/tariff-refunds-bypass-consumers.jpg",
+    "credit": "AOL / Business Insider"
+  },
+  "sources": [
+    {
+      "url": "https://uk.finance.yahoo.com/news/tariffs-normal-now-most-ceos-060100641.html",
+      "publisher": "Fortune (via Yahoo Finance)",
+      "angle": "86% of 633 US executives surveyed by PwC treat tariffs as a permanent planning assumption. Companies are building tariffs into pricing and supply chain models regardless of legal status. Trump imposed new Section 122 tariffs after the SCOTUS ruling, set to expire July 24."
+    },
+    {
+      "url": "https://www.inkl.com/news/tariff-refunds-set-to-bypass-consumers-as-companies-keep-payouts-cfo-survey-finds",
+      "publisher": "International Business Times",
+      "angle": "CNBC CFO Council survey: companies plan to keep tariff refunds rather than pass savings to consumers. Companies are also trading refund claims to hedge funds and liquidation specialists for immediate cash, at a fraction of the refund value."
+    },
+    {
+      "url": "https://www.aol.com/articles/executives-expect-keep-dealing-tariffs-090002106.html",
+      "publisher": "AOL / Business Insider",
+      "angle": "Even with the SCOTUS ruling, CEOs expect tariffs to outlast the Trump administration. Biden kept Trump's first-term tariffs; the pattern suggests bipartisan continuity. PwC notes the breakdown in support for free trade agreements over the past two decades."
+    }
+  ],
+  "brief": {
+    "actors": ["Trump", "SCOTUS", "CBP", "PwC", "CFO Council"],
+    "whatHappened": "The Supreme Court struck down Trump's IEEPA 'Liberation Day' tariffs in February 2026, ordering $133 billion in refunds to US importers. The Court of International Trade then directed US Customs and Border Protection to build a refund payment system, with the first phase launching next week. However, a CNBC CFO Council survey published April 13 found that companies plan to keep the refunds rather than pass them through to consumers. Separately, a PwC survey of 633 executives found that 86% now treat tariffs as a permanent planning assumption, regardless of legal rulings or who is president.",
+    "bottomLine": "The tariff refund process is a windfall for corporate balance sheets dressed up as consumer relief. The courts struck down the mechanism, but the economic extraction already happened. Companies pass tariff costs upstream to consumers and will not share the legal recovery.",
+    "hiddenBets": [
+      {
+        "assumption": "The SCOTUS ruling meaningfully rolls back tariff costs",
+        "whyItMightBeWrong": "Trump immediately replaced the struck-down IEEPA tariffs with Section 122 tariffs at 10-15%, which expire July 24 but can be renewed. Section 301 tariffs from Trump's first term remain in effect. The refund covers one mechanism; the costs continue through others. Consumer prices will not fall because of a court ruling."
+      },
+      {
+        "assumption": "Companies are obligated to pass refunds to consumers",
+        "whyItMightBeWrong": "There is no legal mechanism requiring importers who received tariff refunds to pass them through. The refund is owed to the importer of record, not to the end consumer. The company that paid the tariff and priced it into products gets the check; the consumer who absorbed the price increase gets nothing."
+      },
+      {
+        "assumption": "Future administrations will roll back tariffs",
+        "whyItMightBeWrong": "Biden kept and added to Trump's first-term tariffs. The PwC finding that 86% of executives expect tariffs to outlast Trump reflects two decades of eroding political support for free trade. The political coalition for tariff reduction does not exist in either party."
+      }
+    ],
+    "realDisagreement": "The genuine fork is between two valid readings of the refund situation. The corporate view: companies absorbed real compliance costs, supply chain restructuring, and legal uncertainty for years and the refund is appropriate compensation for those costs. The consumer view: companies passed tariff costs into prices immediately and are now recovering the money without reversing the price increases, which is a one-sided wealth transfer. Both readings are correct. The corporate view is legally sound; the consumer view is economically accurate. The tension cannot be resolved without a legal requirement to pass through refunds, which does not exist and no one is proposing.",
+    "whatNoOneIsSaying": "The 86% of CEOs who treat tariffs as permanent are telling you something important about political economy: they believe no future president will have the political will to remove them, and they are building those costs permanently into American prices. The refund debate is a sideshow. The real story is that the US has accepted a permanently higher cost base for imports, and consumers have already paid for it.",
+    "whoPays": [
+      {
+        "who": "Low-income consumers",
+        "how": "Tariffs on consumer goods, food, and clothing are regressive. Low-income households spend a higher share of income on physical goods. The $133 billion in tariffs paid since Liberation Day fell disproportionately on people who spend most of what they earn.",
+        "when": "Already paid; will continue as new Section 122 tariffs persist"
+      },
+      {
+        "who": "Small importers",
+        "how": "Companies that sold their refund claims to hedge funds and liquidation specialists to get immediate cash will receive a fraction of the actual refund value. Those that took out loans against refund claims face interest risk if refunds are delayed or reduced.",
+        "when": "CBP refund system launches next week; full distribution expected 45 days after"
+      },
+      {
+        "who": "US manufacturing workers",
+        "how": "CEOs who have locked in tariff costs as permanent will continue to seek supply chain efficiencies, including automation, to manage those costs. The assumption of permanent tariffs accelerates the capital-for-labor substitution already underway in manufacturing.",
+        "when": "Medium-term, 2-5 year horizon"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Refund bottleneck",
+        "whatHappens": "CBP's automated payment system launches but processes slowly. Small importers who took out loans against refund claims face interest that erodes or exceeds the refund value. Large corporations receive full refunds and report earnings beats. Consumer prices remain elevated.",
+        "signal": "Reports of CBP processing delays or legal challenges to specific refund claims within the next 30 days"
+      },
+      {
+        "name": "Tariff permanence confirmed",
+        "whatHappens": "Section 122 tariffs expire July 24 and Trump immediately replaces them with Section 301 expansions or new trade agreement renegotiations. The refund becomes a one-time event in a permanently higher tariff environment. PwC's 86% figure proves prescient.",
+        "signal": "Executive Order expanding Section 301 tariff coverage before July 24"
+      },
+      {
+        "name": "Judicial squeeze",
+        "whatHappens": "The Federal Circuit partially upholds Trump's appeal of the IEEPA ruling, limiting the scope of refunds. Companies that already sold their refund claims to liquidation specialists lose nothing. Companies that held out for full refunds receive less than expected and face liquidity strain.",
+        "signal": "A Federal Circuit ruling narrowing the CIT's refund order within the next 60 days"
+      }
+    ],
+    "whatWouldChange": "Evidence that companies are passing refunds through to consumers via price cuts would challenge the bottom line. So would a legislative requirement to share refund benefits, though neither party has proposed one. The analysis shifts completely if the Federal Circuit overturns the refund order.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Will the Court Force Trump to Refund Tariffs?",
+        "url": "https://polymarket.com/event/will-the-court-force-trump-to-refund-tariffs-2026-06-30",
+        "probability": 0.525
+      }
+    ]
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "id": "china-iran-arms-warning",
+  "date": "2026-04-14",
+  "generatedAt": "2026-04-14T12:40:00Z",
+  "title": "The Arms Transfer That Could Detonate the Xi Summit",
+  "subtitle": "US intelligence says China is routing air defense systems to Iran. Trump is threatening 50% tariffs. A May summit hangs in the balance. Beijing denies everything.",
+  "topic": "geopolitics",
+  "category": "conflict",
+  "tags": ["China", "Iran", "Trump", "arms", "Xi summit", "MANPAD", "sanctions"],
+  "coverImage": {
+    "url": "https://s.yimg.com/os/en/reuters.ca/cd6ba5399947751f81c12a93095c2226",
+    "local": "/images/reports/2026-04-14/china-iran-arms-warning.jpg",
+    "credit": "Reuters"
+  },
+  "sources": [
+    {
+      "url": "https://www.military.com/daily-news/2026/04/13/how-chinas-military-weapons-aid-of-iran-may-cause-larger-geopolitical-rift.html",
+      "publisher": "Military.com",
+      "angle": "Three US intelligence sources told CNN that China is preparing to deliver air defense systems including shoulder-fired MANPADs to Iran within weeks, routed through third countries. China's embassy denied the reports. Stimson Center analysts said Beijing had been in pre-war talks with Iran over air defense and no one should be surprised if China moves to rearm Iran."
+    },
+    {
+      "url": "https://thenyledger.com/politics/trump-warns-china-of-big-problems-over-iran-weapons-as-xi-summit-nears/",
+      "publisher": "NY Ledger",
+      "angle": "Trump warned China it would face 'big problems' and threatened 50% tariffs if the shipments proceed, issued as ceasefire talks were ongoing in Islamabad and a Trump-Xi summit approached. Washington Post satellite imagery showed Iranian vessels departing Chinese ports with sodium perchlorate, a ballistic missile fuel ingredient."
+    },
+    {
+      "url": "https://spectator.com/article/china-wont-be-hurt-by-the-us-blockade-of-hormuz/",
+      "publisher": "The Spectator",
+      "angle": "China's 'active neutrality' is a deliberate strategy. Two Chinese state-owned supertankers passed through the Strait under Iran's yuan-denominated toll system the morning after Trump announced the blockade. China's 1.4 billion barrel reserve and electrifying vehicle fleet insulate it from oil shock."
+    },
+    {
+      "url": "https://www.channelnewsasia.com/world/russia-china-foreign-minister-sergei-lavrov-visit-middle-east-war-iran-ukraine-6055181",
+      "publisher": "Channel News Asia",
+      "angle": "Russian Foreign Minister Lavrov visited Beijing on April 14 to coordinate on Iran and Ukraine, signaling a coordinated Sino-Russian diplomatic posture as the US escalates pressure on Iran."
+    }
+  ],
+  "brief": {
+    "actors": ["China", "Iran", "Trump", "Xi Jinping", "Russia", "Lavrov"],
+    "whatHappened": "US intelligence sources told CNN that China is preparing to deliver new air defense systems to Iran within weeks, including shoulder-fired MANPAD missiles being routed through third countries to obscure their origin. Trump warned publicly that China would face 'big problems' and threatened a 50% tariff if the shipments proceed. China's embassy flatly denied the reports. The warnings came as Iranian and American representatives were still negotiating a ceasefire in Islamabad following the US naval blockade of Iranian ports, and as a Trump-Xi summit in Beijing was being planned for May.",
+    "bottomLine": "China is running both sides of this crisis: funneling weapons to Iran while publicly calling for ceasefire, because a weakened but surviving Iran is more useful to Beijing than either a defeated Iran or a US-brokered peace.",
+    "hiddenBets": [
+      {
+        "assumption": "Trump's tariff threat will deter China from completing the arms transfer",
+        "whyItMightBeWrong": "China faces 145% US tariffs already and has calculated it can absorb more. The arms transfer, if real, likely serves Beijing's long-term strategic interest in keeping the US bogged down in the Middle East, a benefit that outweighs marginal tariff increases. China may be betting that Trump will not follow through on a 50% tariff threat right before a summit he wants."
+      },
+      {
+        "assumption": "The upcoming Trump-Xi summit will constrain China's behavior",
+        "whyItMightBeWrong": "China's summit participation is a bargaining chip, not a leash. Beijing can attend the summit while simultaneously completing the arms transfer, then deny or minimize the transfer if confronted. The summit creates leverage for China, not for Washington."
+      },
+      {
+        "assumption": "China's denial is just diplomatic cover and the transfer will proceed",
+        "whyItMightBeWrong": "The intelligence assessment may be inflated or mistimed. US intelligence has incentives to leak warnings that put China on defense diplomatically, whether or not a transfer is imminent. China may be providing dual-use materials that fall short of prohibited military systems."
+      }
+    ],
+    "realDisagreement": "The core fork is whether Washington should prioritize the Iran deal or the China relationship. Threatening China over Iran arms could unravel the summit and deepen the trade war, while simultaneously making any Iran ceasefire harder if Iran anticipates Chinese backing. But accepting Chinese arms deliveries to Iran without consequences signals that the US blockade and tariff threats are hollow, inviting further defiance. Trump cannot have both a functional Iran ceasefire and a functional China summit if China is simultaneously arming Iran. The harder call is the summit: canceling it imposes real economic cost but preserves credibility; proceeding with it while China arms Iran normalizes the behavior. Credibility is the right choice here, but it requires accepting short-term pain.",
+    "whatNoOneIsSaying": "Iran needs Chinese air defenses specifically because US and Israeli strikes already degraded its air defense infrastructure, including the death of Supreme Leader Khamenei. If China resupplies those defenses, the next round of strikes becomes far more costly for Israel and the US. The arms transfer is not about the current ceasefire. It is about the next war.",
+    "whoPays": [
+      {
+        "who": "US pilots and troops operating in the region",
+        "how": "MANPAD systems are shoulder-fired anti-aircraft missiles. If Iran receives them through third-country routing, US aircraft face a direct threat that is nearly impossible to attribute and eliminate.",
+        "when": "Within weeks if intelligence assessment is correct"
+      },
+      {
+        "who": "US importers and consumers",
+        "how": "A 50% tariff on Chinese goods, layered on top of existing 145% tariffs, would effectively end most US-China trade, triggering supply shocks across electronics, pharmaceuticals, and consumer goods. Companies could not absorb this and would pass it through in prices.",
+        "when": "Immediate, if tariff threat is executed"
+      },
+      {
+        "who": "Iran ceasefire process",
+        "how": "Chinese arms deliveries signal to Iran that it has a fallback, reducing Tehran's incentive to accept unfavorable ceasefire terms. The talks in Islamabad depend on Iran believing it has no better option.",
+        "when": "Next 2-4 weeks as talks continue"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Quiet transfer",
+        "whatHappens": "China completes the arms delivery through third-country routing. US intelligence catches it after the fact. Trump issues a statement threatening consequences but takes no immediate action as the May summit approaches. Iran receives its air defenses and the status quo holds.",
+        "signal": "A US statement condemning Chinese 'dual-use exports' without announcing specific new tariffs or summit cancellation within the next two weeks"
+      },
+      {
+        "name": "Summit trade",
+        "whatHappens": "China uses the arms transfer threat as leverage in pre-summit negotiations, extracting concessions on Taiwan, trade, or tech export controls in exchange for agreeing not to proceed. The transfer is quietly shelved. Trump declares a diplomatic win.",
+        "signal": "Positive pre-summit statements from both Washington and Beijing within the next week, without any formal announcement about arms"
+      },
+      {
+        "name": "Escalation spiral",
+        "whatHappens": "Trump announces additional tariffs on China citing arms transfer. China cancels the May summit and announces it will not enforce sanctions on Iranian oil. Iran uses the cover to harden ceasefire demands. The war expands.",
+        "signal": "A Chinese Foreign Ministry statement withdrawing endorsement of the ceasefire process, or Trump announcing new China tariffs before the summit"
+      }
+    ],
+    "whatWouldChange": "Evidence that China has genuinely halted the arms transfer in exchange for summit concessions would shift the analysis. So would evidence that the original CNN intelligence report was fabricated or significantly overstated. If the transfer is real and proceeds without US consequence, the bottom line hardens: China has found the line it can cross.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "US x China Military clash before 2027?",
+        "url": "https://polymarket.com/event/us-x-china-military-clash-before-2027",
+        "probability": 0.115
+      },
+      {
+        "platform": "Polymarket",
+        "question": "Will Xi Jinping visit US before 2027?",
+        "url": "https://polymarket.com/event/will-xi-jinping-visit-us-before-2027",
+        "probability": 0.665
+      }
+    ]
+  }
+}

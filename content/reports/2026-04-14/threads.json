@@ -3,32 +3,37 @@
   "threads": [
     {
       "id": "executive-authority-without-legal-basis",
-      "title": "Four Ways to Act Without Permission",
-      "description": "Three stories today share a hidden structural pattern: an actor is using a power they either do not legally hold or that courts have already revoked, and no one can stop them fast enough to matter. Trump's IEEPA tariffs were struck down but $133 billion was already collected. The Iran blockade has no explicit congressional authorization but the Navy is already deployed. Anthropic deployed a model capable of breaking critical infrastructure before any legal framework existed to govern it. The lag between action and accountability is the actual policy environment we are operating in.",
+      "title": "Six Ways to Act Without Permission",
+      "description": "Five stories today share a hidden structural pattern: an actor is using a power they either do not legally hold or that has been revoked by courts, and accountability arrives too late to matter. Trump's IEEPA tariffs were struck down but $133 billion was already collected. The Iran blockade has no explicit congressional authorization. Anthropic deployed a model capable of breaking critical infrastructure before governance existed. ICE and CBP have been operating without appropriated funding for 58 days. FISA Section 702 searches have documented compliance violations the renewal process would bury. The lag between action and accountability is the actual policy environment.",
       "type": "tension-cluster",
-      "stories": ["scotus-ieepa-tariff-refund", "iran-hormuz-blockade", "anthropic-mythos-zero-days"],
+      "stories": ["scotus-ieepa-tariff-refund", "iran-hormuz-blockade", "anthropic-mythos-zero-days", "dhs-shutdown-reconciliation", "fisa-702-reauthorization"],
       "connections": [
         {
           "from": "scotus-ieepa-tariff-refund",
           "to": "iran-hormuz-blockade",
-          "relationship": "The SCOTUS ruling that stripped Trump's IEEPA trade authority was issued the same week Trump announced a naval blockade with no clear statutory authority; the administration's response to legal defeat in one domain was to escalate in another domain where courts cannot move as fast"
+          "relationship": "The SCOTUS ruling stripping Trump's IEEPA trade authority came the same week Trump announced a naval blockade with no clear statutory authority; the administration's response to legal defeat in trade was to escalate in a domain where courts cannot move as fast"
         },
         {
           "from": "iran-hormuz-blockade",
           "to": "anthropic-mythos-zero-days",
-          "relationship": "Both the blockade and Mythos represent actors deploying capabilities that outrun the governance structures built to constrain them; the damage is done before the legal question is resolved"
+          "relationship": "Both the blockade and Mythos deploy capabilities that outrun the governance structures built to constrain them; the damage is done before the legal question is resolved"
+        },
+        {
+          "from": "dhs-shutdown-reconciliation",
+          "to": "fisa-702-reauthorization",
+          "relationship": "Both are cases of executive branch agencies operating in legal gray zones: ICE and CBP without appropriated funding, intelligence agencies with documented Section 702 compliance violations that a clean extension would paper over rather than resolve"
         },
         {
           "from": "scotus-ieepa-tariff-refund",
-          "to": "anthropic-mythos-zero-days",
-          "relationship": "In both cases the question of who authorizes the action has been answered in theory (Congress, not the president; Congress, not Anthropic or the Pentagon) but not yet in practice, because implementation is months or years behind the capability"
+          "to": "dhs-shutdown-reconciliation",
+          "relationship": "The reconciliation path to fund ICE mirrors the IEEPA tariff strategy: using non-standard procedural tools to do an end run around the congressional processes that normally constrain executive priorities"
         }
       ]
     },
     {
       "id": "pressure-leverage-trap",
       "title": "Coercion That Creates the Thing It Is Trying to Prevent",
-      "description": "Two stories today involve coercive pressure that may be producing the outcome it is designed to prevent. The Hormuz blockade is meant to force Iran to a nuclear deal, but extended blockades historically consolidate domestic support for hardliners who use external pressure as political cover for rejecting concessions. Australia's social media ban was meant to reduce children's exposure to harmful platforms, but its primary effect has been to move use underground and out of view. Both cases reveal the same trap: interventions that signal seriousness while destroying the conditions needed for the underlying goal.",
+      "description": "Two stories today involve coercive pressure that produces the outcome it is designed to prevent. The Hormuz blockade is meant to force Iran to a nuclear deal, but extended blockades historically consolidate domestic support for hardliners who use external pressure as political cover for rejecting concessions. Australia's social media ban was meant to reduce children's exposure to harmful platforms, but its primary effect has been to move use underground and out of view. Both cases reveal the same trap: interventions that signal seriousness while destroying the conditions needed for the underlying goal.",
       "type": "cause-effect",
       "stories": ["iran-hormuz-blockade", "social-media-ban-failing"],
       "connections": [
@@ -42,24 +47,53 @@
     {
       "id": "tariffs-inflation-war-loop",
       "title": "The War That Made the Economy Worse, and the Economy That Shapes the War",
-      "description": "The stagflation story and the Iran blockade story are feeding each other in a loop that neither brief captures alone. Tariff-driven inflation already has the Fed paralyzed. The Iran war added an energy price spike on top of that inflation, making the Fed's position worse. The Hormuz blockade extends the energy disruption. Meanwhile the SCOTUS tariff ruling that is supposed to relieve some inflation pressure requires an administration that is simultaneously using a naval blockade as trade leverage. The tariff rollback and the Hormuz blockade are on a collision course: you cannot use economic coercion abroad while courts are unwinding your economic coercion at home.",
+      "description": "The stagflation story, the tariff refunds story, and the Iran blockade are feeding each other in a loop. Tariff-driven inflation has the Fed paralyzed. The Iran war added an energy shock on top. The Hormuz blockade extends that shock. Meanwhile the SCOTUS tariff refund process is supposed to reduce some inflation pressure, but companies are keeping the refunds rather than cutting prices, and 86% of CEOs treat tariffs as permanent regardless of what courts say. The system is locked: legal relief from tariffs does not produce consumer relief, and military coercion abroad does not resolve the domestic cost problem.",
       "type": "dependency-web",
-      "stories": ["tariff-stagflation-fed", "iran-hormuz-blockade", "scotus-ieepa-tariff-refund"],
+      "stories": ["tariff-stagflation-fed", "iran-hormuz-blockade", "scotus-ieepa-tariff-refund", "tariff-refunds-bypass-consumers"],
       "connections": [
         {
           "from": "iran-hormuz-blockade",
           "to": "tariff-stagflation-fed",
-          "relationship": "The blockade's energy price effect is adding to the tariff-driven inflation the Fed is already managing; the war that the blockade is part of is a direct input into the stagflation signal"
+          "relationship": "The blockade's energy price effect adds to the tariff-driven inflation the Fed is already managing, deepening the stagflation signal the Fed cannot respond to with rate cuts"
         },
         {
           "from": "scotus-ieepa-tariff-refund",
           "to": "tariff-stagflation-fed",
-          "relationship": "The tariff rollback triggered by the SCOTUS ruling would reduce the inflation pressure the Fed is managing, but only if the administration complies with refund orders; the court battle over enforcement is therefore also a Fed policy question"
+          "relationship": "The SCOTUS tariff rollback would reduce inflation pressure the Fed faces, but only if companies pass refunds through to consumers; the CFO survey finding that companies plan to keep refunds means the court ruling does not produce the price relief the Fed needs"
+        },
+        {
+          "from": "tariff-refunds-bypass-consumers",
+          "to": "scotus-ieepa-tariff-refund",
+          "relationship": "The refund process that the SCOTUS ruling ordered is being captured by corporate balance sheets rather than reaching consumers, meaning the legal remedy and the economic remedy are functionally decoupled"
         },
         {
           "from": "tariff-stagflation-fed",
           "to": "iran-hormuz-blockade",
           "relationship": "A US economy slipping toward recession reduces the administration's willingness to sustain a costly blockade, which is one of the few mechanisms that could accelerate a deal timeline from the US side"
+        }
+      ]
+    },
+    {
+      "id": "china-as-hidden-variable",
+      "title": "China Is Inside Every Major Crisis Today",
+      "description": "China appears as a hidden variable in three otherwise separate stories. China is allegedly routing air defense systems to Iran, which threatens the ceasefire the Iran blockade is supposed to force. The SCOTUS tariff refunds story is directly tied to Section 301 tariffs on China that remain in force. Trump's threatened 50% tariff on China over the arms transfer is layered on top of the existing 145% tariff rate, meaning a tariff regime already testing economic limits is being used as a coercive tool in a military conflict. China's 'active neutrality' is not neutral: it is a strategy that simultaneously uses the Iran conflict to tie down US resources while positioning for the eventual post-war deal.",
+      "type": "dependency-web",
+      "stories": ["china-iran-arms-warning", "scotus-ieepa-tariff-refund", "tariff-stagflation-fed", "iran-hormuz-blockade"],
+      "connections": [
+        {
+          "from": "china-iran-arms-warning",
+          "to": "iran-hormuz-blockade",
+          "relationship": "If China delivers air defense systems to Iran, the military cost of any future US or Israeli strike on Iran rises sharply, changing the leverage calculus of the blockade and making Iran more willing to hold out in ceasefire negotiations"
+        },
+        {
+          "from": "china-iran-arms-warning",
+          "to": "scotus-ieepa-tariff-refund",
+          "relationship": "Trump is threatening 50% additional tariffs on China over the arms transfer, layered on existing 145% tariffs and on top of Section 301 tariffs that survive the SCOTUS IEEPA ruling; the arms conflict is being fought with the same tariff tools the court just partially constrained"
+        },
+        {
+          "from": "scotus-ieepa-tariff-refund",
+          "to": "china-iran-arms-warning",
+          "relationship": "The SCOTUS ruling that stripped IEEPA authority reduces Trump's tariff leverage over China precisely when he needs that leverage most; China may have timed its arms transfer activity knowing the administration's coercive toolkit just shrank"
         }
       ]
     }

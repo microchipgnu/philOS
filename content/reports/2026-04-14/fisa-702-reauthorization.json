@@ -1,0 +1,91 @@
+{
+  "id": "fisa-702-reauthorization",
+  "date": "2026-04-14",
+  "generatedAt": "2026-04-14T12:40:00Z",
+  "title": "The Surveillance Law Both Parties Hate Is About to Lapse",
+  "subtitle": "FISA Section 702 expires April 20. The White House wants a clean extension. House Republicans are blocking it for warrant requirements. The military says a lapse would blind US intelligence in an active war.",
+  "topic": "politics",
+  "category": "power",
+  "tags": ["FISA", "Section 702", "surveillance", "civil liberties", "Congress", "national security", "warrant"],
+  "sources": [
+    {
+      "url": "https://www.world-today-journal.com/fisa-702-renewal-us-intelligence-and-white-house-urge-congress-to-extend-surveillance-law/",
+      "publisher": "World Today Journal",
+      "angle": "White House and military leadership pressing for a clean extension before April 20 sunset. Joint Chiefs Chair Gen. Dan Caine warned in an April 13 letter that a lapse would 'impair US security and combat lethality.' The administration insists warrant requirements would make the program unworkable."
+    },
+    {
+      "url": "https://rabuza.com/article/fisa-reauthorization-battle-white-house-pushes-congress-amid-bipartisan-opposition",
+      "publisher": "Rabuza",
+      "angle": "Speaker Johnson can afford to lose only two Republican votes. House Freedom Caucus members demand warrant requirements before agencies can search Americans' incidentally collected communications. Some members are pushing to attach the SAVE America Act (voter ID) to the FISA bill, a move that would kill it in the Senate."
+    },
+    {
+      "url": "http://broadbandbreakfast.com/congress-divided-over-renewal-of-u-s-surveillance-program-as-deadline-nears/",
+      "publisher": "Broadband Breakfast",
+      "angle": "Nearly a dozen House Republicans oppose clean extension. Program collects communications of non-US persons abroad but sweeps up Americans' emails and calls when they communicate with foreign targets. Bipartisan privacy coalition including Sens. Wyden and Lee demand stricter protections."
+    }
+  ],
+  "brief": {
+    "actors": ["Congress", "Trump", "FISA Court", "NSA", "FBI", "Freedom Caucus", "Wyden", "Johnson"],
+    "whatHappened": "FISA Section 702, which authorizes US intelligence agencies to collect communications of non-US persons abroad using American telecom companies, expires April 20, 2026. The White House is pushing for a clean 18-month extension with no conditions. House Speaker Johnson faces a near-impossible vote: he can lose only two Republicans, but a dozen members of the Freedom Caucus are demanding warrant requirements before the FBI can search incidentally collected American communications. Polymarket gives the extension a 54% chance of passing before expiration. The Joint Chiefs warned on April 13 that a lapse would impair US combat lethality specifically during the active Iran war.",
+    "bottomLine": "Section 702 lapsing is the outcome both sides claim to fear but neither has the coalition to prevent. The real fight is not whether to renew the program. It is whether Congress will ever force the FBI to get a warrant before searching American data that the NSA collected without one.",
+    "hiddenBets": [
+      {
+        "assumption": "A short lapse would be manageable and quickly fixed",
+        "whyItMightBeWrong": "The Iran war is active. Ceasefire negotiations are ongoing in Islamabad. A surveillance gap during active military operations creates real intelligence risks that are not theoretical. The Joint Chiefs warning is not routine boilerplate. Short lapses also tend to become longer lapses as side negotiations continue."
+      },
+      {
+        "assumption": "The warrant requirement debate is primarily about protecting American civil liberties",
+        "whyItMightBeWrong": "The Freedom Caucus members demanding warrant requirements have not historically been reliable civil libertarians. Several are using the warrant requirement as leverage for unrelated priorities, including attaching voter ID legislation. The civil liberties coalition and the obstruction coalition have overlapping membership but different goals."
+      },
+      {
+        "assumption": "The NSA and FBI are actually constrained by the current rules",
+        "whyItMightBeWrong": "The FISA Court compliance review noted issues with how agencies have handled Section 702 data. The absence of a warrant requirement creates structural incentives for agencies to query American data broadly. Intelligence agencies have historically pushed legal boundaries when operational pressure is high."
+      }
+    ],
+    "realDisagreement": "The actual fork is this: if Section 702 requires a warrant for searches of American data, will intelligence agencies simply stop using the program or will they find alternative collection mechanisms that are even less transparent? The warrant requirement advocates believe judicial oversight is worth the operational cost. The White House believes agencies will either find workarounds or the program will atrophy. Neither side is wrong. A warrant requirement reduces one type of surveillance abuse but does not eliminate the underlying capacity or incentive. The harder truth is that warrant requirements shift the problem; they do not solve it.",
+    "whatNoOneIsSaying": "The FISA Court already found compliance problems with how agencies handled Section 702 data, and a clean extension buries that finding. If Congress passes a clean extension without addressing those documented compliance issues, it is not just failing to reform the program. It is endorsing the documented violations.",
+    "whoPays": [
+      {
+        "who": "Americans who communicate with non-US persons abroad",
+        "how": "Their communications are collected incidentally under Section 702 and can be searched without a warrant under current law. A clean extension preserves this without any new constraint. The FBI conducted hundreds of thousands of such searches in recent years.",
+        "when": "Ongoing; permanent if extension passes without warrant requirement"
+      },
+      {
+        "who": "US intelligence operations in Iran conflict",
+        "how": "A lapse would require agencies to seek individual court orders for collection activities currently authorized under the program. During a live military operation, each hour of intelligence gap has concrete risk.",
+        "when": "From April 20 if no extension passes"
+      },
+      {
+        "who": "Speaker Johnson",
+        "how": "A failed vote exposes Johnson to another leadership challenge. A successful vote with a clean extension costs him conservative support. A successful vote with warrant requirements costs him White House support. There is no good outcome for him personally.",
+        "when": "This week"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Clean extension passes",
+        "whatHappens": "Johnson gets enough Republicans to back the clean extension by combining with Democrats who support the national security argument. The warrant debate continues but without a deadline. The underlying compliance problems remain unaddressed.",
+        "signal": "Rules Committee approves the Alert Act for floor vote without amendment provisions by Tuesday evening"
+      },
+      {
+        "name": "Brief lapse, emergency extension",
+        "whatHappens": "The vote fails this week. Section 702 lapses April 20. The intelligence community publicly warns of specific operational impacts. Congress passes a short-term emergency extension within days, with a new deadline attached and no reform. The pattern repeats in three months.",
+        "signal": "Johnson pulling the floor vote this week without scheduling a replacement"
+      },
+      {
+        "name": "Warrant requirement attached",
+        "whatHappens": "A compromise adds a limited warrant requirement for US person queries, satisfying enough Freedom Caucus members to pass the House. The Senate must reconcile with different language. Agencies begin limiting Section 702 queries in anticipation of the new requirement, creating a de facto operational change before the requirement is even in force.",
+        "signal": "A Freedom Caucus member publicly endorsing a specific warrant compromise proposal by Thursday"
+      }
+    ],
+    "whatWouldChange": "Evidence that the compliance violations already found by the FISA Court were operationally significant rather than administrative would shift the analysis toward requiring warrant reforms. Conversely, documented intelligence failures directly traceable to a Section 702 lapse during the Iran war would shift opinion toward clean extension.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "FISA Section 702 reauthorized before it expires?",
+        "url": "https://polymarket.com/event/fisa-section-702-reauthorized-before-it-expires",
+        "probability": 0.54
+      }
+    ]
+  }
+}

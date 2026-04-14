@@ -1,6 +1,6 @@
 {
   "date": "2026-04-14",
-  "generatedAt": "2026-04-14T06:00:00Z",
+  "generatedAt": "2026-04-14T12:40:00Z",
   "reports": [
     {
       "id": "anthropic-mythos-zero-days",
@@ -31,6 +31,36 @@
       "title": "The Ban That Moves Children Underground",
       "subtitle": "Australia's under-16 social media ban has failed: two-thirds of affected teens are still on banned platforms. The UK and Massachusetts are about to copy the same approach.",
       "category": "ethics"
+    },
+    {
+      "id": "china-iran-arms-warning",
+      "title": "The Arms Transfer That Could Detonate the Xi Summit",
+      "subtitle": "US intelligence says China is routing air defense systems to Iran. Trump is threatening 50% tariffs. A May summit hangs in the balance. Beijing denies everything.",
+      "category": "conflict"
+    },
+    {
+      "id": "tariff-refunds-bypass-consumers",
+      "title": "Billions in Tariff Refunds Are Coming. Consumers Won't See a Dollar.",
+      "subtitle": "The Supreme Court struck down Trump's tariffs and ordered $133 billion in refunds. A CFO survey found most companies plan to keep the money. 86% of CEOs now treat tariffs as permanent anyway.",
+      "category": "power"
+    },
+    {
+      "id": "fisa-702-reauthorization",
+      "title": "The Surveillance Law Both Parties Hate Is About to Lapse",
+      "subtitle": "FISA Section 702 expires April 20. The White House wants a clean extension. House Republicans are blocking it for warrant requirements. The military says a lapse would blind US intelligence in an active war.",
+      "category": "power"
+    },
+    {
+      "id": "dhs-shutdown-reconciliation",
+      "title": "Day 58: Republicans Are Using the Nuclear Option to Fund Immigration Enforcement",
+      "subtitle": "The DHS shutdown hit two months. The Senate passed a partial reopening that excludes ICE and CBP. Now Republicans are using budget reconciliation to fund immigration agencies for three years, bypassing the filibuster.",
+      "category": "power"
+    },
+    {
+      "id": "aviation-alert-act",
+      "title": "The Aviation Safety Bill Was Too Weak. Then Congress Weakened It More.",
+      "subtitle": "67 people died in the Potomac River crash 15 months ago. The House safety bill needs a two-thirds vote tonight. Victims' families say it lacks strict timelines. The NTSB said the original was 'watered down.'",
+      "category": "decision"
     }
   ]
 }

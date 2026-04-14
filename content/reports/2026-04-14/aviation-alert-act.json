@@ -1,0 +1,83 @@
+{
+  "id": "aviation-alert-act",
+  "date": "2026-04-14",
+  "generatedAt": "2026-04-14T12:40:00Z",
+  "title": "The Aviation Safety Bill Was Too Weak. Then Congress Weakened It More.",
+  "subtitle": "67 people died in the Potomac River crash 15 months ago. The House safety bill needs a two-thirds vote tonight. Victims' families say it lacks strict timelines. Senators Cruz and Cantwell say it needs improvement. The NTSB said the original was 'watered down.'",
+  "topic": "society",
+  "category": "decision",
+  "tags": ["aviation", "safety", "NTSB", "Alert Act", "FAA", "American Airlines", "Congress", "Black Hawk"],
+  "coverImage": {
+    "url": "https://bloximages.chicago2.vip.townnews.com/daytondailynews.com/content/tncms/assets/v3/editorial/b/fe/bfe89a32-72e8-5399-b755-7a9517c933f7/69ddbcbaea881.image.jpg?crop=4000%2C2100%2C0%2C283&resize=1200%2C630&order=crop%2Cresize",
+    "local": "/images/reports/2026-04-14/aviation-alert-act.jpg",
+    "credit": "Dayton Daily News / AP"
+  },
+  "sources": [
+    {
+      "url": "https://www.daytondailynews.com/nation-world/aviation-safety-bill-based-on-deadly-midair-collision-near-washington-faces-a-house-vote/article_d88505a1-fca8-5743-9472-839f4fa68da1.html",
+      "publisher": "Dayton Daily News / AP",
+      "angle": "The Alert Act requires ADS-B In systems on all aircraft near busy airports, which the NTSB says could have prevented the January 2025 collision. Two House committees passed it unanimously. But the bill goes to the floor with no amendments allowed, and victims' families want strict implementation timelines. The original version was called 'watered down' by the NTSB chairwoman."
+    },
+    {
+      "url": "https://www.freedom969.com/us-news/aviation-safety-bill-based-on-deadly-midair-collision-near-washington-faces-a-house-vote",
+      "publisher": "Freedom 96.9 / SRN News",
+      "angle": "The bill requires a two-thirds supermajority to advance since it is being brought under rules that prevent amendments. The Army's policy at the time required its helicopters to fly with ADS-B systems turned off to conceal locations. The crash helicopter was on a training flight, not a sensitive mission."
+    }
+  ],
+  "brief": {
+    "actors": ["NTSB", "FAA", "Congress", "Army", "American Airlines", "Homendy", "Johnson", "Graves", "Cruz", "Cantwell"],
+    "whatHappened": "The House is voting tonight on the Alert Act, a bill requiring all aircraft near busy airports to carry ADS-B In systems that receive real-time data about the locations of surrounding aircraft. The bill responds to the January 29, 2025 collision of an American Airlines jet and an Army Black Hawk helicopter over the Potomac River near Reagan National Airport, which killed all 67 people aboard. NTSB Chairwoman Jennifer Homendy says the technology would have prevented the crash. The bill needs a two-thirds supermajority because it is being brought to the floor with no amendments allowed. Senators Cruz and Cantwell say the bill needs improvements, and victims' families want enforceable timelines for implementation.",
+    "bottomLine": "Congress is voting on a bill that the people most affected by it say is insufficient, using a procedure that prevents anyone from making it better, to meet a political deadline rather than a safety one.",
+    "hiddenBets": [
+      {
+        "assumption": "Passing the Alert Act is meaningfully better than passing nothing",
+        "whyItMightBeWrong": "A weak bill with no implementation timelines can become the ceiling rather than the floor of aviation safety reform. Once Congress passes a bill on the issue, the political pressure to act again diminishes. If the FAA takes five years to implement ADS-B In because there is no deadline in the law, the safety gap continues while Congress points to its action."
+      },
+      {
+        "assumption": "The Army's ADS-B policy was the core problem",
+        "whyItMightBeWrong": "The NTSB found 'systemic weaknesses and years of ignored warnings' as the main causes, not just the missing technology. The helicopter route design gave inadequate separation. Air traffic controllers were relying too heavily on pilots self-separating. Technology fixes applied to a broken system produce partial results."
+      },
+      {
+        "assumption": "The no-amendments procedure is necessary to get a vote",
+        "whyItMightBeWrong": "Bringing the bill without amendment authority protects industry-friendly provisions that committees inserted. The original 'watered down' language that drew NTSB criticism was committee language, and keeping amendments off the floor protects that language from being changed on the floor."
+      }
+    ],
+    "realDisagreement": "The real tension is between getting something passed now versus getting something better passed later, and whether those are actually in tension. Supporters of the current bill argue that delaying until the Senate processes its own version (the ROTOR Act, which failed by one vote) means leaving a known safety gap open. Critics argue that a bill without enforceable timelines is not actually closing the gap. Both are correct: a weak bill that passes is better than a strong bill that does not, but a weak bill that passes and satisfies political demand is often worse than a continuing crisis that maintains pressure for real reform.",
+    "whatNoOneIsSaying": "The Army's policy at the time of the crash was to fly helicopters without ADS-B on to conceal their locations. The helicopter that killed 67 people was on a training flight over a civilian airport. There is no national security justification for turning off location systems on training flights near civilian airspace. The Army changed the policy after the crash, but Congress is not requiring the Army to certify that the new policy is permanent and covers all training flights.",
+    "whoPays": [
+      {
+        "who": "Future crash victims and their families",
+        "how": "If the Alert Act passes without implementation timelines, ADS-B In adoption could take years. The NTSB has been recommending ADS-B In since 2008. Each year of delay is a year in which the technology gap that killed 67 people persists.",
+        "when": "Ongoing until implementation is complete; no deadline in current bill"
+      },
+      {
+        "who": "Victims' families",
+        "how": "Families who have spent 15 months advocating for safety reforms are being asked to accept a bill they describe as incomplete, passed under a procedure that prevented them from getting improvements, because the political moment is now rather than never.",
+        "when": "Tonight's vote"
+      },
+      {
+        "who": "Small aircraft operators",
+        "how": "Mandatory ADS-B In installation imposes costs on general aviation operators who must retrofit aircraft. The bill requires the FAA to set implementation timelines, but without mandated deadlines, the FAA may phase requirements gradually, meaning operators face prolonged uncertainty about compliance schedules.",
+        "when": "Implementation timeline to be determined by FAA"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Alert Act passes, Senate improves it",
+        "whatHappens": "The House passes the Alert Act tonight. Senators Cruz and Cantwell insert stricter timelines and Army policy requirements in the Senate version. Conference reconciliation produces a stronger final bill. Homendy endorses the final product.",
+        "signal": "Cruz and Cantwell publicly endorsing specific amendments they will add in the Senate within 48 hours"
+      },
+      {
+        "name": "Alert Act passes, implementation stalls",
+        "whatHappens": "The Alert Act passes both chambers. The FAA begins rulemaking without mandated deadlines. General aviation industry lobbies for extended transition periods. Five years later, ADS-B In coverage is incomplete in the airspace where the crash occurred.",
+        "signal": "FAA issuing a notice of proposed rulemaking for ADS-B In that sets a 5-year implementation horizon"
+      },
+      {
+        "name": "Bill fails tonight, Senate takes lead",
+        "whatHappens": "The Alert Act falls short of two-thirds tonight. The Senate passes the ROTOR Act with stronger requirements. House must vote again, this time on Senate language. The process takes months but produces a more substantive bill.",
+        "signal": "Alert Act vote failing to reach two-thirds; Senate fast-tracking ROTOR Act within the week"
+      }
+    ],
+    "whatWouldChange": "If the Senate adds enforceable timelines and Army policy requirements and the conference bill includes those provisions, the bottom line weakens. The bill becomes genuinely meaningful reform. Conversely, if FAA implementation timelines in future rulemaking stretch beyond three years, the bottom line strengthens."
+  }
+}
