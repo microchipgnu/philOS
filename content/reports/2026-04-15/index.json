@@ -1,0 +1,42 @@
+{
+  "date": "2026-04-15",
+  "generatedAt": "2026-04-15T13:30:00Z",
+  "reports": [
+    {
+      "id": "ai-liability-split",
+      "title": "OpenAI Wants Immunity. Anthropic Wants Accountability. One AI Bill Will Decide Which Vision Wins.",
+      "subtitle": "Illinois SB 3444 has cracked the AI industry's safety consensus in two, and the fault line runs straight through the question of who pays when an AI kills someone.",
+      "category": "power"
+    },
+    {
+      "id": "claude-mythos-regulators",
+      "title": "The AI That Can Break Into Banks Exists. The Rules to Stop It Don't.",
+      "subtitle": "Anthropic's Mythos model completed a full enterprise network breach in simulation and scored 73% on expert cyberattack tasks. No one outside Anthropic can access it. No regulator has authority over it.",
+      "category": "power"
+    },
+    {
+      "id": "birthright-citizenship-scotus",
+      "title": "SCOTUS Is About to Rule on Birthright Citizenship. The Market Says 94% Chance They Strike It Down.",
+      "subtitle": "The Supreme Court heard final arguments on Trump's executive order redefining citizenship. The constitutional question is live. The outcome almost certainly isn't.",
+      "category": "power"
+    },
+    {
+      "id": "nato-without-us",
+      "title": "Europe Is Building a NATO Without the US. Germany Just Agreed to Help.",
+      "subtitle": "European allies have moved from theorizing about American withdrawal to actively designing command structures that exclude Washington. The 80-year alliance is splitting in plain sight.",
+      "category": "power"
+    },
+    {
+      "id": "imf-recession-iran-war",
+      "title": "The Iran War Is Costing the World Enough to Buy a Recession. Nobody Is Presenting the Bill.",
+      "subtitle": "The IMF says the war has already erased gains from the AI boom and is pushing the world toward its adverse scenario. The markets price a 28.5% chance of US recession. The price is rising.",
+      "category": "power"
+    },
+    {
+      "id": "ohio-abortion-constitutional-defiance",
+      "title": "Ohio Voters Put Abortion Rights in the Constitution. The Legislature Is Systematically Dismantling Them Anyway.",
+      "subtitle": "The SHE WINS Act is the 11th Ohio bill targeting abortion since voters enshrined reproductive freedom in the state constitution by 57% in 2023. The real test is whether the Ohio Supreme Court will honor the referendum.",
+      "category": "power"
+    }
+  ]
+}

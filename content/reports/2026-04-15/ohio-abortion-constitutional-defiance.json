@@ -1,0 +1,78 @@
+{
+  "id": "ohio-abortion-constitutional-defiance",
+  "date": "2026-04-15",
+  "generatedAt": "2026-04-15T13:25:00Z",
+  "title": "Ohio Voters Put Abortion Rights in the Constitution. The Legislature Is Systematically Dismantling Them Anyway.",
+  "subtitle": "The SHE WINS Act is the 11th Ohio bill targeting abortion since voters enshrined reproductive freedom in the state constitution by 57% in 2023. The real test is whether the Ohio Supreme Court will honor the referendum.",
+  "topic": "society",
+  "category": "power",
+  "tags": ["Ohio", "abortion", "SHE WINS Act", "HB 347", "constitutional amendment", "reproductive rights", "state legislature"],
+  "coverImage": {
+    "url": "https://snworksceo.imgix.net/ohi/f56a30eb-4fa6-4399-bdbd-b6fe3ef1e78e.sized-1000x1000.jpg?w=800&h=600",
+    "local": "/images/reports/2026-04-15/ohio-abortion-constitutional-defiance.jpg",
+    "credit": "The Post / Ohio University"
+  },
+  "sources": [
+    {
+      "url": "https://www.thepostathens.com/article/2026/04/hb-347-she-wins-act",
+      "publisher": "The Post (Ohio University)",
+      "angle": "Ground-level legislative report from Springfield covering the bill's passage and the direct conflict with the 2023 constitutional amendment, with quotes from opposing legislators on both constitutionality and physician shortage concerns."
+    },
+    {
+      "url": "https://www.cincinnati.com/story/news/politics/2026/04/12/ohio-voted-for-abortion-access-gop-lawmakers-still-push-for-limits/89500958007/",
+      "publisher": "Cincinnati Enquirer / Columbus Dispatch",
+      "angle": "Most comprehensive sourcing on the full legislative strategy: 11 bills tracked in this session alone, the Ohio Supreme Court as the ultimate arbiter, and the competing interpretations of whether the 2023 amendment permits any further regulation."
+    }
+  ],
+  "brief": {
+    "actors": ["Ohio", "ACLU", "Planned Parenthood"],
+    "whatHappened": "Ohio's House passed HB 347, the SHE WINS Act, requiring a mandatory 24-hour waiting period and physician consultation before abortions. The bill is the 11th abortion-related measure introduced by Ohio Republicans since voters passed a constitutional amendment enshrining reproductive freedom in November 2023, with 57% of the vote. A state court struck down an earlier identical 24-hour waiting period in 2024, citing the same constitutional amendment as the basis. HB 347 has passed the House and been sent to the Senate, where it has not yet been assigned to a committee.",
+    "bottomLine": "Ohio Republicans are not trying to ban abortion outright. They are pursuing a multi-bill attrition strategy designed to force the Ohio Supreme Court to define the limits of the 2023 amendment, in a court where Republicans hold a 6-1 majority and where at least one justice has signaled willingness to narrow the amendment's scope.",
+    "hiddenBets": [
+      {
+        "assumption": "The 2023 constitutional amendment settled the abortion question in Ohio",
+        "whyItMightBeWrong": "The amendment uses the phrase 'reasonable regulations for health or safety.' Republicans and the Ohio Right to Life PAC chairman have explicitly argued this phrase creates latitude for exactly the kind of waiting periods and consultation requirements HB 347 imposes. The question of what counts as a 'reasonable' health regulation is precisely the question the Ohio Supreme Court has not yet answered."
+      },
+      {
+        "assumption": "Democratic judges blocking these bills in lower courts is a durable protection",
+        "whyItMightBeWrong": "Cincinnati Enquirer reporting is explicit: lower court victories are a delay, not a resolution. Every bill that reaches the Ohio Supreme Court is decided by a 6-1 Republican majority. The Planned Parenthood Ohio director has publicly said they need the Supreme Court to follow the amendment's clear language, but the 6-1 court has signaled no such obligation. The lower court wins are buying time, not settling law."
+      },
+      {
+        "assumption": "Republicans will stop short of a total abortion ban",
+        "whyItMightBeWrong": "Ohio Right to Life's chairman has said a ballot measure to repeal the 2023 amendment is on the table, just not imminent. A bill to charge abortion patients with murder exists and is backed by End Abortion Now, though Ohio Right to Life distances itself from it. The incremental strategy of testing regulatory limits is not the ceiling of what Republican legislators want; it is the tactic chosen because a direct ban would fail. The ceiling is repeal of the constitutional amendment itself."
+      }
+    ],
+    "realDisagreement": "The genuine fork is between two valid constitutional principles. Democratic legislators argue that a constitutional amendment passed by voters is the supreme law of the state and cannot be eroded by ordinary legislation, full stop. Republican legislators argue that the state has an inherent regulatory role in medical procedures, and that the amendment's 'health and safety' language creates room for exactly that. Both positions are internally coherent. The Ohio Supreme Court has to choose between them. At 6-1 Republican, it will likely choose to narrow the amendment, finding that some regulations are permissible. The cost of that interpretation is a constitutional amendment whose protections can be legislated away by a determined majority. The cost of the absolute interpretation is that the state cannot regulate abortion at all, even in ways most voters would find reasonable. The lean is toward honoring the amendment's text: the voters were specific, the margin was large, and the precedent that a legislature can systematically degrade a constitutional right through attrition litigation is more dangerous than the precedent that medical procedures enjoy heightened constitutional protection.",
+    "whatNoOneIsSaying": "The physician shortage is doing more work to restrict abortion access in Ohio than any of these bills. The Cicero Institute data shows 57 of Ohio's 88 counties are in physician shortages. HB 347's requirement of a physician consultation 24 hours before an abortion is not just a delay; in counties with no abortion provider, it requires a second trip that is, in practice, impossible for low-income patients without childcare or transportation. The bill's most restrictive effect is not the waiting period itself but the geography of enforcement.",
+    "whoPays": [
+      {
+        "who": "Low-income Ohioans in rural counties",
+        "how": "The 24-hour waiting period requires two separate appointments. In counties with physician shortages (more than half of Ohio's 88 counties), that means two trips of potentially 20+ miles each. Without paid leave, childcare, or transportation, the requirement is a practical ban for those who cannot absorb the logistical cost.",
+        "when": "Immediately upon enactment; the impact is felt at the first attempt to make an appointment."
+      },
+      {
+        "who": "Ohio physicians and medical providers",
+        "how": "Republican lawmakers are imposing constantly changing legal requirements on how doctors practice. The result, as Democratic Rep. Brownlee stated, is that physicians leave the state. Ohio already faces a projected 8% physician shortage by 2030; legislation that creates legal uncertainty accelerates that departure.",
+        "when": "The erosion is gradual, already underway, and compounds with each additional bill."
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Ohio Supreme Court narrows the amendment",
+        "whatHappens": "A challenge to HB 347 reaches the 6-1 Republican Ohio Supreme Court, which rules that 'reasonable health regulations' in the amendment permit waiting periods and physician consultation requirements. Republicans gain a framework to continue legislating restrictions. Federal courts would then be the only remaining check.",
+        "signal": "The Ohio Supreme Court accepting a case on the scope of the 2023 amendment and asking for briefing on what 'reasonable health regulations' permits."
+      },
+      {
+        "name": "Amendment holds, attrition fails",
+        "whatHappens": "Ohio Supreme Court rules narrowly that the existing lower court precedent applies and strikes down HB 347. Republicans continue introducing bills, but each one gets struck down faster. The constitutional amendment functions as designed. Republicans pursue a ballot measure to repeal it, which becomes the central issue in the 2026 Ohio Supreme Court elections.",
+        "signal": "Ohio Supreme Court striking down HB 347 on a broad reading of the 2023 amendment within 90 days of any signing."
+      },
+      {
+        "name": "Repeal campaign launches",
+        "whatHappens": "Ohio Republicans announce a ballot initiative to repeal or narrow the 2023 constitutional amendment, moving from attrition litigation to a direct democratic contest. The 2026 Ohio Supreme Court races become the decisive battleground.",
+        "signal": "Ohio Right to Life announcing a formal campaign to put a repeal measure on the November 2026 ballot."
+      }
+    ],
+    "whatWouldChange": "If the Ohio Supreme Court's 6-1 Republican majority issued a strong ruling affirming the 2023 amendment's broad scope and striking down all waiting period legislation, the Republican attrition strategy collapses and the amendment would function as voters intended. The signal is any opinion from a Republican justice that applies the amendment as a bright-line prohibition rather than a balancing test."
+  }
+}

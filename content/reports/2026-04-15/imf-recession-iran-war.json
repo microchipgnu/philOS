@@ -1,0 +1,118 @@
+{
+  "id": "imf-recession-iran-war",
+  "date": "2026-04-15",
+  "generatedAt": "2026-04-15T13:20:00Z",
+  "title": "The Iran War Is Costing the World Enough to Buy a Recession. Nobody Is Presenting the Bill.",
+  "subtitle": "The IMF says the war has already erased gains from the AI boom and is pushing the world toward its adverse scenario. The markets price a 28.5% chance of US recession. The price is rising.",
+  "topic": "economy",
+  "category": "power",
+  "tags": ["IMF", "Iran", "recession", "oil prices", "tariffs", "Federal Reserve", "stagflation"],
+  "coverImage": {
+    "url": "https://dims.apnews.com/dims4/default/af695c6/2147483647/strip/true/crop/3573x2381+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F2a%2Fa0%2F0fa86648d951d1a424d880e6b1fc%2F8a514197c7ae481585e84a7151c981c8",
+    "local": "/images/reports/2026-04-15/imf-recession-iran-war.jpg",
+    "credit": "AP News"
+  },
+  "sources": [
+    {
+      "url": "https://apnews.com/article/economy-imf-outlook-iran-war-trump-inflation-growth-e3d8a239509abb50757f8c8d42fb32d8",
+      "publisher": "AP News",
+      "angle": "Wire report on the IMF's formal World Economic Outlook release, framing the growth cut as a direct consequence of Iran war disruption creating simultaneous growth slowdown and inflation pressure."
+    },
+    {
+      "url": "https://www.theguardian.co.uk/business/2026/apr/14/iran-war-global-recession-imf-uk-growth-forecasts-oil-prices",
+      "publisher": "The Guardian",
+      "angle": "UK-focused angle on the IMF's growth revision, with specific attention to the UK facing the steepest cut of any major economy and what that means for the Starmer government."
+    },
+    {
+      "url": "https://ca.finance.yahoo.com/news/imf-cuts-growth-outlook-warns-134445713.html",
+      "publisher": "Yahoo Finance / Reuters",
+      "angle": "Reuters report with the clearest conditional scenario structure: recession risk is contingent on whether the Iran conflict worsens, with IMF chief economist Gourinchas providing the scenario ladder."
+    },
+    {
+      "url": "https://www.independent.co.uk/news/uk/politics/imf-warns-global-recession-trump-iran-war-b2957840.html",
+      "publisher": "The Independent",
+      "angle": "British political framing that explicitly links the recession risk to Trump's decision to go to war with Iran, positioning the IMF as assigning political accountability for the economic damage."
+    },
+    {
+      "url": "https://finance.yahoo.com/news/former-us-treasury-secretary-yellen-030351091.html",
+      "publisher": "Yahoo Finance / Reuters",
+      "angle": "Janet Yellen from Hong Kong confirming the Iran war has effectively frozen Fed rate cuts, trapping monetary policy in a stagflationary bind with at most one cut possible in 2026."
+    }
+  ],
+  "brief": {
+    "actors": ["IMF", "Iran", "Trump", "Federal Reserve", "OPEC"],
+    "whatHappened": "The IMF released its World Economic Outlook on April 14, downgrading global growth to 3.1% in 2026 and raising inflation forecasts to 4.4%. The fund warned that in a severe scenario the world faces a near-recession, driven by Iran war disruption to Strait of Hormuz shipping and oil supply chains. Without the war, the IMF said it would have upgraded growth, crediting the AI investment boom and lower interest rates. Former Treasury Secretary Janet Yellen separately confirmed the Fed is now limited to at most one rate cut in 2026, caught between recession risk on one side and war-driven inflation on the other. The US also quietly ended sanctions waivers on both Iranian and Russian oil this week, removing an estimated 140 million barrels from global markets.",
+    "bottomLine": "The Iran war is the single largest known drag on the global economy right now, calculably neutralizing what would otherwise be an AI-driven growth upgrade. Nobody is presenting the economic cost as a political cost of the war decision, and that invisibility is the real story.",
+    "hiddenBets": [
+      {
+        "assumption": "The Polymarket 28.5% US recession probability accurately reflects the current risk",
+        "whyItMightBeWrong": "The IMF says the world is already drifting toward its adverse scenario even before worst-case outcomes. The recession market was priced at 30% last week; it dropped to 28.5% today. This diverges from the IMF's explicit statement that adverse scenario drift is already occurring. Either the market is discounting the IMF's assessment, or the IMF's language is more alarming than the underlying data justifies. The IMF chief economist specifically named the direction of drift; that is not standard hedge language."
+      },
+      {
+        "assumption": "Ending sanctions waivers on Iranian and Russian oil simultaneously is a calculated pressure move",
+        "whyItMightBeWrong": "Removing 140 million barrels from global markets while the Hormuz blockade is already disrupting supply chains is a compounding shock, not a precision instrument. The waivers were designed to prevent exactly this kind of supply-side squeeze. Ending them simultaneously is either a deliberate escalation of economic pressure, or a coordination failure between the Treasury and the State Department. The IMF forecast does not fully price in the waiver expiration because it happened this week."
+      },
+      {
+        "assumption": "The Fed can navigate the stagflationary trap without a policy error",
+        "whyItMightBeWrong": "Yellen's one-cut-maximum forecast means the Fed cannot respond to a growth slowdown with the aggressive easing it used in 2020 and 2023. If Iran war disruptions worsen in Q3, the Fed faces a choice between cutting rates while inflation is still elevated or holding rates while the economy contracts. There is no clean path. The last time the Fed faced this choice, it was called stagflation and it lasted a decade."
+      }
+    ],
+    "realDisagreement": "The fork is between treating the Iran war as a temporary supply shock that resolves when the conflict ends, or treating it as a structural shift in the energy and shipping order that persists regardless of outcome. If the former, the correct response is patience: hold rates, wait for Hormuz to reopen, let the AI growth acceleration resume. If the latter, the energy price floor has shifted permanently and the IMF's adverse scenario becomes the baseline, not the tail risk. The lean is toward the structural view: the Strait of Hormuz disruption has already embedded a new energy price floor in global markets, and the US elections for sanctions waiver termination this week make the supply constraint a policy choice rather than a war accident. That makes it sticky."
+    ,
+    "whoPays": [
+      {
+        "who": "UK households and the Starmer government",
+        "how": "The UK faces the steepest growth forecast cut of any major economy, with both unemployment and inflation projected to rise simultaneously. Starmer took office on a growth mandate and faces a stagflationary squeeze entirely driven by a war the UK did not choose.",
+        "when": "Visible in UK economic data by Q3 2026."
+      },
+      {
+        "who": "Oil-importing developing economies",
+        "how": "Countries in South and Southeast Asia that depend on cheap energy imports face a double cost: higher oil prices from Hormuz disruption and currency pressure as capital flows to dollar-denominated safe assets. India and Indonesia are most exposed.",
+        "when": "Already embedding in import bills; full impact in 6-9 months."
+      },
+      {
+        "who": "US homebuyers and small business borrowers",
+        "how": "Yellen's one-cut forecast means elevated interest rates persist longer than markets had priced. Mortgage rates stay high, small business credit remains expensive, and the rate relief that was expected in 2026 does not arrive.",
+        "when": "Immediate; the market has already repriced rate expectations downward."
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Ceasefire unlocks the release valve",
+        "whatHappens": "A US-Iran nuclear deal is reached within 60 days. Hormuz shipping normalizes, oil prices fall, and the IMF's baseline scenario reasserts. The AI growth engine resumes, and the Fed gets room to cut twice. The Polymarket nuclear deal by June 30 market at 60.5% probability supports this as the modal path.",
+        "signal": "Polymarket's nuclear deal by April 30 market rising above 50% is the early indicator. Currently at 32.7%."
+      },
+      {
+        "name": "Adverse scenario materializes",
+        "whatHappens": "No deal by July, oil sustains above $100/barrel, the IMF revises down again, and the Fed faces a Q3 decision to cut into inflation or hold into contraction. At least one major economy enters technical recession.",
+        "signal": "IMF issuing an unscheduled downward revision to its Q2 global growth tracker. Normally the fund does not do this mid-quarter."
+      },
+      {
+        "name": "Stagflation embeds",
+        "whatHappens": "The conflict ends but the energy price floor does not fall because sanctions on Russian and Iranian oil remain in place and OPEC adjusts to the new equilibrium. The Fed cuts once in November, growth stays at 2-2.5%, inflation stays at 3.5-4%, and the global economy operates at a permanently lower level than its pre-war trajectory.",
+        "signal": "WTI crude stabilizing above $90 for three consecutive months after any ceasefire."
+      }
+    ],
+    "whatWouldChange": "A nuclear deal with Iran that reopens the Strait and lifts sanctions within 60 days would invalidate the adverse scenario analysis. The signal is Polymarket's June 30 deal probability rising above 75%. Conversely, if oil prices reach $110 before a deal, the IMF's worst-case scenario of $125/barrel by 2027 becomes the base case, not a tail risk.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "US recession by end of 2026?",
+        "url": "https://polymarket.com/event/us-recession-by-end-of-2026",
+        "probability": 0.285
+      },
+      {
+        "platform": "Polymarket",
+        "question": "US-Iran nuclear deal by June 30?",
+        "url": "https://polymarket.com/event/us-iran-nuclear-deal-by-june-30",
+        "probability": 0.605
+      },
+      {
+        "platform": "Polymarket",
+        "question": "US-Iran nuclear deal by April 30?",
+        "url": "https://polymarket.com/event/us-iran-nuclear-deal-by-april-30",
+        "probability": 0.327
+      }
+    ]
+  }
+}

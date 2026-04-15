@@ -1,0 +1,96 @@
+{
+  "id": "birthright-citizenship-scotus",
+  "date": "2026-04-15",
+  "generatedAt": "2026-04-15T13:10:00Z",
+  "title": "SCOTUS Is About to Rule on Birthright Citizenship. The Market Says 94% Chance They Strike It Down.",
+  "subtitle": "The Supreme Court heard final arguments on Trump's executive order redefining citizenship. The constitutional question is live. The outcome almost certainly isn't.",
+  "topic": "politics",
+  "category": "power",
+  "tags": ["SCOTUS", "birthright citizenship", "14th Amendment", "Trump", "immigration", "constitutional law"],
+  "coverImage": {
+    "url": "https://www.scotusblog.com/wp-content/uploads/2026/03/GettyImages-2250382434.jpg",
+    "local": "/images/reports/2026-04-15/birthright-citizenship-scotus.jpg",
+    "credit": "SCOTUSblog / Getty Images"
+  },
+  "sources": [
+    {
+      "url": "https://www.scotusblog.com/2026/04/birthright-citizenship-oral-argument-highlights/",
+      "publisher": "SCOTUSblog",
+      "angle": "Constitutional scholars Akhil and Vikram Amar compare their prior analysis to what justices actually said at oral argument on April 1, finding broad alignment and predicting the executive order will be struck down."
+    },
+    {
+      "url": "https://world.infonasional.com/supreme-court-citizenship-amendment-case",
+      "publisher": "Info Nasional",
+      "angle": "Straight news coverage of the oral argument itself, covering the parties and key constitutional questions on the day of argument."
+    },
+    {
+      "url": "https://thefederalist.com/2026/04/14/a-supreme-court-that-doesnt-stop-birthplace-citizenship-isnt-originalist/",
+      "publisher": "The Federalist",
+      "angle": "Originalist argument that the 14th Amendment was never intended to confer citizenship on children of unauthorized immigrants, representing the strongest conservative legal case for the executive order."
+    },
+    {
+      "url": "https://patriotpost.us/opinion/126704-are-we-subjects-or-citizens-birthright-citizenship-and-the-constitution-2026-04-13",
+      "publisher": "The Patriot Post / Hillsdale College Imprimis",
+      "angle": "Historical/conservative constitutional lens framing the birthright citizenship debate as a question of political allegiance, arguing the Founders never intended automatic citizenship for all born on US soil."
+    }
+  ],
+  "brief": {
+    "actors": ["SCOTUS", "Trump", "CASA"],
+    "whatHappened": "The Supreme Court heard oral arguments on Trump's executive order directing that children born in the United States to parents who are undocumented or on temporary visas will not automatically receive US citizenship. The case, Trump v. CASA, requires the Court to interpret the 14th Amendment phrase 'subject to the jurisdiction thereof.' Lower courts issued nationwide injunctions against the order immediately after it was signed in January 2025. The Court is expected to rule by late June 2026.",
+    "bottomLine": "The Court will almost certainly strike down the executive order, but the more important question is whether it will also limit the use of nationwide injunctions, which would give the administration a partial win that matters more for future executive overreach than this specific case.",
+    "hiddenBets": [
+      {
+        "assumption": "The outcome on citizenship is the story",
+        "whyItMightBeWrong": "Polymarket prices a 93.5% chance that the citizenship EO gets struck down. That outcome is effectively priced in. The court-watchers at SCOTUSblog report that conservative justices including Roberts, Kavanaugh, and Barrett expressed skepticism toward the administration's position. The more consequential question before the Court is whether to limit nationwide injunctions, which would let the administration test legal boundaries in individual circuits rather than being stopped everywhere simultaneously."
+      },
+      {
+        "assumption": "The 14th Amendment's original meaning is clear",
+        "whyItMightBeWrong": "The Federalist and Hillsdale College both have published sophisticated originalist arguments that 'subject to the jurisdiction thereof' was intended to exclude children of diplomatic personnel and, by extension, could exclude children of those without legal permission to be in the country. These arguments have not persuaded most constitutional scholars, but they are not frivolous. The 5-4 possibility that a conservative supermajority Court finds a novel reading of a 156-year-old amendment is not zero."
+      },
+      {
+        "assumption": "A ruling against Trump resolves the citizenship question",
+        "whyItMightBeWrong": "A ruling that the EO cannot be enforced because it is unconstitutional does not preclude Congress from passing a statute attempting the same result. The constitutional question would then require re-litigating whether a statute can redefine 'subject to the jurisdiction thereof.' The administration has signaled it would pursue legislative routes. The case ends one battle, not the war."
+      }
+    ],
+    "realDisagreement": "The real fork here is not citizenship doctrine. It is whether the executive branch can test the limits of constitutional text through executive orders, using litigation as a mechanism to find what the courts will or won't allow. The opposing view holds that constitutional text means what it has been understood to mean for 150 years, and that executive orders redefining that text are not legitimate legal experiments but violations. The lean is against the executive: the precedent that a president can issue orders redefining constitutional language and then litigate whether courts stop him would fundamentally change the separation of powers. The cost of a narrow ruling is smaller than the cost of a ruling that validates the experiment itself.",
+    "whatNoOneIsSaying": "A 93.5% Polymarket probability on a SCOTUS ruling is unusually high for a constitutional case with a 6-3 conservative supermajority court deciding on a Trump administration policy. The smart read from justices' oral argument questions suggests the outcome is genuinely likely. But the market may be underpricing the scenario where the Court rules narrowly on nationwide injunctions rather than on the merits of citizenship, giving neither side a clean win.",
+    "whoPays": [
+      {
+        "who": "Undocumented parents of US-born children",
+        "how": "If the EO had taken effect, their US-born children would not have received citizenship, stripping them of the legal status that protects the family unit from separation and deportation. The injunctions have prevented this to date.",
+        "when": "Relevant from the moment the EO was signed; resolved if the Court strikes it down but remains uncertain until the ruling."
+      },
+      {
+        "who": "Future presidents of any party",
+        "how": "If the Court validates the experiment of testing constitutional text through executive orders and limiting nationwide injunctions, future administrations gain the same tool. The precedent is not ideological; it expands executive power regardless of who holds it.",
+        "when": "Long-term, structural, beginning the moment any future administration uses the precedent."
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Broad ruling strikes down EO on merits",
+        "whatHappens": "The Court rules 7-2 or 6-3 that the 14th Amendment unambiguously confers birthright citizenship and the EO is unconstitutional. The citizenship question is settled for this generation. The administration pivots to Congress.",
+        "signal": "A ruling that addresses the merits of the 14th Amendment interpretation rather than process or standing."
+      },
+      {
+        "name": "Narrow ruling on injunctions",
+        "whatHappens": "The Court strikes down the EO but simultaneously limits the scope of nationwide injunctions, requiring challenges to proceed circuit by circuit. The citizenship outcome is the same but the administration's future ability to test legal limits expands.",
+        "signal": "A majority opinion that includes significant discussion of the scope of district court injunctive relief alongside the citizenship ruling."
+      },
+      {
+        "name": "Surprise narrow uphold",
+        "whatHappens": "A 5-4 majority finds a novel reading of 'subject to the jurisdiction thereof' that permits the EO for at least one category of undocumented parents. Legal chaos follows as hundreds of thousands of citizenship statuses become contested.",
+        "signal": "Oral argument questions from Justices Thomas and Alito seeking to construct a limiting principle for the administration's argument rather than simply rejecting it."
+      }
+    ],
+    "whatWouldChange": "If Justice Barrett or Kavanaugh's questions at oral argument indicate they found a path to uphold the order on any grounds, the 93.5% probability should be revised sharply downward. The signal would be a concurring opinion in a prior immigration case that applied a narrow reading of 'jurisdiction' in a related context.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "SCOTUS strikes down Trump's Birthright Citizenship EO?",
+        "url": "https://polymarket.com/event/scotus-strikes-down-trumps-birthright-citizenship-eo",
+        "probability": 0.935
+      }
+    ]
+  }
+}
