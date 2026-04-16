@@ -1,0 +1,93 @@
+{
+  "id": "bessent-tariffs-july",
+  "date": "2026-04-16",
+  "generatedAt": "2026-04-16T08:10:00Z",
+  "title": "Tariffs Struck Down, Tariffs Coming Back",
+  "subtitle": "The Supreme Court ruled Trump's emergency tariff powers unconstitutional. The administration is already routing around the ruling.",
+  "topic": "economy",
+  "category": "power",
+  "tags": ["tariffs", "Bessent", "SCOTUS", "IEEPA", "Section 301", "trade", "inflation"],
+  "coverImage": {
+    "url": "https://img.semafor.com/720e1f2fc962dc9da346e763499d13720974ed22-5258x3505.jpg?rect=0,373,5258,2760&w=1200&h=630&q=75&auto=format",
+    "local": "/images/reports/2026-04-16/bessent-tariffs-july.jpg",
+    "credit": "Semafor / Reuters"
+  },
+  "sources": [
+    {
+      "url": "https://www.semafor.com/article/04/15/2026/bessent-says-tariffs-could-be-restored-by-july",
+      "publisher": "Semafor",
+      "angle": "Bessent's WSJ summit statement that Section 301 tariffs could restore pre-SCOTUS levels by July; notes Iran war compounding inflation"
+    },
+    {
+      "url": "https://www.cnbctv18.com/world/trump-tariffs-could-be-back-in-july-says-bessent-after-supreme-court-setback-that-deemed-them-illegal-ws-l-19886666.htm",
+      "publisher": "CNBC TV18",
+      "angle": "Section 301 has been court-tested; Bessent frames this as giving businesses planning certainty"
+    },
+    {
+      "url": "https://financialpost.com/news/economy/trump-tariffs-could-be-restored-july",
+      "publisher": "Financial Post",
+      "angle": "Bessent signals the Iran war economic consequences are 'hard to time' but US economy is strong; conflates two separate inflation pressures"
+    },
+    {
+      "url": "https://www.usatoday.com/story/news/politics/2026/04/15/trump-tariffs-fight-after-supreme-court-ruling/89609279007/",
+      "publisher": "USA Today",
+      "angle": "US Trade Representative Jamieson Greer running Section 301 investigations; businesses lobbying against restoration; legal battle far from over"
+    }
+  ],
+  "brief": {
+    "actors": ["Bessent", "Trump", "SCOTUS", "Fed"],
+    "whatHappened": "The Supreme Court struck down Trump's tariffs imposed under the International Emergency Economic Powers Act in February 2026, ruling that emergency powers cannot be used to set tariff rates. The administration immediately began working around the ruling: Treasury Secretary Scott Bessent said on April 15 that Trump's tariffs could be fully restored to pre-ruling levels by July using Section 301 of the Trade Act of 1974, a different legal authority that has been upheld in court. The Trade Representative is already conducting Section 301 investigations to justify the restoration. Meanwhile, the Federal Reserve has confirmed that the earlier tariffs contributed directly to recent price increases, and the Iran war is generating a separate and concurrent inflation shock in energy markets.",
+    "bottomLine": "The Supreme Court won a procedural battle and lost the policy war: within 60 days, the tariffs it struck down will be back, built on different legal scaffolding that no court has blocked.",
+    "hiddenBets": [
+      {
+        "assumption": "Section 301 is a clean legal path",
+        "whyItMightBeWrong": "Section 301 requires formal findings of unfair trade practices, country-specific investigations, and a notice-and-comment process. Rushing that process to July to restore tariffs at their previous levels invites legal challenges that the administration is counting on avoiding because 'Section 301 has been tested in courts.' But the speed and breadth of this application are different from prior Section 301 uses, and importers are already lawyering up."
+      },
+      {
+        "assumption": "Businesses now have 'planning certainty'",
+        "whyItMightBeWrong": "Bessent said Section 301's court-tested status gives businesses certainty to plan capital expenditures. But certainty about a tariff level does not resolve uncertainty about whether that level will survive new legal challenges, whether it will be raised further, or whether the Iran war inflation will compound the tariff inflation into a demand collapse. Certainty about one variable is not certainty about the environment."
+      },
+      {
+        "assumption": "Tariff and war inflation are separate problems",
+        "whyItMightBeWrong": "The Federal Reserve is dealing with two simultaneous inflation sources: tariff-driven import cost increases and energy-price increases from the Iran conflict. The Fed cannot cut rates to ease tariff inflation without risking more energy inflation, and cannot hike to fight energy inflation without tipping a tariff-stressed economy into recession. The administration is solving its legal problem while the Fed faces the economic interaction of two crises at once."
+      }
+    ],
+    "realDisagreement": "The real fork is whether the Supreme Court's IEEPA ruling means anything if the executive can switch to a different statutory vehicle and reproduce the same policy outcome within five months. One view: constitutional limits on executive power are real and the SCOTUS ruling matters, because it forces a process (Section 301 investigations) that provides at least some procedural check. The other view: if the substantive outcome is identical regardless of which statute the president uses, then the Court's ruling functioned as a speed bump, not a limit. Courts that produce speed bumps instead of limits over time normalize the behavior they were supposed to check. I think the second view is closer to correct, and the administration's publicly announced timeline of 'back to previous levels by July' is the tell: they are not reconsidering the policy, they are changing the envelope.",
+    "whatNoOneIsSaying": "Bessent told a Wall Street Journal audience that businesses can now plan around tariffs because the legal path is clearer. What he did not say: the inflation the prior tariffs caused has not reversed since the Court struck them down. The damage is already in prices. Restoring the tariffs by July means imposing the tariff-inflation shock twice on the same consumer base that has not yet recovered from the first round.",
+    "whoPays": [
+      {
+        "who": "US importers and small manufacturers",
+        "how": "Absorbed the first tariff wave in early 2026, now face the same or higher rates returning in July while also navigating Iran war supply disruptions. Many had begun adjusting supply chains; now those adjustments may be wasted.",
+        "when": "July 2026 if Section 301 investigation concludes on schedule"
+      },
+      {
+        "who": "US consumers",
+        "how": "Cornell economists cited in Fortune confirm that processors pass input cost increases along. The combination of tariff-driven import inflation and energy inflation from the Iran war is compounding in consumer goods prices, particularly food and manufactured goods.",
+        "when": "Ongoing and accelerating through Q3 2026"
+      },
+      {
+        "who": "Fed and monetary policymakers",
+        "how": "The Fed cannot use standard tools to differentiate between tariff inflation and demand-side inflation. Rate decisions in this environment risk amplifying one shock while trying to suppress another. Bessent's public criticism of the Fed for 'slow rate cuts' adds political pressure to an already constrained institution.",
+        "when": "Every FOMC meeting through year-end"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Section 301 restored",
+        "whatHappens": "Trade Representative completes Section 301 investigations, tariffs return to prior levels by July. Businesses that hedged appropriately survive. Businesses that assumed permanent SCOTUS relief face a new cost shock. Inflation ticks up again.",
+        "signal": "USTR publishes Section 301 investigation findings in May with proposed tariff rates matching pre-ruling levels"
+      },
+      {
+        "name": "Legal challenge delays",
+        "whatHappens": "Importers sue, arguing Section 301 is being used in bad faith to circumvent the IEEPA ruling. Courts issue stays pending review. Tariffs remain in limbo through late 2026.",
+        "signal": "A federal district court grants a preliminary injunction against Section 301 tariffs within 30 days of imposition"
+      },
+      {
+        "name": "Iran shock dominates",
+        "whatHappens": "Oil prices above $120 per barrel produce a demand shock that makes tariff debates secondary. Inflation and recession risk converge. The Section 301 investigation is quietly slowed.",
+        "signal": "Fed issues an emergency statement on inflation; GDP growth forecast drops below 1% for Q3"
+      }
+    ],
+    "whatWouldChange": "If Section 301 investigations produce findings that are substantively different from the original IEEPA tariff list (i.e., lower rates or different products excluded), Bessent's signal of 'back to previous levels' would be wrong and the administration is actually constrained by the statutory process. If a court blocks Section 301 tariffs within 60 days of imposition, the ruling-means-something view is vindicated."
+  }
+}

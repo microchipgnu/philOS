@@ -1,0 +1,36 @@
+{
+  "date": "2026-04-16",
+  "generatedAt": "2026-04-16T08:25:00Z",
+  "reports": [
+    {
+      "id": "iran-hormuz-blockade",
+      "title": "The Siege That Talks Are Supposed to End",
+      "subtitle": "The US blockade of Iranian ports is working militarily and collapsing diplomatically at the same time.",
+      "category": "conflict"
+    },
+    {
+      "id": "scotus-shadow-docket",
+      "title": "The Justice Who Said What the Court Won't",
+      "subtitle": "Ketanji Brown Jackson's Yale speech against the shadow docket is not just dissent: it is a warning about what the Court has already become.",
+      "category": "power"
+    },
+    {
+      "id": "bessent-tariffs-july",
+      "title": "Tariffs Struck Down, Tariffs Coming Back",
+      "subtitle": "The Supreme Court ruled Trump's emergency tariff powers unconstitutional. The administration is already routing around the ruling.",
+      "category": "power"
+    },
+    {
+      "id": "anthropic-pentagon-blacklist",
+      "title": "Banned by the Government, Worth $800 Billion",
+      "subtitle": "The Pentagon tried to kill Anthropic's federal business. Instead it handed the company a brand identity and a revenue surge.",
+      "category": "power"
+    },
+    {
+      "id": "social-media-ban-minors",
+      "title": "Five Countries, One Law They Cannot Write",
+      "subtitle": "Canada, Australia, the EU, and multiple US states are all trying to ban social media for minors. None of them know how to enforce it.",
+      "category": "power"
+    }
+  ]
+}
