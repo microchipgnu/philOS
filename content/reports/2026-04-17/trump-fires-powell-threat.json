@@ -1,0 +1,118 @@
+{
+  "id": "trump-fires-powell-threat",
+  "date": "2026-04-17",
+  "generatedAt": "2026-04-17T22:30:00Z",
+  "title": "Trump Says He'll Fire Powell Even After the Chair Term Ends. The Market Is Betting He Won't.",
+  "subtitle": "Trump threatened to remove Powell not just as chair but as a Fed governor. Polymarket says 8.5% chance he actually does it by June. The gap between the threat and the market reveals the real bet.",
+  "topic": "economy",
+  "category": "power",
+  "tags": ["Federal Reserve", "Trump", "Powell", "Warsh", "central bank independence"],
+  "coverImage": {
+    "url": "https://dims.apnews.com/dims4/default/b99a7e0/2147483647/strip/true/crop/6000x3998+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F9f%2F2a%2Fa697c1258d3732cd3a02d2b264ef%2Fffd5336f530c442db1bf23feb28958f1",
+    "local": "/images/reports/2026-04-17/trump-fires-powell-threat.jpg",
+    "credit": "AP News"
+  },
+  "sources": [
+    {
+      "url": "https://apnews.com/article/federal-reserve-jerome-powell-trump-16f1777a974cf0dece60d78abe4eb973",
+      "publisher": "AP News",
+      "angle": "Federal prosecutors made an unannounced visit to the Fed building under renovation as Trump escalated threats; Powell said his governor term through 2028 cannot be ended by the president"
+    },
+    {
+      "url": "https://www.aljazeera.com/economy/2026/4/15/trump-escalates-threats-to-fire-us-federal-reserve-chair-powell",
+      "publisher": "Al Jazeera",
+      "angle": "Trump explicitly said on Fox Business that Powell must leave the central bank entirely, not just the chair role, or be fired"
+    },
+    {
+      "url": "https://www.thestreet.com/fed/trumps-fed-chair-nominee-kevin-warsh-congressioinal-hearing-at-risk-as-political-clashes-grow-between-gop-and-democrats",
+      "publisher": "TheStreet",
+      "angle": "Warsh's Senate Banking Committee confirmation hearing faces partisan deadlock; Warren is blocking it over ethics disclosures; DOJ criminal probe of Powell building renovations looms over the timing"
+    },
+    {
+      "url": "https://www.foreignpolicyjournal.com/2026/04/14/jerome-powells-final-month-at-the-fed-arrives-amid-iran-pressure-kevin-warsh-confirmation-chaos/",
+      "publisher": "Foreign Policy Journal",
+      "angle": "Detailed breakdown of Powell's remaining term mechanics: chair expires May 15, governor seat runs to January 2028, meaning Powell can stay on the board even after losing the chairmanship"
+    },
+    {
+      "url": "https://www.cnbc.com/2026/04/15/trump-threatens-to-fire-powell-if-the-fed-chair-doesnt-leave-office-on-his-own.html",
+      "publisher": "CNBC",
+      "angle": "Legal analysis suggests firing a Fed governor is almost certainly unconstitutional; markets are keeping one eye on dollar value and another on Warsh confirmation odds"
+    }
+  ],
+  "brief": {
+    "actors": ["Trump", "Powell", "Warsh", "Senate", "Federal Reserve"],
+    "whatHappened": "On April 15, President Trump threatened to fire Federal Reserve Chair Jerome Powell not only if he remains as chair after his term expires on May 15, but also if Powell continues serving as a Fed governor, a position with a separate term running until January 2028. Federal prosecutors made an unannounced visit this week to a Federal Reserve construction site, escalating what Powell has described as an administration effort to undermine the central bank's independence. Trump's nominee, Kevin Warsh, has a Senate Banking Committee confirmation hearing scheduled for April 21 that Democrats are working to delay over ethics disclosures. The Fed has held rates steady at approximately 3.6 percent at its first two meetings of 2026, with an April 28-29 FOMC meeting as Powell's likely final one as chair.",
+    "bottomLine": "Trump's threat to fire Powell as governor is almost certainly illegal under the Federal Reserve Act, which lets the president remove governors only for cause. The threat is not a plan. It is pressure. The question is what it pressures Warsh to do once confirmed.",
+    "hiddenBets": [
+      {
+        "assumption": "Fed independence is a legal guarantee that courts will enforce",
+        "whyItMightBeWrong": "The Fed's independence rests on statutory language that has never been tested in a serious removal fight at this level. The Supreme Court's recent willingness to reinterpret executive power precedents means the outcome of any Powell firing challenge is genuinely uncertain, not settled law."
+      },
+      {
+        "assumption": "Warsh will run the Fed independently once confirmed",
+        "whyItMightBeWrong": "Warsh was Trump's preferred pick precisely because he has signaled support for rate cuts and has been publicly critical of Powell's pace. His confirmation hearing, if it happens, will be the first real test of whether he will commit to independence under direct questioning. Nothing in the record so far requires him to."
+      },
+      {
+        "assumption": "The drama is mostly political theater that markets will ignore",
+        "whyItMightBeWrong": "The dollar has already shown sensitivity to Fed independence signals this year. If the Warsh hearing falls apart and Powell ends up serving in some limbo capacity after May 15, the period of genuine dual-authority ambiguity could trigger the kind of institutional credibility discount that takes years to rebuild."
+      }
+    ],
+    "realDisagreement": "The actual fork is between two positions that both have merit: either Fed independence is a functional institution worth defending at legal and political cost, or it is a convenient norm that was always subject to presidential pressure and the current fight is just the one where that pressure became explicit. The first position says Powell should refuse to resign as governor, force a legal battle, and let courts defend the statute. The second says the institution survives through adaptation, not confrontation, and Powell should step aside cleanly to preserve the Fed's ability to function under Warsh. The first position is probably right on the law. The second might be right on the institution. You cannot fully have both. The lean here is toward Powell staying, forcing the legal test, because a precedent of voluntary resignation under threats is worse long-term than even a year of market turbulence.",
+    "whatNoOneIsSaying": "Warsh probably wants Powell to stay too. A confirmed Warsh taking over a Fed whose independence was visibly intact is a more powerful platform than one tainted by a forced resignation. The person with the most incentive to quietly discourage Trump from escalating this is the man who wants the job.",
+    "whoPays": [
+      {
+        "who": "Long-term Treasury bond holders",
+        "how": "Any credible threat to Fed independence widens the term premium investors demand to hold long-duration US debt; if the dollar weakens alongside, foreign holders accelerate exit",
+        "when": "Immediate on any credible escalation signal; deepens if Warsh confirmation fails before May 15"
+      },
+      {
+        "who": "Homebuyers and mortgage borrowers",
+        "how": "A politicized Fed that cuts rates under pressure while inflation is still above target will see long-term rates rise faster than short-term rates fall, making mortgages more expensive even as the Fed claims to be easing",
+        "when": "Medium-term, over the next 6-18 months"
+      },
+      {
+        "who": "Powell himself",
+        "how": "A DOJ criminal probe of Fed building renovations that was opened under this administration can be escalated or resolved based entirely on whether Powell cooperates with his own removal",
+        "when": "Immediate leverage"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Warsh confirmed, Powell exits cleanly",
+        "whatHappens": "Warsh clears the Senate in May, Powell steps down as governor voluntarily, and Trump claims victory. The Fed cuts rates faster than it would have under Powell, inflation re-accelerates mildly by late 2026, and the episode is remembered as the moment presidential control over monetary policy became normalized.",
+        "signal": "Warsh's April 21 hearing proceeds without postponement and Democrats do not walk out"
+      },
+      {
+        "name": "Confirmation collapses, Powell stays in limbo",
+        "whatHappens": "Warren and Senate Democrats successfully delay or derail Warsh's confirmation. Powell serves as a pro-tem chair after May 15 under contested authority. Markets price in prolonged institutional uncertainty. Dollar weakens 3-5 percent against the euro and yen over summer.",
+        "signal": "Warsh hearing is postponed past May 1 or major Republican defections appear in the committee"
+      },
+      {
+        "name": "Trump fires Powell as governor, courts intervene",
+        "whatHappens": "Trump issues an executive order removing Powell from the board. Powell refuses to leave. The case goes to federal courts within days. The Supreme Court fast-tracks it. Markets go into a 5-10 percent correction in the window between the firing and the ruling.",
+        "signal": "Trump posts a removal order on Truth Social before Warsh is confirmed"
+      }
+    ],
+    "whatWouldChange": "If Warsh explicitly committed in his confirmation hearing to not cutting rates faster than the data supports, and Democratic senators accepted that as sufficient independence guarantee, the entire standoff would deflate. The market bet against a firing (91.5%) is right about the short-term. It may be underpricing the long-term norm erosion regardless of outcome.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Will Trump try to fire Powell as Fed Board Member by June 30, 2026?",
+        "url": "https://polymarket.com/event/will-trump-try-to-fire-powell-as-fed-board-member-by",
+        "probability": 0.085
+      },
+      {
+        "platform": "Polymarket",
+        "question": "Will Jerome Powell depart as Fed Chair by May 16 2026?",
+        "url": "https://polymarket.com/event/jerome-powell-departs-as-fed-chair-by",
+        "probability": 0.14
+      },
+      {
+        "platform": "Polymarket",
+        "question": "Kevin Warsh Fed Chair nomination withdrawn by May 15?",
+        "url": "https://polymarket.com/event/kevin-warsh-fed-chair-nomination-withdrawn-by-may-15",
+        "probability": 0.013
+      }
+    ]
+  }
+}

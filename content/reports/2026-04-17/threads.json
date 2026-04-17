@@ -154,5 +154,39 @@
         }
       ]
     }
+    ,
+    {
+      "id": "legal-block-administrative-reroute",
+      "title": "Courts Keep Winning. The Policy Keeps Advancing.",
+      "description": "Three stories today share the same structure: a legal institution blocks an executive action, and the administration immediately announces a different legal mechanism to achieve the same result. SCOTUS struck down IEEPA tariffs in February; Bessent announced Section 301 replacements at the same levels by July. Courts have rejected DOJ voter data demands five times; 17 states handed over the data voluntarily and the DOJ has 25 cases left. Trump threatened to fire Powell as chair; when Powell indicated he would stay as governor, Trump threatened to fire him from that role too. In each case, the legal block is real but insufficient. The administration treats judicial rejection not as a limit but as a routing problem.",
+      "type": "tension-cluster",
+      "stories": ["ieepa-refunds-new-tariffs", "doj-voter-data-0-5", "trump-fires-powell-threat"],
+      "connections": [
+        {
+          "from": "ieepa-refunds-new-tariffs",
+          "to": "doj-voter-data-0-5",
+          "relationship": "Both involve a SCOTUS or court ruling formally blocking an administration action, followed by an announcement of a replacement mechanism designed to produce the same outcome through a different legal instrument, with the original harm partially already accomplished."
+        },
+        {
+          "from": "doj-voter-data-0-5",
+          "to": "trump-fires-powell-threat",
+          "relationship": "Both involve the administration applying pressure through a mechanism that may be legally blocked (firing a Fed governor, demanding voter SSNs) while the politically significant damage accumulates regardless: 17 states already complied, and Powell's authority is already compromised whether or not he is formally removed."
+        }
+      ]
+    },
+    {
+      "id": "us-withdrawal-vacuum",
+      "title": "The US Is Vacating Leadership Positions It Claimed for 80 Years. Nobody Has Replaced It.",
+      "description": "The NATO story and the Sanders/UAW labor story are usually covered as entirely separate domains, military alliance and domestic economics. But both are about the same structural shift: the US declining a leadership role that other institutions cannot readily fill. Trump rejected NATO's offer to protect Hormuz shipping; the UK and France stepped in but lack the capacity to do what the US does. Sanders and Fain identified AI labor displacement as the defining economic policy challenge; Congress has no bill, no hearing schedule, and no administration champion to address it. In one case, allies are trying to build a substitute and probably cannot. In the other, no substitute is forming at all.",
+      "type": "tension-cluster",
+      "stories": ["trump-nato-paper-tiger", "sanders-uaw-ai-jobs"],
+      "connections": [
+        {
+          "from": "trump-nato-paper-tiger",
+          "to": "sanders-uaw-ai-jobs",
+          "relationship": "Both stories are about the vacuum created when the US declines a leadership position: the NATO story shows allies scrambling to fill a security gap; the AI labor story shows no actor filling the policy gap, because unlike European navies, labor unions and progressive senators do not have the institutional capacity to substitute for federal policy."
+        }
+      ]
+    }
   ]
 }

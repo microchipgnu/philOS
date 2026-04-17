@@ -1,0 +1,106 @@
+{
+  "id": "ieepa-refunds-new-tariffs",
+  "date": "2026-04-17",
+  "generatedAt": "2026-04-17T22:30:00Z",
+  "title": "The Government Is Refunding $127 Billion in Tariffs. It Plans to Collect Them Again by July.",
+  "subtitle": "The Supreme Court said IEEPA tariffs were illegal. CBP opens a refund portal on April 20. Treasury Secretary Bessent says replacement tariffs will be back at roughly the same levels by summer.",
+  "topic": "economy",
+  "category": "decision",
+  "tags": ["tariffs", "IEEPA", "SCOTUS", "trade", "Section 301", "Bessent"],
+  "coverImage": {
+    "url": "https://th-i.thgim.com/public/incoming/cl5pp5/article70874435.ece/alternates/LANDSCAPE_1200/2026-04-17T100044Z_823636444_RC2RPDA46VS7_RTRMADP_3_USA-TRUMP-TARIFFS-REFUNDS.JPG",
+    "local": "/images/reports/2026-04-17/ieepa-tariff-refunds.jpg",
+    "credit": "The Hindu / Reuters"
+  },
+  "sources": [
+    {
+      "url": "https://govtransparencyproject.org/articles/ieepa-scotus-ruling-section-122-trade-framework-2026.html",
+      "publisher": "Gov Transparency Project",
+      "angle": "Detailed legal breakdown of the 6-3 February 20 ruling in Learning Resources v. Trump; the court found IEEPA does not grant tariff authority; pivots to 150-day Section 122 as interim bridge"
+    },
+    {
+      "url": "https://www.scotusblog.com/2026/02/supreme-court-strikes-down-tariffs",
+      "publisher": "SCOTUSblog",
+      "angle": "Primary sourcing on the ruling; notes the court did not address whether or how refunds should be issued; dissent focused on disruption to existing trade flows"
+    },
+    {
+      "url": "https://customsandinternationaltradelaw.com/2026/04/17/breaking-trade-news-ieepa-refunds-update-section-122-hearing-upcoming-301-tariffs/",
+      "publisher": "Customs and International Trade Law Blog",
+      "angle": "CBP has built the CAPE refund portal; Bessent confirmed July timeline for Section 301 replacement tariffs in a WSJ interview; Section 301 covers unfair trade practices, narrower than IEEPA"
+    },
+    {
+      "url": "https://www.ceoutlook.com/2026/04/17/tariff-refunds-are-coming/",
+      "publisher": "CEO Outlook",
+      "angle": "82 percent of IEEPA tariffs are eligible for electronic refund via the portal; consumer goods importers are the main beneficiaries, not end consumers; new tariffs coming anyway"
+    },
+    {
+      "url": "https://calchamberalert.com/2026/04/17/first-phase-of-tariff-refund-process-to-begin-on-april-20/",
+      "publisher": "CalChamber Alert",
+      "angle": "Process mechanics: importers who paid at the border are eligible, not downstream buyers; the CAPE portal in ACE opens April 20; businesses are being warned that new tariffs via other authority are imminent"
+    }
+  ],
+  "brief": {
+    "actors": ["Trump", "Bessent", "CBP", "SCOTUS", "importers"],
+    "whatHappened": "On February 20, the Supreme Court ruled 6-3 that Trump's sweeping tariffs imposed under the International Emergency Economic Powers Act of 1977 exceeded presidential authority, since tariffs are a form of taxation that requires congressional authorization. U.S. Customs and Border Protection confirmed this week that a refund portal will open April 20, with approximately $127 billion in tariffs eligible for repayment. About 82 percent of importers who paid under IEEPA can file electronically. Treasury Secretary Scott Bessent said on April 17 that replacement tariffs at roughly the same levels would be imposed under Section 301 of the Trade Act of 1974, which covers unfair trade practices, beginning as early as July 2026.",
+    "bottomLine": "The government is giving back $127 billion with one hand and preparing to take the same amount again with the other, this time using a legal authority that is harder to challenge. The refund is not a reversal of trade policy. It is a legal pivot.",
+    "hiddenBets": [
+      {
+        "assumption": "The Section 301 replacement tariffs will face the same legal challenge as IEEPA",
+        "whyItMightBeWrong": "Section 301 has a much longer track record of court-approved use; it specifically covers retaliation for unfair trade practices and has been upheld repeatedly since the 1970s. The SCOTUS ruling was narrow, targeted at IEEPA's emergency power claims. Section 301 sits on far firmer legal ground, meaning the administration's pivot may be durable."
+      },
+      {
+        "assumption": "Businesses will recalibrate supply chains now that the legal situation is clear",
+        "whyItMightBeWrong": "If Section 301 tariffs come back at the same levels in July, the window between the refund portal opening on April 20 and the new tariffs landing in July is roughly 10 weeks. That is not enough time to shift suppliers or renegotiate contracts. Businesses that relied on the SCOTUS ruling to commit to lower-cost sourcing will be caught again."
+      },
+      {
+        "assumption": "End consumers benefit from the refund",
+        "whyItMightBeWrong": "Only direct importers who paid tariffs at the border are eligible, not the downstream businesses or consumers who ultimately absorbed the costs through higher prices. The $127 billion flows back to importers, many of them large corporations, while the price increases paid by households are not recoverable."
+      }
+    ],
+    "realDisagreement": "The real fork is between two readings of what SCOTUS actually decided: either the court ruled that the president cannot use emergency powers to run trade policy without congressional approval, setting a genuine limit on executive authority, or the court ruled only on the specific IEEPA mechanism and left the broader project of executive trade control intact via other statutes. The first reading says this ruling matters structurally. The second says it was a technical course-correction that the administration has already routed around. Bessent's July timeline for Section 301 tariffs is the administration's answer: the second reading. The Polymarket market at 64.5% odds that courts will force refunds suggests the market was already pricing the first reading as not fully winning.",
+    "whatNoOneIsSaying": "Section 301 tariffs typically require a formal investigation finding of unfair trade practices, a public comment period, and a USTR determination. The administration has not announced any of those procedural steps, which means either they plan to run an expedited process or they plan to use a pre-existing Section 301 determination from the first Trump term and claim it justifies new action. Either way, the next legal challenge will arrive roughly when the new tariffs do.",
+    "whoPays": [
+      {
+        "who": "Small and mid-size importers who do not get refunds",
+        "how": "The 18 percent of IEEPA tariffs ineligible for electronic refund require paper claims with complex documentation; smaller importers with less customs expertise will lose that money simply from inability to navigate the portal",
+        "when": "Immediate; refund window opens April 20"
+      },
+      {
+        "who": "US businesses that locked in long-term supplier contracts expecting tariff relief",
+        "how": "Companies that renegotiated supply arrangements after the February SCOTUS ruling, expecting permanent tariff reduction, will face the same landed costs again in July under Section 301",
+        "when": "July 2026, when new tariffs are expected to take effect"
+      },
+      {
+        "who": "Trading partners who anticipated a genuine policy reversal",
+        "how": "Countries that were beginning to negotiate trade deals assuming SCOTUS had ended the tariff regime will realize the administration has simply changed the legal instrument without changing the policy; trust in US trade commitments degrades further",
+        "when": "Medium-term, accelerating through 2026 trade talks"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Section 301 lands cleanly, trade war continues",
+        "whatHappens": "The administration completes whatever procedural steps are needed to impose Section 301 tariffs by July. Courts uphold them given the statute's history. Businesses that collected refunds in May now face the same costs in July. The net effect for trade policy is zero change, but businesses have absorbed two rounds of disruption.",
+        "signal": "USTR announces a Section 301 investigation or invokes an existing determination before June"
+      },
+      {
+        "name": "Section 301 gets challenged and delayed",
+        "whatHappens": "A second wave of trade litigation challenges Section 301 procedural requirements, arguing the administration skipped mandatory steps. Courts issue a preliminary injunction delaying the new tariffs into late 2026. The summer window becomes a genuine period of lower tariffs. Imports surge. Trade deficit widens.",
+        "signal": "A major importer or trade association files a Section 301 challenge in the Court of International Trade before July"
+      },
+      {
+        "name": "Congress intervenes with new trade authority",
+        "whatHappens": "The legal instability triggers a bipartisan push for new trade legislation giving the president explicit tariff authority with congressional guardrails. Any such legislation creates a negotiated settlement between executive trade ambitions and judicial limits.",
+        "signal": "Senate Finance Committee announces hearings on a trade authority modernization bill"
+      }
+    ],
+    "whatWouldChange": "If Bessent's July Section 301 timeline slips to 2027 or beyond, the bottom line changes: then this would be a genuine tariff reduction, not a legal pivot. Watch the USTR announcement calendar.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Will the Court Force Trump to Refund Tariffs?",
+        "url": "https://polymarket.com/event/will-the-court-force-trump-to-refund-tariffs-2026-06-30",
+        "probability": 0.645
+      }
+    ]
+  }
+}

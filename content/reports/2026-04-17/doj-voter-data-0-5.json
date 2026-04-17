@@ -1,0 +1,101 @@
+{
+  "id": "doj-voter-data-0-5",
+  "date": "2026-04-17",
+  "generatedAt": "2026-04-17T22:30:00Z",
+  "title": "The DOJ Is 0 for 5 on Voter Data. It Has 25 Cases Left.",
+  "subtitle": "Courts keep rejecting the administration's demand for voter rolls. That does not explain why 17 Republican-led states handed over the data anyway.",
+  "topic": "politics",
+  "category": "power",
+  "tags": ["DOJ", "voter data", "elections", "immigration", "SAVE Act"],
+  "coverImage": {
+    "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/04/17/9260a82e-28ea-489e-a084-0a55969a9a79/thumbnail/1200x630/483e6a6f031048ff26ffd283b281815a/gettyimages-1229111438.jpg",
+    "local": "/images/reports/2026-04-17/doj-voter-data-0-5.jpg",
+    "credit": "CBS News / Getty Images"
+  },
+  "sources": [
+    {
+      "url": "https://elias.law/press-release/federal-court-dismisses-doj-voter-data-lawsuit-in-rhode-island-calling-doj-effort-a-fishing-expedition/",
+      "publisher": "Elias Law Group",
+      "angle": "Legal advocacy group representing intervenors; called the ruling the fifth rejection; judge used the phrase 'fishing expedition' to describe the DOJ's demands"
+    },
+    {
+      "url": "https://www.democracydocket.com/news-alerts/trump-doj-loses-again-now-0-for-5-on-voter-roll-cases-as-court-rejects-rhode-island-lawsuit/",
+      "publisher": "Democracy Docket",
+      "angle": "Tracks that DOJ demanded unredacted voter records including SSNs and dates of birth from every state; 17 Republican states complied without legal compulsion"
+    },
+    {
+      "url": "https://apnews.com/article/voter-data-doj-privacy-elections-rhode-island-c79e6f395f4b296ce91d3eeff172365a",
+      "publisher": "AP News",
+      "angle": "Straight news on the Rhode Island dismissal; Judge Mary S. McElroy's ruling; broader context on the administration's pattern"
+    },
+    {
+      "url": "https://newmediadetroit.com/michigan-secretary-of-state-accuses-trump-doj-of-trying-to-build-national-voter-list-files-court-response-refusing-to-hand-over-sensitive-data/",
+      "publisher": "New Media Detroit",
+      "angle": "Michigan Secretary of State Jocelyn Benson directly accused the DOJ of trying to build a national voter list; filed to shut down the suit entirely at the Sixth Circuit"
+    }
+  ],
+  "brief": {
+    "actors": ["DOJ", "Trump", "Benson", "DHS", "Republican states"],
+    "whatHappened": "On April 17, U.S. District Judge Mary S. McElroy dismissed the DOJ's lawsuit demanding unredacted voter registration records from Rhode Island, calling the effort a 'fishing expedition.' The ruling is the fifth consecutive federal court rejection of the administration's voter data demands, bringing the DOJ's record to 0-5 with 25 active cases still pending. The administration has sued every state that refused to hand over voter rolls containing Social Security numbers, dates of birth, and home addresses. Seventeen Republican-led states complied without being forced to by any court ruling.",
+    "bottomLine": "The DOJ is losing in court repeatedly, but it already got what it wanted from a third of the country: 17 red states handed over the data voluntarily, and those records are now inside a federal system that can be cross-referenced with immigration databases at DHS.",
+    "hiddenBets": [
+      {
+        "assumption": "Winning in court stops the administration's voter data project",
+        "whyItMightBeWrong": "The data from 17 compliant states already exists in federal hands. Courts can prevent the DOJ from getting more, but they cannot force deletion of what was already handed over. The national voter registry that Michigan's Secretary of State accused the administration of building may already exist for a third of the country."
+      },
+      {
+        "assumption": "The voter data demand is primarily about immigration enforcement",
+        "whyItMightBeWrong": "The administration said it was checking for noncitizen voters, a category that independent audits consistently find to be vanishingly rare. The data gathered, SSNs plus dates of birth plus addresses, is also the minimum needed to build a voter suppression targeting list. The stated use and the obvious use are different."
+      },
+      {
+        "assumption": "The 0-5 record means the DOJ strategy is failing",
+        "whyItMightBeWrong": "Each lawsuit took months to resolve. The 25 remaining cases will each take months more. In the meantime, DOJ is appealing the losses. The strategy does not need to win to achieve its purpose: it creates legal uncertainty that discourages some states from resisting, and it buys time for the data already held to be used."
+      }
+    ],
+    "realDisagreement": "The genuine fork: either this is primarily a legal fight about privacy and state authority that will eventually be resolved in the courts, or it is primarily an infrastructure-building project where litigation is just the acquisition mechanism and the outcomes are already irreversible for the states that cooperated. The first framing motivates continued legal defense as sufficient. The second says the litigation victory is hollow because the data infrastructure is already partially built. The second framing is harder to dismiss. The 17 states that complied cannot be made to un-comply by any ruling in the remaining cases.",
+    "whatNoOneIsSaying": "The SAVE Act, which would require proof of citizenship to register to vote, failed in the Senate and sits at 33.5% Polymarket odds to become law by December. The DOJ voter data project is the administrative substitute: instead of passing a law requiring citizenship documentation at registration, collect the data needed to challenge registrations retroactively. Courts blocking the lawsuits do not block the retroactive use of data already obtained.",
+    "whoPays": [
+      {
+        "who": "Naturalized citizens in Republican-led states",
+        "how": "Their SSNs, birthdates, and addresses are now in federal databases alongside immigration records; any administrative mismatch triggers a challengeable registration, even for citizens who went through full naturalization",
+        "when": "Ongoing; accelerates during any 2026 or 2028 voter registration period"
+      },
+      {
+        "who": "State election officials in blue states",
+        "how": "Each lawsuit costs state legal resources to defend and creates operational uncertainty about what data can and cannot be shared; even winning costs money and staff time that would otherwise go to running elections",
+        "when": "Immediate and ongoing through the 25 pending cases"
+      },
+      {
+        "who": "Voters whose data was handed over by compliant states without their consent",
+        "how": "No mechanism exists to notify voters their records were transmitted to federal agencies, and no right of deletion applies; the harm is invisible until it materializes as a registration challenge",
+        "when": "Slow-burn, manifesting at election time"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Courts hold the line, data sits unused",
+        "whatHappens": "DOJ loses most or all of the 25 remaining cases. Courts in the losing circuit courts issue injunctions preventing use of already-obtained data for voter roll challenges. The national registry project stalls. State compliance becomes politically untenable for any Republican governor facing reelection.",
+        "signal": "A circuit court issues an order requiring destruction or quarantine of already-transmitted voter data"
+      },
+      {
+        "name": "SAVE Act passes, renders cases moot",
+        "whatHappens": "The Senate passes some version of the SAVE Act, which creates a federal citizenship documentation requirement for registration. The DOJ drops the remaining 25 lawsuits because the legislation does the same work legally. The data already collected is folded into the new system without ever being audited.",
+        "signal": "Senate Republican leadership schedules a floor vote on the SAVE Act before the 2026 midterm filing deadlines"
+      },
+      {
+        "name": "Data used in 2026 midterm challenges",
+        "whatHappens": "DHS and DOJ use data from the 17 compliant states to flag registration records for challenge in key districts before the November 2026 elections. Thousands of voters receive challenge notices in the weeks before the election. Courts become overwhelmed with emergency injunction requests.",
+        "signal": "Any DHS or DOJ announcement of a 'voter roll maintenance initiative' or 'noncitizen registration audit' using federal data in the summer of 2026"
+      }
+    ],
+    "whatWouldChange": "The analysis would shift if courts ruled that data already transmitted must be destroyed and created an enforcement mechanism. Short of that, the 17-state compliance remains the permanent and operational part of this story, and the litigation record is secondary.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "SAVE Act becomes law by December 31, 2026?",
+        "url": "https://polymarket.com/event/save-act-becomes-law-by",
+        "probability": 0.335
+      }
+    ]
+  }
+}

@@ -107,5 +107,41 @@
       "category": "decision",
       "topic": "society"
     }
+    ,
+    {
+      "id": "trump-fires-powell-threat",
+      "title": "Trump Says He'll Fire Powell Even After the Chair Term Ends. The Market Is Betting He Won't.",
+      "subtitle": "Trump threatened to remove Powell not just as chair but as a Fed governor. Polymarket says 8.5% chance he actually does it by June. The gap between the threat and the market reveals the real bet.",
+      "category": "power",
+      "topic": "economy"
+    },
+    {
+      "id": "doj-voter-data-0-5",
+      "title": "The DOJ Is 0 for 5 on Voter Data. It Has 25 Cases Left.",
+      "subtitle": "Courts keep rejecting the administration's demand for voter rolls. That does not explain why 17 Republican-led states handed over the data anyway.",
+      "category": "power",
+      "topic": "politics"
+    },
+    {
+      "id": "ieepa-refunds-new-tariffs",
+      "title": "The Government Is Refunding $127 Billion in Tariffs. It Plans to Collect Them Again by July.",
+      "subtitle": "The Supreme Court said IEEPA tariffs were illegal. CBP opens a refund portal on April 20. Treasury Secretary Bessent says replacement tariffs will be back at roughly the same levels by summer.",
+      "category": "decision",
+      "topic": "economy"
+    },
+    {
+      "id": "trump-nato-paper-tiger",
+      "title": "After the Ceasefire, Trump Told NATO to Stay Away. The UK and France Launched Their Own Mission.",
+      "subtitle": "The Strait of Hormuz reopened. NATO offered help. Trump said no and called the alliance useless. Within hours, Starmer and Macron announced a multinational shipping protection mission without the US.",
+      "category": "power",
+      "topic": "geopolitics"
+    },
+    {
+      "id": "sanders-uaw-ai-jobs",
+      "title": "Sanders and the UAW Say AI Will Do to Factory Workers What NAFTA Did. They Are Probably Right.",
+      "subtitle": "Bernie Sanders and UAW President Shawn Fain held a Capitol Hill press conference warning that AI could wipe out 600,000 Midwest manufacturing jobs. Nobody in Congress is drafting a response.",
+      "category": "power",
+      "topic": "society"
+    }
   ]
 }
