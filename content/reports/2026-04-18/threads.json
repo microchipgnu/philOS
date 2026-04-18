@@ -16,25 +16,6 @@
       ]
     },
     {
-      "id": "war-chains-everything",
-      "title": "The Iran War Tax",
-      "description": "The Iran war appears in three of today's five briefs as a first-order or second-order constraint. It is blocking Fed rate cuts, driving the economic shock that makes the IMF warn of global recession, and creating the strategic context in which China's solar equipment threat becomes more credible as a negotiating lever. The war is not background noise; it is the price variable that is making every other decision harder. Policymakers in Washington, Brussels, and Beijing are all making consequential choices while the same military variable sits outside their control.",
-      "type": "dependency-web",
-      "stories": ["fed-war-inflation-trap", "china-solar-weapon", "nvidia-h200-china-deadlock"],
-      "connections": [
-        {
-          "from": "fed-war-inflation-trap",
-          "to": "china-solar-weapon",
-          "relationship": "The Iran war raises energy prices and tightens US monetary policy, which weakens US negotiating leverage in trade disputes with China by signaling economic vulnerability, reducing the cost to China of escalating solar equipment restrictions."
-        },
-        {
-          "from": "fed-war-inflation-trap",
-          "to": "nvidia-h200-china-deadlock",
-          "relationship": "BIS staff were diverted to Iran-related export enforcement beginning in late February 2026, according to reporting, directly contributing to the chip approval bottleneck that is blocking Nvidia H200 shipments."
-        }
-      ]
-    },
-    {
       "id": "ai-accountability-void",
       "title": "AI Decides, Nobody Answers",
       "description": "The EU AI Act brief and the tech layoffs brief are both, at bottom, about the same question: who is accountable when AI systems make consequential decisions about people? The AI Act was supposed to establish that accountability for high-risk systems in welfare, credit, and employment. It has not. Tech companies blaming AI for layoffs are using the same absence of accountability standards: there is no legal framework that requires them to prove AI caused the cut rather than merely justifying it. Both stories exist in the same regulatory void.",
@@ -45,6 +26,44 @@
           "from": "eu-ai-act-enforcement-gap",
           "to": "tech-layoffs-ai-displacement",
           "relationship": "The EU AI Act's unenforced high-risk category includes employment screening and job decisions. The same enforcement gap that lets AI hiring systems run unaccountably also means AI-attributed layoffs face no documentation or verification requirement. Both operate in the same compliance-performance-without-accountability void."
+        }
+      ]
+    },
+    {
+      "id": "compliance-as-weapon",
+      "title": "When Compliance Is the Point",
+      "description": "Two stories today show the same political mechanism: formal compliance requirements used not to achieve the stated goal but to inflict costs on a political opponent. The Trump administration approved Minnesota's Medicaid corrective plan and kept withholding funding anyway; the stated justification evaporated when the stated problem was solved. The Pentagon designated Anthropic a supply-chain risk under a national security statute and then watched civilian agencies route around the designation to access Mythos. In both cases, the compliance mechanism outlasts its justification because the mechanism is the point. Compliance theater produces real financial and operational consequences even after the performance ends.",
+      "type": "tension-cluster",
+      "stories": ["medicaid-fraud-blue-state-targeting", "anthropic-mythos-pentagon"],
+      "connections": [
+        {
+          "from": "medicaid-fraud-blue-state-targeting",
+          "to": "anthropic-mythos-pentagon",
+          "relationship": "Both cases show a federal actor using a formal legal designation to apply pressure beyond what the law requires: CMS continues withholding funds after compliance is achieved; the Pentagon blacklist continues while civilian agencies build parallel access. The designation persists because removing it would admit the original purpose was not what was stated."
+        }
+      ]
+    },
+    {
+      "id": "war-chains-everything",
+      "title": "The Iran War Tax",
+      "description": "The Iran war appears in three of today's five briefs as a first-order or second-order constraint. It is blocking Fed rate cuts, driving the economic shock that makes the IMF warn of global recession, and creating the strategic context in which China's solar equipment threat becomes more credible as a negotiating lever. The war is not background noise; it is the price variable that is making every other decision harder. Policymakers in Washington, Brussels, and Beijing are all making consequential choices while the same military variable sits outside their control.",
+      "type": "dependency-web",
+      "stories": ["fed-war-inflation-trap", "china-solar-weapon", "nvidia-h200-china-deadlock", "jobs-recession-paradox"],
+      "connections": [
+        {
+          "from": "fed-war-inflation-trap",
+          "to": "china-solar-weapon",
+          "relationship": "The Iran war raises energy prices and tightens US monetary policy, which weakens US negotiating leverage in trade disputes with China by signaling economic vulnerability, reducing the cost to China of escalating solar equipment restrictions."
+        },
+        {
+          "from": "fed-war-inflation-trap",
+          "to": "nvidia-h200-china-deadlock",
+          "relationship": "BIS staff were diverted to Iran-related export enforcement beginning in late February 2026, according to reporting, directly contributing to the chip approval bottleneck that is blocking Nvidia H200 shipments."
+        },
+        {
+          "from": "jobs-recession-paradox",
+          "to": "fed-war-inflation-trap",
+          "relationship": "The March jobs surge is a lagging signal that predates the worst of the Iran energy shock; the Fed's refusal to cut rates until the conflict ends means the jobs number and the monetary response are decoupled, with the real economic stress hitting before any rate relief arrives."
         }
       ]
     }

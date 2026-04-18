@@ -61,6 +61,36 @@
       "title": "China's Green Weapon",
       "subtitle": "China is considering restricting solar panel equipment exports to the US. The US clean energy buildout depends almost entirely on Chinese-made manufacturing tools. Tesla, Google, and Amazon are directly exposed.",
       "category": "conflict"
+    },
+    {
+      "id": "anthropic-mythos-pentagon",
+      "title": "The Weapon Anthropic Won't Hand Over",
+      "subtitle": "The Pentagon blacklisted Anthropic for refusing to arm it. Now the White House wants Mythos anyway, but only through channels that exclude the military. The standoff has not ended. It has moved.",
+      "category": "conflict"
+    },
+    {
+      "id": "ukraine-istanbul-summit",
+      "title": "Zelenskyy Said Yes. Putin Said Nothing.",
+      "subtitle": "Ukraine publicly offered a four-way summit in Istanbul with Russia, Turkey, and the US. Russia's foreign minister said there are no concrete proposals on the table. Both statements are true, and the gap between them is where this war continues.",
+      "category": "conflict"
+    },
+    {
+      "id": "medicaid-work-requirements-hospitals",
+      "title": "446 Hospitals Facing Closure Didn't Vote for This",
+      "subtitle": "The One Big Beautiful Bill's Medicaid work requirements kick in January 2027. A new analysis finds 446 hospitals in 44 states face elevated closure risk. The cuts are not designed to fix Medicaid. They are designed to end it.",
+      "category": "decision"
+    },
+    {
+      "id": "jobs-recession-paradox",
+      "title": "178,000 Jobs and a Recession Incoming",
+      "subtitle": "March added three times more jobs than anyone expected. Economists say a recession is coming anyway. Both are true, and what reconciles them is the part nobody wants to explain.",
+      "category": "decision"
+    },
+    {
+      "id": "medicaid-fraud-blue-state-targeting",
+      "title": "Fraud Is the Pretext. The Map Tells You the Truth.",
+      "subtitle": "Trump says he's cracking down on Medicaid fraud. The enforcement actions are concentrated in blue states. Minnesota fixed the problem CMS cited and lost the funding anyway. The pattern is not about fraud.",
+      "category": "power"
     }
   ]
 }
