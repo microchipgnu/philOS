@@ -1,0 +1,36 @@
+{
+  "date": "2026-04-18",
+  "generatedAt": "2026-04-18T08:00:00Z",
+  "reports": [
+    {
+      "id": "hormuz-blockade-iran-deal",
+      "title": "The Strait That Won't Stay Open",
+      "subtitle": "Iran says the Strait of Hormuz is open. The US Navy says it is blockading Iranian ports. Both statements are true, and that gap is where the war continues.",
+      "category": "conflict"
+    },
+    {
+      "id": "trump-fires-powell-fed",
+      "title": "Trump's Last Move on the Fed",
+      "subtitle": "Powell's term ends May 15. Trump says he will fire him if he stays on. Markets are pricing a 78% chance Powell is gone by June 30. What they are not pricing is what comes after.",
+      "category": "power"
+    },
+    {
+      "id": "scotus-tariff-refunds",
+      "title": "The $127 Billion Refund Nobody Will Receive",
+      "subtitle": "The Supreme Court struck down Trump's IEEPA tariffs. Starting April 20, companies can apply for refunds. Most will not get them. Trump already has a backup plan.",
+      "category": "power"
+    },
+    {
+      "id": "state-ai-regulation-patchwork",
+      "title": "Fifty Labs, No Standards",
+      "subtitle": "Trump wants a single federal AI law and no state interference. States are passing over 1,500 AI bills anyway. The result is not regulation. It is noise.",
+      "category": "power"
+    },
+    {
+      "id": "australia-social-media-ban-fails",
+      "title": "The Ban That Made VPNs Mandatory",
+      "subtitle": "Australia banned social media for under-16s in December. Four months later, 61% of affected teens still have access. Now the UK and US are considering the same approach.",
+      "category": "decision"
+    }
+  ]
+}

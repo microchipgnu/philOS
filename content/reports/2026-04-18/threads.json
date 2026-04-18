@@ -1,0 +1,57 @@
+{
+  "date": "2026-04-18",
+  "threads": [
+    {
+      "id": "executive-power-without-authority",
+      "title": "Acting Without Authorization",
+      "description": "Three stories today share the same underlying structure: the executive branch taking or attempting major actions that courts, precedent, or statute say it cannot. The SCOTUS tariff ruling, Trump's threat to fire Powell, and the Iran blockade without a formal war declaration are all instances of the same pattern. In each case, the administration's response to legal constraint is not to seek authorization but to find a workaround. The IEEPA ruling produced a Section 232 backup. The Fed independence problem produced a DOJ probe as a pressure tool. The lack of a war powers resolution produced an undeclared naval blockade. The pattern is more significant than any single case.",
+      "type": "tension-cluster",
+      "stories": ["scotus-tariff-refunds", "trump-fires-powell-fed", "hormuz-blockade-iran-deal"],
+      "connections": [
+        {
+          "from": "scotus-tariff-refunds",
+          "to": "trump-fires-powell-fed",
+          "relationship": "The Supreme Court's willingness to strike down IEEPA tariffs signals the same legal logic could apply to removing Fed governors; the administration is stress-testing how much the judiciary will tolerate before trying the firing move."
+        },
+        {
+          "from": "hormuz-blockade-iran-deal",
+          "to": "scotus-tariff-refunds",
+          "relationship": "The Iran blockade is operating without a formal war declaration or congressional authorization, mirroring the IEEPA approach: use existing emergency-adjacent law to take actions that require new authority, and dare the courts to stop it while the action is already underway."
+        },
+        {
+          "from": "trump-fires-powell-fed",
+          "to": "hormuz-blockade-iran-deal",
+          "relationship": "Oil price shocks from the Iran war are the proximate cause of the Fed's current inflation problem, which is the substantive justification Powell gives for not cutting rates, which is the substantive grievance Trump uses to build the case for firing him. The Iran war is what makes the Fed fight urgent rather than abstract."
+        }
+      ]
+    },
+    {
+      "id": "war-creates-its-own-facts",
+      "title": "War as Policy Override",
+      "description": "The Iran conflict is not just a foreign policy story. It is generating domestic policy outcomes that would not exist without it: European arms shipments delayed, Russian oil sanctions waived, the Fed's monetary policy hemmed in by an oil shock it did not cause and cannot fix. Operation Epic Fury is the most significant driver of economic and political instability in the US this month, but it is being analyzed in foreign policy terms while its domestic consequences accumulate quietly.",
+      "type": "cause-effect",
+      "stories": ["hormuz-blockade-iran-deal", "trump-fires-powell-fed"],
+      "connections": [
+        {
+          "from": "hormuz-blockade-iran-deal",
+          "to": "trump-fires-powell-fed",
+          "relationship": "The Iran war's Hormuz oil shock raised inflation expectations, which backed Powell into a hold position on rates, which triggered Trump's firing threat. The Fed conflict has an external cause that neither Trump nor Powell is publicly acknowledging."
+        }
+      ]
+    },
+    {
+      "id": "failed-controls-stronger-controls",
+      "title": "When Failure Justifies Escalation",
+      "description": "Australia's social media ban demonstrably failed on its own terms, with 61% of affected teens still online. The political response in the UK and US is not to examine whether the ban approach works, but to design more invasive versions of the same approach. The US OS-level age verification bill would build surveillance infrastructure under the cover of a policy whose predecessor failed. This pattern, where a failed blunt intervention produces a more invasive follow-on rather than a rethink, connects the social media story to the broader dynamic in the tariff story: the SCOTUS struck down IEEPA tariffs, so the administration reaches for more aggressive statutory instruments. Failure produces escalation, not recalibration.",
+      "type": "cause-effect",
+      "stories": ["australia-social-media-ban-fails", "scotus-tariff-refunds"],
+      "connections": [
+        {
+          "from": "australia-social-media-ban-fails",
+          "to": "scotus-tariff-refunds",
+          "relationship": "Both stories show the same political logic: when a blunt instrument is struck down or fails empirically, the response is to find a stronger instrument rather than reconsider the goal. Australia's failed ban is producing an OS-level US bill; the struck-down IEEPA tariffs produced a Section 232 backup. The underlying drive for control survives the specific tool."
+        }
+      ]
+    }
+  ]
+}

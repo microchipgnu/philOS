@@ -1,0 +1,119 @@
+{
+  "id": "trump-fires-powell-fed",
+  "date": "2026-04-18",
+  "generatedAt": "2026-04-18T08:00:00Z",
+  "title": "Trump's Last Move on the Fed",
+  "subtitle": "Powell's term ends May 15. Trump says he will fire him if he stays on. Markets are pricing a 78% chance Powell is gone by June 30. What they are not pricing is what comes after.",
+  "topic": "economy",
+  "category": "power",
+  "tags": ["Fed", "Powell", "Warsh", "Trump", "central bank", "interest rates"],
+  "coverImage": {
+    "url": "https://dims.apnews.com/dims4/default/b99a7e0/2147483647/strip/true/crop/6000x3998+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F9f%2F2a%2Fa697c1258d3732cd3a02d2b264ef%2Fffd5336f530c442db1bf23feb28958f1",
+    "local": "/images/reports/2026-04-18/trump-fires-powell-fed.jpg",
+    "credit": "AP Photo / Julia Demaree Nikhinson"
+  },
+  "sources": [
+    {
+      "url": "https://apnews.com/article/federal-reserve-jerome-powell-trump-16f1777a974cf0dece60d78abe4eb973",
+      "publisher": "AP News",
+      "angle": "Federal prosecutors made an unannounced visit to the Fed's construction site as Trump threatened to fire Powell. Treats the DOJ probe as a pressure instrument, not a genuine investigation."
+    },
+    {
+      "url": "http://edition.cnn.com/2026/04/15/economy/powell-trump-fire-fed-chair",
+      "publisher": "CNN",
+      "angle": "Trump explicitly threatens to fire Powell if he does not step aside after his chair term expires May 15. Powell plans to remain as a Fed governor, which is a separate role with a longer term."
+    },
+    {
+      "url": "https://www.foreignpolicyjournal.com/2026/04/14/jerome-powells-final-month-at-the-fed-arrives-amid-iran-pressure-kevin-warsh-confirmation-chaos/",
+      "publisher": "Foreign Policy Journal",
+      "angle": "Warsh nomination is in disarray: an ongoing probe related to his private equity dealings is complicating confirmation. The Fed faces its April 28-29 rate decision with maximum political pressure."
+    },
+    {
+      "url": "https://www.cnbc.com/2026/04/15/trump-threatens-to-fire-powell-if-the-fed-chair-doesnt-leave-office-on-his-own.html",
+      "publisher": "CNBC",
+      "angle": "Trump doubles down: if Warsh is confirmed, Powell must leave entirely, not just step down from the chair role. The governor seat is the new battleground."
+    },
+    {
+      "url": "https://www.bbc.com/news/articles/c9qddrdd8w2o",
+      "publisher": "BBC News",
+      "angle": "Focuses on the legal question: can Trump fire a Fed governor? The Supreme Court's Humphrey's Executor precedent generally says no for independent agencies, but the current Court has been rewriting those rules."
+    }
+  ],
+  "brief": {
+    "actors": ["Trump", "Powell", "Warsh", "Fed", "SCOTUS"],
+    "whatHappened": "Jerome Powell's term as Federal Reserve chair expires May 15, 2026. He has stated he will remain on the Fed's Board of Governors, whose terms run independently until 2028. Trump has nominated Kevin Warsh as his replacement, but Warsh's confirmation has been delayed by an ongoing DOJ probe into his private equity dealings. Trump on April 15 explicitly threatened to fire Powell not just from the chair but from the board entirely if he does not leave voluntarily. Federal prosecutors made an unannounced visit to a Fed construction site, which observers read as a pressure tactic. The Fed faces a rate decision on April 28-29 that Powell will run, with inflation elevated by oil shocks from the Iran conflict and Trump demanding cuts.",
+    "bottomLine": "Trump has turned the Fed chair succession into a hostage situation: either Powell leaves cleanly, or Trump tests whether he can fire a sitting Fed governor, which would force a constitutional confrontation he may not win but would cost the institution regardless.",
+    "hiddenBets": [
+      {
+        "assumption": "Warsh will be confirmed and will cut rates as Trump wants",
+        "whyItMightBeWrong": "Warsh's own academic record is hawkish on inflation. He dissented in favor of tighter policy in 2010-2011. There is no guarantee that replacing Powell with Warsh produces the rate cuts Trump wants. Warsh might read an oil-shock economy the same way Powell does. Trump may be trading a legal battle now for a policy disappointment later."
+      },
+      {
+        "assumption": "The Fed's independence is protected by law",
+        "whyItMightBeWrong": "The current Supreme Court has already narrowed Humphrey's Executor, the 1935 precedent protecting independent agency officials from removal. The Trump administration knows this and may view firing Powell as a case it could actually win. Markets are treating Fed independence as intact. That assumption should be watched closely after May 15."
+      },
+      {
+        "assumption": "This is primarily about interest rates",
+        "whyItMightBeWrong": "The DOJ probe into the Fed's headquarters renovation and the unannounced prosecutor visit suggest a secondary goal: making the Fed look corrupt enough to justify political control as a matter of accountability, not just policy. The rate argument is the public narrative. The structural capture of the Fed may be the actual goal."
+      }
+    ],
+    "realDisagreement": "The core tension is between two things that both seem true: central bank independence is a genuine institutional good that reduces long-term inflation and borrowing costs, and the Fed is in fact unaccountable to voters in ways that can enable policy errors with massive distributional consequences. Trump is exploiting the second point to destroy the first. The question is whether the value of independence is worth defending even when the Fed gets things wrong. I lean yes, because the alternative is a Fed that cuts whenever the president demands it, which has a clear historical record of ending badly. But the people paying elevated mortgage rates right now are not wrong to notice that the Fed's 'independence' has not been neutral in its effects."
+    ,
+    "whatNoOneIsSaying": "The DOJ investigation into Powell has the structure of a mob shakedown: it does not need to produce charges to achieve its goal. Every week the probe continues is a week of reputational damage that either induces Powell to leave or poisons his effectiveness. The administration does not need to win in court to win.",
+    "whoPays": [
+      {
+        "who": "Treasury bond holders and mortgage borrowers",
+        "how": "If markets price in Fed politicization, long-term interest rates rise as a risk premium even if the Fed cuts short-term rates. Mortgage rates could increase while the Fed is nominally easing.",
+        "when": "The premium begins accumulating now. If Trump fires Powell, expect immediate spike in 10-year yields."
+      },
+      {
+        "who": "Warsh himself",
+        "how": "If confirmed under these conditions, Warsh inherits an institution whose independence is in public question. Every rate decision he makes will be read as politically motivated regardless of its merit. His career ends as either Trump's pawn or as the man who failed to deliver the cuts Trump wanted.",
+        "when": "From confirmation forward."
+      },
+      {
+        "who": "Small businesses and consumers with variable-rate debt",
+        "how": "Rate uncertainty in both directions, and the oil shock from Iran, creates a monetary policy environment where the correct move is unclear. The cost of that uncertainty is not borne equally.",
+        "when": "Already underway through elevated borrowing costs."
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Clean succession",
+        "whatHappens": "Warsh is confirmed before May 15. Powell steps down from the board quietly. Warsh runs the April 28 meeting, signals gradual rate cuts. Markets rally. The legal confrontation is avoided.",
+        "signal": "Senate Judiciary Committee schedules Warsh confirmation hearing and the DOJ probe is quietly dropped or its scope narrowed."
+      },
+      {
+        "name": "Firing test",
+        "whatHappens": "Powell remains on the board after May 15. Trump fires him by executive order. Powell sues. The case goes to the Supreme Court on an emergency basis. Markets price maximum uncertainty.",
+        "signal": "Powell publicly announces he will remain as governor after May 15 and will not resign voluntarily."
+      },
+      {
+        "name": "Slow squeeze",
+        "whatHappens": "Warsh confirmation drags past May 15. Powell runs the April 28 meeting and holds rates steady. Trump attacks him publicly. The DOJ probe escalates. Powell's board effectiveness erodes through political pressure without a formal firing. He resigns by July.",
+        "signal": "No confirmation vote scheduled by May 10. Fed meeting happens with Powell still in chair. Trump's post-meeting statement is hostile."
+      }
+    ],
+    "whatWouldChange": "If the Supreme Court issued a clear ruling that sitting Fed governors cannot be removed except for cause, and Warsh turned out to be hawkish once confirmed, the bottom line about structural capture as the real goal would need revision. If Warsh cuts aggressively and the economy improves, Trump gets his policy win without institutional damage. But neither of those outcomes is the current trajectory.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Will Jerome Powell depart as Fed Chair by May 16 2026?",
+        "url": "https://polymarket.com/event/jerome-powell-departs-as-fed-chair-by",
+        "probability": 0.14
+      },
+      {
+        "platform": "Polymarket",
+        "question": "Will Jerome Powell depart as Fed Chair by June 30 2026?",
+        "url": "https://polymarket.com/event/jerome-powell-departs-as-fed-chair-by",
+        "probability": 0.88
+      },
+      {
+        "platform": "Polymarket",
+        "question": "Will Trump try to fire Powell as Fed Board Member by June 30, 2026?",
+        "url": "https://polymarket.com/event/will-trump-try-to-fire-powell-as-fed-board-member-by",
+        "probability": 0.09
+      }
+    ]
+  }
+}

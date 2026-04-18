@@ -1,0 +1,99 @@
+{
+  "id": "scotus-tariff-refunds",
+  "date": "2026-04-18",
+  "generatedAt": "2026-04-18T08:00:00Z",
+  "title": "The $127 Billion Refund Nobody Will Receive",
+  "subtitle": "The Supreme Court struck down Trump's IEEPA tariffs. Starting April 20, companies can apply for refunds. Most will not get them. Trump already has a backup plan.",
+  "topic": "politics",
+  "category": "power",
+  "tags": ["SCOTUS", "tariffs", "IEEPA", "Trump", "trade", "refunds"],
+  "coverImage": {
+    "url": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/04/no0417trump.jpg",
+    "local": "/images/reports/2026-04-18/scotus-tariff-refunds.jpg",
+    "credit": "Financial Post / Getty Images"
+  },
+  "sources": [
+    {
+      "url": "https://financialpost.com/news/economy/companies-hit-trump-illegal-tariffs-apply-refunds",
+      "publisher": "Financial Post",
+      "angle": "Starting April 20, companies can apply for refunds. The process is administratively designed to be difficult, and experts note that downstream consumers who actually paid the cost in higher prices will get nothing."
+    },
+    {
+      "url": "https://awesomecapital.blogspot.com/2026/02/supreme-court-strikes-down-trump.html",
+      "publisher": "AwesomeCapital",
+      "angle": "The 6-3 ruling explicitly states IEEPA does not authorize tariffs. Kavanaugh, Thomas, and Alito dissented. Trump's immediate response: 'backup plan' involving Section 232 and other trade statutes."
+    },
+    {
+      "url": "https://customsandinternationaltradelaw.com/2026/04/15/ieepa-tariff-refund-updates/",
+      "publisher": "Customs & International Trade Law Blog",
+      "angle": "Refunds are not automatic. Importers must file claims affirmatively, face a bureaucratic process at the Court of International Trade, and navigate the gap between who paid the tariff and who bore the economic cost."
+    },
+    {
+      "url": "https://www.kcra.com/article/trump-tariff-refund-portal/71039199",
+      "publisher": "KCRA / AP",
+      "angle": "Explains why consumers will not get refunds even though they absorbed the costs through higher prices. The refund mechanism only reaches importers who paid duties directly."
+    },
+    {
+      "url": "https://www.agri-pulse.com/articles/24537-as-tariff-refund-process-gets-underway-dems-preview-new-attacks",
+      "publisher": "Agri-Pulse",
+      "angle": "Democrats preview attacks on the refund process design, arguing the administration has engineered a system that makes it hard to claim refunds while maintaining the 10% baseline tariff through alternate statutory authority."
+    }
+  ],
+  "brief": {
+    "actors": ["Trump", "SCOTUS", "Congress", "US importers"],
+    "whatHappened": "The Supreme Court ruled 6-3 in February 2026 that Trump's broad use of the International Emergency Economic Powers Act to impose tariffs was unlawful. IEEPA, a 1977 law for emergency sanctions, does not authorize tariffs, the majority held. Starting April 20, a refund portal opens at the Court of International Trade through which US importers can apply for refunds on the roughly $127 billion in duties collected. The process is not automatic: companies must file affirmatively, prove their specific imports, and navigate a system that the Trump administration has designed with significant friction. Trump has simultaneously announced a 'backup plan': a 10% baseline tariff imposed through Section 232 and other statutory authorities not struck down by the ruling.",
+    "bottomLine": "The SCOTUS ruling is real but hollow: consumers paid the tariff costs through higher prices and will get nothing; most importers will navigate a hostile refund bureaucracy and recover a fraction; and Trump has already rebuilt the tariff wall using different legal tools.",
+    "hiddenBets": [
+      {
+        "assumption": "The refund process is designed to return money to those who paid",
+        "whyItMightBeWrong": "The refund system reaches importers who paid duties, not the downstream businesses and consumers who absorbed the costs through higher prices. The economic incidence of the tariff fell primarily on American consumers and small businesses. The legal refund mechanism is architecturally incapable of reaching them."
+      },
+      {
+        "assumption": "The SCOTUS ruling constrains Trump's tariff authority going forward",
+        "whyItMightBeWrong": "The ruling struck down IEEPA-based tariffs specifically. Section 232 (national security), Section 301 (unfair trade practices), and other authorities were not affected. Trump's backup plan is already operational. The practical effect on trade policy is limited to the specific IEEPA instruments."
+      },
+      {
+        "assumption": "This is a loss for Trump",
+        "whyItMightBeWrong": "Trump gets to keep the 10% baseline tariff he most cared about. The IEEPA ruling eliminated the broadest and most legally exposed tariffs while leaving the core tariff structure intact. The administration may have calculated this outcome was acceptable."
+      }
+    ],
+    "realDisagreement": "The real fork is between rule of law and economic outcomes. The Court was right that IEEPA does not authorize tariffs: the text is clear, and executive agencies should not be able to manufacture emergency powers from statutes that do not grant them. But the practical result is that importers who passed costs to consumers get refunds while consumers get nothing, and Trump's tariff policy continues through different legal instruments. The rule of law win is real but does not undo the economic harm. I lean toward the Court having done the right thing regardless, because the alternative is a world where any statute can be weaponized for any purpose a president labels an emergency. But the people who paid higher prices for Chinese goods for two years are correct that the ruling does not help them.",
+    "whatNoOneIsSaying": "The refund portal is a political embarrassment designed to minimize actual payouts. The administration controls the administrative machinery that processes claims. Every friction point in the refund process represents political choices about how much of the $127 billion actually leaves the Treasury. Congress has no ability to audit this in real time.",
+    "whoPays": [
+      {
+        "who": "American consumers who bought imported goods 2025-2026",
+        "how": "They absorbed an average 2-4% price increase on affected goods through supply chain pass-through. They will receive nothing from the refund process, which only reaches importers.",
+        "when": "Cost already paid. No refund pathway."
+      },
+      {
+        "who": "Small importers without legal infrastructure",
+        "how": "The refund process requires proactive claims with documentation. Large companies with trade lawyers will recover. Small importers who paid the tariff but lack resources to navigate the CIT process will not.",
+        "when": "Portal opens April 20. Claims period will likely run 90 days."
+      },
+      {
+        "who": "US companies competing with subsidized Chinese imports",
+        "how": "If Section 232 backup plan holds, the competitive protection they gained from the broader tariff regime partially survives. If courts also strike down Section 232 uses, they lose that protection.",
+        "when": "Depends on additional legal challenges, likely 12-18 months."
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Shell refund",
+        "whatHappens": "The portal processes a fraction of eligible claims. Large corporations with trade law infrastructure recover significant sums. The $127 billion figure is quoted repeatedly in headlines; the actual refund total is a single-digit percentage of that. Trump's backup 10% tariff remains in effect.",
+        "signal": "Refund portal launches April 20 with extensive documentation requirements and a 90-day window."
+      },
+      {
+        "name": "Legal cascade",
+        "whatHappens": "Courts strike down Section 232 national security tariffs on the same logic as IEEPA, reading the ruling broadly. The backup plan collapses. US trade policy faces a legal vacuum. Congress is forced to pass new trade legislation.",
+        "signal": "First circuit court applies the SCOTUS IEEPA logic to Section 232 cases within 60 days."
+      },
+      {
+        "name": "Congressional reinstatement",
+        "whatHappens": "Congress passes new trade legislation explicitly authorizing tariffs through language that satisfies the Court's textualist majority. Trump signs it. The tariff regime is re-legalized retroactively to limit further refund exposure.",
+        "signal": "House Ways and Means Committee schedules markup of emergency trade authority bill within 30 days."
+      }
+    ],
+    "whatWouldChange": "If the refund process pays out more than $20 billion within 6 months, or if courts strike down the Section 232 backup tariffs, the bottom line about the ruling being hollow would need revision. The current trajectory suggests neither happens.",
+    "markets": []
+  }
+}
