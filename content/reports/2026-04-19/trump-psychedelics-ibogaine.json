@@ -1,0 +1,101 @@
+{
+  "id": "trump-psychedelics-ibogaine",
+  "date": "2026-04-19",
+  "generatedAt": "2026-04-19T13:00:00Z",
+  "title": "Trump Signed an Executive Order for Psychedelics. The War on Drugs Is Still Running in the Same Building.",
+  "subtitle": "Ibogaine remains a Schedule I controlled substance. The executive order Trump signed with Joe Rogan in the room does not change that. What it does is create a path for veterans to get it before it is legal, without the protections that legality would provide.",
+  "topic": "society",
+  "category": "ethics",
+  "tags": ["psychedelics", "ibogaine", "FDA", "veterans", "PTSD", "RFK", "Trump", "drug policy"],
+  "coverImage": {
+    "url": "https://www.reuters.com/resizer/v2/KW5BZJTJ4VMXPHIA5XYSYIU44E.jpg?auth=3d4544f2a9174dca0d109cf8ee52b",
+    "local": "/images/reports/2026-04-19/trump-psychedelics-ibogaine.jpg",
+    "credit": "Reuters"
+  },
+  "sources": [
+    {
+      "url": "https://www.cbsnews.com/news/trump-administration-executive-order-psychedelic-drug-ibogaine/",
+      "publisher": "CBS News",
+      "angle": "Straight news on the signing: $50 million federal investment, Right To Try pathway for ibogaine for critically ill patients, FDA commissioner Makary's announcement of three psychedelics added to the National Priority Voucher pilot program."
+    },
+    {
+      "url": "https://www.cnn.com/2026/04/18/politics/trump-signs-executive-order-urging-more-research-into-psychedelic-ibogaine",
+      "publisher": "CNN",
+      "angle": "Political framing: emphasizes the optics of Joe Rogan's presence and Trump's quip that he wanted to try it himself. Notes ibogaine is used in Mexico and other countries and is linked to cardiac risks."
+    },
+    {
+      "url": "https://petrieflom.law.harvard.edu/2026/04/18/a-new-executive-order-on-psychedelics-q-a-with-i-glenn-cohen-and-mason-marks/",
+      "publisher": "Harvard Petrie-Flom Center",
+      "angle": "Legal analysis: professors I. Glenn Cohen and Mason Marks explain that the EO is aspirational, not operative. FDA review timelines are not changed by executive order. The Right To Try pathway for critically ill patients exists but requires a terminal prognosis or serious unmet need. Schedule I status remains."
+    },
+    {
+      "url": "https://www.reuters.com/world/trump-announces-reforms-accelerate-access-psychedelic-drug-treatments-2026-04-18/",
+      "publisher": "Reuters",
+      "angle": "Policy mechanics: the order tells the FDA to issue new guidance for clinical trials and 'accelerate' its work, with officials indicating a path for reclassification if clinical trials succeed. Presents this as substantive FDA policy direction."
+    }
+  ],
+  "brief": {
+    "actors": ["Trump", "FDA", "RFK", "DEA", "Veterans"],
+    "whatHappened": "On April 18, President Trump signed an executive order directing the FDA to accelerate its review of certain psychedelic drugs, including ibogaine, psilocybin, and MDMA, for the treatment of PTSD, traumatic brain injury, and depression, with particular emphasis on veterans. Health and Human Services Secretary Robert F. Kennedy Jr. and podcaster Joe Rogan were present at the signing. The order commits $50 million in federal research funding for ibogaine, opens a Right To Try pathway allowing critically ill patients to access ibogaine before full FDA approval, and adds three psychedelics to the National Priority Voucher pilot program. Ibogaine and the other substances named remain Schedule I controlled substances under federal law, meaning their manufacture, distribution, and possession remain federal crimes absent specific exemptions.",
+    "bottomLine": "The executive order is a political signal dressed as policy: it tells veterans with PTSD that relief is coming while leaving in place every structural barrier that prevents that relief from being legally available to them.",
+    "hiddenBets": [
+      {
+        "assumption": "An executive order directing the FDA to 'accelerate' review will meaningfully speed up drug approval timelines.",
+        "whyItMightBeWrong": "FDA drug approval timelines are driven by clinical trial design, safety data accumulation, and statutory requirements for demonstrated efficacy, not by presidential enthusiasm. The FDA previously rejected MDMA-assisted therapy for PTSD on safety grounds in 2024, finding the trial data insufficient. An EO cannot override a scientific finding, and ibogaine carries documented cardiac risks that will require substantial safety data before any approval."
+      },
+      {
+        "assumption": "The Right To Try pathway opens meaningful access for veterans.",
+        "whyItMightBeWrong": "Right To Try was designed for terminal patients with no other options. Applying it to veterans with PTSD requires a regulatory interpretation that PTSD constitutes a 'life-threatening' condition. That interpretation is legally contested and has not been finalized. Veterans using ibogaine under Right To Try would do so without the regulatory protections that accompany approved treatments, including liability frameworks for providers."
+      },
+      {
+        "assumption": "This represents a coherent shift in the administration's drug policy.",
+        "whyItMightBeWrong": "The same administration is actively enforcing Schedule I classification for other substances. DEA enforcement priorities have not changed. The administration has not proposed rescheduling any psychedelic. The EO exists in isolation from the broader drug enforcement apparatus, which reports to the same administration and follows the same laws."
+      }
+    ],
+    "realDisagreement": "The genuine tension is between two legitimate demands: veterans are dying by suicide at rates far above the general population, and the treatments that could help them are locked behind regulatory timelines that do not move at the speed of need. The counterweight is that ibogaine has killed people. It produces cardiac arrhythmias. Its safety profile in broader populations is genuinely unknown. The EO wants to resolve this tension by directing the FDA to move faster, but the FDA's slowness is not bureaucratic obstruction. It is the accumulation of evidence that ibogaine can kill if administered without proper cardiac monitoring. Accelerating access to a drug that can cause cardiac arrest in an unmonitored setting does not save veterans. It trades one form of harm for another. The honest answer is that the science needs to catch up to the political demand, and no executive order can make that happen faster.",
+    "whatNoOneIsSaying": "Joe Rogan's presence at the Oval Office signing is load-bearing. Ibogaine's strongest advocates are in the veteran community and the libertarian podcast ecosystem. They reached Trump through that network, not through FDA advisory boards or clinical trial data. The $50 million commitment and the Right To Try pathway are the policy that this network wanted. The clinical trial data that would actually justify those pathways does not yet exist, and the network does not particularly care. They are right that veterans need help. They are wrong that accelerated access without safety data is the same as help.",
+    "whoPays": [
+      {
+        "who": "Veterans who access ibogaine under Right To Try before cardiac monitoring standards are established",
+        "how": "Ibogaine prolongs the QT interval in cardiac tissue, which can trigger fatal arrhythmias. Overseas clinics administering ibogaine to veterans have reported deaths. Access without mandatory cardiac screening is access with elevated risk of death.",
+        "when": "Immediate: the Right To Try pathway creates access before safety protocols are finalized"
+      },
+      {
+        "who": "States that have moved toward psychedelic decriminalization",
+        "how": "The federal EO creates a parallel access track that does not require state-level decriminalization but also does not preempt state law. States that have built regulatory frameworks around psychedelic therapy centers face federal competition through Right To Try that bypasses their frameworks.",
+        "when": "Medium-term as Right To Try implementation develops"
+      },
+      {
+        "who": "The FDA's scientific review process",
+        "how": "When a president stands in the Oval Office and says 'Can I have some?' about a drug still under clinical review, he is communicating to the FDA that the political conclusion has already been reached. Scientific review conducted under that pressure is compromised review.",
+        "when": "Ongoing"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Slow science, fast politics",
+        "whatHappens": "The FDA issues guidance documents but the clinical trial timelines remain long. No ibogaine rescheduling occurs in 2026. A small number of veterans access ibogaine under Right To Try. The political win is taken; the policy change is minimal.",
+        "signal": "FDA issues guidance on ibogaine clinical trials but does not open a rescheduling review by end of 2026."
+      },
+      {
+        "name": "Safety event halts the push",
+        "whatHappens": "A veteran dies of a cardiac event during ibogaine treatment under the Right To Try pathway. The FDA pauses the program. The political coalition that backed the EO fractures, with veteran advocacy groups blaming the administration for moving too fast.",
+        "signal": "A reported ibogaine-related death under Right To Try conditions within six months of the EO."
+      },
+      {
+        "name": "Bipartisan momentum and rescheduling",
+        "whatHappens": "The $50 million funding produces new safety data. The DEA opens a formal scheduling review. Psilocybin or MDMA is rescheduled before ibogaine due to cleaner safety profiles. A bipartisan coalition in Congress passes a limited psychedelic therapy authorization bill.",
+        "signal": "DEA formally opens a scheduling review for psilocybin within 12 months of the EO."
+      }
+    ],
+    "whatWouldChange": "If ibogaine clinical trials produced rigorous evidence of efficacy and safety comparable to what MDMA trials produced before the FDA's 2024 rejection, the case for accelerated approval would be genuinely strong. The $50 million commitment could fund trials that reach that standard. The bottom line is not that the policy direction is wrong. It is that the direction has been announced before the evidence is ready to support it.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "FDA approves a psychedelic for medical use in 2026?",
+        "url": "https://polymarket.com/event/fda-approves-a-psychedelic-for-medical-use-in-2026",
+        "probability": 0.655
+      }
+    ]
+  }
+}

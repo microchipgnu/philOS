@@ -1,0 +1,98 @@
+{
+  "id": "jan6-conviction-erasure",
+  "date": "2026-04-19",
+  "generatedAt": "2026-04-19T12:55:00Z",
+  "title": "The DOJ Is Asking Courts to Erase the Jan. 6 Seditious Conspiracy Convictions. That Is Not Forgiveness. It Is Revision.",
+  "subtitle": "Jeanine Pirro's filing doesn't argue the defendants are innocent. It argues that erasing their convictions is 'in the interests of justice.' The two things are not the same, and the courts are being asked to pretend they are.",
+  "topic": "politics",
+  "category": "power",
+  "tags": ["Jan 6", "DOJ", "Trump", "Oath Keepers", "Proud Boys", "Pirro", "rule of law"],
+  "coverImage": {
+    "url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2256281053.jpg?c=16x9&q=w_800,c_fill",
+    "local": "/images/reports/2026-04-19/jan6-conviction-erasure.jpg",
+    "credit": "CNN / Getty Images"
+  },
+  "sources": [
+    {
+      "url": "https://www.npr.org/2026/04/15/g-s1-117473/justice-department-toss-seditious-conspiracy",
+      "publisher": "NPR",
+      "angle": "Factual account of the DOJ filing: who is affected, the distinction between pardons (which Trump issued) and conviction vacatur (which the filing seeks), and the restoration of gun rights as a concrete consequence."
+    },
+    {
+      "url": "https://edition.cnn.com/2026/04/14/politics/justice-department-vacate-seditious-conspiracy-convictions-proud-boys-oath-keepers",
+      "publisher": "CNN",
+      "angle": "Historical framing: treats the filing as the culmination of Trump's effort to rewrite Jan. 6, emphasizing that the Biden DOJ called these convictions a 'crucial victory' and that over 100 officers were injured in the attack."
+    },
+    {
+      "url": "https://www.thedailybeast.com/judge-jeanine-pirro-scrambles-to-kill-convictions-set-to-embarrass-donald-trump/",
+      "publisher": "The Daily Beast",
+      "angle": "Pirro's conflict of interest: as a Trump loyalist who now serves as DC US Attorney, she is personally motivated to ensure the convictions that could be used against Trump's narrative are eliminated. The filing is described as politically driven, not legally justified."
+    },
+    {
+      "url": "https://www.ms.now/news/justice-department-moves-to-erase-jan-6-convictions-of-oath-keepers-proud-boys-leaders",
+      "publisher": "MS NOW",
+      "angle": "Procedural specifics: the filing seeks dismissal with prejudice, meaning the charges cannot be brought again. Twelve defendants named. Stewart Rhodes is included."
+    },
+    {
+      "url": "https://www.spokesman.com/stories/2026/apr/19/some-nw-republicans-oppose-trump-administration-mo/",
+      "publisher": "The Spokesman-Review",
+      "angle": "Republican dissent: several GOP lawmakers from the Northwest publicly disagreed with vacating convictions for defendants who committed violence against police. Provides evidence that this is not a unified party position."
+    }
+  ],
+  "brief": {
+    "actors": ["Trump", "DOJ", "Pirro", "Oath Keepers", "Proud Boys", "SCOTUS"],
+    "whatHappened": "On April 14, U.S. Attorney for DC Jeanine Pirro filed a motion asking the DC Circuit Court of Appeals to vacate the seditious conspiracy convictions of 12 leaders from the Oath Keepers and Proud Boys extremist groups, who had received sentence commutations from Trump in January 2025 but whose convictions remained on their records. The filing argues that dismissal is 'in the interests of justice' without providing further legal reasoning. If granted, the move would restore the defendants' civil rights including the right to own firearms, erase their felony records, and permanently close the ability to retry the cases. Trump had earlier pardoned over 1,500 other January 6 defendants but stopped short of pardoning these specific leaders. Several Republican lawmakers from the Pacific Northwest publicly criticized the move, calling it inappropriate for those who committed violence against police officers.",
+    "bottomLine": "A conviction is a court's finding of fact. The DOJ is asking courts to erase a finding of fact not because the fact is wrong but because the president wants the fact to no longer exist. That is not prosecutorial discretion. It is historical erasure with legal paperwork.",
+    "hiddenBets": [
+      {
+        "assumption": "Prosecutors have broad discretion to drop charges, and this filing is normal exercise of that discretion.",
+        "whyItMightBeWrong": "Prosecutorial discretion is the power not to prosecute. These defendants were already prosecuted, convicted by juries, and sentenced. Seeking post-conviction vacatur is a different act. Courts routinely grant such motions when new evidence undermines the original conviction. No new exculpatory evidence exists here. The legal argument is pure assertion."
+      },
+      {
+        "assumption": "The filing will be approved because prosecutors have broad power over their own cases.",
+        "whyItMightBeWrong": "The DC Circuit is not obligated to grant vacatur simply because the government requests it after a jury conviction. Some judges on the circuit have already signaled skepticism about executive branch attempts to undo prior judgments. The motion could be denied, which would create an awkward situation for the Trump administration."
+      },
+      {
+        "assumption": "Erasing the convictions sends a signal to Trump supporters without affecting anyone else.",
+        "whyItMightBeWrong": "Restoring gun rights to the Oath Keepers and Proud Boys leadership is not symbolic. These are organizations that planned and executed a violent attack and were convicted of seditious conspiracy for doing so. Dismissal with prejudice means the finding can never be relitigated regardless of any future evidence."
+      }
+    ],
+    "realDisagreement": "The tension is between two legitimate principles: presidents have broad power over federal prosecutions, including the power to drop cases and grant clemency, and courts exist specifically as the institution that is not subject to executive reversal of their factual findings after jury verdict. Both principles are real. The Trump administration is betting that the first overrides the second. Critics argue that allowing an executive to retroactively vacate jury verdicts on the grounds of political preference destroys the second principle entirely. The distinction matters because it is the distinction between a justice system and an enforcement tool. You can disagree about which principle should govern without either side being wrong about the principle itself. The honest answer is that this case tests whether the system will hold that line, and the answer is not yet known.",
+    "whatNoOneIsSaying": "The timing serves Pirro's personal interests. As a former Trump loyalist who became DC's top federal prosecutor, her professional identity is bound to Trump's political identity. The Jan. 6 convictions are the most visible monument to the argument that January 6 was a criminal conspiracy. Erasing them is not just political cleanup for Trump. It is also professional cleanup for Pirro, who spent years as a public figure defending the man the convictions implicitly implicate.",
+    "whoPays": [
+      {
+        "who": "Police officers injured on January 6",
+        "how": "The convictions they testified to support, which legally established that a violent seditious conspiracy occurred, will be erased. Their testimony will no longer carry a legal finding attached to it. Civil suits based on the criminal conviction become harder to sustain.",
+        "when": "Immediate if the motion is granted"
+      },
+      {
+        "who": "Federal prosecutors who built the Jan. 6 cases",
+        "how": "Their work is being characterized by their own agency as contrary to the interests of justice, without any allegation of misconduct or error on their part. The institutional message to career prosecutors is that politically inconvenient work can be retroactively disclaimed.",
+        "when": "Immediate: the filing sends the message now regardless of court outcome"
+      },
+      {
+        "who": "Anyone who cooperated with or testified for the Jan. 6 prosecution",
+        "how": "Cooperating witnesses and informants relied on the durability of the criminal record they helped establish. If the government moves to erase convictions it previously secured, the institutional trustworthiness of future cooperation deals is damaged.",
+        "when": "Slow-burn effect on future cooperation in politically sensitive cases"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Court grants vacatur",
+        "whatHappens": "The DC Circuit approves the dismissal with prejudice. The convictions are erased. Stewart Rhodes and the Proud Boys leaders become citizens without felony records, eligible to own firearms. The legal record of a seditious conspiracy on January 6 is formally closed.",
+        "signal": "The DC Circuit issues an order granting the motion without requesting briefing or oral argument."
+      },
+      {
+        "name": "Court demands justification",
+        "whatHappens": "The DC Circuit orders briefing or oral argument, asking the government to provide substantive legal grounds for the vacatur beyond the assertion that it is 'in the interests of justice.' The government struggles to provide a non-political answer. The delay itself becomes a political liability.",
+        "signal": "The court issues an order requesting supplemental briefing before ruling."
+      },
+      {
+        "name": "Republican split widens",
+        "whatHappens": "The public criticism from Pacific Northwest Republicans grows into a broader intra-party debate about Jan. 6 revisionism. A handful of Senate Republicans attach conditions to an unrelated vote as a way of signaling disapproval without directly opposing Trump.",
+        "signal": "More than five Senate Republicans issue public statements criticizing the vacatur motion by name."
+      }
+    ],
+    "whatWouldChange": "If new evidence emerged showing the original prosecutions were factually flawed, the vacatur would be legally defensible. That evidence does not exist and has not been alleged. The only thing that would change the bottom line is a substantive legal argument that the convictions are wrong on the merits. The filing contains no such argument."
+  }
+}

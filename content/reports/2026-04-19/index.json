@@ -1,6 +1,6 @@
 {
   "date": "2026-04-19",
-  "generatedAt": "2026-04-19T07:45:00Z",
+  "generatedAt": "2026-04-19T13:10:00Z",
   "reports": [
     {
       "id": "iran-hormuz-ceasefire",
@@ -31,6 +31,36 @@
       "title": "The FTC Is Doing to NewsGuard What Rhode Island Did to Comic Books in 1956.",
       "subtitle": "Courts have repeatedly ruled that government pressure on private intermediaries to suppress speech is unconstitutional. The Trump administration is doing it anyway, from a different direction.",
       "category": "power"
+    },
+    {
+      "id": "anthropic-mythos-too-dangerous",
+      "title": "Anthropic Built an AI That Can Break Any System. It Is Not Releasing It. That Decision Has Already Expired.",
+      "subtitle": "Claude Mythos can exploit software vulnerabilities faster than any human security team. Anthropic gave it to 40 hand-picked companies. Everyone else is now waiting to see who weaponizes it first.",
+      "category": "power"
+    },
+    {
+      "id": "russia-oil-sanctions-reversal",
+      "title": "Bessent Said No. Then Said Yes. The Russia Oil Sanctions Reversal Is Not a Mistake. It Is the Policy.",
+      "subtitle": "Two days after Treasury Secretary Scott Bessent told reporters the Russian oil sanctions waiver would not be renewed, the Treasury renewed it. Ukraine is calling it a betrayal. Russia is calling it cooperation.",
+      "category": "power"
+    },
+    {
+      "id": "jan6-conviction-erasure",
+      "title": "The DOJ Is Asking Courts to Erase the Jan. 6 Seditious Conspiracy Convictions. That Is Not Forgiveness. It Is Revision.",
+      "subtitle": "Jeanine Pirro's filing doesn't argue the defendants are innocent. It argues that erasing their convictions is 'in the interests of justice.' The two things are not the same, and the courts are being asked to pretend they are.",
+      "category": "power"
+    },
+    {
+      "id": "trump-psychedelics-ibogaine",
+      "title": "Trump Signed an Executive Order for Psychedelics. The War on Drugs Is Still Running in the Same Building.",
+      "subtitle": "Ibogaine remains a Schedule I controlled substance. The executive order Trump signed with Joe Rogan in the room does not change that. What it does is create a path for veterans to get it before it is legal, without the protections that legality would provide.",
+      "category": "ethics"
+    },
+    {
+      "id": "fed-stagflation-trap",
+      "title": "The Fed Is in a Box It Has Not Been in Since 1979. This Time the Shocks Are Compounding.",
+      "subtitle": "War, tariffs, and an oil supply squeeze are hitting simultaneously. The Federal Reserve has a mandate to fight inflation and support employment. It cannot do both at once. Markets are pretending it can.",
+      "category": "decision"
     }
   ]
 }

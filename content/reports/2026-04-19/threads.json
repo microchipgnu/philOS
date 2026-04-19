@@ -2,54 +2,101 @@
   "date": "2026-04-19",
   "threads": [
     {
-      "id": "executive-without-authority",
-      "title": "Acting Without a Legal Mandate",
-      "description": "Three stories today share a structural pattern: the executive branch takes an action, a court or constitutional constraint says it cannot do that specific thing, and the administration finds a workaround or continues through a different mechanism. SCOTUS struck IEEPA tariffs; USTR launched Section 301. Courts have repeatedly blocked jawboning; the FTC pressures NewsGuard through 'information demands' with no clear statutory basis. The DOJ sues 29 states to force voter data access under contested authority. The common bet is that institutional friction can be bypassed faster than courts can rule.",
+      "id": "war-as-permission-structure",
+      "title": "The Iran War as Permission Structure",
+      "description": "Four separate stories today are about actors using the Iran conflict as cover for things they wanted to do anyway. The war did not cause these actions. It provided the permission structure that made them politically viable. The Hormuz crisis is functioning as a universal justification machine.",
       "type": "tension-cluster",
-      "stories": ["trump-tariffs-income-tax", "save-act-voter-id", "government-jawboning-censorship"],
+      "stories": [
+        "iran-hormuz-ceasefire",
+        "russia-oil-sanctions-reversal",
+        "fed-stagflation-trap",
+        "trump-tariffs-income-tax"
+      ],
       "connections": [
         {
-          "from": "trump-tariffs-income-tax",
-          "to": "government-jawboning-censorship",
-          "relationship": "Both involve executive agencies acting beyond what courts have sanctioned: the FTC's NewsGuard inquiry mirrors the USTR's Section 301 pivot in that both are attempts to rebuild authority the courts have constrained, through legal mechanisms that have not yet been tested."
+          "from": "iran-hormuz-ceasefire",
+          "to": "russia-oil-sanctions-reversal",
+          "relationship": "The Hormuz closure provided the energy market justification for Treasury to extend Russian oil sanctions waivers that it had already extended twice before. Without the Hormuz crisis, the renewal would have required explicit explanation of why the US is routing revenue to a country at war with an ally."
         },
         {
-          "from": "save-act-voter-id",
+          "from": "iran-hormuz-ceasefire",
+          "to": "fed-stagflation-trap",
+          "relationship": "The war created the oil supply shock that transformed the Fed's manageable tariff-inflation problem into a potential stagflation scenario. The Fed is not responding to one shock; it is responding to two compounding shocks, and the second one is the Iran conflict."
+        },
+        {
+          "from": "iran-hormuz-ceasefire",
           "to": "trump-tariffs-income-tax",
-          "relationship": "The DOJ's lawsuit against 29 states for voter data access and the USTR's Section 301 investigation both represent the administration finding statutory paths to achieve goals that SCOTUS or courts blocked through other routes; the strategy is route substitution, not compliance."
+          "relationship": "War-driven oil price inflation gives the tariff-income-tax replacement proposal a secondary argument: energy volatility makes the case for domestic production revenue. The war provides rhetorical cover for a fiscal proposal that would otherwise face immediate arithmetic objection."
+        }
+      ]
+    },
+    {
+      "id": "legal-record-erasure",
+      "title": "Who Controls the Legal Record",
+      "description": "Three stories today are about the same underlying question: who gets to determine what the official record says happened. The DOJ moves to erase Jan. 6 convictions, the SAVE Act rewrites who is presumed eligible to vote, and the government jawboning case is about who controls what speech the record treats as legitimate. All three involve the executive branch claiming the power to revise existing legal findings.",
+      "type": "tension-cluster",
+      "stories": [
+        "jan6-conviction-erasure",
+        "save-act-voter-id",
+        "government-jawboning-censorship"
+      ],
+      "connections": [
+        {
+          "from": "jan6-conviction-erasure",
+          "to": "save-act-voter-id",
+          "relationship": "Both stories are about the executive branch retroactively changing the legal status of a factual determination: one erases the court's finding that a seditious conspiracy occurred, the other disputes the existing determination of who is a citizen eligible to vote. In both cases, the executive is claiming the power to undo what another institution determined."
         },
         {
           "from": "government-jawboning-censorship",
-          "to": "save-act-voter-id",
-          "relationship": "The FTC's pressure on NewsGuard and the DHS's repurposing of the SAVE program for voter roll verification both involve taking tools designed for one regulatory purpose (consumer protection, immigration benefit verification) and redirecting them against political targets without new legislation."
+          "to": "jan6-conviction-erasure",
+          "relationship": "The government jawboning case establishes that informal government pressure on private actors to suppress speech is unconstitutional. The Jan. 6 conviction erasure uses the formal legal system to suppress the documentary record of what happened on Jan. 6. Both are efforts to control the public record; one is informal and probably unconstitutional, the other is formal and probably legal."
         }
       ]
     },
     {
-      "id": "tariffs-iran-leverage",
-      "title": "SCOTUS Cut the Knife Trump Needed for Iran",
-      "description": "The Supreme Court striking down IEEPA tariffs did not just affect trade policy. IEEPA is the same authority Trump used to impose economic pressure across the board, including against countries involved in the Iran crisis. The US naval blockade of Iranian ports is backed by the same maximum-pressure framework that SCOTUS partially dismantled. As the administration scrambles to rebuild tariff authority through Section 301, it is simultaneously trying to use economic coercion against Iran, with a legal toolkit that is more constrained than it was six months ago.",
-      "type": "cause-effect",
-      "stories": ["trump-tariffs-income-tax", "iran-hormuz-ceasefire"],
+      "id": "ai-power-concentration",
+      "title": "Who Owns the Most Powerful Tools",
+      "description": "Two stories today are about AI systems capable of restructuring entire industries, controlled by private companies that have decided who gets access and who does not, without any democratic process. Anthropic chose 40 companies for Mythos access. OpenAI chose which researchers can use GPT-Rosalind. In both cases, a private company is making decisions about access to transformative capability that will determine competitive outcomes in entire sectors, and the government was briefed but not consulted.",
+      "type": "dependency-web",
+      "stories": [
+        "anthropic-mythos-too-dangerous",
+        "openai-gpt-rosalind"
+      ],
       "connections": [
         {
-          "from": "trump-tariffs-income-tax",
-          "to": "iran-hormuz-ceasefire",
-          "relationship": "SCOTUS invalidating IEEPA as a tariff authority weakened the legal and political credibility of the same executive emergency powers framework underpinning the Iran naval blockade; Iran's negotiators can point to the ruling as evidence that Trump's maximum-pressure tools are legally contested."
+          "from": "anthropic-mythos-too-dangerous",
+          "to": "openai-gpt-rosalind",
+          "relationship": "Both stories are about AI companies using controlled access to frontier models as a competitive strategy. Anthropic's Glasswing coalition and OpenAI's closed GPT-Rosalind access both convert AI capability into exclusive relationships with high-value partners. The pattern is the same: build a capability, make it scarce, choose who gets it, and let the access itself become the product."
         }
       ]
     },
     {
-      "id": "who-owns-the-truth-layer",
-      "title": "The Fight to Own How We Know Things",
-      "description": "Two stories today are secretly about the same question: who gets to control the layer of judgment that sits between raw information and decisions that matter? OpenAI is closing access to the AI model that will tell pharmaceutical researchers which drug hypotheses are worth pursuing. The FTC is attacking the company that tells advertisers which news outlets are credible. Both involve a powerful actor trying to either privatize or politically capture the evaluative infrastructure that shapes what other institutions treat as true.",
+      "id": "executive-branch-expansion",
+      "title": "The Expanding Executive: Five Moves in One Day",
+      "description": "Five stories today involve the executive branch taking actions that override, redirect, or circumvent institutions that are supposed to operate independently. The same administration that erased Jan. 6 convictions and renewed Russia oil sanctions against its own Treasury secretary's stated position also directed the FDA on drug review timelines, pressured the Fed through its chair nominee, and used government pressure on media intermediaries. This is not a policy agenda. It is a posture toward institutional independence.",
       "type": "tension-cluster",
-      "stories": ["openai-gpt-rosalind", "government-jawboning-censorship"],
+      "stories": [
+        "jan6-conviction-erasure",
+        "russia-oil-sanctions-reversal",
+        "trump-psychedelics-ibogaine",
+        "fed-stagflation-trap",
+        "government-jawboning-censorship"
+      ],
       "connections": [
         {
-          "from": "openai-gpt-rosalind",
+          "from": "jan6-conviction-erasure",
           "to": "government-jawboning-censorship",
-          "relationship": "OpenAI restricts who can inspect GPT-Rosalind's scientific reasoning to approved enterprise customers; the FTC pressures NewsGuard in ways that discourage independent credibility ratings. Both actions reduce the number of actors with access to or control over the epistemic layer of high-stakes fields, concentrating that power in either a corporation or the government."
+          "relationship": "Both involve the executive branch using its legal authority to achieve outcomes that the formal system was not designed to produce: one uses prosecutorial discretion to erase jury verdicts, the other uses informal pressure to achieve speech suppression without a statute."
+        },
+        {
+          "from": "trump-psychedelics-ibogaine",
+          "to": "fed-stagflation-trap",
+          "relationship": "Both stories involve the executive branch directing agencies with statutory independence on policy outcomes. The FDA is being directed to 'accelerate' reviews on a drug that killed patients in clinical trials. The Fed's incoming chair has pre-committed to rate cuts as Trump wants. In both cases, the executive is signaling the desired output before the independent process has produced it."
+        },
+        {
+          "from": "russia-oil-sanctions-reversal",
+          "to": "fed-stagflation-trap",
+          "relationship": "The Treasury's reversal of Bessent's stated position within 48 hours demonstrates the same pattern as Fed chair pre-commitment: the formal independence of the institution is maintained while the substantive outcome is determined by political priorities. Bessent said no; the administration said yes. Warsh has said he would cut. In both cases, the institution's stated position is subordinated to the executive's preference."
         }
       ]
     }

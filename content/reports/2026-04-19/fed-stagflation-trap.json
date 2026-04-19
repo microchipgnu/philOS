@@ -1,0 +1,112 @@
+{
+  "id": "fed-stagflation-trap",
+  "date": "2026-04-19",
+  "generatedAt": "2026-04-19T13:05:00Z",
+  "title": "The Fed Is in a Box It Has Not Been in Since 1979. This Time the Shocks Are Compounding.",
+  "subtitle": "War, tariffs, and an oil supply squeeze are hitting simultaneously. The Federal Reserve has a mandate to fight inflation and support employment. It cannot do both at once. Markets are pretending it can.",
+  "topic": "economy",
+  "category": "decision",
+  "tags": ["Federal Reserve", "inflation", "stagflation", "interest rates", "oil", "war", "Waller", "Warsh"],
+  "coverImage": {
+    "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i5kzz0xGzcWw/v0/1200x800.jpg",
+    "local": "/images/reports/2026-04-19/fed-stagflation-trap.jpg",
+    "credit": "Bloomberg"
+  },
+  "sources": [
+    {
+      "url": "https://www.sahmcapital.com/news/content/feds-waller-says-swift-war-end-could-keep-rate-cut-hopes-alive-2026-04-17",
+      "publisher": "Reuters (via Sahm Capital)",
+      "angle": "Fed Governor Waller's April 17 speech: explicitly warns that a sequence of transitory shocks is more dangerous than a single one, signals the Fed cannot keep treating each shock as pass-through, and says the rate path depends entirely on how quickly the Iran conflict resolves."
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-04-18/war-revives-stagflation-dangers-for-global-economy?srnd=phx-fixed-income",
+      "publisher": "Bloomberg",
+      "angle": "Global economic framing: PMI surveys across Germany, France, UK showing dual deterioration in growth and inflation after the first month of the Iran conflict. Frames the coming week's data as the first test of whether month two intensified the hit."
+    },
+    {
+      "url": "https://www.sahmcapital.com/news/content/update-3-reopened-strait-of-hormuz-oil-price-drop-may-recast-feds-rate-cut-options-2026-04-17",
+      "publisher": "Reuters",
+      "angle": "Markets responding to Hormuz reopening: bets on Fed cuts moved toward December. But Fed officials, including San Francisco Fed President Mary Daly, explicitly cautioned that a reopened strait doesn't resolve underlying inflation risks from the prior weeks of disruption."
+    },
+    {
+      "url": "https://www.sahmcapital.com/news/content/update-1-fed-chair-nominee-warsh-will-have-ideas-economy-may-deliver-surprises-daly-says-2026-04-17",
+      "publisher": "Reuters",
+      "angle": "Fed chair transition angle: Kevin Warsh, Trump's Fed chair nominee, has signaled support for rate cuts as Trump wants. Daly's comment that 'the economy will deliver what we actually work on' is a polite warning that Warsh's pre-commitments may not survive contact with actual conditions."
+    },
+    {
+      "url": "https://www.equiti.com/sc-en/news/market-insights/markets-are-pricing-peace-but-the-inflation-risk-is-still-around/",
+      "publisher": "Equiti Markets",
+      "angle": "Market technical view: crude staying near $90 despite Hormuz reopening signals the physical oil market does not believe the conflict is cleanly resolved. OPEC production cut by 7.7 million barrels per day at the peak, with lasting supply chain effects that do not reverse overnight."
+    }
+  ],
+  "brief": {
+    "actors": ["Fed", "Trump", "Waller", "Warsh", "OPEC"],
+    "whatHappened": "On April 17, Federal Reserve Governor Christopher Waller delivered a speech warning that seven weeks of war in the Middle East, layered on top of existing tariff-driven inflation pressures, is creating a scenario where the Fed faces rising inflation and slowing employment simultaneously. He described this as a sequence of shocks rather than a single transitory event, saying the Fed must be 'more vigilant' when shocks compound. At the Fed's April 28-29 meeting, markets price an overwhelming probability of no rate change. Rate cut bets have pushed to December at the earliest, dependent on conflict resolution. Trump's nominee to succeed Fed Chair Jerome Powell, Kevin Warsh, has publicly signaled support for rate cuts. OPEC production fell by 7.7 million barrels per day at the peak of the Hormuz disruption, and oil prices remain near $90 even after Iran briefly reopened the strait.",
+    "bottomLine": "The Federal Reserve is heading into its April meeting with two irreconcilable mandates running in opposite directions at once, a new chair nominee who has pre-committed to the outcome the president wants, and a market that has already decided the problem will resolve itself. All three of those things cannot be true simultaneously.",
+    "hiddenBets": [
+      {
+        "assumption": "The Hormuz reopening means the energy shock is over and the Fed can normalize.",
+        "whyItMightBeWrong": "The strait reopened temporarily as part of a ceasefire that both sides are already disputing. OPEC's production cut of 7.7 million barrels per day does not reverse in a week. Supply chains that diverted away from the Middle East route take months to return. Waller explicitly said a reopened strait does not undo the inflation already embedded in supply chains from the prior weeks."
+      },
+      {
+        "assumption": "The Fed can hold rates until the picture clears and then cut later this year.",
+        "whyItMightBeWrong": "The labor market was already showing signs of softening before the Iran conflict began. An extended period of high energy prices filters through to transportation costs, goods prices, and business investment decisions within 60-90 days. By the time the picture clears, unemployment may have risen enough that 'later this year' cuts would arrive into a recession rather than a soft landing."
+      },
+      {
+        "assumption": "Kevin Warsh, once confirmed, will be able to cut rates as Trump wants.",
+        "whyItMightBeWrong": "Warsh inherits a Fed that has been explicitly cautious about rate cuts due to inflation risks. If he cuts aggressively to satisfy Trump and inflation re-accelerates, he loses all credibility and the institutional independence he would need to navigate the rest of his term. Daly's comment is a warning: the economy, not the president, will set the rate path."
+      }
+    ],
+    "realDisagreement": "The fork is not between cut or hold. The fork is between which mandate the Fed serves when it cannot serve both. Cutting to support employment accepts higher inflation for longer, which falls hardest on people who spend a larger share of income on food and energy, which is everyone who is not wealthy. Holding to fight inflation accepts rising unemployment, which falls hardest on the workers most recently hired and most economically marginal. There is no middle path when both shocks are intensifying simultaneously. The Fed's dual mandate is designed for a world where inflation and unemployment move in opposite directions. It does not have a protocol for when they both move the wrong way at once. Markets are pricing a world where one or the other resolves cleanly. That bet has a significant probability of being wrong.",
+    "whatNoOneIsSaying": "The Trump administration is doing three things simultaneously that bear on the Fed's impossible position: it started a war that drove oil prices up, it imposed tariffs that drove goods prices up, and it is nominating a Fed chair who has signaled he will cut rates regardless. If Warsh cuts rates into stagflation under political pressure, the inflation that results will be directly traceable to the same administration that created the supply shocks, but the Fed will take the blame.",
+    "whoPays": [
+      {
+        "who": "Workers hired in the last 12 months, disproportionately in logistics, retail, and manufacturing",
+        "how": "Last-in-first-out layoffs when companies respond to high energy costs and slowing demand. These workers have the least tenure protection and the highest exposure to energy-price-sensitive industries.",
+        "when": "Immediate to 90 days if energy prices remain elevated"
+      },
+      {
+        "who": "Fixed-income retirees and people on fixed benefits",
+        "how": "If the Fed holds rates to fight inflation while the economy slows, they face both lower purchasing power from inflation and reduced returns if they hold bonds expecting rate cuts that do not come. If the Fed cuts and inflation rises, their purchasing power erodes faster.",
+        "when": "Ongoing regardless of which policy path the Fed chooses"
+      },
+      {
+        "who": "Emerging market economies that hold dollar-denominated debt",
+        "how": "A Fed that holds rates or raises them due to inflation keeps dollar borrowing costs high for emerging markets already strained by elevated oil import costs. The dual squeeze of high oil prices and expensive dollar debt is the classic emerging market crisis setup.",
+        "when": "Medium-term: 3-6 months of sustained pressure"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Conflict clears, soft landing preserved",
+        "whatHappens": "A durable Iran ceasefire agreement holds through May. Oil prices fall below $80. The Fed holds in April and June, cuts once in September. Inflation decelerates toward 3%. Unemployment stays below 5%. Markets declare a soft landing.",
+        "signal": "Brent crude falls and holds below $80 within 30 days of a formal ceasefire announcement. Fed June meeting language shifts to 'balanced risks' rather than 'upside inflation risks.'"
+      },
+      {
+        "name": "Stagflation confirmed",
+        "whatHappens": "Hormuz is re-closed after the ceasefire breaks down. Oil stays above $95. PMI surveys in May show both manufacturing contraction and persistent input price inflation. The Fed holds rates but signals it may have to raise. Unemployment rises above 5% by September. The word stagflation enters official Fed communications.",
+        "signal": "April PMI data for the US shows services sector contraction alongside prices-paid index above 65."
+      },
+      {
+        "name": "Political override",
+        "whatHappens": "Warsh is confirmed quickly. Under pressure from the White House, the Fed cuts in July before inflation has credibly moved toward target. Bond markets reprice. The 10-year yield rises above 5.5%. Mortgage rates hit new highs. The administration blames the prior Fed regime.",
+        "signal": "Warsh is confirmed before June and gives his first interview indicating a rate cut is on the table for July regardless of May inflation data."
+      }
+    ],
+    "whatWouldChange": "A rapid and durable Iran peace agreement that fully reopened Hormuz, combined with a clear reversal in PMI input price data, would make the stagflation scenario genuinely unlikely. The bottom line holds as long as the conflict remains unresolved and tariff inflation is still embedded in the goods sector. Both of those conditions are true today.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Will there be no change in Fed interest rates after the April 2026 meeting?",
+        "url": "https://polymarket.com/event/fed-decision-in-april",
+        "probability": 0.9935
+      },
+      {
+        "platform": "Polymarket",
+        "question": "US recession by end of 2026?",
+        "url": "https://polymarket.com/event/us-recession-by-end-of-2026",
+        "probability": 0.255
+      }
+    ]
+  }
+}
