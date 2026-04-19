@@ -1,7 +1,43 @@
 {
   "date": "2026-04-19",
-  "generatedAt": "2026-04-19T17:42:00Z",
+  "generatedAt": "2026-04-19T22:55:00Z",
   "reports": [
+    {
+      "id": "trump-ai-state-preemption",
+      "title": "Trump Is Trying to Kill 1,000 State AI Bills. The States Are Not Listening.",
+      "subtitle": "The White House wants one federal standard for AI. States are passing laws anyway. A Utah Republican who used to work at Google is running for senate on defying his own party's president.",
+      "category": "power"
+    },
+    {
+      "id": "iran-nuclear-deal-europe-fear",
+      "title": "Europe's Nuclear Experts Are Watching Witkoff and Kushner Negotiate Iran. They Are Not Calm.",
+      "subtitle": "European diplomats who spent 12 years building the 2015 nuclear accord have been sidelined from the current talks. They think a bad deal is more likely than no deal, and that a bad deal is worse.",
+      "category": "decision"
+    },
+    {
+      "id": "scotus-birthright-citizenship",
+      "title": "SCOTUS Heard the Birthright Citizenship Case. The Justices Are Not Buying It.",
+      "subtitle": "Across the ideological spectrum, Supreme Court justices pressed Trump's solicitor general on why the 14th Amendment means something different now. He had no good answer.",
+      "category": "power"
+    },
+    {
+      "id": "gop-dignity-act-immigration",
+      "title": "The Republican Party Is Having Its Immigration Fight In Public. One Side Wants Votes. The Other Wants Deportations.",
+      "subtitle": "Rep. Maria Elvira Salazar's Dignity Act would give pre-2021 undocumented immigrants legal status but no citizenship. A new PAC is spending to end her career. Manufacturers are endorsing her. The House majority is at stake.",
+      "category": "conflict"
+    },
+    {
+      "id": "abortion-ban-backfire",
+      "title": "Abortion Bans Increased Abortions. The Pro-Life Movement Won the Law and Lost the Outcome.",
+      "subtitle": "The US hit 1.14 million abortions in 2024, more than any year in the previous decade. Medication abortion now accounts for 25% of all procedures. State bans did not stop abortions. They moved them.",
+      "category": "ethics"
+    },
+    {
+      "id": "oil-companies-trump-cold",
+      "title": "Oil Companies Celebrated Trump. Now They Are Watching WTI Drop 9% in a Day.",
+      "subtitle": "Energy Secretary Wright admitted gas might not fall below $3 until 2027. WTI crude dropped 9.6% Sunday. The 'drill baby drill' coalition is discovering that war in the Middle East and Trump's tariff-driven recession fears are worse for energy markets than any Biden regulation.",
+      "category": "decision"
+    },
     {
       "id": "iran-hormuz-ceasefire",
       "title": "Iran Closes Hormuz Again. The Ceasefire Was Never a Ceasefire.",

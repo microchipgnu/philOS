@@ -2,158 +2,49 @@
   "date": "2026-04-19",
   "threads": [
     {
-      "id": "war-as-permission-structure",
-      "title": "The Iran War as Permission Structure",
-      "description": "Four separate stories today are about actors using the Iran conflict as cover for things they wanted to do anyway. The war did not cause these actions. It provided the permission structure that made them politically viable. The Hormuz crisis is functioning as a universal justification machine.",
+      "id": "executive-power-constitutional-limits",
+      "title": "The Walls of Executive Unilateralism",
+      "description": "Three stories today are about the same underlying question: whether the executive branch can rewrite rules established by law, the Constitution, or democratic process through orders, threats, and unilateral action. SCOTUS is telling Trump his birthright citizenship EO violates the 14th Amendment. State lawmakers are defying his executive order preempting AI regulation. European diplomats are warning that Trump's team is treating a technical nuclear arms limitation process like a real-estate deal. In each case, a constitutional constraint or institutional expertise is being dismissed as an obstacle, and in each case, the institution is fighting back.",
       "type": "tension-cluster",
-      "stories": [
-        "iran-hormuz-ceasefire",
-        "russia-oil-sanctions-reversal",
-        "fed-stagflation-trap",
-        "trump-tariffs-income-tax"
-      ],
+      "stories": ["scotus-birthright-citizenship", "trump-ai-state-preemption", "iran-nuclear-deal-europe-fear"],
       "connections": [
         {
-          "from": "iran-hormuz-ceasefire",
-          "to": "russia-oil-sanctions-reversal",
-          "relationship": "The Hormuz closure provided the energy market justification for Treasury to extend Russian oil sanctions waivers that it had already extended twice before. Without the Hormuz crisis, the renewal would have required explicit explanation of why the US is routing revenue to a country at war with an ally."
+          "from": "scotus-birthright-citizenship",
+          "to": "trump-ai-state-preemption",
+          "relationship": "In both cases, the administration has used executive orders to override established law: EO 14160 tries to reinterpret a constitutional amendment, while the AI preemption EO threatens states into deference. Both are being resisted by the institutions they attempt to override."
         },
         {
-          "from": "iran-hormuz-ceasefire",
-          "to": "fed-stagflation-trap",
-          "relationship": "The war created the oil supply shock that transformed the Fed's manageable tariff-inflation problem into a potential stagflation scenario. The Fed is not responding to one shock; it is responding to two compounding shocks, and the second one is the Iran conflict."
-        },
-        {
-          "from": "iran-hormuz-ceasefire",
-          "to": "trump-tariffs-income-tax",
-          "relationship": "War-driven oil price inflation gives the tariff-income-tax replacement proposal a secondary argument: energy volatility makes the case for domestic production revenue. The war provides rhetorical cover for a fiscal proposal that would otherwise face immediate arithmetic objection."
+          "from": "trump-ai-state-preemption",
+          "to": "iran-nuclear-deal-europe-fear",
+          "relationship": "The administration's dismissal of institutional expertise runs through both stories: in AI regulation, former tech workers in state legislatures are told their expertise is unwelcome; in Iran talks, 20 years of European nuclear diplomacy is sidelined in favor of a real-estate negotiating team."
         }
       ]
     },
     {
-      "id": "legal-record-erasure",
-      "title": "Who Controls the Legal Record",
-      "description": "Three stories today are about the same underlying question: who gets to determine what the official record says happened. The DOJ moves to erase Jan. 6 convictions, the SAVE Act rewrites who is presumed eligible to vote, and the government jawboning case is about who controls what speech the record treats as legitimate. All three involve the executive branch claiming the power to revise existing legal findings.",
-      "type": "tension-cluster",
-      "stories": [
-        "jan6-conviction-erasure",
-        "save-act-voter-id",
-        "government-jawboning-censorship"
-      ],
-      "connections": [
-        {
-          "from": "jan6-conviction-erasure",
-          "to": "save-act-voter-id",
-          "relationship": "Both stories are about the executive branch retroactively changing the legal status of a factual determination: one erases the court's finding that a seditious conspiracy occurred, the other disputes the existing determination of who is a citizen eligible to vote. In both cases, the executive is claiming the power to undo what another institution determined."
-        },
-        {
-          "from": "government-jawboning-censorship",
-          "to": "jan6-conviction-erasure",
-          "relationship": "The government jawboning case establishes that informal government pressure on private actors to suppress speech is unconstitutional. The Jan. 6 conviction erasure uses the formal legal system to suppress the documentary record of what happened on Jan. 6. Both are efforts to control the public record; one is informal and probably unconstitutional, the other is formal and probably legal."
-        }
-      ]
-    },
-    {
-      "id": "ai-power-concentration",
-      "title": "Who Owns the Most Powerful Tools",
-      "description": "Two stories today are about AI systems capable of restructuring entire industries, controlled by private companies that have decided who gets access and who does not, without any democratic process. Anthropic chose 40 companies for Mythos access. OpenAI chose which researchers can use GPT-Rosalind. In both cases, a private company is making decisions about access to transformative capability that will determine competitive outcomes in entire sectors, and the government was briefed but not consulted.",
+      "id": "coalition-fracture-costs",
+      "title": "The Bill for the 2024 Coalition",
+      "description": "Two stories today show the costs of the political coalition that delivered the 2024 election, paid by the very constituencies that helped build it. Oil companies are watching their quarterly numbers shrink under a war their preferred president started. Republican lawmakers in Hispanic districts are facing primary threats from a PAC funded by the base their president inflamed. The coalition that won the election is now demanding payment from the people who delivered it.",
       "type": "dependency-web",
-      "stories": [
-        "anthropic-mythos-too-dangerous",
-        "openai-gpt-rosalind"
-      ],
+      "stories": ["gop-dignity-act-immigration", "oil-companies-trump-cold"],
       "connections": [
         {
-          "from": "anthropic-mythos-too-dangerous",
-          "to": "openai-gpt-rosalind",
-          "relationship": "Both stories are about AI companies using controlled access to frontier models as a competitive strategy. Anthropic's Glasswing coalition and OpenAI's closed GPT-Rosalind access both convert AI capability into exclusive relationships with high-value partners. The pattern is the same: build a capability, make it scarce, choose who gets it, and let the access itself become the product."
+          "from": "oil-companies-trump-cold",
+          "to": "gop-dignity-act-immigration",
+          "relationship": "Both stories are about corporate interests that backed Trump discovering that the political coalition he assembled has domestic policy priorities that conflict with their business interests: the Iran war is bad for energy markets, and the deportation base is bad for manufacturers who depend on undocumented labor."
         }
       ]
     },
     {
-      "id": "executive-branch-expansion",
-      "title": "The Expanding Executive: Five Moves in One Day",
-      "description": "Five stories today involve the executive branch taking actions that override, redirect, or circumvent institutions that are supposed to operate independently. The same administration that erased Jan. 6 convictions and renewed Russia oil sanctions against its own Treasury secretary's stated position also directed the FDA on drug review timelines, pressured the Fed through its chair nominee, and used government pressure on media intermediaries. This is not a policy agenda. It is a posture toward institutional independence.",
+      "id": "technology-outrunning-law",
+      "title": "Laws That Arrive After the Damage",
+      "description": "Two stories today are about technology moving faster than the regulatory or legal frameworks designed to govern it, producing outcomes the framers of those frameworks intended to prevent. Abortion bans failed to reduce abortions because medication abortion and telehealth outpaced state enforcement capacity. AI regulation is failing because 1,000 state bills cannot match the pace of AI deployment, and the federal preemption fight is designed to ensure they never can. In both cases, the technology has already changed the underlying reality that law is trying to shape.",
       "type": "tension-cluster",
-      "stories": [
-        "jan6-conviction-erasure",
-        "russia-oil-sanctions-reversal",
-        "trump-psychedelics-ibogaine",
-        "fed-stagflation-trap",
-        "government-jawboning-censorship"
-      ],
+      "stories": ["abortion-ban-backfire", "trump-ai-state-preemption"],
       "connections": [
         {
-          "from": "jan6-conviction-erasure",
-          "to": "government-jawboning-censorship",
-          "relationship": "Both involve the executive branch using its legal authority to achieve outcomes that the formal system was not designed to produce: one uses prosecutorial discretion to erase jury verdicts, the other uses informal pressure to achieve speech suppression without a statute."
-        },
-        {
-          "from": "trump-psychedelics-ibogaine",
-          "to": "fed-stagflation-trap",
-          "relationship": "Both stories involve the executive branch directing agencies with statutory independence on policy outcomes. The FDA is being directed to 'accelerate' reviews on a drug that killed patients in clinical trials. The Fed's incoming chair has pre-committed to rate cuts as Trump wants. In both cases, the executive is signaling the desired output before the independent process has produced it."
-        },
-        {
-          "from": "russia-oil-sanctions-reversal",
-          "to": "fed-stagflation-trap",
-          "relationship": "The Treasury's reversal of Bessent's stated position within 48 hours demonstrates the same pattern as Fed chair pre-commitment: the formal independence of the institution is maintained while the substantive outcome is determined by political priorities. Bessent said no; the administration said yes. Warsh has said he would cut. In both cases, the institution's stated position is subordinated to the executive's preference."
-        }
-      ]
-    },
-    {
-      "id": "control-strategies-backfire",
-      "title": "Control Strategies That Accelerate What They Were Designed to Prevent",
-      "description": "Two stories today are about the US government using restriction as a control strategy, and in both cases the restriction is directly producing the outcome it was supposed to prevent. Chip export controls were designed to keep China from building competitive AI. They forced China to optimize for cheap hardware and build an independent software stack, which is more durable than hardware access. The EPA's greenhouse gas rules were repealed to free industry from federal regulation. That leaves the US without any federal lever for future climate policy, accelerating the shift toward fragmented state-level and international regulation that US industry finds harder to navigate.",
-      "type": "cause-effect",
-      "stories": [
-        "deepseek-huawei-cuda-break",
-        "epa-endangerment-finding-repeal"
-      ],
-      "connections": [
-        {
-          "from": "deepseek-huawei-cuda-break",
-          "to": "epa-endangerment-finding-repeal",
-          "relationship": "Both stories are about the US government removing a structural dependency it thought gave it leverage, only to discover that the dependency was two-directional. Nvidia needed China's market; China needed Nvidia's chips. The EPA's regulatory authority meant industry had one standard to comply with; without it, US companies face 50 state standards plus international ones. Removing the central point of control fragments the landscape in ways that are harder for US actors to manage than the regulation was."
-        }
-      ]
-    },
-    {
-      "id": "eu-labor-algorithmic-control",
-      "title": "Europe's Two Fights Over Who Controls Workers",
-      "description": "Two stories today are simultaneously happening in Europe about the same underlying question from different directions: who gets to determine the conditions of employment. Greece is fighting over working hours through street strikes. The EU AI Act is fighting over algorithmic hiring through regulatory enforcement. Both are about whether employers can use new tools, flexible time rules in Greece and AI screening tools in the EU, to extract more from workers with less accountability. The street fight and the regulatory fight are happening at the same moment because the same underlying shift in employer power is driving both.",
-      "type": "tension-cluster",
-      "stories": [
-        "greece-labor-reform-strike",
-        "eu-ai-act-hiring-deadline"
-      ],
-      "connections": [
-        {
-          "from": "greece-labor-reform-strike",
-          "to": "eu-ai-act-hiring-deadline",
-          "relationship": "The Greek labor reform expands employers' ability to determine when workers work. The EU AI Act hiring rules constrain employers' ability to determine which workers they hire and for what reasons. Both are contests over employer power in labor markets, one happening through legislative action resisted by labor unions, the other through regulatory enforcement anticipated by compliance lawyers. They are the same fight in different registers."
-        }
-      ]
-    },
-    {
-      "id": "judicial-legitimacy-under-pressure",
-      "title": "The Courts Are the Last Stop, and Someone Is Already Leaking From Inside",
-      "description": "Three stories today land at the Supreme Court as the last institution standing between the executive branch and irreversible outcomes. The EPA repeal requires judicial intervention to survive. The Jan. 6 conviction erasure is a test of whether courts will rubber-stamp DOJ decisions that override jury verdicts. And now the Court itself is leaking confidential memos to the press, with justices publicly feuding over whether the shadow docket they relied on to block Obama's climate rules can be used legitimately. The court that must rule on the EPA repeal is the same court whose internal process is now visibly compromised.",
-      "type": "dependency-web",
-      "stories": [
-        "epa-endangerment-finding-repeal",
-        "scotus-shadow-docket-leaked",
-        "jan6-conviction-erasure"
-      ],
-      "connections": [
-        {
-          "from": "epa-endangerment-finding-repeal",
-          "to": "scotus-shadow-docket-leaked",
-          "relationship": "The leaked memos reveal that Roberts used the shadow docket to block the Obama Clean Power Plan, the predecessor to the regulations that the Endangerment Finding repeal dismantles. The court that used emergency orders to stop climate rules is now being asked to use those same emergency powers to restore the legal foundation for climate rules. The memo leak arrived at the exact moment when the court's credibility on climate is most at stake."
-        },
-        {
-          "from": "jan6-conviction-erasure",
-          "to": "scotus-shadow-docket-leaked",
-          "relationship": "The DOJ's attempt to erase Jan. 6 convictions and the SCOTUS shadow docket leak are both attacking court legitimacy from different directions simultaneously. One is the executive branch asking courts to override jury verdicts. The other is someone inside the court handing internal deliberations to the press. Both undermine the premise that courts are neutral and that their decisions reflect something other than political calculation."
+          "from": "abortion-ban-backfire",
+          "to": "trump-ai-state-preemption",
+          "relationship": "Abortion bans show what happens when technology outpaces restrictive law: the underlying behavior moves to a platform the law cannot reach. AI preemption shows the inverse risk: if federal preemption succeeds and Congress does not act, the same dynamic applies but in the permissive direction, with no law reaching the behavior at all."
         }
       ]
     }

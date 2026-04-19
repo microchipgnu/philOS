@@ -1,0 +1,92 @@
+{
+  "id": "abortion-ban-backfire",
+  "date": "2026-04-19",
+  "generatedAt": "2026-04-19T22:50:00Z",
+  "title": "Abortion Bans Increased Abortions. The Pro-Life Movement Won the Law and Lost the Outcome.",
+  "subtitle": "The US hit 1.14 million abortions in 2024, more than any year in the previous decade. Medication abortion now accounts for 25% of all procedures. State bans did not stop abortions. They moved them.",
+  "topic": "society",
+  "category": "ethics",
+  "tags": ["abortion", "Dobbs", "medication abortion", "telehealth", "pro-life"],
+  "coverImage": {
+    "url": "https://davisvanguard.org/wp-content/uploads/2026/04/Aborton-Robes.webp",
+    "local": "/images/reports/2026-04-19/abortion-ban-backfire.jpg",
+    "credit": "Davis Vanguard"
+  },
+  "sources": [
+    {
+      "url": "https://davisvanguard.org/2026/04/abortion-rates-rise-post-roe/",
+      "publisher": "Davis Vanguard",
+      "angle": "Data-heavy analysis arguing the pro-life movement's legal strategy failed on its own terms: abortion rates rose post-Dobbs because medication abortion and telehealth outpaced state enforcement capacity"
+    }
+  ],
+  "brief": {
+    "actors": ["SCOTUS", "States", "FDA"],
+    "whatHappened": "New data shows approximately 1.14 million abortions occurred in the United States in 2024, higher than any point in the previous decade and above the pre-Dobbs baseline. Monthly averages climbed from 88,180 in 2023 to 95,250 in 2024 to 98,630 in early 2025, before plateauing. Medication abortion now accounts for 25% of all procedures and is rising. Cross-state travel for abortions nearly doubled from 81,100 in 2020 to 154,900 in 2024. Florida implemented a 6-week ban and saw a 27% decrease in in-state procedures, but telehealth providers in shield-law states continued serving Florida patients by mail. At least eight states have shield laws protecting providers who serve out-of-state patients, and the FDA's mail-order mifepristone rules make enforcement by state bans structurally difficult.",
+    "bottomLine": "The pro-life movement won the law. Technology won everything else. The battle moved from clinics to mailboxes, and the movement spent 50 years preparing to fight the last war.",
+    "hiddenBets": [
+      {
+        "assumption": "The increase in abortion rates is a temporary bounce that will reverse as bans consolidate.",
+        "whyItMightBeWrong": "Medication abortion protocols are not going away. Telehealth infrastructure built around abortion is now serving millions of patients. Shield-law states are entrenching their legal protections. The reversal would require federal criminalization of mail-order medication and federal preemption of shield laws, neither of which has a clear legislative path."
+      },
+      {
+        "assumption": "State bans are meaningless because of telehealth.",
+        "whyItMightBeWrong": "The 27% in-state decrease in Florida is real. The ban does impose costs: travel expenses, wait times, the risk of being tracked through financial or location data. The ban increases burden without achieving elimination. Whether that burden is the goal or a failure depends on whether the movement admits that elimination was the stated objective."
+      },
+      {
+        "assumption": "This proves the pro-life movement's strategy was irrational.",
+        "whyItMightBeWrong": "Restricting access to in-clinic care, even if medication abortion fills the gap partially, may still reduce overall abortion rates compared to a hypothetical world with both in-clinic and mail-order access fully available. The counterfactual matters, and it is not available."
+      }
+    ],
+    "realDisagreement": "The genuine fork is between two theories of what the pro-life movement was actually fighting for. The stated goal was to end abortion. The practical outcome is to make abortion more burdensome for poor women while leaving it accessible for women with money and internet access. If the movement's actual goal was always to restrict rather than eliminate, then the bans are working exactly as intended. If the goal was elimination, then the movement needs to reckon with the data. The silence from pro-life organizations in response to the 1.14 million figure is itself a data point. No major organization has held a press conference to say the strategy failed. That silence suggests either they know what the data means and cannot say it, or the goal was never what they claimed.",
+    "whatNoOneIsSaying": "The pro-life movement's most influential funders are corporate interests and religious institutions that benefit from controlling reproduction at the lower end of the income distribution. No leader of the movement will publicly say they are satisfied with bans that effectively make abortion a privilege for the wealthy. But the policies they have built produce exactly that outcome, and the wealth-based gap in access has widened since Dobbs, not closed.",
+    "whoPays": [
+      {
+        "who": "Low-income women in ban states",
+        "how": "Cannot afford travel costs ($500-$2,000 for multi-day travel), cannot take multiple days off work without income loss, cannot access telehealth if they lack a smartphone or private address for pill delivery; the ban is functionally a class-based restriction",
+        "when": "Immediate, ongoing"
+      },
+      {
+        "who": "Women with complex medical pregnancies in ban states",
+        "how": "Doctors in ban states are refusing to provide necessary care due to legal risk even when medical exceptions technically exist; the Texas Medical Board's vague emergency exception standard leaves physicians exposed to prosecution, creating a chilling effect on standard obstetric care",
+        "when": "Immediate, with each complicated pregnancy"
+      },
+      {
+        "who": "State health systems in ban states",
+        "how": "Higher maternal mortality rates in states with strictest bans are documented; increased emergency care for medication abortion complications (real and manufactured as litigation strategy); long-term population health costs of reduced healthcare access",
+        "when": "Slow-burn, compounding over years"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Technology Lock-In",
+        "whatHappens": "Medication abortion infrastructure continues to grow. Shield-law states expand protections. The in-state clinic bans remain but become less consequential as pill access normalizes. National abortion rates stabilize at a higher level than pre-Dobbs.",
+        "signal": "Telehealth abortion providers report 40%+ year-over-year growth; shield-law states pass legislation explicitly immunizing providers from out-of-state prosecution"
+      },
+      {
+        "name": "Federal Medication Crackdown",
+        "whatHappens": "The Trump administration uses the FDA or DOJ to restrict mifepristone access, criminalize telehealth abortion prescribing, or prosecute shield-law providers. Abortion rates fall sharply for poor women; wealthy women travel internationally.",
+        "signal": "DOJ files charges against a shield-law state provider; FDA revokes mifepristone's expanded approval"
+      },
+      {
+        "name": "Ballot Measure Wave",
+        "whatHappens": "Abortion protection amendments continue passing in state referenda. Virginia and Nevada amendments pass in 2026 (markets give Virginia 60%, Nevada 69%). Pro-choice constitutional protections in 10+ states make state-level bans increasingly inaccessible to enforcement.",
+        "signal": "Virginia and Nevada abortion protection amendments pass in November; more than five state abortion protection measures qualify for 2026 ballots"
+      }
+    ],
+    "whatWouldChange": "If a major pro-life organization issued a public statement acknowledging that abortion rates rose post-Dobbs and proposing a strategy shift toward economic support for pregnant women, that would change the story: it would mean the movement is genuinely about reducing abortions rather than controlling behavior. No such statement exists. That absence is the analysis.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Will the Virginia abortion protection amendment pass?",
+        "url": "https://polymarket.com/event/will-the-virginia-abortion-protection-amendment-pass",
+        "probability": 0.605
+      },
+      {
+        "platform": "Polymarket",
+        "question": "Will the Nevada abortion protection amendment pass?",
+        "url": "https://polymarket.com/event/will-the-nevada-abortion-protection-amendment-pass",
+        "probability": 0.69
+      }
+    ]
+  }
+}

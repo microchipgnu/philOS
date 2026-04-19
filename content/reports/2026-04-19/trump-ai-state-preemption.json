@@ -1,0 +1,85 @@
+{
+  "id": "trump-ai-state-preemption",
+  "date": "2026-04-19",
+  "generatedAt": "2026-04-19T22:30:00Z",
+  "title": "Trump Is Trying to Kill 1,000 State AI Bills. The States Are Not Listening.",
+  "subtitle": "The White House wants one federal standard for AI. States are passing laws anyway. A Utah Republican who used to work at Google is running for senate on defying his own party's president.",
+  "topic": "tech",
+  "category": "power",
+  "tags": ["AI regulation", "federalism", "state laws", "Trump", "tech policy"],
+  "coverImage": {
+    "url": "https://assets-nnw.nationalnewswatch.com/articles/_1200x630_crop_center-center_82_none/d617fdc7544f7cdf4f4b9627d6c25afcc517913f953c2ea78686041bd4fb90b7.jpg",
+    "local": "/images/reports/2026-04-19/trump-ai-state-preemption.jpg",
+    "credit": "National Newswatch / AP"
+  },
+  "sources": [
+    {
+      "url": "https://nationalnewswatch.com/2026/04/19/trump-wants-to-stop-states-from-regulating-ai-this-utah-republican-isnt-listening",
+      "publisher": "National Newswatch / AP",
+      "angle": "Ground-level report on Utah GOP rep Fiefia running for senate on AI regulation, defying Trump's preemption push; details industry lobby spending $2.3M against one NY candidate"
+    },
+    {
+      "url": "https://www.duluthnewstribune.com/opinion/columns/point-counterpoint-uniform-federal-regulation-of-ai-would-help-us-compete",
+      "publisher": "Duluth News Tribune",
+      "angle": "Industry-aligned argument that 50-state patchwork will cripple innovation and that federal preemption is necessary to compete with China"
+    }
+  ],
+  "brief": {
+    "actors": ["Trump", "Congress", "Big Tech", "States"],
+    "whatHappened": "The Trump administration has issued an executive order threatening funding penalties to states that pass AI laws deemed too burdensome, and released a White House framework urging Congress to preempt state AI regulation. More than 1,000 state AI bills remain active across legislatures. A pro-AI campaign committee has spent $2.3 million against one New York Democratic candidate, Alex Bores, who authored that state's AI disclosure law. In Utah, Republican state rep Doug Fiefia, a former Google employee, is running for state senate on a platform of AI regulation, despite the Trump administration killing his child safety AI bill by calling it 'unfixable.'",
+    "bottomLine": "The federal preemption fight is not about which level of government is smarter on AI. It is about which set of interests gets to write the rules: the companies building AI, or the voters who will live inside it.",
+    "hiddenBets": [
+      {
+        "assumption": "Federal preemption would create a single, coherent standard.",
+        "whyItMightBeWrong": "Congress has not passed meaningful tech regulation in a generation. A preemption law that blocks states but produces nothing at the federal level leaves AI ungoverned entirely, which is exactly what the industry prefers."
+      },
+      {
+        "assumption": "State AI laws are primarily a Democratic project.",
+        "whyItMightBeWrong": "Fiefia is a Republican. DeSantis called a special session on AI. Six in ten Republicans tell Quinnipiac they want more AI regulation. The state-level push is bipartisan; the industry's preferred framing as a partisan fight is strategic, not accurate."
+      },
+      {
+        "assumption": "Big Tech is fighting state laws to protect innovation.",
+        "whyItMightBeWrong": "The $2.3 million spent against a single congressional candidate is not an innovation strategy. It is an attempt to remove a person who knows how the product is built from the body that would regulate it. The industry is not afraid of bad regulation. It is afraid of informed regulation."
+      }
+    ],
+    "realDisagreement": "The genuine fork is between two visions of what federal preemption actually does. The industry argument is that uniform rules are simpler and better than 50 different regimes. The state lawmaker argument is that Congress will not act, so preemption without federal legislation means no rules at all, which is the outcome one side is actually after. Both sides are right about what the other side is doing. The question is whose silence is more dangerous: 50 states passing inconsistent laws, or Congress passing nothing. I lean toward the state-action side, because a patchwork of rules is at least evidence that democracy is working, while a federal void backed by preemption is just regulatory capture with extra steps."
+    ,
+    "whatNoOneIsSaying": "Every major Big Tech company lobbying for federal preemption employs former congressional staffers and has spent millions cultivating the legislators who would write the preemption bill. The companies are not asking for federal oversight. They are asking Congress to block state oversight while promising, implicitly, to regulate themselves. No one in the preemption debate will say this plainly because the companies fund the campaigns of almost everyone in the room.",
+    "whoPays": [
+      {
+        "who": "State lawmakers without tech backgrounds",
+        "how": "Overwhelmed by 166 registered lobbyists per bill, part-time legislators with full-time jobs cannot match industry resources; bills die in committee not because they are bad but because the other side can sustain pressure indefinitely",
+        "when": "Immediate, each legislative session"
+      },
+      {
+        "who": "Workers whose jobs will be automated or surveilled by AI",
+        "how": "Without state-level disclosure or accountability rules, employers can deploy AI in hiring, scheduling, and performance evaluation without any transparency requirement; no federal law exists to fill that gap",
+        "when": "Medium-term, as AI deployment accelerates in 2026-2028"
+      },
+      {
+        "who": "Minors on AI-driven platforms",
+        "how": "Child safety AI bills have been killed by federal preemption pressure in Utah and stalled in Louisiana and Missouri; the window for early protective legislation is closing as products become entrenched",
+        "when": "Slow-burn, damage accumulates before law catches up"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Preemption Without Replacement",
+        "whatHappens": "Congress passes a narrow preemption law at Big Tech's urging, blocking state bills. No substantive federal AI rules follow. The result is a regulatory vacuum lasting years, with industry self-governance as the default.",
+        "signal": "The preemption bill advances with minimal substantive requirements attached; industry groups praise it as 'innovation-friendly'"
+      },
+      {
+        "name": "State Patchwork Holds",
+        "whatHappens": "Congress fails to act. States pass 50 different regimes. Large companies standardize on the most stringent state rules (as they did with California's CCPA). A de facto national standard emerges from California and New York, not from Congress.",
+        "signal": "Tech companies begin lobbying California and New York directly, rather than opposing all state regulation; compliance officers get hired at scale"
+      },
+      {
+        "name": "Bipartisan State Coalition Forces Congress",
+        "whatHappens": "Republican-led states (Utah, Florida, Louisiana) pass AI bills despite Trump opposition. The bipartisan optics make federal preemption politically untenable. Congress is forced to write actual rules.",
+        "signal": "A Republican governor signs an AI safety bill into law; Trump refrains from public condemnation"
+      }
+    ],
+    "whatWouldChange": "If Congress actually moved a substantive AI bill with specific safety requirements, disclosure obligations, and enforcement mechanisms, the preemption argument would have merit. The tell is whether the industry supports a bill with teeth or only a bill that blocks states. Watch what they lobby for, not what they say they want.",
+    "markets": []
+  }
+}

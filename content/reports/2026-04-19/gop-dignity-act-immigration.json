@@ -1,0 +1,79 @@
+{
+  "id": "gop-dignity-act-immigration",
+  "date": "2026-04-19",
+  "generatedAt": "2026-04-19T22:45:00Z",
+  "title": "The Republican Party Is Having Its Immigration Fight In Public. One Side Wants Votes. The Other Wants Deportations.",
+  "subtitle": "Rep. Maria Elvira Salazar's Dignity Act would give pre-2021 undocumented immigrants legal status but no citizenship. A new PAC is spending to end her career. Manufacturers are endorsing her. The House majority is at stake.",
+  "topic": "politics",
+  "category": "conflict",
+  "tags": ["immigration", "GOP", "Dignity Act", "Salazar", "midterms", "amnesty"],
+  "coverImage": {
+    "url": "https://s.yimg.com/os/en/aol_the_hill_articles_315/f36e0fd7b1194f19c91beeb28836bc65",
+    "local": "/images/reports/2026-04-19/gop-dignity-act-immigration.jpg",
+    "credit": "The Hill / AOL"
+  },
+  "sources": [
+    {
+      "url": "https://www.aol.com/articles/gop-battle-over-salazar-dignity-160000197.html",
+      "publisher": "The Hill via AOL",
+      "angle": "Ground-level reporting on the Dignity Act fight within the GOP: Salazar's confrontation with Rep. Gill on the House floor, the Homeland PAC launch, the filing deadline implications for primaries, and the manufacturers' endorsement"
+    }
+  ],
+  "brief": {
+    "actors": ["Salazar", "Trump", "GOP", "Manufacturers"],
+    "whatHappened": "Rep. Maria Elvira Salazar, a Republican from a heavily Hispanic district in South Florida, has spent months building support for the Dignity Act, legislation that would give undocumented immigrants who arrived before 2021 legal status in exchange for a $7,000 fine and back taxes, with no path to citizenship and no welfare eligibility. The bill includes enhanced border security and E-Verify requirements. Conservative critics and the newly formed Homeland PAC are calling it amnesty and targeting every Republican co-sponsor. Rep. Brandon Gill of Texas, who opposes the bill, said he is 'diametrically opposed' and could not imagine any amendment making it acceptable. The National Association of Manufacturers has endorsed the bill. Several co-sponsors represent competitive districts Democrats need to win to retake the House majority.",
+    "bottomLine": "The Dignity Act is not about what to do with undocumented immigrants. It is about which Republican coalition survives the midterms: the nativist base that delivered 2024, or the Hispanic and manufacturing-aligned voters that a sustainable majority requires.",
+    "hiddenBets": [
+      {
+        "assumption": "The Dignity Act is amnesty.",
+        "whyItMightBeWrong": "No citizenship, no welfare access, a $7,000 payment, and E-Verify requirements are the opposite of the 1986 Reagan amnesty the right uses as its reference point. The word 'amnesty' in this context is a political label, not a description of the bill's content. Its use by opponents tells you about their strategic goal, not the legislation."
+      },
+      {
+        "assumption": "The bill has no path to becoming law, so this fight doesn't matter.",
+        "whyItMightBeWrong": "Even if the bill dies, the fight over it is reshaping which Republicans can hold competitive seats, which affects the House majority directly. The Homeland PAC's strategy is not to kill this bill. It is to make supporting any immigration reform electorally fatal for the next generation of Republican lawmakers."
+      },
+      {
+        "assumption": "Hispanic voters will reward Republicans for a path to legal status.",
+        "whyItMightBeWrong": "Hispanic voters delivered Trump significant margins in 2024 partly on economic issues, not immigration leniency. Assuming they primarily want amnesty for undocumented relatives misreads exit polling. The Salazar coalition may be smaller than she projects."
+      }
+    ],
+    "realDisagreement": "The genuine fork is between two theories of how the Republican Party builds a durable majority. The hardliner theory says the 2024 coalition was built on immigration restriction and delivering that coalition's demands is how you hold it: compromise on immigration and you lose the base without gaining enough moderates to compensate. The Salazar theory says a Republican coalition that cannot win Miami-Dade or any competitive suburban seat will eventually shrink below a governing majority, and that Hispanic voters who backed Trump in 2024 did so despite, not because of, deportation politics. Both theories have evidence. I lean toward the hardliner theory being correct in primaries and wrong in general elections, which means the party is optimizing for the wrong electorate. But the Homeland PAC is designed precisely to make that structural problem irreversible.",
+    "whatNoOneIsSaying": "The manufacturers are the most important actor no one is discussing. The National Association of Manufacturers endorsed a bill that would give legal status to millions of workers they currently employ without documentation. They are not doing this out of principle. They are doing this because enforcement of current law would remove millions of workers from their supply chains overnight. The corporate wing of the Republican Party has a profound interest in the Dignity Act that it cannot publicly acknowledge without alienating the base. So it issues endorsements and stays out of the fight.",
+    "whoPays": [
+      {
+        "who": "Undocumented workers in pre-2021 cohort",
+        "how": "If the bill dies and enforcement intensifies, workers who have been in the country for years and paid taxes face deportation regardless of their economic integration; the Dignity Act's failure removes the only legalization pathway currently on the table",
+        "when": "Ongoing through midterms and beyond"
+      },
+      {
+        "who": "Republican co-sponsors in competitive districts",
+        "how": "The Homeland PAC is targeting their donors and recruiting primary challengers; even if the filing deadlines have passed in some districts, the threat of future primary challenges creates a chilling effect on any Republican immigration moderation",
+        "when": "Immediate, through 2026 midterm cycle"
+      },
+      {
+        "who": "Manufacturing sector employers",
+        "how": "If the Dignity Act fails and a more aggressive enforcement push follows, industries from agriculture to meatpacking to construction face sudden labor shortages; E-Verify expansion without legalization creates compliance exposure for companies that currently operate on an informal basis",
+        "when": "Medium-term, within 12 months of any major enforcement action"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Bill Dies, Blame Game Follows",
+        "whatHappens": "The Dignity Act fails to get a vote in this Congress. Homeland PAC targets co-sponsors in future cycles. Salazar's district flips to a Democrat in the midterms because the fight cost her with both the base and moderate swing voters who saw Republican infighting.",
+        "signal": "Johnson refuses to schedule a floor vote; Salazar gives a floor speech framing the bill as the last chance for Republican outreach to Hispanic voters"
+      },
+      {
+        "name": "Quiet Negotiated Compromise",
+        "whatHappens": "Salazar and Gill negotiate a modified bill with stricter restitution requirements and explicit mass deportation exceptions. A small number of Republicans support it. It passes with Democratic help and faces a veto or signing.",
+        "signal": "The National Association of Manufacturers escalates its lobbying campaign; a Republican leadership member says publicly they are 'open to a vote'"
+      },
+      {
+        "name": "Fight Becomes Midterm Campaign Weapon",
+        "whatHappens": "Democrats spend heavily in competitive districts on ads tying Republican incumbents to primary threats over the Dignity Act, framing the GOP as chaotic and anti-Hispanic. The fight becomes a Democratic turnout tool regardless of the bill's fate.",
+        "signal": "DCCC adds Dignity Act co-sponsors to its target list as potentially flippable; Salazar districts see increased Democratic fundraising"
+      }
+    ],
+    "whatWouldChange": "If Trump publicly endorses or signals openness to the Dignity Act, the hardliner opposition collapses, because the base defers to Trump on immigration above all other voices. That has not happened. If he explicitly condemns it, the bill is dead and the question becomes who suffers electorally from the corpse.",
+    "markets": []
+  }
+}
