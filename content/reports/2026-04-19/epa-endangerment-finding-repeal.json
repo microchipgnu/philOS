@@ -1,0 +1,99 @@
+{
+  "id": "epa-endangerment-finding-repeal",
+  "date": "2026-04-19",
+  "generatedAt": "2026-04-19T17:32:00Z",
+  "title": "The EPA Just Erased the Legal Foundation for All Federal Climate Rules. The Courts Are the Only Thing Left.",
+  "subtitle": "Repealing the 2009 Endangerment Finding doesn't just end emissions regulations. It ends the EPA's legal authority to regulate greenhouse gases under any future administration without an act of Congress.",
+  "topic": "society",
+  "category": "power",
+  "tags": ["EPA", "climate", "Zeldin", "Clean Air Act", "greenhouse gas", "litigation", "Trump"],
+  "coverImage": {
+    "url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/04/Obama-EPA-2009-findings.jpeg",
+    "local": "/images/reports/2026-04-19/epa-endangerment-finding-repeal.jpg",
+    "credit": "Fox News"
+  },
+  "sources": [
+    {
+      "url": "https://ski-sports.com/protect-our-winters-calls-for-immediate-resignation-of-epa-administrator-lee-zeldin-following-repeal-of-greenhouse-gas-endangerment-finding/",
+      "publisher": "Ski Sports (Protect Our Winters press release)",
+      "angle": "Environmental group response: the repeal strips the federal government's primary legal obligation to regulate GHG emissions under the Clean Air Act; calls for Zeldin's resignation"
+    },
+    {
+      "url": "https://www.kalw.org/bay-area-news/2026-04-14/scientists-climate-activists-mourn-repeal-of-endangerment-finding-outside-san-francisco-epa-office",
+      "publisher": "KALW (NPR affiliate)",
+      "angle": "Street-level response: scientists and activists in San Francisco mourning what they call the end of federal climate authority; explains that the 2009 finding was the scientific-legal basis for all GHG rules"
+    },
+    {
+      "url": "https://spotonnorthcarolina.com/triangle/3153876/following-repeal-whats-next-for-the-endangerment.html",
+      "publisher": "SpotOnNC (aggregating WFU)",
+      "angle": "Legal analysis: 24 states are suing; explains the procedural status and what 'next' means for the courts"
+    },
+    {
+      "url": "https://www.foxnews.com/politics/unearthed-emails-expose-how-obama-era-epa-plotted-massive-regulations-day-one",
+      "publisher": "Fox News",
+      "angle": "Pro-repeal framing: unearthed Obama EPA emails allegedly show the 2009 Endangerment Finding was pre-determined politically before the science was completed, providing the administration's legitimacy argument for the repeal"
+    },
+    {
+      "url": "https://www.jdsupra.com/legalnews/podcast-environmental-evolutions-3416846/",
+      "publisher": "Baker Botts / JDSupra",
+      "angle": "Litigation and compliance perspective: what the repeal means for pending cases, compliance obligations, and the risk that courts will stay the repeal pending litigation"
+    }
+  ],
+  "brief": {
+    "actors": ["EPA", "Zeldin", "Trump", "24 states", "Clean Air Act", "Obama"],
+    "whatHappened": "EPA Administrator Lee Zeldin officially announced the repeal of the 2009 Endangerment Finding on approximately April 14, 2026. The 2009 finding, issued under the Obama administration, was the legal determination that greenhouse gases endanger public health and welfare, and it served as the statutory foundation for the EPA's authority to regulate carbon dioxide, methane, and other greenhouse gases under the Clean Air Act. Without the finding, the EPA has no legal basis to issue or enforce GHG emissions rules. Twenty-four states immediately filed suit to block the repeal, and environmental groups are pursuing emergency injunctions. Fox News simultaneously published emails it claims show the Obama EPA pre-determined the finding before completing scientific review.",
+    "bottomLine": "The Endangerment Finding repeal is not a policy change. It is the removal of the legal switch that allows any future administration to turn on climate regulation. To restore federal GHG authority, Congress would have to pass new legislation, which under current math is not possible.",
+    "hiddenBets": [
+      {
+        "assumption": "Courts will block the repeal and restore the finding",
+        "whyItMightBeWrong": "The legal standard for reversing a prior agency finding is high but not impossible. The Trump EPA will argue the 2009 finding was politically corrupted, supported by the leaked emails showing Obama officials pre-determining the conclusion. Courts have historically given EPA broad deference in scientific determinations, including the determination to undo a prior one. The litigation is not a certain win for climate advocates."
+      },
+      {
+        "assumption": "This primarily affects the current administration's policies",
+        "whyItMightBeWrong": "Even if a Democratic administration wins in 2028, restoring the Endangerment Finding requires going through the full Administrative Procedure Act rulemaking process again, which takes years and can be challenged again. The repeal creates a structural delay that outlasts this administration by a decade."
+      },
+      {
+        "assumption": "States and cities can fill the regulatory gap",
+        "whyItMightBeWrong": "California and other states regulate GHG emissions independently, but they cannot regulate the sectors that federal law covers, including interstate transportation, aviation, and large industrial facilities that cross state lines. The federal gap is real and cannot be fully filled by states."
+      }
+    ],
+    "realDisagreement": "The real fork is between treating climate regulation as a scientific question (GHGs are dangerous, the EPA must regulate them) versus treating it as a democratic question (Congress never explicitly authorized EPA to regulate CO2, and courts should not manufacture that authority). The Trump administration is betting that a narrow reading of the Clean Air Act will stick in front of this Supreme Court. The environmental legal establishment is betting that courts will not let an agency undo a factual scientific determination because a new administration disagrees with the politics. Both bets are defensible. The SCOTUS market already shows 93.65% odds of SCOTUS striking down Trump's Birthright Citizenship EO, but climate cases are different: SCOTUS already showed its hand on agency deference with West Virginia v. EPA in 2022. The court may not rescue a regulation it already neutered.",
+    "whatNoOneIsSaying": "The Fox News leaked emails strategy is not just a PR move. It's a legal brief preview. The administration will argue in court that the 2009 finding was not a scientific determination but a political one, and that courts should scrutinize it accordingly. If one judge buys that argument, it transforms every agency scientific finding in American law into a political document subject to reversal under any subsequent administration.",
+    "whoPays": [
+      {
+        "who": "Communities near large industrial emitters",
+        "how": "Federal GHG rules required power plants, refineries, and cement facilities to cut emissions. With no legal basis for those rules, enforcement stops and new permits can be issued without GHG limits. Air quality near these facilities will deteriorate.",
+        "when": "Immediate: enforcement stops now"
+      },
+      {
+        "who": "US companies that already invested in GHG compliance infrastructure",
+        "how": "Companies that spent capital on emissions monitoring, reporting, and reduction systems to comply with EPA rules now have competitors who face no such requirements. Their compliance investment becomes a cost without a regulatory benefit.",
+        "when": "Immediate competitive disadvantage"
+      },
+      {
+        "who": "Future Democratic administrations",
+        "how": "Restoring federal GHG authority now requires either winning in court, passing new legislation, or repeating years of rulemaking. Each of these takes 2-5 years and can be undone again. Climate regulation is no longer durable at the federal level.",
+        "when": "Structural, permanent without congressional action"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Courts Stay the Repeal",
+        "whatHappens": "One or more federal circuit courts issue preliminary injunctions blocking the repeal while litigation proceeds, preserving the finding's legal status for 2-3 years. The case reaches SCOTUS in 2028 or 2029.",
+        "signal": "A circuit court issues a stay within 60 days of the repeal's effective date."
+      },
+      {
+        "name": "Courts Let It Stand",
+        "whatHappens": "Courts apply the West Virginia v. EPA major questions doctrine and decline to reinstate a regulation of this magnitude without clear congressional authorization. Federal GHG regulation ends for this generation. States accelerate their own programs.",
+        "signal": "The D.C. Circuit denies a preliminary injunction, citing major questions doctrine and EPA deference to agency scientific reconsideration."
+      },
+      {
+        "name": "Congress Acts",
+        "whatHappens": "A future Congress, under different partisan control, passes a Clean Air Act amendment explicitly authorizing GHG regulation. This is the only path to durable federal climate authority.",
+        "signal": "A Senate filibuster reform or 60-vote climate bill gets floor time, which is not currently scheduled."
+      }
+    ],
+    "whatWouldChange": "If the Fox News emails showing Obama EPA pre-determination are authenticated and courts find them credible, the legal case for restoring the finding becomes much harder. If SCOTUS takes the 24-state suit quickly and rules narrowly on procedural grounds without reaching the merits, the finding could be restored while the underlying question stays open.",
+    "markets": []
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "id": "greece-labor-reform-strike",
+  "date": "2026-04-19",
+  "generatedAt": "2026-04-19T17:40:00Z",
+  "title": "Greek Workers Are Striking Against a Law That Extends the Work Week. The Government Is Calling It Modernization.",
+  "subtitle": "Greece's conservative government is trying to pass labor reforms that allow private-sector employers to set longer hours. Unions are shutting down the country for the second time this month to stop it.",
+  "topic": "economy",
+  "category": "conflict",
+  "tags": ["Greece", "labor", "strike", "Mitsotakis", "GSEE", "working hours", "EU labor law"],
+  "coverImage": {
+    "url": "https://azvision.az/photos/2025/10/1760444534.jpg",
+    "local": "/images/reports/2026-04-19/greece-labor-strike.jpg",
+    "credit": "AzVision"
+  },
+  "sources": [
+    {
+      "url": "https://en.azvision.az/news/193526/greek-strike-against-labour-reforms-disrupts-transport,-services.html",
+      "publisher": "AzVision",
+      "angle": "Straightforward news report: ships in port, trains halted, thousands marching in Athens; the strike is timed to coincide with Parliament's vote on the bill"
+    },
+    {
+      "url": "https://www.prnewswire.com/news-releases/unfi-teamsters-avert-strike-ratify-strong-first-contract-302746017.html",
+      "publisher": "PR Newswire / Teamsters",
+      "angle": "Contrast case: in the US, UNFI Teamsters ratified a strong first contract with 31% wage increases, averting a strike, showing that labor is winning in some contexts while losing in others"
+    }
+  ],
+  "brief": {
+    "actors": ["Greece", "GSEE", "ADEDY", "Mitsotakis", "EU", "Greek Parliament"],
+    "whatHappened": "Greek public and private sector unions GSEE and ADEDY called their second general strike of April on Tuesday, April 19, halting trains, keeping ships in port, and shutting down hospitals except for emergencies. Thousands of workers, including teachers, doctors, and journalists, marched to the Greek Parliament in Athens. The walkout was timed to coincide with parliamentary debate on labor reform legislation that would allow private-sector employers to structure working hours over longer reference periods, including a provision that critics say enables a de facto extension of the work week. Prime Minister Kyriakos Mitsotakis's New Democracy government argues the reforms modernize labor law and align Greece with EU productivity benchmarks. Unions argue the reforms will allow employers to legally require up to 13-hour workdays during peak periods.",
+    "bottomLine": "The Greek government is trying to make Greek labor law more like Germany's flexible working-time regulations. Greek unions are responding as if this is the 2010 austerity crisis. Both sides are right about what the other side wants.",
+    "hiddenBets": [
+      {
+        "assumption": "The labor reforms are about employer flexibility to grow the economy",
+        "whyItMightBeWrong": "Greece's private sector is dominated by small and micro-businesses with weak union presence and thin margins. Flexible working-time rules that work in Germany, where sectoral bargaining is strong and workers have real negotiating power, function differently in Greece's labor market structure. The flexibility lands with the employers, not the workers, because the balance of power is different."
+      },
+      {
+        "assumption": "The strikes will force the government to withdraw or significantly modify the bill",
+        "whyItMightBeWrong": "Mitsotakis has a parliamentary majority and has signaled he will pass the bill this week. The strikes are timed to create political cost, not to actually block the vote. The unions know the bill will pass; the strikes are about the 2027 election and about positioning the labor movement as the opposition when it does."
+      },
+      {
+        "assumption": "This is primarily a domestic Greek story",
+        "whyItMightBeWrong": "The EU is quietly pushing for working-time flexibility across southern Europe as part of productivity convergence with northern member states. Greece is the test case. If Mitsotakis passes this bill over large-scale strikes, it signals to other EU governments that similar reforms are politically survivable. If he withdraws, it signals the opposite."
+      }
+    ],
+    "realDisagreement": "The real fork is not about working hours. It is about whether labor law should be set at the sectoral level, where unions and employers negotiate collectively, or at the firm level, where individual employers have more power. The Mitsotakis reforms expand firm-level flexibility, which in a country with weak sectoral bargaining means expanding employer power. Unions want to preserve sectoral bargaining as the only counterweight they have. Both positions are coherent. The side that is strategically correct depends on whether you think Greek workers will benefit more from flexibility that allows them to earn more in peak seasons or from rigidity that prevents employers from forcing them to work more without additional pay. Given the power asymmetry in the Greek private sector, the union position is more defensible in practice even if the government's argument is correct in theory.",
+    "whatNoOneIsSaying": "The Mitsotakis government needs these reforms to pass to demonstrate to EU creditors and the European Commission that Greece is meeting its post-crisis modernization commitments. The real audience for the bill is not Greek workers or employers. It is Frankfurt and Brussels. The strikes embarrass Greece internationally, which is exactly why the government will not back down even if the domestic politics are painful.",
+    "whoPays": [
+      {
+        "who": "Greek private-sector workers without union coverage",
+        "how": "The flexible working-time provisions allow employers to require longer hours during peak periods and shorter hours during slow periods. Workers without union contracts have little ability to refuse. Their effective hourly rate drops during peak periods while nominal compliance is maintained.",
+        "when": "Immediately after the law takes effect"
+      },
+      {
+        "who": "Greek unions",
+        "how": "If the bill passes despite two general strikes, the unions' political leverage is visibly diminished. Employers will use the precedent to push for further deregulation in the next round of labor law changes.",
+        "when": "Structural, medium-term"
+      },
+      {
+        "who": "Workers in other southern EU countries",
+        "how": "If Greece successfully passes this bill with minimal political cost, similar legislation becomes more viable in Spain, Italy, and Portugal. The precedent is what's at stake, not just the Greek work week.",
+        "when": "Medium-term, next 2-4 years"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Bill Passes, Unions Regroup",
+        "whatHappens": "Parliament passes the labor reform this week. GSEE and ADEDY announce a third strike for May, focusing on the upcoming New Democracy conference. The issue becomes a 2027 election mobilization tool rather than a legislative fight.",
+        "signal": "Parliament votes yes on the bill within 5 days of this report. Unions announce a May mobilization within 48 hours of the vote."
+      },
+      {
+        "name": "Government Concedes on Peak Hours Cap",
+        "whatHappens": "Under pressure from within New Democracy's coalition, Mitsotakis accepts an amendment capping the total annual hours that can be accumulated under the flexible reference period. The union leadership claims partial victory and suspends further strikes.",
+        "signal": "A New Democracy MP proposes a specific hours cap amendment before the final vote, which the government accepts."
+      },
+      {
+        "name": "Constitutional Challenge",
+        "whatHappens": "Opposition parties refer the bill to Greece's Council of State for a constitutional review, arguing that the flexible working-time provisions violate the EU Working Time Directive. The law is suspended pending review.",
+        "signal": "SYRIZA or PASOK formally submits a constitutional reference within two weeks of passage."
+      }
+    ],
+    "whatWouldChange": "If the European Commission publicly endorses the Greek labor reform before the vote, it transforms the domestic political calculation: Mitsotakis can say he's implementing EU policy, not imposing austerity. If a court stays the law on EU Working Time Directive grounds, the government's modernization argument collapses immediately.",
+    "markets": []
+  }
+}

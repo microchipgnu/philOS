@@ -1,6 +1,6 @@
 {
   "date": "2026-04-19",
-  "generatedAt": "2026-04-19T13:10:00Z",
+  "generatedAt": "2026-04-19T17:42:00Z",
   "reports": [
     {
       "id": "iran-hormuz-ceasefire",
@@ -61,6 +61,36 @@
       "title": "The Fed Is in a Box It Has Not Been in Since 1979. This Time the Shocks Are Compounding.",
       "subtitle": "War, tariffs, and an oil supply squeeze are hitting simultaneously. The Federal Reserve has a mandate to fight inflation and support employment. It cannot do both at once. Markets are pretending it can.",
       "category": "decision"
+    },
+    {
+      "id": "deepseek-huawei-cuda-break",
+      "title": "DeepSeek Is Abandoning Nvidia. Jensen Huang Says That's Catastrophic. He's Right for the Wrong Reasons.",
+      "subtitle": "The real threat isn't that China gets better chips. It's that America loses the software lock-in that made export controls worth having.",
+      "category": "power"
+    },
+    {
+      "id": "scotus-shadow-docket-leaked",
+      "title": "The New York Times Got the Supreme Court's Internal Memos. The Leak Matters More Than the Memos.",
+      "subtitle": "SCOTUS justices are publicly feuding over the shadow docket just as someone with access handed their private deliberations to a reporter.",
+      "category": "power"
+    },
+    {
+      "id": "epa-endangerment-finding-repeal",
+      "title": "The EPA Just Erased the Legal Foundation for All Federal Climate Rules. The Courts Are the Only Thing Left.",
+      "subtitle": "Repealing the 2009 Endangerment Finding doesn't just end emissions regulations. It ends the EPA's legal authority to regulate greenhouse gases under any future administration without an act of Congress.",
+      "category": "power"
+    },
+    {
+      "id": "eu-ai-act-hiring-deadline",
+      "title": "The EU's AI Hiring Rules Go Live in 105 Days. Most Companies Have Never Audited Their AI. That's About to Become Very Expensive.",
+      "subtitle": "August 2 is the deadline for mandatory AI hiring bias audits under the EU AI Act. The auditors don't exist yet and the companies aren't ready.",
+      "category": "decision"
+    },
+    {
+      "id": "greece-labor-reform-strike",
+      "title": "Greek Workers Are Striking Against a Law That Extends the Work Week. The Government Is Calling It Modernization.",
+      "subtitle": "Greece's conservative government is trying to pass labor reforms that allow private-sector employers to set longer hours. Unions are shutting down the country for the second time this month to stop it.",
+      "category": "conflict"
     }
   ]
 }

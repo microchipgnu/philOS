@@ -99,6 +99,63 @@
           "relationship": "The Treasury's reversal of Bessent's stated position within 48 hours demonstrates the same pattern as Fed chair pre-commitment: the formal independence of the institution is maintained while the substantive outcome is determined by political priorities. Bessent said no; the administration said yes. Warsh has said he would cut. In both cases, the institution's stated position is subordinated to the executive's preference."
         }
       ]
+    },
+    {
+      "id": "control-strategies-backfire",
+      "title": "Control Strategies That Accelerate What They Were Designed to Prevent",
+      "description": "Two stories today are about the US government using restriction as a control strategy, and in both cases the restriction is directly producing the outcome it was supposed to prevent. Chip export controls were designed to keep China from building competitive AI. They forced China to optimize for cheap hardware and build an independent software stack, which is more durable than hardware access. The EPA's greenhouse gas rules were repealed to free industry from federal regulation. That leaves the US without any federal lever for future climate policy, accelerating the shift toward fragmented state-level and international regulation that US industry finds harder to navigate.",
+      "type": "cause-effect",
+      "stories": [
+        "deepseek-huawei-cuda-break",
+        "epa-endangerment-finding-repeal"
+      ],
+      "connections": [
+        {
+          "from": "deepseek-huawei-cuda-break",
+          "to": "epa-endangerment-finding-repeal",
+          "relationship": "Both stories are about the US government removing a structural dependency it thought gave it leverage, only to discover that the dependency was two-directional. Nvidia needed China's market; China needed Nvidia's chips. The EPA's regulatory authority meant industry had one standard to comply with; without it, US companies face 50 state standards plus international ones. Removing the central point of control fragments the landscape in ways that are harder for US actors to manage than the regulation was."
+        }
+      ]
+    },
+    {
+      "id": "eu-labor-algorithmic-control",
+      "title": "Europe's Two Fights Over Who Controls Workers",
+      "description": "Two stories today are simultaneously happening in Europe about the same underlying question from different directions: who gets to determine the conditions of employment. Greece is fighting over working hours through street strikes. The EU AI Act is fighting over algorithmic hiring through regulatory enforcement. Both are about whether employers can use new tools, flexible time rules in Greece and AI screening tools in the EU, to extract more from workers with less accountability. The street fight and the regulatory fight are happening at the same moment because the same underlying shift in employer power is driving both.",
+      "type": "tension-cluster",
+      "stories": [
+        "greece-labor-reform-strike",
+        "eu-ai-act-hiring-deadline"
+      ],
+      "connections": [
+        {
+          "from": "greece-labor-reform-strike",
+          "to": "eu-ai-act-hiring-deadline",
+          "relationship": "The Greek labor reform expands employers' ability to determine when workers work. The EU AI Act hiring rules constrain employers' ability to determine which workers they hire and for what reasons. Both are contests over employer power in labor markets, one happening through legislative action resisted by labor unions, the other through regulatory enforcement anticipated by compliance lawyers. They are the same fight in different registers."
+        }
+      ]
+    },
+    {
+      "id": "judicial-legitimacy-under-pressure",
+      "title": "The Courts Are the Last Stop, and Someone Is Already Leaking From Inside",
+      "description": "Three stories today land at the Supreme Court as the last institution standing between the executive branch and irreversible outcomes. The EPA repeal requires judicial intervention to survive. The Jan. 6 conviction erasure is a test of whether courts will rubber-stamp DOJ decisions that override jury verdicts. And now the Court itself is leaking confidential memos to the press, with justices publicly feuding over whether the shadow docket they relied on to block Obama's climate rules can be used legitimately. The court that must rule on the EPA repeal is the same court whose internal process is now visibly compromised.",
+      "type": "dependency-web",
+      "stories": [
+        "epa-endangerment-finding-repeal",
+        "scotus-shadow-docket-leaked",
+        "jan6-conviction-erasure"
+      ],
+      "connections": [
+        {
+          "from": "epa-endangerment-finding-repeal",
+          "to": "scotus-shadow-docket-leaked",
+          "relationship": "The leaked memos reveal that Roberts used the shadow docket to block the Obama Clean Power Plan, the predecessor to the regulations that the Endangerment Finding repeal dismantles. The court that used emergency orders to stop climate rules is now being asked to use those same emergency powers to restore the legal foundation for climate rules. The memo leak arrived at the exact moment when the court's credibility on climate is most at stake."
+        },
+        {
+          "from": "jan6-conviction-erasure",
+          "to": "scotus-shadow-docket-leaked",
+          "relationship": "The DOJ's attempt to erase Jan. 6 convictions and the SCOTUS shadow docket leak are both attacking court legitimacy from different directions simultaneously. One is the executive branch asking courts to override jury verdicts. The other is someone inside the court handing internal deliberations to the press. Both undermine the premise that courts are neutral and that their decisions reflect something other than political calculation."
+        }
+      ]
     }
   ]
 }
