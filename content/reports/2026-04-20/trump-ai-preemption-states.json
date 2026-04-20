@@ -1,0 +1,98 @@
+{
+  "id": "trump-ai-preemption-states",
+  "date": "2026-04-20",
+  "generatedAt": "2026-04-20T22:00:00Z",
+  "title": "Trump Wants a Single AI Law for All 50 States. He's Lost the Senate 99 to 1.",
+  "subtitle": "The White House's National AI Framework asks Congress to preempt every state AI law in America. States have enacted 145 laws and introduced 1,208 more. Congress stripped the preemption provision from the big bill 99-1.",
+  "topic": "tech",
+  "category": "power",
+  "tags": ["AI regulation", "Trump", "states rights", "Congress", "preemption", "xAI", "California"],
+  "coverImage": {
+    "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2026/04/trump-ai-national-standard-preempt-state-regulation.png",
+    "local": "/images/reports/2026-04-20/ai-federal-preemption.jpg",
+    "credit": "The Next Web"
+  },
+  "sources": [
+    {
+      "url": "https://thenextweb.com/news/trump-ai-national-standard-preempt-state-regulation",
+      "publisher": "The Next Web",
+      "angle": "The most comprehensive account of the three-pronged federal campaign: DOJ litigation task force targeting state AI laws, Commerce Department review of 'burdensome' state regulations, and the legislative framework. Notes the 99-1 Senate vote stripping preemption from the One Big Beautiful Bill Act."
+    },
+    {
+      "url": "https://www.beaumontenterprise.com/news/politics/article/trump-wants-to-stop-states-from-regulating-ai-22214441.php",
+      "publisher": "AP / Beaumont Enterprise",
+      "angle": "Profiles Utah state rep Doug Fiefia, a former Google employee, whose modest AI transparency bill died after White House pressure. Shows the preemption effort is already chilling state legislation without formal law."
+    },
+    {
+      "url": "https://www.mbhb.com/intelligence/snippets/constitutional-collision-questions-to-assess-the-2026-national-ai-framework/",
+      "publisher": "MBHB (IP Law Firm)",
+      "angle": "Legal analysis of the March 2026 National AI Framework. Identifies three unresolved constitutional questions: whether federal preemption is within Congress's Commerce Clause authority, what happens to existing state laws, and whether the 'minimally burdensome' standard creates an enforceable floor or ceiling."
+    },
+    {
+      "url": "https://captaincompliance.com/education/xai-v-bonta-why-this-constitutional-showdown-over-ai-training-data-is-about-much-more-than-one-company/",
+      "publisher": "Captain Compliance",
+      "angle": "Analysis of xAI v. Bonta, where Elon Musk's company is suing California's AG over AI training data transparency requirements. Argues the case is a test of whether states can regulate AI inputs at all, not just AI outputs."
+    },
+    {
+      "url": "https://www.washingtonpost.com/wp-intelligence/ai-tech-brief/2026/04/20/ai-tech-brief-congress-wants-your-ai-queries/",
+      "publisher": "Washington Post",
+      "angle": "House Homeland Security Chair wants Congress to require AI companies to share query data for counterterrorism purposes. Notes Anthropic is unlikely to win its DOD lawsuit, setting up a Supreme Court case. The federal government wants more AI oversight, just not from states."
+    }
+  ],
+  "brief": {
+    "actors": ["Trump", "Congress", "xAI", "California", "Anthropic"],
+    "whatHappened": "The Trump administration's March 2026 National AI Framework formally proposed federal preemption of all state AI regulation, arguing a patchwork of state laws creates an unworkable compliance burden for AI companies and disadvantages US firms relative to China. The framework asks Congress to establish a 'minimally burdensome national standard.' Congress has already rejected preemption: a Senate vote stripped an AI moratorium provision from the One Big Beautiful Bill Act 99-1. States have moved in the opposite direction: 1,208 AI bills introduced in 2025, 145 enacted. A Utah AI transparency bill died after White House pressure on the sponsor. Elon Musk's xAI has filed a separate lawsuit against California's AI training data transparency law, arguing it violates the First Amendment. The House Homeland Security Committee is simultaneously pushing to require AI companies to share user queries with federal counterterrorism authorities.",
+    "bottomLine": "The federal government does not actually want a 'minimally burdensome' national AI standard: it wants federal access to AI systems for surveillance purposes and wants to prevent states from requiring transparency that would expose what federal agencies are doing with AI.",
+    "hiddenBets": [
+      {
+        "assumption": "The administration's AI preemption goal is economic: reduce compliance burden for AI companies",
+        "whyItMightBeWrong": "If the goal were truly reducing AI compliance burden, the administration would be working with states to harmonize standards. Instead, it is using a DOJ litigation task force to challenge state laws and pressure individual state legislators. That is the behavior of an actor that wants to eliminate state oversight, not coordinate it. The counterterrorism query-sharing proposal from the Homeland Security Committee reveals the actual interest: federal control of AI information flows."
+      },
+      {
+        "assumption": "The 99-1 Senate vote means preemption is dead",
+        "whyItMightBeWrong": "The 99-1 vote rejected preemption as a rider on a budget reconciliation bill. It does not reflect what the Senate would vote on a standalone AI governance bill after two more years of AI incidents, potential election interference, and corporate lobbying. The vote is a data point, not a settled position. Three significant AI incidents between now and 2028 could reverse it."
+      },
+      {
+        "assumption": "States are better positioned than the federal government to regulate AI",
+        "whyItMightBeWrong": "California has the resources and expertise to regulate AI seriously. Mississippi does not. A patchwork that functions as de facto California AI law for all US companies because California is too large to ignore gives a single state veto power over national AI development policy, which is a different problem than no regulation at all."
+      }
+    ],
+    "realDisagreement": "The genuine fork is between two coherent positions that cannot both be true. First: AI is a national infrastructure issue like the internet, and fragmented state regulation will produce the same problems that fragmented state internet regulation would have produced in 1995, meaning the industry is right that you need federal preemption. Second: AI systems are being used to make decisions about housing, employment, and criminal justice for specific people in specific states, and the people most harmed by those decisions deserve a legal forum that is close to them, not one in Washington DC controlled by the same federal agencies buying the AI. The administration has taken the first position while using the tools of the second position, specifically law enforcement, to enforce the first. That is not a principled resolution of the tension; it is a grab for federal control dressed as regulatory simplification.",
+    "whatNoOneIsSaying": "The AI companies lobbying hardest for federal preemption are the same companies with the largest federal government contracts. A national standard administered by the Commerce Department is a standard those companies will help write, because they have the most lobbyists in Washington and the most existing relationships with federal procurement officials. State laws are unpredictable and potentially stricter. Federal preemption is not deregulation; it is regulatory capture with better branding.",
+    "whoPays": [
+      {
+        "who": "People subject to automated decisions in conservative-governed states",
+        "how": "If federal preemption eliminates state AI transparency requirements, residents of states with weak federal representation and strong AI deployment, such as states using AI for benefits determinations or criminal risk scoring, lose their closest avenue for redress.",
+        "when": "Ongoing; accelerates if preemption legislation passes"
+      },
+      {
+        "who": "AI startups outside the major labs",
+        "how": "A federal standard written by the largest AI companies will calibrate compliance costs to what those companies can absorb. Smaller companies face the same compliance burden with a fraction of the legal resources. Preemption is not neutral across firm sizes.",
+        "when": "Medium-term, as the regulatory framework solidifies"
+      },
+      {
+        "who": "State attorneys general",
+        "how": "The DOJ litigation task force is directly targeting their AI enforcement actions. AGs in California, Illinois, and New York who have filed AI enforcement cases face federal preemption claims that would void their cases retroactively if Congress passes a national framework with preemption language.",
+        "when": "Immediate; cases are active now"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Federal preemption passes",
+        "whatHappens": "Congress passes a national AI bill with preemption language by early 2027, after a major AI-related incident provides political cover. States' existing laws are grandfathered for 18 months then sunset. The Commerce Department becomes the primary AI regulator.",
+        "signal": "A significant AI-caused incident, such as a deepfake election interference event, generates enough Senate support to overcome the 99-1 precedent. A preemption bill advances out of committee."
+      },
+      {
+        "name": "California de facto standard",
+        "whatHappens": "Federal preemption fails. California's AI laws continue to expand. AI companies build to California standards because it is the largest market. The US ends up with de facto national AI regulation written by Sacramento, not Washington.",
+        "signal": "Three more California AI bills enacted by end of 2026. No federal bill advances out of committee."
+      },
+      {
+        "name": "Court resolution",
+        "whatHappens": "xAI v. Bonta reaches the Supreme Court and produces a ruling on the extent of state authority over AI training data. The ruling either validates state regulation or narrows it dramatically, providing the de facto national standard that legislation has failed to produce.",
+        "signal": "xAI v. Bonta granted certiorari by SCOTUS. Ruling expected to define the preemption question by 2027-2028."
+      }
+    ],
+    "whatWouldChange": "If the administration published a specific proposed federal AI standard with substantive content, rather than a framework calling for 'minimally burdensome' rules, the bottom line becomes testable: you could compare the proposed federal standard to California's standard and see which is more protective. Right now, the administration is arguing for a standard that does not yet exist, which makes it impossible to evaluate whether it would be better or worse than the state laws it would replace."
+  }
+}

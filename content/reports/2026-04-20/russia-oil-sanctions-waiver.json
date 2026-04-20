@@ -1,0 +1,106 @@
+{
+  "id": "russia-oil-sanctions-waiver",
+  "date": "2026-04-20",
+  "generatedAt": "2026-04-20T22:00:00Z",
+  "title": "The US Is Funding Russia's War While Ukraine Bombs Russia's Oil Refineries",
+  "subtitle": "Washington extended a waiver allowing Russian oil sales on April 17. Within hours, Ukrainian drones struck five Russian refineries. Kyiv is now running a unilateral sanctions policy against its own ally's policy.",
+  "topic": "geopolitics",
+  "category": "conflict",
+  "tags": ["Russia", "Ukraine", "oil", "sanctions", "Trump", "energy", "war"],
+  "coverImage": {
+    "url": "https://www.reuters.com/resizer/v2/Z4KL3MI76NIOLHOLWJLELCOWDM.jpg?auth=73077830760eaa06bf32f0e75cd27d7b18965015669a545497546e5badf6aeba&height=1005&width=1920&quality=80&smart=true",
+    "local": "/images/reports/2026-04-20/russia-oil-sanctions-waiver.jpg",
+    "credit": "Reuters"
+  },
+  "sources": [
+    {
+      "url": "https://rigsbargeworld.com/us-extends-russian-oil-sanctions-wavier-amid-global-energy-volatility/",
+      "publisher": "Rigs & Barge World",
+      "angle": "Reports the Treasury Department's April 17 authorization allowing purchase of Russian oil already loaded at sea through May 16. Notes the waiver excludes Iran, Cuba, and Venezuela, but not the oil itself."
+    },
+    {
+      "url": "https://georgiatoday.ge/ukraine-strikes-russian-oil-infrastructure-hours-after-the-us-waives-sanctions-on-moscows-crude/",
+      "publisher": "Georgia Today",
+      "angle": "Directly connects the timing: Ukraine struck within hours of the waiver announcement. Frames Kyiv's action as a deliberate signal that it will enforce energy sanctions with drones when Washington will not enforce them with policy."
+    },
+    {
+      "url": "https://neutralecho.com/story/Ukrainian_President_Zelensky_Criticizes_US_for_Extending_Russian_Sanctions_Waiver",
+      "publisher": "Neutral Echo",
+      "angle": "Zelensky's public condemnation: the waiver 'funds the war.' Notes this is the second consecutive waiver extension, suggesting a pattern rather than a one-time exception."
+    },
+    {
+      "url": "https://www.reuters.com/business/energy/ukraines-zelenskiy-says-druzhba-oil-pipeline-flow-be-restored-by-end-april-2026-04-20/",
+      "publisher": "Reuters",
+      "angle": "Zelensky says Ukraine will restore the Druzhba pipeline to Hungary by end of April, revealing the contradiction: Ukraine bombs Russian refineries but will restore the pipeline that carries Russian oil to EU allies."
+    },
+    {
+      "url": "https://newssky.com.ua/en/ukrayina-zavdala-udariv-po-pyaty-naftopererobnyh-obyektah-rf-odrazu-pislya-vidmovy-ssha-vid-sankczij/",
+      "publisher": "News Sky Ukraine",
+      "angle": "Ukrainian military framing: the strikes were strategic, not retaliatory. Identifies five specific targets in the Samara region and the Tikhoretsk complex. Frames it as a deliberate disruption of Russian refinery capacity."
+    }
+  ],
+  "brief": {
+    "actors": ["Trump", "Ukraine", "Russia", "Zelensky"],
+    "whatHappened": "On April 17, the Trump administration's Treasury Department extended a waiver allowing countries to purchase Russian oil already loaded at sea, the second such 30-day extension. The stated reason was calming global energy markets disrupted by the US-Israel war against Iran. Within hours of the announcement, Ukrainian drone forces struck five Russian oil refineries simultaneously, including the Novokuybyshevsk and Syzran refineries in the Samara region. Zelensky publicly condemned the waiver, calling it direct funding of Russia's military. On April 20, Zelensky separately announced Ukraine would restore the Druzhba pipeline, which carries Russian oil to Hungary, by end of April. The US defended the waiver as routine energy policy. Kremlin spokesman Dmitry Peskov said the world 'cannot ignore Russia.'",
+    "bottomLine": "The US and Ukraine are now running contradictory energy policies toward Russia simultaneously: Washington protects Russian oil revenue to stabilize global markets, and Kyiv destroys Russian refinery capacity to deny that same revenue.",
+    "hiddenBets": [
+      {
+        "assumption": "The waiver is about energy markets, not Russia policy",
+        "whyItMightBeWrong": "The Iran war already disrupted Hormuz. The waiver effectively replaces Iranian oil supply with Russian oil supply in global markets. That is not a neutral energy decision: it explicitly makes Russia the beneficiary of the US military action against Iran. The financial flows are direct and visible. Calling it 'energy policy' rather than 'Russia policy' is a distinction that exists only in press releases."
+      },
+      {
+        "assumption": "Zelensky's drone strikes are a substitute for sanctions enforcement",
+        "whyItMightBeWrong": "Physical destruction of refineries raises oil prices globally, including in Europe, which is still dependent on energy stability to fund Ukraine's war effort. Ukraine may be denying Russia revenue from one refinery while inadvertently raising prices that benefit Russia's remaining production. The net revenue effect of the strikes is ambiguous."
+      },
+      {
+        "assumption": "Ukraine restoring the Druzhba pipeline contradicts its refinery strikes",
+        "whyItMightBeWrong": "It might not be a contradiction. Ukraine may be calculating that allowing pipeline flow to Hungary keeps Hungary from blocking EU aid packages, while striking refineries keeps Russian refinery export capacity degraded. The two actions serve different political purposes and are not logically inconsistent, even if they look contradictory on the surface."
+      }
+    ],
+    "realDisagreement": "The actual fork is whether the US has a coherent Russia policy or is managing four separate policy objectives that are in direct conflict: containing Russia in Ukraine, stabilizing energy markets after the Iran war, maintaining European alliance cohesion, and avoiding Russian escalation. The administration is implicitly arguing these can all be true simultaneously. Ukraine's behavior suggests it disagrees. The market-at-29.5% for a Russia-Ukraine ceasefire by end of 2026 tells you that serious observers do not think the current policy environment resolves toward peace quickly. Which side you lean toward depends on whether you think 'managed contradiction' is a viable long-term strategy or an unstable equilibrium waiting to collapse.",
+    "whatNoOneIsSaying": "The second consecutive waiver extension means the Treasury is now effectively providing a predictable 30-day horizon for Russian oil sales, renewable monthly. That is structurally equivalent to an ongoing exemption, not an emergency measure. The framing as a temporary response to the Iran war obscures that the administration has created a durable policy instrument for protecting Russian energy revenue. The first waiver could be an exception; the second is a policy.",
+    "whoPays": [
+      {
+        "who": "Workers at the five struck Russian refineries",
+        "how": "Direct: drone strikes on industrial facilities kill workers and destroy livelihoods. The Samara region refineries employ tens of thousands of workers.",
+        "when": "Immediate"
+      },
+      {
+        "who": "EU consumers, especially in Hungary and Slovakia",
+        "how": "Hungary and Slovakia depend on Druzhba pipeline oil. Ukraine's refinery strikes and any further escalation of energy infrastructure warfare raise their fuel costs. They are caught between their NATO obligations and their energy dependence.",
+        "when": "Immediate through medium-term"
+      },
+      {
+        "who": "US credibility on sanctions policy",
+        "how": "The waiver sends a clear signal to every country under US sanctions that Washington will carve out exceptions when its own energy interests are at stake. This is not hypothetical: it is exactly the calculation Iran made about US resolve, and it is exactly the calculation China is making about Taiwan sanctions.",
+        "when": "Long-term, structural erosion already underway"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Managed contradiction holds",
+        "whatHappens": "The US renews the waiver monthly, Ukraine continues periodic refinery strikes, and the two policies coexist in uncomfortable parallel until either the Iran war resolves and the energy justification disappears, or Ukraine's military position forces a diplomatic opening.",
+        "signal": "A third consecutive waiver extension in mid-May. No US condemnation of Ukraine's refinery strikes."
+      },
+      {
+        "name": "Ukraine escalates to pipeline infrastructure",
+        "whatHappens": "Frustrated by the waiver pattern, Ukraine strikes the Druzhba pipeline itself or a major Russian export terminal, forcing the EU to choose between energy security and Ukraine solidarity. The contradiction becomes unmanageable.",
+        "signal": "A Ukrainian strike on a pipeline facility or major port terminal within 30 days of the next waiver extension."
+      },
+      {
+        "name": "The waiver becomes the peace process",
+        "whatHappens": "The Treasury waiver is quietly offered as a US concession in back-channel negotiations with Moscow. Russia's willingness to renew it becomes a signal of engagement. The energy exemption is the opening of a deal framework neither side can publicly announce.",
+        "signal": "US-Russia back-channel meetings confirmed. Waiver extended beyond May with no public justification tied to Iran."
+      }
+    ],
+    "whatWouldChange": "If the Treasury refused a third extension, the bottom line changes: the administration would be signaling that the Iran-war energy justification was genuine, not a pretext for a durable Russia accommodation. If Zelensky publicly accepted the waiver without further strikes, it would suggest Ukraine received something in exchange for its silence, and the managed-contradiction is actually a managed deal.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Russia x Ukraine ceasefire by end of 2026?",
+        "url": "https://polymarket.com/event/russia-x-ukraine-ceasefire-before-2027",
+        "probability": 0.295
+      }
+    ]
+  }
+}

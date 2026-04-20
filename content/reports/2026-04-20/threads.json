@@ -144,12 +144,69 @@
       "title": "Regulation as Incumbent Protection",
       "description": "Two tech stories today reflect the same underlying dynamic: large incumbents with legal departments, compliance infrastructure, and government relationships are shaping regulatory frameworks that create barriers too costly for challengers to clear. The EU AI Act's 'open-source exemption' exempts almost nothing that matters commercially, benefiting labs like Google, Meta, and Anthropic which already have compliance teams. The Anthropic Mythos story from earlier shows the same pattern in the US: a lab that can afford safety teams gets exclusive government contracts while the public is excluded for safety reasons. Both cases convert 'safety' into market structure.",
       "type": "tension-cluster",
-      "stories": ["eu-ai-act-enforcement-clock", "anthropic-mythos-danger"],
+      "stories": ["eu-ai-act-enforcement-clock", "anthropic-mythos-danger", "trump-ai-preemption-states"],
       "connections": [
         {
           "from": "anthropic-mythos-danger",
           "to": "eu-ai-act-enforcement-clock",
           "relationship": "Anthropic restricts Mythos from public access while selling government access, mirroring the EU AI Act's structure where compliance costs restrict market entry to established players while governments get special access arrangements"
+        },
+        {
+          "from": "trump-ai-preemption-states",
+          "to": "anthropic-mythos-danger",
+          "relationship": "Federal preemption of state AI laws, lobbied for by the largest AI labs, would eliminate the state-level transparency requirements that most directly threaten the government-exclusive AI access arrangements the labs have built"
+        }
+      ]
+    },
+    {
+      "id": "us-ally-reliability-crisis",
+      "title": "The American Guarantee Is No Longer Taken at Face Value",
+      "description": "Three stories today are about allies building parallel arrangements because they no longer fully trust US commitments to be durable. France is offering Poland a nuclear umbrella while the US declines to reaffirm its own. The Gulf states are deepening China ties because the Iran war proved the US security guarantee comes with costs that allies do not get to vote on. And Ukraine is bombing Russian refineries because US sanctions policy is running in the opposite direction of Kyiv's military strategy. In each case, the ally is not abandoning the US relationship; it is hedging against the scenario where that relationship fails or changes terms without notice. That is not alliance solidarity. It is alliance insurance.",
+      "type": "tension-cluster",
+      "stories": ["france-poland-nuclear-umbrella", "gulf-china-pivot", "russia-oil-sanctions-waiver"],
+      "connections": [
+        {
+          "from": "russia-oil-sanctions-waiver",
+          "to": "france-poland-nuclear-umbrella",
+          "relationship": "Ukraine's experience of watching its ally waive sanctions on the country fighting it accelerates Poland's calculation that unilateral hedging through a French nuclear arrangement is necessary, not just optional"
+        },
+        {
+          "from": "gulf-china-pivot",
+          "to": "france-poland-nuclear-umbrella",
+          "relationship": "Both Gulf states and Poland are executing the same strategic move in different regions: maintaining the US relationship while building a parallel arrangement that does not depend on US political continuity"
+        }
+      ]
+    },
+    {
+      "id": "rfk-health-coalition-fracture",
+      "title": "RFK's Coalition Is Two Movements Pretending to Be One",
+      "description": "Two HHS stories today expose the same internal contradiction in the MAHA movement. RFK got grilled in Congress for killing a vaccine awareness campaign while simultaneously getting 18 states to restrict junk food from SNAP. The SNAP ban is a genuine public health win that drew support from public health advocates who oppose RFK on vaccines. The vaccine opposition drew condemnation from the same medical community that would otherwise cheer the food restrictions. RFK is simultaneously running two campaigns, one scientifically defensible and one not, and the political coalition holding both together is unstable. The moment a measles outbreak or a food-access crisis makes the costs visible, the coalition splits along the line that was always there.",
+      "type": "tension-cluster",
+      "stories": ["rfk-hhs-vaccine-split", "snap-junk-food-ban"],
+      "connections": [
+        {
+          "from": "rfk-hhs-vaccine-split",
+          "to": "snap-junk-food-ban",
+          "relationship": "Both stories are driven by the same HHS leadership, but the junk food restriction attracts medical mainstream support while the vaccine position repels it; the political cover from SNAP success is enabling the vaccine agenda to survive longer than it would otherwise"
+        }
+      ]
+    },
+    {
+      "id": "apple-ai-leadership-vacuum",
+      "title": "The AI Era Has No Consensus Leader at the Top of Any Major Institution",
+      "description": "Apple just installed a hardware engineer as CEO of the world's most valuable company during the most consequential AI product cycle of the decade. The Fed is getting a chair who has never run monetary policy during a war-driven stagflationary period. Anthropic's CEO is in the White House negotiating government AI access while his company's most powerful model is unavailable to the public. Every major institution navigating the AI transition is being led by someone without directly applicable experience for this specific moment. The transition is not just technological; it is a leadership vacuum where the old credentials do not match the new requirements.",
+      "type": "tension-cluster",
+      "stories": ["apple-ceo-transition", "warsh-fed-confirmation", "anthropic-mythos-danger"],
+      "connections": [
+        {
+          "from": "apple-ceo-transition",
+          "to": "anthropic-mythos-danger",
+          "relationship": "Ternus taking over Apple's AI strategy with a hardware background is structurally parallel to Anthropic's CEO making national security deals with no track record in government procurement; both are leaders operating outside their demonstrated competence in high-stakes AI decisions"
+        },
+        {
+          "from": "warsh-fed-confirmation",
+          "to": "apple-ceo-transition",
+          "relationship": "Both transitions install new leaders at peak difficulty moments: Warsh inherits stagflation from an Iran war, Ternus inherits a failing AI product cycle at a company that has never been behind on a platform shift and does not know how to catch up"
         }
       ]
     }

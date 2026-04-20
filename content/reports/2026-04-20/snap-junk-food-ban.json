@@ -1,0 +1,98 @@
+{
+  "id": "snap-junk-food-ban",
+  "date": "2026-04-20",
+  "generatedAt": "2026-04-20T22:00:00Z",
+  "title": "RFK Got 18 States to Ban Junk Food From Food Stamps. PepsiCo Cut Prices by 15%.",
+  "subtitle": "Florida and nearly two dozen states began restricting SNAP purchases to exclude soda, candy, and ultra-processed foods today. Within a week of the first bans, PepsiCo dropped snack prices 15%. The food industry is reacting faster than the policy can move.",
+  "topic": "society",
+  "category": "power",
+  "tags": ["SNAP", "food stamps", "RFK Jr", "HHS", "food policy", "PepsiCo", "public health", "Florida"],
+  "coverImage": {
+    "url": "https://imagenes.elpais.com/resizer/v2/TV47PWYREZLTXPLFPZXS24K5UM.jpg?auth=b470221815b31ed7bdf15c754eafe2d40106b498217edc032c44f0bd210a7286&width=1200",
+    "local": "/images/reports/2026-04-20/snap-food-restrictions.jpg",
+    "credit": "El Pais"
+  },
+  "sources": [
+    {
+      "url": "https://www.independent.co.uk/news/world/americas/us-politics/snap-food-stamps-healthy-rfk-jr-b2961252.html",
+      "publisher": "The Independent",
+      "angle": "Comprehensive overview of which states have enacted restrictions and what the waiver process looks like. Notes that nearly two dozen states have enacted changes and that the restrictions vary considerably by state, creating the same patchwork problem the administration claims to be solving in AI."
+    },
+    {
+      "url": "https://www.wftv.com/news/local/florida-limits-snap-purchases-sodas-candy-desserts-starting-monday/JKWHYBPQ25BAVFR35Q3WQC76ZE/",
+      "publisher": "WFTV Orlando",
+      "angle": "Florida-specific: lists exactly which items are now excluded, including soda, energy drinks, candy, and ultra-processed shelf-stable desserts. Notes the Florida DCF filed the waiver in May 2025 and it took nearly a year to implement."
+    },
+    {
+      "url": "https://english.elpais.com/usa/2026-04-20/florida-implements-new-restrictions-on-snap-benefits.html",
+      "publisher": "El Pais",
+      "angle": "Notes the political coalition behind the restrictions is unusual: RFK-led MAHA movement, conservative Republican governors, and Democratic public health advocates are all supporting similar policies for very different reasons."
+    },
+    {
+      "url": "https://wmbdradio.com/2026/04/20/150000-illinois-households-may-lose-federal-food-assistance-beginning-may-1/",
+      "publisher": "WMBD Radio",
+      "angle": "Illinois angle: 150,000 households face losing food assistance beginning May 1 under a parallel set of SNAP eligibility changes. Separates the food-content restrictions from the eligibility-reduction push, which is a different and larger policy fight."
+    }
+  ],
+  "brief": {
+    "actors": ["RFK Jr", "Trump", "PepsiCo", "Florida", "USDA"],
+    "whatHappened": "Starting April 20, Florida joined approximately 18 states that have enacted changes to their SNAP programs to exclude soda, energy drinks, candy, and ultra-processed desserts from eligible purchases. The restrictions implement a USDA waiver process that RFK Jr., as HHS Secretary, and USDA Secretary Brooke Rollins accelerated. Florida's Department of Children and Families filed the waiver in May 2025; it took nearly a year to take effect. Within a week of the first state bans taking effect, PepsiCo cut prices on Doritos, Lay's, and Tostitos by up to 15%, a move industry analysts directly attributed to the loss of guaranteed SNAP demand for those products. Illinois separately announced 150,000 households may lose SNAP eligibility entirely beginning May 1 under a different set of rule changes, a policy that receives less attention but affects more people than the food-content restrictions.",
+    "bottomLine": "The junk food ban is genuinely working as a market signal even before it is fully implemented, but the policy coalition behind it is so internally contradictory that it will not survive contact with its own consequences.",
+    "hiddenBets": [
+      {
+        "assumption": "Restricting what SNAP pays for improves food security",
+        "whyItMightBeWrong": "SNAP recipients do not eat only what SNAP pays for. They have cash, other income, and food pantry access. If someone's SNAP allocation no longer covers soda but they want soda, they buy it with cash and use SNAP for other items. The restriction reallocates SNAP spending toward approved foods but does not necessarily change total dietary intake. The evidence base for whether SNAP restrictions change health outcomes is weak and contested."
+      },
+      {
+        "assumption": "The RFK-Republican coalition on food policy is stable",
+        "whyItMightBeWrong": "Republican governors supporting SNAP food restrictions are simultaneously pushing to cut SNAP eligibility. Those are politically compatible but logically in tension: if the goal is healthy eating among low-income people, cutting eligibility removes healthy eating options for the most food-insecure households. RFK's MAHA movement cares about food quality; the Republican budget coalition cares about SNAP spending cuts. They are using each other's political cover without sharing goals."
+      },
+      {
+        "assumption": "PepsiCo's 15% price cut is a public health victory",
+        "whyItMightBeWrong": "Lower snack prices make those snacks more accessible to non-SNAP consumers, including children in households with incomes just above the SNAP cutoff. The price cut could increase total junk food consumption among the broader population while reducing it among SNAP recipients. The net public health effect is ambiguous."
+      }
+    ],
+    "realDisagreement": "The actual disagreement is not about junk food. It is about whether SNAP is a welfare program or a food program. If it is welfare, recipients should be able to spend their benefits how they choose, and restricting their choices is paternalistic interference with people's autonomy over their own lives. If it is a food program, it should buy nutritious food, full stop, and the fact that it has been buying Mountain Dew and Gummy Bears for decades is a policy failure. This is not a trivial distinction: it determines whether the relevant comparison is 'SNAP vs. cash welfare' or 'SNAP vs. school nutrition programs.' The honest position is that SNAP was designed as a food program and has been administered as unconditional welfare, and the food industry has been the primary beneficiary of that inconsistency for forty years. PepsiCo spent $2.8 million lobbying to keep junk food eligible. That fact is the most important data point in this entire debate.",
+    "whatNoOneIsSaying": "The Illinois story, 150,000 households losing SNAP eligibility entirely, is receiving a fraction of the coverage of the junk food ban. Those households lose all food assistance, not just the ability to buy soda. The junk food ban is politically palatable because it can be framed as a public health win. Eligibility cuts are politically harder because they leave people hungry. The MAHA messaging around the ban is actively obscuring the eligibility-reduction push by providing cover for the same political coalition.",
+    "whoPays": [
+      {
+        "who": "SNAP recipients who buy restricted items",
+        "how": "They must either stop buying those items with SNAP or buy them with cash and reallocate SNAP spending. For households with very tight cash budgets, the cash reallocation means less flexibility overall. The grocery cost math gets harder.",
+        "when": "Immediate, April 20 onwards in Florida and other implementing states"
+      },
+      {
+        "who": "Small grocers in low-income neighborhoods",
+        "how": "Small stores often carry less variety and more processed food. If SNAP customers shift spending toward approved items, small grocers face increased demand for items they may not stock adequately, while facing reduced margins on items they relied on.",
+        "when": "Short-term, 2-6 months"
+      },
+      {
+        "who": "The 150,000 Illinois households losing eligibility entirely",
+        "how": "Complete loss of food assistance. Not a restriction on what they can buy. Loss of the program.",
+        "when": "May 1, 2026"
+      },
+      {
+        "who": "PepsiCo competitors who did not lobby",
+        "how": "PepsiCo cut prices in response to the policy signal. Smaller snack companies that cannot absorb a 15% price cut face margin compression or market share loss. The large incumbent responds to the policy change in ways small companies cannot match.",
+        "when": "Ongoing"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Escalating restriction",
+        "whatHappens": "Federal USDA enacts a nationwide junk food SNAP restriction rather than a state-by-state waiver process. All 50 states implement uniform restrictions by end of 2026. Food industry adapts through reformulation, as it did with trans fats.",
+        "signal": "USDA announces a proposed federal rule on SNAP food content restrictions, bypassing the waiver process."
+      },
+      {
+        "name": "Legal challenge succeeds",
+        "whatHappens": "A food-rights organization or the food industry files a legal challenge arguing that SNAP content restrictions discriminate based on food preferences without a sufficient public health evidence base. A federal court issues an injunction. The waiver process stalls.",
+        "signal": "Federal lawsuit filed within 60 days challenging the Florida or national-level restrictions. Plaintiffs include SNAP recipient advocates and potentially food industry groups."
+      },
+      {
+        "name": "Coalition fracture",
+        "whatHappens": "RFK publicly breaks with the Republican budget coalition over the eligibility cuts, arguing that reducing SNAP access undermines the public health goal of the food restrictions. The MAHA coalition splits between healthcare reformers and fiscal conservatives.",
+        "signal": "RFK makes a public statement opposing SNAP eligibility cuts. A Republican governor publicly contradicts him."
+      }
+    ],
+    "whatWouldChange": "If a rigorous study showed that SNAP food restrictions in early-implementing states reduced diabetes rates or hospitalizations for diet-related illness within 18 months, the bottom line changes. The public health case is currently theoretical. Evidence would transform this from a paternalism debate into a measurable health intervention."
+  }
+}

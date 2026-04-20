@@ -1,6 +1,6 @@
 {
   "date": "2026-04-20",
-  "generatedAt": "2026-04-20T08:00:00Z",
+  "generatedAt": "2026-04-20T22:00:00Z",
   "reports": [
     {
       "id": "iran-ceasefire-expiry",
@@ -96,6 +96,36 @@
       "id": "eu-ai-act-enforcement-clock",
       "title": "The EU AI Act Open-Source Exemption Exempts Almost Nothing",
       "subtitle": "Full enforcement kicks in August 2, 2026. The April 10 Commission clarification that made headlines as a win for open-source developers leaves copyright policies, training-data summaries, and all frontier models fully in scope.",
+      "category": "power"
+    },
+    {
+      "id": "apple-ceo-transition",
+      "title": "Apple's Hardware Engineer Will Now Run the World's Most Valuable Company",
+      "subtitle": "Tim Cook steps down September 1. John Ternus, who has never run a company and has almost no public profile, becomes CEO of a $4 trillion corporation at the worst possible time for Apple to experiment.",
+      "category": "power"
+    },
+    {
+      "id": "france-poland-nuclear-umbrella",
+      "title": "France Is Offering Poland a Nuclear Umbrella the US Won't Confirm It Still Holds",
+      "subtitle": "At a Gdansk summit, Macron and Tusk agreed to joint nuclear exercises and information-sharing. Europe is building a deterrence architecture outside NATO for the first time since 1949.",
+      "category": "power"
+    },
+    {
+      "id": "russia-oil-sanctions-waiver",
+      "title": "The US Is Funding Russia's War While Ukraine Bombs Russia's Oil Refineries",
+      "subtitle": "Washington extended a waiver allowing Russian oil sales on April 17. Within hours, Ukrainian drones struck five Russian refineries. Kyiv is now running a unilateral sanctions policy against its own ally's policy.",
+      "category": "conflict"
+    },
+    {
+      "id": "trump-ai-preemption-states",
+      "title": "Trump Wants a Single AI Law for All 50 States. He's Lost the Senate 99 to 1.",
+      "subtitle": "The White House's National AI Framework asks Congress to preempt every state AI law in America. States have enacted 145 laws and introduced 1,208 more. Congress stripped the preemption provision from the big bill 99-1.",
+      "category": "power"
+    },
+    {
+      "id": "snap-junk-food-ban",
+      "title": "RFK Got 18 States to Ban Junk Food From Food Stamps. PepsiCo Cut Prices by 15%.",
+      "subtitle": "Florida and nearly two dozen states began restricting SNAP purchases to exclude soda, candy, and ultra-processed foods today. Within a week of the first bans, PepsiCo dropped snack prices 15%. The food industry is reacting faster than the policy can move.",
       "category": "power"
     }
   ]
