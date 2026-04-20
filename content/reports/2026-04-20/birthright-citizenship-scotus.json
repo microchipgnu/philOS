@@ -1,0 +1,86 @@
+{
+  "id": "birthright-citizenship-scotus",
+  "date": "2026-04-20",
+  "generatedAt": "2026-04-20T17:35:00Z",
+  "title": "The Supreme Court Is About to Rule That the 14th Amendment Means What It Says",
+  "subtitle": "Oral arguments in Trump v. Barbara exposed the government's 'domicile' theory as untenable. Multiple conservative justices are already signaling they will not accept it. A decision is expected in late June.",
+  "topic": "politics",
+  "category": "power",
+  "tags": ["SCOTUS", "birthright citizenship", "immigration", "14th Amendment", "Trump", "executive order"],
+  "coverImage": {
+    "url": "https://www.scotusblog.com/wp-content/uploads/2025/11/GettyImages-2238889106.jpg",
+    "local": "/images/reports/2026-04-20/birthright-citizenship-scotus.jpg",
+    "credit": "SCOTUSblog / Getty Images"
+  },
+  "sources": [
+    {
+      "url": "https://www.scotusblog.com/2026/04/why-the-supreme-courts-birthright-citizenship-decision-may-depend-on-the-meaning-of-domicile/",
+      "publisher": "SCOTUSblog",
+      "angle": "Legal analysis: the government's three-part domicile argument, where it failed at oral argument, what the actual constitutional question is"
+    }
+  ],
+  "brief": {
+    "actors": ["SCOTUS", "Trump", "Sauer", "Gorsuch", "Jackson"],
+    "whatHappened": "The Supreme Court held approximately two hours of oral arguments in Trump v. Barbara, the challenge to Trump's January 2025 executive order claiming the 14th Amendment does not grant citizenship to children born in the US to undocumented or temporary-status immigrants. The government's case rests on a novel reading of 'domicile': that citizenship requires the mother to have legal permission to reside in the US permanently. Multiple justices across the ideological spectrum, including conservative Gorsuch and liberal Jackson, pushed back sharply on this interpretation during argument. A decision is expected by late June 2026.",
+    "bottomLine": "The government is asking the Supreme Court to rewrite the 14th Amendment by reading a word into it that is not there, and several of the justices who would need to vote for this already told the solicitor general it will not work.",
+    "hiddenBets": [
+      {
+        "assumption": "If SCOTUS rules against the EO, the citizenship question is settled",
+        "whyItMightBeWrong": "A ruling against the government on domicile grounds would be narrow. It would not address whether future legislation could restrict birthright citizenship through a different statutory mechanism. The administration could immediately push Congress to pass the Birthright Citizenship Act, which would trigger a different challenge."
+      },
+      {
+        "assumption": "Gorsuch's skepticism at argument means he is voting against the administration",
+        "whyItMightBeWrong": "Justices use oral argument to probe weaknesses on both sides. Gorsuch's historical argument about 1868 immigration law is analytically correct, but he could still write a narrow concurrence that leaves room for congressional action. His questions signal the current theory fails, not that birthright citizenship is settled forever."
+      },
+      {
+        "assumption": "The practical stakes are primarily about undocumented immigrants",
+        "whyItMightBeWrong": "The EO covers anyone whose mother does not have lawful permanent residence, including children of H-1B visa holders, F-1 students, and people on temporary protected status. Many in those categories have been in the US for years and have children who currently hold US citizenship. The potential retroactive implications, though legally uncertain, are massive."
+      }
+    ],
+    "realDisagreement": "The actual fork is not whether the text of the 14th Amendment is clear (most constitutional scholars say it is), but whether originalism leads where the text says. The government's argument is explicitly originalist: it cites Vattel's Law of Nations and argues that the founding generation understood 'subject to the jurisdiction' to incorporate domicile requirements. The opposing argument is also originalist: the 14th Amendment was passed specifically to override pre-war citizenship doctrine and establish a bright-line jus soli rule. Both sides are doing original-meaning analysis; they just disagree about which historical sources control. The court cannot avoid choosing a methodology. The market prices an 92.5% chance SCOTUS strikes down the EO, which is consistent with the argument: the government's specific domicile-plus-lawful-status theory has almost no textual support. But the underlying fight over what 'subject to jurisdiction' means will outlive this ruling.",
+    "whatNoOneIsSaying": "The administration picked the weakest version of the anti-birthright-citizenship argument available. A strictly statutory argument through Congress, rather than a presidential EO reinterpreting the Constitution via executive proclamation, would have been harder to beat in court. The EO route was chosen because it was faster and more politically visible. The cost is a Supreme Court ruling that will be cited for decades as settling the constitutional question in favor of broad birthright citizenship, making any future legislative restriction much harder to defend.",
+    "whoPays": [
+      {
+        "who": "Children in legal limbo",
+        "how": "The EO has been enjoined since shortly after issuance, but the uncertainty has caused real harm: parents delaying travel abroad, US citizen children unable to get passports in some contested cases, anxiety about retroactive application if the EO had survived",
+        "when": "Already happening; resolved by late June ruling"
+      },
+      {
+        "who": "H-1B and student visa holders with US-born children",
+        "how": "Even a narrow ruling against the government leaves open whether a future Congress could legislatively restrict birthright citizenship. People in this category have built lives around their children's citizenship status and face continued uncertainty",
+        "when": "Medium-term, depending on whether Congress attempts legislative action"
+      },
+      {
+        "who": "Trump administration's immigration agenda",
+        "how": "A 6-3 or 7-2 ruling against the EO on substantive constitutional grounds, rather than standing or procedural grounds, forecloses the most aggressive tool the administration was using to restructure birthright citizenship policy",
+        "when": "Late June 2026 ruling"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Broad defeat for EO",
+        "whatHappens": "Court issues a 6-3 or stronger ruling that the 14th Amendment's birthright citizenship guarantee is not subject to domicile requirements, writing broad language that forecloses future executive and legislative attacks on jus soli.",
+        "signal": "Majority opinion authored by Roberts or Gorsuch, with no narrow concurrences carving out room for Congress"
+      },
+      {
+        "name": "Narrow procedural ruling",
+        "whatHappens": "Court rules against the EO on standing or notice-and-comment grounds without reaching the constitutional question, preserving the birthright issue for a future challenge with a better procedural record.",
+        "signal": "Per curiam or Kavanaugh-authored opinion emphasizing procedural defects rather than constitutional text"
+      },
+      {
+        "name": "Partial win for the administration",
+        "whatHappens": "Some justices accept that 'subject to the jurisdiction' has a domicile component but reject the specific formulation requiring lawful permanent residence. Government loses this case but gets a roadmap for a statutory version.",
+        "signal": "Thomas or Alito concurrence arguing the government's theory is directionally correct even if the EO implementation fails"
+      }
+    ],
+    "whatWouldChange": "If a concurring opinion by any justice suggests Congress could legislatively restrict birthright citizenship through a different domicile-based framework, the ruling would not close the question even if the EO is struck down unanimously.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "SCOTUS strikes down Trump's Birthright Citizenship EO?",
+        "url": "https://polymarket.com/event/scotus-strikes-down-trumps-birthright-citizenship-eo",
+        "probability": 0.9255
+      }
+    ]
+  }
+}

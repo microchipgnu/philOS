@@ -1,0 +1,106 @@
+{
+  "id": "bulgaria-radev-landslide",
+  "date": "2026-04-20",
+  "generatedAt": "2026-04-20T17:33:00Z",
+  "title": "Bulgaria Elected a Pro-Russia Leader. The EU Congratulated Him.",
+  "subtitle": "Rumen Radev won 44.7% in Bulgaria's eighth election in five years, on a platform of anti-corruption and Russian re-engagement. Both the Kremlin and Ursula von der Leyen sent warm notes.",
+  "topic": "politics",
+  "category": "power",
+  "tags": ["Bulgaria", "EU", "Russia", "elections", "NATO", "Ukraine"],
+  "coverImage": {
+    "url": "https://static.kyivpost.com/storage/2026/04/20/cb5c71cc56675fabd5e9cac7e957db44.jpg?w=1200&q=90&f=jpg",
+    "local": "/images/reports/2026-04-20/bulgaria-radev-landslide.jpg",
+    "credit": "Kyiv Post / AFP"
+  },
+  "sources": [
+    {
+      "url": "https://uat.apnews.com/article/bulgaria-election-radev-borissov-corruption-russia-oligarchs-2f821c5a659a8ca4ab9dfe28b9138236",
+      "publisher": "AP News",
+      "angle": "Straight news: Radev wins convincingly, first single-party majority since 1997, both EU and Kremlin welcome result"
+    },
+    {
+      "url": "https://www.kyivpost.com/post/74330",
+      "publisher": "Kyiv Post",
+      "angle": "Ukraine-focused alarm: Radev's Orban comparisons, opposition to military aid, questions about EU sanctions support"
+    },
+    {
+      "url": "https://www.rfi.fr/en/international/20260420-bulgaria-kremlin-friendly-ex-president-rumen-radev-wins-sweeping-election-victory",
+      "publisher": "RFI",
+      "angle": "Structural reading: Radev's vagueness on policy, pressure from own party and far-right to go full Orban-style"
+    },
+    {
+      "url": "https://sofiaglobe.com/2026/04/20/bulgarian-elections-radevs-party-set-for-majority-in-five-party-parliament-partial-results/",
+      "publisher": "The Sofia Globe",
+      "angle": "Local detail: exact seat projections, five-party parliament, turnout data, DPS (sanctioned oligarchs) still in parliament"
+    },
+    {
+      "url": "https://www.dw.com/en/bulgaria-pro-russia-rumen-radev-wins-election/a-76852961",
+      "publisher": "Deutsche Welle",
+      "angle": "European perspective: Radev's fighter-pilot-to-president arc, anti-oligarch branding vs. Russia-friendly positions"
+    }
+  ],
+  "brief": {
+    "actors": ["Radev", "Bulgaria", "EU", "Russia", "NATO", "Ukraine", "Borissov"],
+    "whatHappened": "Former Bulgarian president Rumen Radev's Progressive Bulgaria party won Sunday's parliamentary election with 44.7% of the vote, the strongest showing for a single party in Bulgaria since 1997. The result ended half a decade of political instability that produced eight elections in five years. Radev, a former fighter pilot who spent nine years as ceremonial president before resigning in January to run for prime minister, campaigned primarily on anti-corruption themes while advocating closer ties with Russia and opposing EU military aid to Ukraine. Both Kremlin spokesman Dmitry Peskov and European Commission President Ursula von der Leyen congratulated him.",
+    "bottomLine": "Bulgaria just elected a leader whose domestic mandate is anti-corruption but whose foreign policy instincts are pro-Russia, and the EU decided that was fine because the alternative was continued chaos.",
+    "hiddenBets": [
+      {
+        "assumption": "Radev's landslide gives him a mandate that extends to his Russia-friendly foreign policy",
+        "whyItMightBeWrong": "Analysts across the political spectrum note that voters chose him specifically to end oligarchic governance and political instability. The Russia-and-Ukraine positions were tolerated rather than endorsed, and a majority of Bulgarians backed parties that oppose Russian re-engagement."
+      },
+      {
+        "assumption": "EU institutions can absorb another Orban-style skeptic by congratulating him and hoping he governs like a European",
+        "whyItMightBeWrong": "Orban started the same way. Von der Leyen's congratulation note uses the same language Brussels used in 2010. The incentive structure is different now: Bulgaria just adopted the euro, and Radev openly criticized that decision. A leader who can credibly threaten to become Orban from inside the eurozone has more leverage than Orban ever had."
+      },
+      {
+        "assumption": "Radev's majority means stable governance finally",
+        "whyItMightBeWrong": "His 44.7% still implies a five-party parliament where his main coalition partner for judicial reform would be the pro-European bloc he just crushed. The sanctioned oligarch party (DPS/MRF) also made it into parliament. The dealmaking has not started yet."
+      }
+    ],
+    "realDisagreement": "The crux is whether Radev is primarily a domestically-focused anti-corruption reformer who uses pro-Russia rhetoric as political cover, or whether the rhetoric reflects genuine policy intent. The optimistic read: he is a pragmatist who governed center-left as president and will not risk eurozone membership or NATO expulsion for rhetorical points. The pessimistic read: now that he has executive power and a majority, the constraints that kept him moderate as a ceremonial president no longer apply. The market says he almost certainly becomes PM (97%). What the market cannot price is whether his first 12 months look like Orban's 2010 or Poland's post-2015. I lean toward the pragmatic read, but I would give up confidence: Bulgaria cannot afford sanctions on its energy infrastructure, and Radev knows it.",
+    "whatNoOneIsSaying": "The EU congratulating a pro-Russian government is not news anymore. What is notable is that von der Leyen congratulated him before he had said anything specific about Ukraine sanctions or EU aid packages. She did not extract a commitment first. The message to every future Radev-style candidate in Central and Eastern Europe is that you can run on anti-Ukraine, pro-Russia rhetoric and still get a warm reception from Brussels, as long as the alternative is political chaos.",
+    "whoPays": [
+      {
+        "who": "Ukrainian government",
+        "how": "Bulgaria has been a reluctant supplier of Soviet-era weapons; a Radev government will almost certainly halt new approvals and may use the security agreement Bulgaria's interim government signed with Ukraine as a domestic rallying point against",
+        "when": "First 90 days after Radev forms a government"
+      },
+      {
+        "who": "EU sanctions coalition",
+        "how": "Hungary's Viktor Orban lost his election; Bulgaria may fill the vacancy as the EU's internal Russia sympathizer. Radev has previously threatened vetoes on energy-related sanctions. With Orban out and Radev in, the blocking minority calculation in the Council shifts",
+        "when": "Next major sanctions renewal, expected before year-end"
+      },
+      {
+        "who": "Bulgarian reformist voters",
+        "how": "Voted anti-corruption, may get a government that runs on those themes domestically while quietly trading foreign policy concessions to Moscow. The reform mandate is real; the delivery is uncertain",
+        "when": "12-24 months"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Pragmatic European",
+        "whatHappens": "Radev focuses on judicial reform and corruption cases, governs within EU norms, and reserves pro-Russia rhetoric for domestic consumption without acting on it. Bulgaria's energy dependency on Russia keeps him from moving too aggressively in either direction.",
+        "signal": "Radev's first major foreign policy act is showing up at a NATO summit and reaffirming Article 5 commitments"
+      },
+      {
+        "name": "New Orban",
+        "whatHappens": "Radev uses his majority and the anti-EU energy policy platform to block sanctions extensions, delay Ukraine aid votes in the Council, and position Bulgaria as the new blocking state for Russian interests inside EU institutions.",
+        "signal": "Within 60 days, Bulgaria abstains or vetoes on a Ukraine support package that passes in the Council anyway but with a Bulgarian footnote"
+      },
+      {
+        "name": "Corruption backlash",
+        "whatHappens": "Radev's anti-corruption mandate collides immediately with the DPS oligarchs still in parliament and the entrenched institutional networks. Early governance failures lead to protests, pulling his approval rating down before he can consolidate power.",
+        "signal": "Street protests in Sofia within six months of government formation over a corruption scandal involving a Radev ally"
+      }
+    ],
+    "whatWouldChange": "If Radev's first foreign policy act is a direct offer to Moscow to resume gas pipeline negotiations, the pragmatist read collapses entirely. If he instead shows up at NATO and reaffirms Bulgarian commitments without qualification, the Orban comparison becomes unfair.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Will Rumen Radev be the next prime minister of Bulgaria after the 2026 parliamentary election?",
+        "url": "https://polymarket.com/event/next-prime-minister-of-bulgaria",
+        "probability": 0.973
+      }
+    ]
+  }
+}

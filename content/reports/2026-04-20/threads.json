@@ -100,6 +100,58 @@
           "relationship": "Both stories are characterized by large headline numbers that flow to corporations rather than to the workers and consumers who absorbed the actual cost of the tariff war"
         }
       ]
+    },
+    {
+      "id": "courts-check-executive-power",
+      "title": "Courts as the Last Guardrail",
+      "description": "Three stories today converge on a single question: how much can courts constrain executive ambition when the political branches are aligned? SCOTUS is about to strike down birthright citizenship EOs backed by a 92.5% market probability. The IEEPA tariff ruling already forced India to Washington to renegotiate a deal built on a legal authority that no longer exists. Courts have been the decisive actor in both cases, not Congress. Bulgaria's outcome is the warning: when courts are weak (as they were in Hungary), executive consolidation happens fast. In the US, the same pattern is playing out in slow motion, and the courts are holding, for now.",
+      "type": "tension-cluster",
+      "stories": ["birthright-citizenship-scotus", "india-us-trade-renegotiation", "trump-tariff-rebound"],
+      "connections": [
+        {
+          "from": "birthright-citizenship-scotus",
+          "to": "india-us-trade-renegotiation",
+          "relationship": "The same SCOTUS that struck down IEEPA tariffs is about to strike down the birthright citizenship EO; India's trade negotiators arrived in DC because of the first ruling, and the credibility of whatever they agree to depends on the second ruling not reopening new executive trade mechanisms"
+        },
+        {
+          "from": "trump-tariff-rebound",
+          "to": "india-us-trade-renegotiation",
+          "relationship": "The tariff rebound under Section 122 is the direct reason India must renegotiate: the legal baseline they built their concessions around has been replaced by a different, shorter-term legal authority"
+        }
+      ]
+    },
+    {
+      "id": "us-distraction-diplomatic-vacuum",
+      "title": "The Iran Distraction Creates a Diplomatic Vacuum",
+      "description": "Every unresolved diplomatic situation in today's brief is stuck because the US is focused on Iran. Ukraine-Russia peace talks paused because 'Washington's focus on Iran.' India trade talks had to be rescheduled from October. Bulgaria's election of a pro-Russia leader goes unchallenged by Washington because there is no bandwidth. The US running a war in the Middle East while trying to manage a tariff regime reset, a Fed chair confirmation, and three separate bilateral trade negotiations simultaneously means all of those secondary tracks are running on autopilot. The Iran conflict is not just a Middle East story; it is the organizing constraint that explains why every other story today is stuck.",
+      "type": "cause-effect",
+      "stories": ["ukraine-turkey-peace-format", "india-us-trade-renegotiation", "bulgaria-radev-landslide"],
+      "connections": [
+        {
+          "from": "iran-ceasefire-expiry",
+          "to": "ukraine-turkey-peace-format",
+          "relationship": "Ukraine-Russia peace talks explicitly paused because Washington shifted its mediation bandwidth to the Iran conflict, leaving the Turkey proposal without a US anchor"
+        },
+        {
+          "from": "iran-ceasefire-expiry",
+          "to": "bulgaria-radev-landslide",
+          "relationship": "US preoccupation with Iran means there is no American diplomatic response to Radev's election, making the EU's congratulatory note the only Western signal Bulgaria receives about what is acceptable"
+        }
+      ]
+    },
+    {
+      "id": "incumbents-regulate-challengers",
+      "title": "Regulation as Incumbent Protection",
+      "description": "Two tech stories today reflect the same underlying dynamic: large incumbents with legal departments, compliance infrastructure, and government relationships are shaping regulatory frameworks that create barriers too costly for challengers to clear. The EU AI Act's 'open-source exemption' exempts almost nothing that matters commercially, benefiting labs like Google, Meta, and Anthropic which already have compliance teams. The Anthropic Mythos story from earlier shows the same pattern in the US: a lab that can afford safety teams gets exclusive government contracts while the public is excluded for safety reasons. Both cases convert 'safety' into market structure.",
+      "type": "tension-cluster",
+      "stories": ["eu-ai-act-enforcement-clock", "anthropic-mythos-danger"],
+      "connections": [
+        {
+          "from": "anthropic-mythos-danger",
+          "to": "eu-ai-act-enforcement-clock",
+          "relationship": "Anthropic restricts Mythos from public access while selling government access, mirroring the EU AI Act's structure where compliance costs restrict market entry to established players while governments get special access arrangements"
+        }
+      ]
     }
   ]
 }

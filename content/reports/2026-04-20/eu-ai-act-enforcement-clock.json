@@ -1,0 +1,78 @@
+{
+  "id": "eu-ai-act-enforcement-clock",
+  "date": "2026-04-20",
+  "generatedAt": "2026-04-20T17:41:00Z",
+  "title": "The EU AI Act Open-Source Exemption Exempts Almost Nothing",
+  "subtitle": "Full enforcement kicks in August 2, 2026. The April 10 Commission clarification that made headlines as a win for open-source developers leaves copyright policies, training-data summaries, and all frontier models fully in scope.",
+  "topic": "tech",
+  "category": "power",
+  "tags": ["EU", "AI Act", "open source", "AI regulation", "GPAI", "enforcement"],
+  "coverImage": {
+    "url": "https://singularitybyte.com/assets/image-cache/images/news/eu-ai-act-open-source-circus.91d204f9.jpg",
+    "local": "/images/reports/2026-04-20/eu-ai-act-open-source.jpg",
+    "credit": "SingularityByte"
+  },
+  "sources": [
+    {
+      "url": "https://singularitybyte.com/news/eu-ai-act-open-source-exemption-circus-2026.html",
+      "publisher": "SingularityByte",
+      "angle": "Developer-focused reading of the actual exemption text: what is in scope, what is out, and why the major labs are all still fully covered"
+    }
+  ],
+  "brief": {
+    "actors": ["EU", "AI Office", "Google", "Anthropic", "Meta", "Mistral", "open-source developers"],
+    "whatHappened": "On April 10, the European Commission issued clarifying guidelines on the AI Act's treatment of open-source general-purpose AI models. The guidance was widely reported as a win for open-source developers. What it actually did: waive three minor administrative obligations (technical documentation for regulators, technical documentation for downstream providers, and appointing an EU representative for non-EU entities) for models that meet a strict three-part open-source definition. All other Article 53 obligations remain in force, including copyright compliance policies and training-data summaries. Any model trained with more than 10-to-the-25th floating-point operations gets no exemption at all. Full enforcement begins August 2, 2026. Models placed on the EU market after August 2, 2025 owe training-data summaries immediately upon enforcement start.",
+    "bottomLine": "The 'open-source exemption' is a PR frame for a filing cabinet that got three items removed while the rest of the filing cabinet stayed on your back.",
+    "hiddenBets": [
+      {
+        "assumption": "Frontier labs like Google, Meta, and Anthropic will comply and smaller developers will follow their lead",
+        "whyItMightBeWrong": "Large labs have legal teams and can absorb compliance costs as a moat. For a startup with one or two open-weight models and no legal department, the August 2026 deadline is an existential compliance problem that the large labs will have already solved. The regulation benefits incumbents."
+      },
+      {
+        "assumption": "The 10-to-the-25th FLOP threshold will meaningfully separate 'safe' models from 'systemic risk' models for the foreseeable future",
+        "whyItMightBeWrong": "Training efficiency is improving rapidly. Models that would have required 10-to-the-25th FLOPs in 2024 may require 10-to-the-24th by 2027. The threshold is calibrated to 2024 compute. The regulatory structure will fall out of sync with what models are actually capable of within 18-24 months."
+      },
+      {
+        "assumption": "The Digital Markets Act forcing Google to share search data is a separate issue from the AI Act",
+        "whyItMightBeWrong": "Both regulations push in the same direction: mandating data access and compliance infrastructure that benefits large incumbents with existing compliance frameworks over challengers without. The EU is constructing a two-tier AI ecosystem: large labs that can comply and compete, and everyone else that must choose between compliance costs and exiting the EU market."
+      }
+    ],
+    "realDisagreement": "The tension is between two legitimate positions on what AI regulation should accomplish. The EU's argument: frontier AI models pose genuine societal risks that require transparency, auditability, and accountability measures that only mandatory compliance can achieve. The counter-argument: mandatory compliance at this scale at this moment primarily protects incumbents, suppresses European AI development, and will not actually make AI safer because the most capable models will be trained in jurisdictions without these rules. Both sides have evidence. The EU cites examples of AI systems causing bias and discrimination in high-stakes domains. Critics cite the US and China racing ahead while EU startups are reading 40-page compliance checklists. What would resolve this disagreement is evidence about whether compliance requirements actually improve model safety outcomes, and that evidence does not yet exist.",
+    "whatNoOneIsSaying": "The August 2026 deadline arrives four months before the US midterms. Any US AI lab that decides the EU compliance burden is too high and exits the EU market will face political pressure at home, not from regulation but from optics: 'European regulators are now deciding which American AI products Europeans can access.' This framing could generate transatlantic friction that recasts the AI Act as a trade dispute rather than a safety regulation, giving US-based critics a political lever they do not currently have.",
+    "whoPays": [
+      {
+        "who": "European AI startups",
+        "how": "Full Article 53 compliance requires legal counsel, training-data documentation, and copyright compliance infrastructure. For a 10-person AI startup, this is 3-6 months of full-time legal work before the first model can legally be placed on the EU market after August 2025",
+        "when": "Now, for any model released after August 2025"
+      },
+      {
+        "who": "Open-source ecosystem outside the EU",
+        "how": "The monetization clause excludes most commercial open-weight releases from the exemption. This means companies like Meta, which releases Llama under an open-weight license but builds products around it, get no exemption and face full GPAI obligations",
+        "when": "August 2, 2026 enforcement start"
+      },
+      {
+        "who": "EU users of non-compliant AI tools",
+        "how": "AI Office can order model recalls and market withdrawals. If a US startup decides EU compliance is not worth the cost and withdraws from the EU market, European researchers and businesses lose access to that tool",
+        "when": "Post-August 2026 enforcement actions"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Compliance wave raises the floor",
+        "whatHappens": "Major labs publish compliant training-data summaries and copyright policies by August 2. Smaller developers follow or exit the EU market. The AI Office focuses early enforcement on clear violations, not edge cases. The regulation raises baseline transparency without killing the industry.",
+        "signal": "Hugging Face, Meta, and Google all file compliant training-data summaries before August 1"
+      },
+      {
+        "name": "Exemption litigation clogs the AI Office",
+        "whatHappens": "Several major labs argue that their models qualify for the open-source exemption despite commercial monetization. The AI Office issues fines; labs challenge in court. The August 2026 enforcement date becomes a starting gun for two-year litigation that delays substantive compliance.",
+        "signal": "A major lab files a preemptive legal challenge to the open-source exemption definition before August"
+      },
+      {
+        "name": "US-EU regulatory conflict",
+        "whatHappens": "US Trade Representative cites AI Act open-source restrictions as a non-tariff barrier in BTA negotiations with the EU. The AI Act becomes a geopolitical chip in broader transatlantic trade talks.",
+        "signal": "USTR formally includes AI governance provisions in the US-EU digital trade agenda before year-end"
+      }
+    ],
+    "whatWouldChange": "If the AI Office's first major enforcement action targets a genuinely dangerous model causing measurable harm (not a compliance paperwork violation), the case for the regulation becomes much stronger. If the first major fine is for failing to file a training-data summary template for a tool that has caused no documented harm, the criticism will be impossible to rebut."
+  }
+}

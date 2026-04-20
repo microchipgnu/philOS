@@ -1,0 +1,91 @@
+{
+  "id": "india-us-trade-renegotiation",
+  "date": "2026-04-20",
+  "generatedAt": "2026-04-20T17:39:00Z",
+  "title": "India Comes to Washington to Renegotiate a Deal It Never Signed",
+  "subtitle": "Three-day talks in DC open today to restart the India-US bilateral trade agreement. India had agreed to major concessions under the old IEEPA tariff regime. The Supreme Court wiped out the baseline. Now New Delhi wants those concessions back.",
+  "topic": "economy",
+  "category": "power",
+  "tags": ["India", "US", "trade", "tariffs", "Modi", "IEEPA", "BTA", "Section 122"],
+  "coverImage": {
+    "url": "https://images.news18.com/ibnlive/uploads/2025/05/India-US-Trade-Deal-BTA-REUTERS-2025-05-ae88f5c23ecf44d756e61fff315bf8f3.jpg",
+    "local": "/images/reports/2026-04-20/india-us-trade-talks.jpg",
+    "credit": "News18 / Reuters"
+  },
+  "sources": [
+    {
+      "url": "https://www.gnn.asia/india-united-states-trade-talks-begin-in-washington-today-donald-trump-tariffs-in-focus/",
+      "publisher": "GNN",
+      "angle": "Detailed breakdown of the 10-point agenda, India's earlier concessions (nuts, fruits, soybean oil, $500B import pledge), and the changed tariff landscape"
+    },
+    {
+      "url": "https://insight.thomsonreuters.com.au/business/posts/navigating-the-new-tariff-reality-how-apac-businesses-can-turn-uncertainty-into-opportunity",
+      "publisher": "Thomson Reuters / Business Insight Australia",
+      "angle": "Trade law perspective: how Section 122 creates new leverage, the durability of bilateral deals struck under IEEPA, and the July 24 expiry clock"
+    }
+  ],
+  "brief": {
+    "actors": ["India", "Modi", "Trump", "US", "China", "USTR"],
+    "whatHappened": "A 12-member Indian trade delegation led by chief negotiator Darpan Jain arrived in Washington Monday for three days of talks on Phase 1 of the proposed India-US Bilateral Trade Agreement. The talks reset a framework text released February 7, after the Supreme Court's February 20 ruling invalidated Trump's IEEPA tariffs. Under the old framework, India had agreed to lower tariffs on US agricultural goods, industrial products, and ease non-tariff barriers in exchange for its IEEPA rate being cut from around 50% to 18%. With those country-specific IEEPA rates gone, both sides face a new baseline of 10% under Section 122 for 150 days (expiring July 24), and India's prior concessions look much less valuable from New Delhi's perspective. Separately, China has now overtaken the US as India's largest trading partner.",
+    "bottomLine": "India is arriving at the table having already offered its best concessions in a deal it never signed, in exchange for a tariff benefit that no longer exists, while its biggest trading partner is now the country the US is asking India to decouple from.",
+    "hiddenBets": [
+      {
+        "assumption": "India and the US share the same underlying interest in a trade deal",
+        "whyItMightBeWrong": "The US wants India as an alternative manufacturing hub and supply chain diversification partner. India wants market access for its exporters without permanently lowering agricultural tariffs that protect 150 million farmers. These are not the same deal. The overlap that made a deal possible in 2025 was artificially constructed by IEEPA pressure that no longer exists."
+      },
+      {
+        "assumption": "The Section 122 deadline (July 24) creates urgency that will force concessions",
+        "whyItMightBeWrong": "Section 122 expires after 150 days unless Congress extends it. The administration has signaled it wants to raise the rate to 15% before expiry. India's alternative to a deal is the same 10% flat rate that applies to every other country, which is not catastrophically worse than what India was negotiating toward. The urgency is asymmetric."
+      },
+      {
+        "assumption": "China overtaking the US as India's top trading partner is a warning sign India will heed",
+        "whyItMightBeWrong": "India's trade surplus with the US ($34.4B last year) is economically important, but India's trade with China is largely imports of electronics components and industrial goods. Decoupling from China would disrupt India's manufacturing base, not strengthen it. The US-India trade relationship and the China-India trade relationship are serving different functions in India's economy."
+      }
+    ],
+    "realDisagreement": "The real tension is between the US framing (India must open its agricultural markets to get tariff relief) and India's framing (India already offered agricultural concessions in exchange for rate relief that no longer exists, so we start over). The US USTR team is being asked to produce bilateral deals by an administration that wants visible wins. India's negotiators are being asked by New Delhi to recover ground they already conceded. Neither side's domestic political constraints allow them to admit this publicly. A deal that looks good to both governments is almost certainly a deal that does not deliver what either side's business community actually wants.",
+    "whatNoOneIsSaying": "The February 7 draft framework text was released publicly before the Supreme Court ruling. India's concessions are now on record. The US knows exactly what India was willing to give. The question is whether India can walk those concessions back without losing credibility in future negotiations, and the answer is: probably not, which means India arrives having already revealed its best offer.",
+    "whoPays": [
+      {
+        "who": "Indian agricultural exporters",
+        "how": "If India agrees to lower tariffs on US agricultural imports (nuts, fruits, soybean oil) to secure market access for Indian goods, domestic Indian farmers in those sectors face new competition from heavily-subsidized US agricultural exports",
+        "when": "Deal implementation, likely 2027"
+      },
+      {
+        "who": "US manufacturers dependent on Indian supply chains",
+        "how": "Section 301 investigations targeting India's alleged excess manufacturing capacity are explicitly on the agenda. An escalation there could disrupt existing supply chain relationships that US companies built specifically in response to China tariffs",
+        "when": "If Section 301 action is formally launched, 6-12 months"
+      },
+      {
+        "who": "Indian tech sector",
+        "how": "The broader BTA likely includes digital trade provisions that would constrain India's data localization policies. Indian tech companies and the government have resisted this for years. Agreeing to digital trade commitments to get agricultural tariff relief is the kind of horse trade that looks good in a press release and causes problems for years",
+        "when": "2-5 years if deal is signed"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Partial deal before July 24",
+        "whatHappens": "Both sides agree to a narrow Phase 1 framework covering tariff rate commitments and a few non-agricultural issues, giving the US administration a visible win before the Section 122 deadline and giving India some tariff certainty into 2027.",
+        "signal": "A joint statement by April 22 announcing 'substantial progress' on Phase 1"
+      },
+      {
+        "name": "Talks collapse over agriculture",
+        "whatHappens": "India refuses to include agricultural market access in any deal given the changed tariff baseline. US insists agriculture is non-negotiable. Talks end without a framework, India reverts to the 10% Section 122 rate along with everyone else.",
+        "signal": "No joint statement by April 22; Indian delegation returns without an agreement"
+      },
+      {
+        "name": "Talks continue indefinitely",
+        "whatHappens": "Both sides agree to extend the negotiating timeline, keeping the process alive for political reasons without closing on any core issues. Section 122 expires July 24; India faces whatever the new rate becomes under Section 232 or 301 investigations.",
+        "signal": "A joint statement committing to 'continued consultations' but no deal text and no timeline"
+      }
+    ],
+    "whatWouldChange": "If the US USTR formally launches a Section 301 investigation against India during or immediately after these talks, it would signal that the administration has decided leverage is more useful than partnership, and the deal framework collapses entirely.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "U.S. agrees to a new trade deal with India before 2027?",
+        "url": "https://polymarket.com/event/which-countries-will-trump-make-new-trade-deals-with-before-2027-921",
+        "probability": 0.245
+      }
+    ]
+  }
+}

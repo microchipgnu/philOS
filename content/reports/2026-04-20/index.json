@@ -67,6 +67,36 @@
       "title": "The Gulf States Just Watched the US Go to War Next Door. Now They're Reconsidering.",
       "subtitle": "The Iran war exposed a fault line the Gulf states had managed for decades: the US security guarantee requires hosting a war you didn't choose. Saudi Arabia and the UAE are quietly hedging.",
       "category": "power"
+    },
+    {
+      "id": "bulgaria-radev-landslide",
+      "title": "Bulgaria Elected a Pro-Russia Leader. The EU Congratulated Him.",
+      "subtitle": "Rumen Radev won 44.7% in Bulgaria's eighth election in five years, on a platform of anti-corruption and Russian re-engagement. Both the Kremlin and Ursula von der Leyen sent warm notes.",
+      "category": "power"
+    },
+    {
+      "id": "birthright-citizenship-scotus",
+      "title": "The Supreme Court Is About to Rule That the 14th Amendment Means What It Says",
+      "subtitle": "Oral arguments in Trump v. Barbara exposed the government's 'domicile' theory as untenable. Multiple conservative justices are already signaling they will not accept it. A decision is expected in late June.",
+      "category": "power"
+    },
+    {
+      "id": "ukraine-turkey-peace-format",
+      "title": "Ukraine Wants a Four-Way Summit. Russia Says Negotiations Are Not a Priority.",
+      "subtitle": "Ukraine's foreign minister proposed a Zelenskyy-Putin meeting in Turkey with Trump and Erdogan present. Russia's Lavrov responded that talks are 'not a top priority' at the Antalya forum where both were speaking.",
+      "category": "conflict"
+    },
+    {
+      "id": "india-us-trade-renegotiation",
+      "title": "India Comes to Washington to Renegotiate a Deal It Never Signed",
+      "subtitle": "Three-day talks in DC open today to restart the India-US bilateral trade agreement. India had agreed to major concessions under the old IEEPA tariff regime. The Supreme Court wiped out the baseline. Now New Delhi wants those concessions back.",
+      "category": "power"
+    },
+    {
+      "id": "eu-ai-act-enforcement-clock",
+      "title": "The EU AI Act Open-Source Exemption Exempts Almost Nothing",
+      "subtitle": "Full enforcement kicks in August 2, 2026. The April 10 Commission clarification that made headlines as a win for open-source developers leaves copyright policies, training-data summaries, and all frontier models fully in scope.",
+      "category": "power"
     }
   ]
 }
