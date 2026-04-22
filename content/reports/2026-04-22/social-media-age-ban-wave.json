@@ -1,0 +1,88 @@
+{
+  "id": "social-media-age-ban-wave",
+  "date": "2026-04-22",
+  "generatedAt": "2026-04-22T07:45:00Z",
+  "title": "Governments Are Banning Teens From Social Media. The Evidence Says It Won't Work.",
+  "subtitle": "Australia's under-16 ban, Canada's Liberal resolution, Missouri's new law, Indonesia's crackdown. A global wave of social media age restrictions is building. Every expert says enforcement will fail.",
+  "topic": "society",
+  "category": "conflict",
+  "tags": ["social media", "teens", "ban", "Australia", "Canada", "Missouri", "AI chatbots", "mental health", "age verification"],
+  "coverImage": {
+    "url": "https://dam.mediacorp.sg/image/upload/s--r9vuPZ3C--/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/04/22/corro_080426_website.jpg?itok=vGaoeh0_",
+    "local": "/images/reports/2026-04-22/social-media-age-ban.jpg",
+    "credit": "CNA / Mediacorp"
+  },
+  "sources": [
+    {
+      "url": "https://vancouver.citynews.ca/2026/04/21/canada-liberal-party-push-ban-social-media-teens-not-good-idea/",
+      "publisher": "CityNews Vancouver",
+      "angle": "McGill and U of Toronto academics argue bans cause kids to hide usage rather than stop it. Better approach: platform design changes and digital literacy education."
+    },
+    {
+      "url": "https://www.channelnewsasia.com/listen/cna-correspondent/do-social-media-bans-really-protect-kids-online-6072146",
+      "publisher": "CNA",
+      "angle": "Regional analysis: Australia's ban is in effect, Indonesia cracking down, India pressure growing. Common question: are authorities always a step behind tech platforms and curious teenagers?"
+    },
+    {
+      "url": "https://rturner229.blogspot.com/2026/04/missouri-house-forges-bill-targets-ai.html",
+      "publisher": "Missouri Independent via Turner Report",
+      "angle": "Missouri House passed 145-3 to restrict minors' social media access and ban AI deepfakes. Bill also includes AI liability provisions. White House AI executive order threatens to withhold rural broadband funding from states passing 'onerous' AI legislation, creating a direct conflict."
+    }
+  ],
+  "brief": {
+    "actors": ["Australia", "Canada", "Missouri", "Meta", "TikTok", "Trump"],
+    "whatHappened": "A global wave of social media age restriction legislation is accelerating. Australia implemented an under-16 ban in 2025. Canada's Liberal Party passed a non-binding resolution in February to restrict social media and AI chatbots for under-16s, requiring platforms to enforce age verification. Missouri's House passed legislation 145-3 requiring age verification and banning addictive design features for minors. Indonesia is cracking down on non-compliant platforms. The Canadian proposal specifically names ChatGPT, Character.AI, Nomi, Replika, and Janitor AI for restriction. Academic experts at McGill and University of Toronto publicly opposed the Canadian measure, arguing bans drive usage underground. Trump issued an executive order in December threatening to withhold federal broadband funding from US states that pass 'onerous' AI legislation, creating a direct conflict with state-level initiatives like Missouri's.",
+    "bottomLine": "Every government pursuing these bans knows they will not stop teen social media use. They are passing them anyway because the political cost of appearing to do nothing about teen mental health has become higher than the cost of passing unenforceable laws.",
+    "hiddenBets": [
+      {
+        "assumption": "Age verification technology can actually keep minors off platforms",
+        "whyItMightBeWrong": "Age verification requires collecting and verifying personal identity data at scale, creating massive privacy risks for the users it purports to protect. Multiple verification systems have already been bypassed in Australia. The technology to enforce age gates reliably does not yet exist without creating a surveillance infrastructure that carries its own harms."
+      },
+      {
+        "assumption": "The mental health link to social media is established enough to justify major policy",
+        "whyItMightBeWrong": "The NIH research on social media and teen mental health shows correlations, not causation. The 12-15 age bracket that uses social media over three hours a day has twice the risk of mental health problems, but the causal arrow may run the other way: teens with mental health problems may use social media more. The research base is contested enough that the causal claims in legislation are running ahead of the evidence."
+      },
+      {
+        "assumption": "Banning AI chatbots for teens reduces harm",
+        "whyItMightBeWrong": "A 2025 survey found young adults using AI nearly six times more than older adults for mental health support. Banning AI mental health support for teens eliminates a resource many of them are already using. Cornell research suggests AI reinforces delusions, but the alternative for many teens is no support at all, not a licensed therapist."
+      }
+    ],
+    "realDisagreement": "The actual fork is whether government should use blunt prohibition or demand platform-level design changes. The prohibition approach bans minors, requires age verification, and criminalizes non-compliance. The design approach forces platforms to remove infinite scroll, autoplay, and algorithmic amplification for teen accounts, without attempting to exclude them. Both approaches have enforcement problems: prohibition fails at identity verification, design regulation fails at cross-border enforcement. I lean toward platform design mandates as the better policy, because they address the mechanism of harm (addictive design) rather than the category of user, and they are more enforceable through platform terms rather than individual user verification. But I accept that this requires regulatory capacity most governments do not have.",
+    "whatNoOneIsSaying": "Meta and TikTok want these bans to pass. A ban that is unenforceable but requires age verification shifts the legal liability to platforms only for documented failures to verify, while giving them a compliance cover story. Loosely enforced age verification is far preferable for platforms to design mandates that would actually require removing the features that drive engagement and revenue.",
+    "whoPays": [
+      {
+        "who": "Marginalized teen populations",
+        "how": "For LGBTQ teens and teenagers in rural or isolated communities, social media and AI chatbots are sometimes the only accessible source of peer support and identity exploration. Bans that work as designed disproportionately affect these groups, who have fewer offline alternatives.",
+        "when": "Immediately upon enforcement"
+      },
+      {
+        "who": "Platform engineers",
+        "how": "Age verification at scale requires building identity infrastructure. If governments mandate this without providing a trusted national ID system, platforms must build their own, creating fragmented and insecure verification systems at significant engineering and legal cost.",
+        "when": "12-24 months after legislative requirements take effect"
+      },
+      {
+        "who": "Rural US communities",
+        "how": "Trump's executive order threatens to withhold $900 million in rural broadband funding from Missouri and other states that pass AI legislation his administration considers onerous. Rural areas that need broadband most may lose federal support because their state governments passed social media safety bills.",
+        "when": "Within the funding cycle after any enforcement action"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Nominal compliance, real failure",
+        "whatHappens": "Platforms implement age verification that is trivially easy to bypass. Teens use parents' accounts or VPNs. Governments declare success. Usage patterns among minors are unchanged. Mental health outcomes are unchanged.",
+        "signal": "Six months after Australia's ban, app store download data shows no significant decline in social media usage in the 13-15 demographic"
+      },
+      {
+        "name": "Design mandates win",
+        "whatHappens": "Pressure from multiple jurisdictions forces platforms to disable algorithmic amplification and infinite scroll for all users under 16 globally, because implementing regional variations is too complex. This reduces addictive engagement for teen users in all markets.",
+        "signal": "Meta announces a global under-16 feed design change that removes algorithmic ranking in favor of chronological order"
+      },
+      {
+        "name": "US federal preemption",
+        "whatHappens": "Trump's White House AI Task Force challenges Missouri and other state laws under the December executive order. Federal courts side with the administration. State social media laws are struck down as conflicting with the 'minimally burdensome national standard.' Federal-level regulation remains absent.",
+        "signal": "US Attorney General files suit against Missouri's social media age verification law within 90 days of its passage"
+      }
+    ],
+    "whatWouldChange": "Evidence from Australia showing a measurable improvement in teen mental health outcomes 12 months after enforcement began would be the strongest possible case for the bans. Conversely, data showing teen mental health remained flat or worsened would confirm the academic critics' position. Australia is the natural experiment; its results will determine whether this policy wave continues or reverses."
+  }
+}

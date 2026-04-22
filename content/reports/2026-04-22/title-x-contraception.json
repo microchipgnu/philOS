@@ -1,0 +1,78 @@
+{
+  "id": "title-x-contraception",
+  "date": "2026-04-22",
+  "generatedAt": "2026-04-22T07:45:00Z",
+  "title": "Trump is Moving Against Birth Control. Quietly, Through a Federal Program.",
+  "subtitle": "The administration is transforming Title X, the $300M federal family planning program, away from contraception and toward 'natural family planning.' Planned Parenthood is being cut off. This is happening without legislation.",
+  "topic": "society",
+  "category": "power",
+  "tags": ["Title X", "contraception", "Trump", "reproductive rights", "MAHA", "Planned Parenthood", "pronatalism"],
+  "coverImage": {
+    "url": "https://static.independent.co.uk/2026/04/22/00/download.jpg?width=1200&height=800&crop=1200:800",
+    "local": "/images/reports/2026-04-22/title-x-contraception.jpg",
+    "credit": "The Independent / AFP"
+  },
+  "sources": [
+    {
+      "url": "https://www.bostonglobe.com/2026/04/22/opinion/title-x-birth-control/",
+      "publisher": "Boston Globe / Mary Ziegler",
+      "angle": "Legal historian analysis: the attack on contraception is the logical next step after the administration concluded it cannot restrict abortion rights through legislation. Contraception is politically easier because it unites pronatalists, MAHA influencers, and social conservatives."
+    }
+  ],
+  "brief": {
+    "actors": ["Trump", "HHS", "Planned Parenthood", "RFK Jr.", "Congress"],
+    "whatHappened": "The Trump administration has released new Title X guidance that is nearly 70 pages long and only mentions birth control to criticize it. HHS is now calling for more support for 'natural family planning' methods like period tracking apps, which are less reliable than contraception. One proposed change would cut all funding to Planned Parenthood, which has already closed 50 clinics following passage of the One Big Beautiful Bill last year. The administration gutted the Title X office during the government shutdown in October. White House spokesman Kush Desai said Title X would be 'transformed to reflect the president's pro-life and pro-family agenda.' This is all happening through administrative action, not legislation.",
+    "bottomLine": "The administration is doing through regulation what it cannot do through law: ending federal support for contraception access for low-income women, without a congressional vote, without a court challenge ready to stop it, and without most voters paying attention.",
+    "hiddenBets": [
+      {
+        "assumption": "Attacking contraception is politically risky for Republicans",
+        "whyItMightBeWrong": "The administration is deliberately using the administrative route precisely because a legislative vote would be too visible. The Title X transformation is being done through guidance documents and budget cuts. The political cost of executive action is much lower than the cost of a floor vote. Opponents have to sue to stop it, which takes years."
+      },
+      {
+        "assumption": "Natural family planning methods are an acceptable substitute for contraception",
+        "whyItMightBeWrong": "Natural family planning methods have higher failure rates than hormonal contraceptives or IUDs. The NIH data shows 12-15 year olds using social media more than three hours a day have twice the mental health risk; the same rigor does not apply to period tracking apps as birth control. Replacing reliable contraception with unreliable methods for low-income women is functionally equivalent to restricting their access to family planning."
+      },
+      {
+        "assumption": "MAHA movement's anti-contraception position is fringe",
+        "whyItMightBeWrong": "RFK Jr.'s influence inside HHS is directly visible in the Title X guidance document. A 2025 survey found young adults using AI for mental health support nearly six times more than older adults, suggesting the MAHA framing around 'natural' alternatives to medical products resonates with younger demographics. The coalition of pronatalists, MAHA adherents, and social conservatives is larger and better organized than mainstream media coverage suggests."
+      }
+    ],
+    "realDisagreement": "The actual fork is between two different theories of what reproductive rights are. Position A: reproductive rights include contraception access as a baseline condition for women's economic participation, and removing federal support for it is an attack on women's autonomy. Position B: the government has no obligation to fund reproductive choices it disagrees with morally, and federal dollars should not go to organizations that provide abortion-related services. Both positions have constitutional basis. The Title X transformation is effectively a policy choice for Position B made without a democratic vote. I side with Position A on the evidence: contraception access is demonstrably linked to women's earnings and educational attainment, and removing it from low-income women creates downstream harms that are real and measurable, regardless of the administration's stated rationale.",
+    "whatNoOneIsSaying": "The administration has learned from the Dobbs backlash that high-visibility attacks on reproductive rights cost elections. The Title X approach is specifically designed to be invisible: administrative guidance documents, budget cuts buried in a government shutdown, and program redirections that do not trigger the immediate public response that a congressional vote would. The strategy is to eliminate access without ever forcing a headline.",
+    "whoPays": [
+      {
+        "who": "Low-income women who used Title X providers",
+        "how": "Title X funds free or low-cost contraception, STI testing, and reproductive health care for millions of low-income women. Cutting Planned Parenthood and redirecting funds to natural family planning reduces access to reliable contraception and other services for the exact population that cannot pay out of pocket.",
+        "when": "Within 6-12 months as funding redirections take effect"
+      },
+      {
+        "who": "Planned Parenthood",
+        "how": "50 clinic closures already. The Title X cutoff would accelerate closures in states where Planned Parenthood is the primary provider of non-abortion reproductive health services.",
+        "when": "As new Title X grant cycle is implemented"
+      },
+      {
+        "who": "State health systems in Title X-dependent areas",
+        "how": "When Planned Parenthood clinics close, uncompensated care volume at county hospitals and community health centers rises. States that have not expanded Medicaid to cover contraception will see increased unintended pregnancies, with associated maternal and child health costs.",
+        "when": "12-24 months after funding changes"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Quiet transformation",
+        "whatHappens": "New Title X guidance goes into effect with minimal public attention. Planned Parenthood loses funding and closes more clinics. Period tracking apps and abstinence-based education are funded under the 'natural family planning' umbrella. Unintended pregnancy rates among low-income women rise gradually.",
+        "signal": "New Title X grant awards issued to faith-based organizations offering natural family planning, not to Planned Parenthood"
+      },
+      {
+        "name": "Legal challenge succeeds",
+        "whatHappens": "Planned Parenthood or ACLU obtains a preliminary injunction blocking the Title X guidance changes on administrative procedure grounds. The program is frozen in its current state while litigation proceeds for 2-3 years.",
+        "signal": "Federal district court issues a temporary restraining order against the new Title X guidance within 60 days of publication"
+      },
+      {
+        "name": "Congress acts",
+        "whatHappens": "Bipartisan concern about contraception access drives a congressional carve-out that protects contraception funding within Title X while allowing the administration's other changes. Unlikely given current House composition but possible if 2026 midterms shift the chamber.",
+        "signal": "A Senate Republican co-sponsors a Title X protection amendment"
+      }
+    ],
+    "whatWouldChange": "Evidence that the administration is also moving to restrict over-the-counter contraception access or mifepristone would confirm this is part of a broader strategy rather than isolated budget politics. If the Title X changes are accompanied by FDA action on contraceptive approvals, the bottom line hardens significantly."
+  }
+}

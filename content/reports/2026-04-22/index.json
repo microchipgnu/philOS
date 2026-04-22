@@ -1,0 +1,42 @@
+{
+  "date": "2026-04-22",
+  "generatedAt": "2026-04-22T07:45:00Z",
+  "reports": [
+    {
+      "id": "iran-ceasefire-deadlock",
+      "title": "The Iran Ceasefire That Neither Side Wants to Own",
+      "subtitle": "Trump extended the truce indefinitely but kept the blockade. Iran refused to send negotiators. Both sides are now waiting for the other to blink first.",
+      "category": "conflict"
+    },
+    {
+      "id": "trump-tariff-refund-coercion",
+      "title": "Trump Tells Companies to Waive Their Court-Ordered Refunds",
+      "subtitle": "The Supreme Court struck down his tariffs as unconstitutional. The refund portal is open. Trump is now pressuring companies to not use it, promising to 'remember' those who comply.",
+      "category": "power"
+    },
+    {
+      "id": "apple-ceo-ternus",
+      "title": "Apple's Hardware Chief Takes Over. The Question Is Whether He Can Fix the Software Problem.",
+      "subtitle": "Tim Cook built a $3 trillion machine and leaves in September. John Ternus inherits it with no breakout AI product, a lagging Siri, and Jony Ive now working for OpenAI.",
+      "category": "decision"
+    },
+    {
+      "id": "match-act-chip-controls",
+      "title": "The MATCH Act Would Let the US Cut Off Allies Who Don't Follow Its Chip Rules",
+      "subtitle": "Congress wants to force allies to comply with US semiconductor export controls or face secondary sanctions on any product using American technology. China says it has already adapted.",
+      "category": "power"
+    },
+    {
+      "id": "title-x-contraception",
+      "title": "Trump is Moving Against Birth Control. Quietly, Through a Federal Program.",
+      "subtitle": "The administration is transforming Title X, the $300M federal family planning program, away from contraception and toward 'natural family planning.' Planned Parenthood is being cut off. This is happening without legislation.",
+      "category": "power"
+    },
+    {
+      "id": "social-media-age-ban-wave",
+      "title": "Governments Are Banning Teens From Social Media. The Evidence Says It Won't Work.",
+      "subtitle": "Australia's under-16 ban, Canada's Liberal resolution, Missouri's new law, Indonesia's crackdown. A global wave of social media age restrictions is building. Every expert says enforcement will fail.",
+      "category": "conflict"
+    }
+  ]
+}
