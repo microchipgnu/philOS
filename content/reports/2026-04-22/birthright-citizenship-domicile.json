@@ -1,0 +1,101 @@
+{
+  "id": "birthright-citizenship-domicile",
+  "date": "2026-04-22",
+  "generatedAt": "2026-04-22T17:20:00Z",
+  "title": "The Supreme Court Is About to Rule on Birthright Citizenship. The Outcome May Turn on a Single Word from 1868.",
+  "subtitle": "Whether millions of US-born children of undocumented immigrants remain citizens may depend on how SCOTUS defines 'domicile' in the 14th Amendment. The court already signaled doubt about Trump's position. The market puts his odds at 8%.",
+  "topic": "politics",
+  "category": "power",
+  "tags": ["Supreme Court", "birthright citizenship", "14th Amendment", "Trump", "immigration", "SCOTUS"],
+  "coverImage": {
+    "url": "https://i0.wp.com/carolinianuncg.com/wp-content/uploads/2026/04/69cd7b1c46ca4.image_.jpg?fit=1200%2C900&ssl=1",
+    "local": "/images/reports/2026-04-22/birthright-citizenship-scotus.jpg",
+    "credit": "The Carolinian / UNCG"
+  },
+  "sources": [
+    {
+      "url": "https://www.scotusblog.com/2026/04/why-the-supreme-courts-birthright-citizenship-decision-may-depend-on-the-meaning-of-domicile/",
+      "publisher": "SCOTUSblog",
+      "angle": "Legal deep-dive: the Justice Department's novel argument that 'subject to the jurisdiction thereof' requires parental domicile, not mere physical presence, and why that reading has no historical precedent in citizenship law."
+    },
+    {
+      "url": "https://legalnewsfeed.com/2026/04/20/supreme-court-weighs-trump-administrations-challenge-to-birthright-citizenship-in-landmark-case/",
+      "publisher": "Legal News Feed",
+      "angle": "Stakes framing: estimates of how many people would lose citizenship under Trump's executive order, the retroactivity question, and which circuit courts have already ruled against the administration."
+    },
+    {
+      "url": "https://www.theregreview.org/2026/04/22/levesque-history-ambassadors-and-birthright-citizenship/",
+      "publisher": "The Regulatory Review",
+      "angle": "Historical: argues that the 14th Amendment's citizenship clause was written specifically to prevent future legislative or executive redefinition, and that the 'domicile' argument requires ignoring 150 years of practice."
+    },
+    {
+      "url": "https://carolinianuncg.com/2026/04/21/supreme-court-hears-arguments-about-birthright-citizenship/",
+      "publisher": "The Carolinian",
+      "angle": "Student press perspective: impact on university communities, DREAMer-adjacent populations, and the practical enforcement question of retroactive citizenship removal."
+    }
+  ],
+  "brief": {
+    "actors": ["SCOTUS", "Trump", "DOJ", "ACLU", "14th Amendment"],
+    "whatHappened": "The Supreme Court heard oral arguments on April 1, 2026, in Trump v. Barbara, a case challenging the president's January 2025 executive order that reinterpreted the 14th Amendment's citizenship clause. The administration's argument is that children born to undocumented parents do not qualify as 'subject to the jurisdiction' of the United States because their parents lack domicile, a legal status the Justice Department defines as permanent lawful residence. Multiple circuit courts have struck down the executive order. The court signaled significant doubt during oral arguments: justices questioned whether the administration's domicile theory had any historical foundation in citizenship law. A Polymarket market puts the probability that SCOTUS strikes down the executive order at 91.7%. A ruling is expected before the end of the court's current term in June 2026.",
+    "bottomLine": "The court is almost certainly going to strike this down, but the 8% chance it doesn't would affect more people than any Supreme Court ruling in living memory.",
+    "hiddenBets": [
+      {
+        "assumption": "A loss at the Supreme Court ends this policy attempt.",
+        "whyItMightBeWrong": "Trump's administration has already demonstrated a pattern of re-routing after judicial losses: finding new statutory authorities, new executive mechanisms, or simply refusing to comply pending further litigation. A Supreme Court loss on the 14th Amendment would not prevent a push for a constitutional amendment, a narrower executive order, or aggressive enforcement that achieves de facto restriction without formal legal change."
+      },
+      {
+        "assumption": "The 'domicile' argument is legally frivolous.",
+        "whyItMightBeWrong": "The Justice Department's theory is not historically recognized, but it is not legally incoherent. It rests on an analogy to diplomatic immunity, where individuals present in the US but not 'subject to jurisdiction' in the citizenship sense include foreign diplomats. The administration argues undocumented immigrants occupy a similar structural position. Most constitutional scholars reject this, but 'most scholars reject it' is not the same as 'no serious argument exists.'"
+      },
+      {
+        "assumption": "The ruling will be 7-2 or cleaner given the signaling at oral argument.",
+        "whyItMightBeWrong": "The court could strike down the executive order on narrow grounds that leave the constitutional question partially open, inviting future legislation rather than fully resolving the issue. A 6-3 ruling with a concurrence that gestures toward the administration's theory would be far more destabilizing than a clean rejection."
+      }
+    ],
+    "realDisagreement": "The real disagreement is not about what the 14th Amendment says. It is about who gets to define 'subject to the jurisdiction thereof' as society changes. The textualist position says the clause means physical presence and birth on US soil, full stop, because that is what Congress understood in 1868 and what practice has confirmed for 150 years. The administration's position is that legal status of parents was always implicit in the clause, just never litigated because it was never contested. The textualist reading is more historically grounded. But the administration's position captures a real anxiety: that a constitutional provision written before modern immigration categories applies unclearly to a population that did not exist in its current form in 1868. The court should rule for the textualist position, but it should do so with enough specificity to prevent a decade of follow-on litigation about edge cases.",
+    "whatNoOneIsSaying": "The most politically durable version of this policy is not the executive order. It is a statute. If the Supreme Court strikes down the executive order, Congress could pass a law defining 'subject to the jurisdiction thereof' by statute, force the court to rule on a legislative rather than executive definition, and create a much harder legal problem for challengers. Trump's team knows this. The executive order is the opening bid, not the endgame.",
+    "whoPays": [
+      {
+        "who": "US-born children of undocumented parents",
+        "how": "If the policy were upheld, they would be stateless or holding only a foreign nationality in a country where they were born and raised. The market says this is an 8% scenario, but 8% applied to millions of people is a large absolute number of lives.",
+        "when": "If upheld: immediate retroactive impact is legally uncertain but practically catastrophic."
+      },
+      {
+        "who": "State and local governments",
+        "how": "Citizenship status determines eligibility for public benefits, public school enrollment, and social services. Any policy that creates a class of US-born non-citizens requires entirely new administrative infrastructure that states are not funded to build.",
+        "when": "Immediate upon any policy change: states would need to verify citizenship status in systems designed to handle birthright."
+      },
+      {
+        "who": "US credibility in international citizenship law",
+        "how": "The US has used birthright citizenship as a model for democratic governance. Restricting it by executive order would change how the US argues for rule-of-law standards in other countries' citizenship disputes.",
+        "when": "Long-term, gradual erosion of soft power argument."
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Clean Strike",
+        "whatHappens": "SCOTUS strikes down the executive order 6-3 or 7-2 on 14th Amendment grounds, with a clear ruling that physical birth on US soil satisfies the jurisdiction clause. Congress does not immediately pursue a statutory alternative.",
+        "signal": "A ruling that does not include a concurrence gesturing toward the administration's domicile theory."
+      },
+      {
+        "name": "Narrow Ruling",
+        "whatHappens": "Court strikes down the executive order but on procedural or administrative law grounds rather than constitutional grounds, leaving the 14th Amendment question unresolved and inviting a future statutory challenge.",
+        "signal": "A ruling that cites APA violation or lack of statutory authority rather than direct 14th Amendment analysis."
+      },
+      {
+        "name": "Upheld",
+        "whatHappens": "8% market probability. Court upholds the executive order, creating a new category of US-born non-citizens. Immediate legal chaos in 50 states, international condemnation, and a likely constitutional crisis over retroactivity.",
+        "signal": "A 5-4 ruling with Roberts or a conservative joining the three liberals in dissent."
+      }
+    ],
+    "whatWouldChange": "If a senator introduced and advanced a statute defining 'subject to the jurisdiction thereof' before the court's ruling, it would signal that the administration sees the Supreme Court loss coming and is already positioning for the legislative round. That has not happened yet.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "SCOTUS strikes down Trump's Birthright Citizenship EO?",
+        "url": "https://polymarket.com/event/scotus-strikes-down-trumps-birthright-citizenship-eo",
+        "probability": 0.917
+      }
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id": "glasswing-antitrust",
+  "date": "2026-04-22",
+  "generatedAt": "2026-04-22T17:00:00Z",
+  "title": "Anthropic Built a Cybersecurity Cartel. They're Calling It a Consortium.",
+  "subtitle": "Project Glasswing gives 40+ tech giants exclusive access to an AI that finds zero-day vulnerabilities at scale. The companies that control the internet's infrastructure now also control the tool that scans it for holes.",
+  "topic": "tech",
+  "category": "power",
+  "tags": ["Anthropic", "AI", "cybersecurity", "antitrust", "Project Glasswing", "Claude Mythos"],
+  "coverImage": {
+    "url": "https://securitybrief.news/uploads/story/2026/04/22/compatible_flux-result-98c90454-e22b-40d3-87b0-b943c20a210c.jpg",
+    "local": "/images/reports/2026-04-22/glasswing-antitrust.jpg",
+    "credit": "SecurityBrief"
+  },
+  "sources": [
+    {
+      "url": "https://www.promarket.org/2026/04/22/the-antitrust-risks-of-anthropics-project-glasswing-and-the-ai-avengers/",
+      "publisher": "ProMarket",
+      "angle": "Detailed antitrust analysis: argues Glasswing is a standard-setting body controlled by incumbents who can exclude competitors and direct the model's attention away from their own vulnerabilities."
+    },
+    {
+      "url": "https://foreignpolicy.com/2026/04/20/claude-mythos-preview-anthropic-project-glasswing-cybersecurity-ai-hacking-danger/",
+      "publisher": "Foreign Policy",
+      "angle": "Describes Claude Mythos's actual capability in finding zero-days and explains why Anthropic framed restricted access as a safety measure rather than a competitive choice."
+    },
+    {
+      "url": "https://www.techpolicy.press/anthropic-warned-big-companies-about-mythos-workers-and-watchdogs-need-a-seat-at-the-table/",
+      "publisher": "TechPolicy.Press",
+      "angle": "Argues that notifying only corporations about a potentially dangerous model leaves labor and civil society without any voice in how the tool gets used."
+    },
+    {
+      "url": "https://www.thehindu.com/sci-tech/technology/how-ai-companies-are-quietly-becoming-the-worlds-cybersecurity-gatekeepers/article70868621.ece",
+      "publisher": "The Hindu",
+      "angle": "Frames Glasswing as a cartel: a group of the most powerful tech companies that gets to decide who can access the most capable cybersecurity tools ever built."
+    },
+    {
+      "url": "https://www.landall.co.uk/blog/project-glasswing-how-could-it-impact-ai-safety/",
+      "publisher": "Landall Services",
+      "angle": "Sympathetic to Anthropic's framing: treats restricted access as a responsible precaution given that Mythos can find and exploit vulnerabilities that existing security practices were never built to address."
+    }
+  ],
+  "brief": {
+    "actors": ["Anthropic", "Claude Mythos", "Apple", "Google", "Microsoft", "Amazon", "Nvidia", "FTC"],
+    "whatHappened": "Anthropic's Claude Mythos Preview, a general-purpose language model, independently found thousands of critical zero-day vulnerabilities across major operating systems and browsers during testing. Rather than release the model publicly, Anthropic launched Project Glasswing: a closed consortium of over 40 companies that control critical internet infrastructure, including Apple, Google, Microsoft, Amazon, Cisco, CrowdStrike, Nvidia, and JPMorgan Chase. These companies get exclusive access to the model to scan and patch their own systems. Critics at ProMarket and The Hindu published analyses on April 22 arguing the arrangement functions as an antitrust cartel: the companies that dominate the internet's infrastructure now also control who gets to use the most powerful vulnerability-scanning tool ever built.",
+    "bottomLine": "Anthropic solved a real security problem by handing the solution exclusively to the companies that created the security problem.",
+    "hiddenBets": [
+      {
+        "assumption": "Restricted access to Mythos makes the internet safer.",
+        "whyItMightBeWrong": "The model's capabilities are now known. Foreign intelligence services, ransomware groups, and independent researchers are racing to replicate what Anthropic demonstrated. The window where 'controlled access' provides meaningful protection is probably weeks, not years."
+      },
+      {
+        "assumption": "The Glasswing companies will use the model to find and fix their own vulnerabilities.",
+        "whyItMightBeWrong": "There is no enforcement mechanism. A consortium member could use the model to map competitor vulnerabilities, identify acquisition targets with hidden weaknesses, or simply sit on findings. Anthropic's disclosure requirements inside Glasswing are not public."
+      },
+      {
+        "assumption": "The FTC or DOJ will treat this like any other tech consortium.",
+        "whyItMightBeWrong": "Glasswing is structured as a defensive security initiative, not a commercial product. Antitrust law was not written to handle a scenario where access to a safety tool is itself the competitive advantage. Regulators may lack the authority or the speed to act before the consortium solidifies."
+      }
+    ],
+    "realDisagreement": "The real fork is between two legitimate principles that cannot both be satisfied here. The first: dangerous capabilities should be restricted to prevent catastrophic misuse. The second: who controls access to a safety-critical tool is itself a question of power, not just safety. Anthropic chose the first principle and handed the implementation to forty corporations with no public accountability. The more defensible position is that safety restrictions should flow through a public body with adversarial oversight, not through a private consortium that excludes labor, civil society, small vendors, and foreign allies. The cost of that position is slower deployment. The cost of Anthropic's position is that the world's most powerful vulnerability scanner is now an asset of the companies that already control the internet.",
+    "whatNoOneIsSaying": "Anthropic's safety-first branding is load-bearing for its valuation. A company that openly said 'we gave exclusive access to the world's most powerful cyber weapon to forty corporations because they're our customers' would face regulatory and reputational consequences that 'we restricted access for safety reasons' does not. The safety framing is doing competitive and legal work that safety alone cannot justify.",
+    "whoPays": [
+      {
+        "who": "Small and mid-size software vendors not in the consortium",
+        "how": "They cannot scan their own products for the class of vulnerabilities Mythos can find. Glasswing members can. When a zero-day surfaces in a small vendor's product that a Glasswing member patched months ago, the small vendor carries the liability and the Glasswing member carries the reputational benefit.",
+        "when": "Ongoing, compounding over 12-18 months as Mythos finds more vulnerabilities that only consortium members can remediate."
+      },
+      {
+        "who": "Open-source maintainers",
+        "how": "Critical open-source infrastructure underlies most of the internet. Glasswing members can run Mythos against open-source code they depend on without disclosing findings to the maintainers, creating asymmetric knowledge.",
+        "when": "Immediate."
+      },
+      {
+        "who": "Governments and allied nations outside the Five Eyes",
+        "how": "The US government received a parallel briefing on Mythos. US allies in Europe and Asia did not. A model that reshapes offensive and defensive cyber capabilities is now partially controlled by a US corporation and partially shared with US government agencies, with no multilateral governance.",
+        "when": "Slow-burn: becomes acute when a nation-state cyberattack targets infrastructure that Glasswing members have patched but non-members have not."
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Consortium Hardens",
+        "whatHappens": "Glasswing expands to 80-100 members over the next year, covers most critical infrastructure, and functions as a de facto internet security standard. FTC opens an inquiry but finds no clean theory of harm.",
+        "signal": "Antitrust filings by excluded vendors or a congressional hearing on Glasswing access policies."
+      },
+      {
+        "name": "Model Leaks",
+        "whatHappens": "Mythos Preview or a close equivalent is replicated by a foreign lab or released by a departing Anthropic employee. Glasswing's security rationale collapses and it becomes a pure commercial arrangement with no safety justification.",
+        "signal": "A zero-day exploit in the wild that matches the class of vulnerabilities Mythos was trained to find, attributed to a non-Glasswing actor."
+      },
+      {
+        "name": "Regulatory Breakup",
+        "whatHappens": "DOJ or the EU opens a formal investigation treating Glasswing as an exclusive dealing arrangement. Anthropic is forced to offer access to a broader set of vendors under a licensing framework with independent oversight.",
+        "signal": "A formal DOJ civil investigative demand or EU dawn raid on Anthropic within six months."
+      }
+    ],
+    "whatWouldChange": "If Anthropic published the full criteria for Glasswing membership, the disclosure requirements inside the consortium, and an independent audit of how findings are used, the antitrust case would weaken substantially. Right now those terms are not public. That opacity is the actual problem.",
+    "markets": []
+  }
+}

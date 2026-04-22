@@ -119,6 +119,48 @@
           "relationship": "OpenAI embedding its cyber AI into federal security infrastructure before oversight legislation exists creates dependency that constrains future regulation, just as CEOs redesigning supply chains around executive tariffs creates structural lock-in that makes future tariff reversal costly. Both are cases of first-mover advantage converting a temporary executive action into a durable institutional fact."
         }
       ]
+    },
+    {
+      "id": "ai-cartel-government-pipeline",
+      "title": "Anthropic and OpenAI Are Both Becoming Infrastructure Before Anyone Decides Whether That Is Allowed",
+      "description": "The Glasswing story and the OpenAI cyber government story from this morning look like separate tech news. They are the same event, happening at two companies simultaneously. Both Anthropic and OpenAI have released models capable of offensive and defensive cyber operations. Both companies controlled access by giving exclusives to powerful incumbents: Anthropic to a consortium of 40 tech corporations, OpenAI to the US government and Five Eyes. Neither exclusivity arrangement was authorized by any law, reviewed by any independent body, or subject to any competitive process. Both arrangements create dependency before oversight exists. The difference is that OpenAI's customers are governments with armies, and Anthropic's customers are the corporations that build the software governments depend on. Both pipelines are now live, and neither has a regulator.",
+      "type": "tension-cluster",
+      "stories": ["glasswing-antitrust", "openai-gpt-cyber-government"],
+      "connections": [
+        {
+          "from": "openai-gpt-cyber-government",
+          "to": "glasswing-antitrust",
+          "relationship": "OpenAI gave government agencies exclusive early access to its cyber model before any legislative framework governs AI in national security contexts; Anthropic gave 40 tech corporations exclusive access to its zero-day-finding model before any antitrust framework addresses AI security consortiums. Both companies embedded their preferred distribution structure into institutional fact before oversight could constrain the choice."
+        }
+      ]
+    },
+    {
+      "id": "europe-paying-russia-to-survive-russia",
+      "title": "Europe Funded Ukraine's War and Resumed Russian Oil on the Same Day. Those Two Facts Are Not Separate.",
+      "description": "The EU Ukraine loan story and the Russia NATO readiness warning share a hidden dependency that neither story surfaces on its own. Europe approved 90 billion euros to help Ukraine fight Russia on the same day it resumed pumping Russian crude through a pipeline Hungary needed as a condition of lifting its veto. The MIVD report, published the same morning, warns that Russia will be ready to challenge NATO within one year of a Ukraine ceasefire. Those three facts form a loop: Europe is financing Ukraine's resistance while simultaneously maintaining the energy revenue stream that keeps Russia's economy functional enough to rearm. The very pipeline that unlocked the loan is part of the Russian energy infrastructure that funds the military the MIVD is warning about. European solidarity with Ukraine is being financed partly by European payments to Russia.",
+      "type": "dependency-web",
+      "stories": ["eu-ukraine-druzhba-loan", "russia-nato-one-year"],
+      "connections": [
+        {
+          "from": "eu-ukraine-druzhba-loan",
+          "to": "russia-nato-one-year",
+          "relationship": "The Druzhba pipeline resumption that unlocked Ukraine's 90 billion euro loan delivers Russian crude to Hungary and Slovakia, generating transit fees for Ukraine but energy revenue for Russia; the MIVD report warns Russia will use post-Ukraine recovery time to rearm for a NATO challenge. The pipeline that funded the loan is part of the economic system funding the threat the loan is meant to contain."
+        }
+      ]
+    },
+    {
+      "id": "trump-embedding-preference-as-institution",
+      "title": "Trump Is Not Changing Policies. He Is Changing the Institutions That Make Policies.",
+      "description": "The Warsh Fed confirmation and the CEO tariff survey are both measuring the same process at different scales. Warsh's appointment moves the Federal Reserve from an institution that operates under its own policy framework toward one that operates under the framework of whoever appointed its chair. The PwC CEO survey shows that private sector planning has already absorbed the tariff executive orders as structural facts, meaning companies are now locked into supply chains that make tariff reversal economically costly regardless of any future legal or political change. Neither development required legislation. Both create durable institutional change through personnel and behavioral lock-in rather than law. The courts struck down the tariff authority; CEOs adapted anyway. If the courts constrain Warsh's rate policy, financial markets will have already priced in his appointments, creating pressure for the Fed to deliver what markets expect. In both cases, the mechanism converts a personnel decision into an institutional baseline that outlasts the individual.",
+      "type": "cause-effect",
+      "stories": ["warsh-fed-independence", "ceo-tariffs-permanent"],
+      "connections": [
+        {
+          "from": "warsh-fed-independence",
+          "to": "ceo-tariffs-permanent",
+          "relationship": "Warsh's confirmation would install a Fed chair who pledged independence but owes his position to presidential pressure, converting personnel selection into an informal policy mechanism; CEOs are already treating tariffs as permanent despite SCOTUS striking down the legal authority, converting executive behavior into planning infrastructure. Both are cases where formal legal reversal does not restore the pre-existing institutional condition."
+        }
+      ]
     }
   ]
 }

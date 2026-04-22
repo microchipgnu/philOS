@@ -67,6 +67,36 @@
       "title": "AT&T and Verizon Want a Jury Trial for Their FCC Fines. The Supreme Court Seems Skeptical But Interested.",
       "subtitle": "FCC v. AT&T asks whether the Seventh Amendment requires a jury trial before a federal agency can impose a nine-figure fine. The answer would reshape how every regulatory agency in the US enforces penalties.",
       "category": "power"
+    },
+    {
+      "id": "glasswing-antitrust",
+      "title": "Anthropic Built a Cybersecurity Cartel. They're Calling It a Consortium.",
+      "subtitle": "Project Glasswing gives 40+ tech giants exclusive access to an AI that finds zero-day vulnerabilities at scale. The companies that control the internet's infrastructure now also control the tool that scans it for holes.",
+      "category": "power"
+    },
+    {
+      "id": "warsh-fed-independence",
+      "title": "Trump's Fed Pick Swore He Wouldn't Be Trump's 'Sock Puppet.' That's Exactly What a Sock Puppet Would Say.",
+      "subtitle": "Kevin Warsh cleared his confirmation hearing by pledging strict Fed independence. The question is whether a nominee who owes his job to presidential pressure can deliver independence once confirmed.",
+      "category": "power"
+    },
+    {
+      "id": "eu-ukraine-druzhba-loan",
+      "title": "The EU Unlocked $106 Billion for Ukraine. The Price Was Letting Russian Oil Flow Again.",
+      "subtitle": "Hungary lifted its veto on the EU's largest-ever Ukraine loan package only after Kyiv agreed to resume pumping Russian crude through the Druzhba pipeline. European solidarity now runs on Russian energy.",
+      "category": "conflict"
+    },
+    {
+      "id": "russia-nato-one-year",
+      "title": "Dutch Intelligence Says Russia Could Attack NATO Within a Year of Ukraine Ending. The Timing Is Not a Coincidence.",
+      "subtitle": "The MIVD's annual report puts a specific clock on European rearmament: one year after hostilities in Ukraine stop, Russia may be ready for a regional NATO conflict. The EU just approved 90 billion euros for Ukraine the same day.",
+      "category": "conflict"
+    },
+    {
+      "id": "birthright-citizenship-domicile",
+      "title": "The Supreme Court Is About to Rule on Birthright Citizenship. The Outcome May Turn on a Single Word from 1868.",
+      "subtitle": "Whether millions of US-born children of undocumented immigrants remain citizens may depend on how SCOTUS defines 'domicile' in the 14th Amendment. The court already signaled doubt about Trump's position. The market puts his odds at 8%.",
+      "category": "power"
     }
   ]
 }
