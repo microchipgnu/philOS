@@ -81,6 +81,44 @@
           "relationship": "CSIS analysis says existing chip export controls have accelerated Chinese domestic semiconductor innovation rather than halting it; Apple naming a hardware-first CEO reflects a bet that hardware excellence is the winning strategy in the AI era. Both assume physical control of the technology stack is the decisive variable. Both may be wrong: if China reaches chip self-sufficiency faster than the controls take effect, hardware advantage becomes temporary."
         }
       ]
+    },
+    {
+      "id": "courts-are-the-only-check",
+      "title": "Four Stories Today Were Won in Courtrooms, Not Congress. That Is the Situation.",
+      "description": "The wind and solar permitting story, the FCC jury trial case, the CEO tariff survey, and the Ten Commandments ruling share a structural condition: the legislative branch is absent. Judge Casper blocked Trump's renewable permitting discrimination because Congress has not passed energy legislation protecting technology neutrality. The FCC case exists because Congress set up an enforcement system in 1934 that is now constitutionally contested, and Congress has not touched the Communications Act enforcement structure since. The 86% of CEOs treating tariffs as permanent are responding to a policy made entirely through executive authority after the Supreme Court struck down the original mechanism. The Ten Commandments ruling is being appealed to a Supreme Court that has been the decisive actor on religious liberty because Congress cannot pass any legislation touching this question. In all four cases, the federal courts are not the backup to the legislature. They are the primary institution making the actual decisions. That is an unstable condition: courts can check executive and legislative power but cannot provide the policy legitimacy that only democratically accountable institutions can.",
+      "type": "tension-cluster",
+      "stories": ["judge-blocks-trump-wind-solar", "fcc-att-scotus-jury", "ceo-tariffs-permanent", "texas-ten-commandments-schools"],
+      "connections": [
+        {
+          "from": "judge-blocks-trump-wind-solar",
+          "to": "ceo-tariffs-permanent",
+          "relationship": "The wind and solar injunction restores one permitting pathway while 86% of CEOs are building permanent supply chains around an executive tariff structure that Congress has not legislated. In both cases, executive action set the policy and courts are either restraining or implicitly validating it, while Congress remains inert."
+        },
+        {
+          "from": "fcc-att-scotus-jury",
+          "to": "ceo-tariffs-permanent",
+          "relationship": "If SCOTUS rules that FCC fines require jury trials, it extends Jarkesy's logic across the regulatory state, making administrative enforcement of complex economic regulation structurally harder. CEOs already treating tariffs as permanent are making bets about the stability of the regulatory environment, but a broad Jarkesy extension would make all federal penalty enforcement less predictable, not more."
+        },
+        {
+          "from": "texas-ten-commandments-schools",
+          "to": "fcc-att-scotus-jury",
+          "relationship": "Both cases turn on whether the current Supreme Court will extend the historical-tradition methodology beyond its original domain. The Ten Commandments case asks whether it applies to Establishment Clause questions. The FCC case asks whether Jarkesy's Seventh Amendment logic applies to regulatory agencies beyond the SEC. The same court, the same term, two cases that test whether the new jurisprudential method has any limiting principle."
+        }
+      ]
+    },
+    {
+      "id": "ai-weapons-without-rules",
+      "title": "The OpenAI Cyber Briefing and the CEO Tariff Survey Are Both About the Same Thing: Whoever Acts First Sets the Rules",
+      "description": "OpenAI briefing the NSA, Five Eyes, and federal agencies on GPT-5.4-Cyber before any oversight framework exists is structurally identical to 86% of CEOs treating tariffs as permanent before Congress has legislated a tariff framework. In both cases, the actor with first-mover advantage is embedding its preferred outcome into the institutional baseline before anyone with authority has agreed on the rules. OpenAI is making itself indispensable to federal cyber infrastructure before there is a law governing AI in national security contexts. Trump's executive tariff authorities are becoming permanent planning assumptions before Congress has decided whether to ratify them. The mechanism is the same: create facts on the ground that are too costly to reverse, then watch the political and legal system build around those facts rather than challenge them. The PwC survey is measuring this effect directly in the tariff domain. The Mythos breach at Anthropic suggests the same dynamic in the AI domain, but with the added risk that the embedded infrastructure can leak.",
+      "type": "cause-effect",
+      "stories": ["openai-gpt-cyber-government", "ceo-tariffs-permanent"],
+      "connections": [
+        {
+          "from": "openai-gpt-cyber-government",
+          "to": "ceo-tariffs-permanent",
+          "relationship": "OpenAI embedding its cyber AI into federal security infrastructure before oversight legislation exists creates dependency that constrains future regulation, just as CEOs redesigning supply chains around executive tariffs creates structural lock-in that makes future tariff reversal costly. Both are cases of first-mover advantage converting a temporary executive action into a durable institutional fact."
+        }
+      ]
     }
   ]
 }

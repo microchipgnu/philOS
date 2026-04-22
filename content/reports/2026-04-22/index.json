@@ -37,6 +37,36 @@
       "title": "Governments Are Banning Teens From Social Media. The Evidence Says It Won't Work.",
       "subtitle": "Australia's under-16 ban, Canada's Liberal resolution, Missouri's new law, Indonesia's crackdown. A global wave of social media age restrictions is building. Every expert says enforcement will fail.",
       "category": "conflict"
+    },
+    {
+      "id": "openai-gpt-cyber-government",
+      "title": "OpenAI Gives the Government Access to Its Cyber Weapon. Anthropic's Already Leaked.",
+      "subtitle": "GPT-5.4-Cyber is being briefed to US agencies and Five Eyes partners under a 'dual-track' access model. Meanwhile, Anthropic's rival Mythos model was accessed by unauthorized users through a vendor the same week it launched.",
+      "category": "power"
+    },
+    {
+      "id": "texas-ten-commandments-schools",
+      "title": "The Fifth Circuit Just Told Texas It Can Post the Ten Commandments in Every Public School. The Supreme Court Has to Take This.",
+      "subtitle": "A 9-8 ruling by the most conservative federal appeals circuit reversed a lower court injunction and greenlit Texas Senate Bill 10. ACLU is appealing. Louisiana and Arkansas have similar laws waiting.",
+      "category": "conflict"
+    },
+    {
+      "id": "ceo-tariffs-permanent",
+      "title": "86% of US CEOs Are Planning as If Trump's Tariffs Will Outlast Trump",
+      "subtitle": "A PwC survey of 633 executives found the planning assumption has shifted: tariffs are no longer a negotiating tactic to wait out. They are structural. The Supreme Court struck down IEEPA tariffs. Congress didn't replace them. CEOs adapted anyway.",
+      "category": "power"
+    },
+    {
+      "id": "judge-blocks-trump-wind-solar",
+      "title": "A Federal Judge Ordered Trump to Unblock Wind and Solar. The Permits Were Being Delayed While Fossil Fuels Carried On.",
+      "subtitle": "Chief Judge Denise Casper in Boston issued a preliminary injunction against five Interior Department and Army Corps policies that put wind and solar permitting in a separate, slower track from other energy sources.",
+      "category": "conflict"
+    },
+    {
+      "id": "fcc-att-scotus-jury",
+      "title": "AT&T and Verizon Want a Jury Trial for Their FCC Fines. The Supreme Court Seems Skeptical But Interested.",
+      "subtitle": "FCC v. AT&T asks whether the Seventh Amendment requires a jury trial before a federal agency can impose a nine-figure fine. The answer would reshape how every regulatory agency in the US enforces penalties.",
+      "category": "power"
     }
   ]
 }

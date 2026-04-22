@@ -1,0 +1,93 @@
+{
+  "id": "texas-ten-commandments-schools",
+  "date": "2026-04-22",
+  "generatedAt": "2026-04-22T13:00:00Z",
+  "title": "The Fifth Circuit Just Told Texas It Can Post the Ten Commandments in Every Public School. The Supreme Court Has to Take This.",
+  "subtitle": "A 9-8 ruling by the most conservative federal appeals circuit reversed a lower court injunction and greenlit Texas Senate Bill 10. ACLU is appealing. Louisiana and Arkansas have similar laws waiting.",
+  "topic": "politics",
+  "category": "conflict",
+  "tags": ["religion", "First Amendment", "SCOTUS", "Texas", "education", "Establishment Clause"],
+  "coverImage": {
+    "url": "https://i.abcnewsfe.com/a/2c8037d5-c982-4307-bb97-956a0eaa74a0/wirestory_43e679cf473e6b98b091d575578824eb_16x9.jpg?w=1600",
+    "local": "/images/reports/2026-04-22/texas-ten-commandments-schools.jpg",
+    "credit": "ABC News"
+  },
+  "sources": [
+    {
+      "url": "https://abcnews.com/US/wireStory/texas-require-public-schools-display-ten-commandments-classrooms-132255317",
+      "publisher": "ABC News / AP",
+      "angle": "Neutral news coverage: the 9-8 split, ACLU's announcement of appeal, and context about Texas's broader push to bring religion into classrooms including optional Bible curriculum."
+    },
+    {
+      "url": "https://www.foxnews.com/politics/federal-court-upholds-texas-law-requiring-ten-commandments-public-classrooms.amp",
+      "publisher": "Fox News",
+      "angle": "Frames the ruling as a religious liberty victory. Quotes Texas Values president calling it one of the most important religious liberty victories in Texas history."
+    },
+    {
+      "url": "https://www.thetimes-tribune.com/2026/04/21/texas-ten-commandments-schools-court-ruling-supreme-court/",
+      "publisher": "Times-Tribune / AP",
+      "angle": "Sets up the SCOTUS collision: the Fifth Circuit ruling conflicts with existing Supreme Court precedent in Stone v. Graham (1980), which struck down a nearly identical Kentucky law."
+    },
+    {
+      "url": "https://www.law360.com/articles/2468325/5th-circ-oks-ten-commandments-in-texas-public-schools",
+      "publisher": "Law360",
+      "angle": "Legal analysis: 9-8 split signals deep division within the circuit. The majority used a historical-tradition test derived from recent SCOTUS methodology rather than the traditional Lemon test."
+    }
+  ],
+  "brief": {
+    "actors": ["ACLU", "Texas", "SCOTUS", "Fifth Circuit", "Texas AG Ken Paxton"],
+    "whatHappened": "The Fifth U.S. Circuit Court of Appeals ruled 9-8 on Tuesday that Texas can require all public school classrooms to display the Ten Commandments under Senate Bill 10. The ruling reverses a preliminary injunction issued by a lower court and greenlit the mandate for Texas's roughly 1,200 school districts. The ACLU, which challenged the law on behalf of parents, immediately announced plans to appeal to the U.S. Supreme Court. Backers in Louisiana and Arkansas, which have similar laws currently blocked by separate litigation, said the ruling boosted their cases.",
+    "bottomLine": "This is a 9-8 ruling in the most conservative federal circuit on a question the Supreme Court already answered in 1980. The only reason to bring it here is because the court's current majority has signaled it would answer differently.",
+    "hiddenBets": [
+      {
+        "assumption": "Stone v. Graham (1980) is settled precedent that binds this case",
+        "whyItMightBeWrong": "The Fifth Circuit majority explicitly did not apply the Lemon test that governed Stone v. Graham. It applied the historical-tradition framework the current Supreme Court used in Kennedy v. Bremerton and Dobbs. The 1980 ruling may not survive contact with the current court's jurisprudence."
+      },
+      {
+        "assumption": "The Supreme Court will decline to take this case, letting the circuit ruling stand",
+        "whyItMightBeWrong": "The ACLU is appealing, and a 9-8 ruling that conflicts with existing Supreme Court precedent is exactly what certiorari was designed to resolve. The court will almost certainly take the case."
+      },
+      {
+        "assumption": "The only question is about the Establishment Clause",
+        "whyItMightBeWrong": "The Free Exercise claim is also in play. The majority rejected the Free Exercise challenge on the grounds that no child is required to recite the commandments. But the question of whether passive government religious display constitutes state coercion is alive and contested."
+      }
+    ],
+    "realDisagreement": "The core tension is between two principles both sides treat as foundational: that government neutrality toward religion protects religious freedom, versus that acknowledging the historical role of religious texts in shaping civil law is not itself an establishment of religion. You cannot hold both. If the Ten Commandments are displayed because they are historically foundational to American law, the government is endorsing their specific religious authority. If they are displayed as neutral historical artifacts, schools could equally post the Code of Hammurabi and the Analects. The majority chose the historical-text framing but cannot escape the endorsement problem it creates. The dissent is right that this is establishment, but the current Supreme Court may not care.",
+    "whatNoOneIsSaying": "This case is not primarily about the Ten Commandments. It is a test vehicle for whether the historical-tradition method the Roberts court has used to overturn abortion rights, expand gun rights, and weaken regulatory power can also dismantle the Establishment Clause. The commandments are the wedge. The doctrine is the target.",
+    "whoPays": [
+      {
+        "who": "Non-Christian students in Texas public schools",
+        "how": "Muslim, Jewish, Hindu, and nonreligious students will sit under mandatory religious displays that carry the government's implicit endorsement. No law forces them to believe, but the state is telling them whose tradition the government regards as foundational.",
+        "when": "Immediately if the injunction is not reinstated on appeal"
+      },
+      {
+        "who": "School administrators and teachers in Texas",
+        "how": "They will be legally required to post the displays and will face liability if they refuse, while simultaneously facing potential litigation from families who object. The cost and uncertainty falls on district administrators, not on the legislators who passed the law.",
+        "when": "This academic year"
+      },
+      {
+        "who": "Louisiana and Arkansas school districts",
+        "how": "If SCOTUS takes the case and affirms, they will face the same mandatory posting requirement. If SCOTUS reverses, their laws fall too. They are downstream of a legal battle they did not start.",
+        "when": "Following SCOTUS ruling, likely the 2027-28 term"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "SCOTUS affirms, doctrine shifts",
+        "whatHappens": "The Supreme Court takes the case and upholds Texas's law, overruling or fundamentally limiting Stone v. Graham. The Establishment Clause ceases to prevent religiously significant displays in public schools. Similar laws in Arkansas, Louisiana, and potentially a dozen other states take effect.",
+        "signal": "Supreme Court grants certiorari and schedules oral argument. Expected by October 2026 term."
+      },
+      {
+        "name": "SCOTUS reverses, Fifth Circuit split exposed",
+        "whatHappens": "The court takes the case and strikes the law, reaffirming Stone v. Graham under the newer historical-tradition framework rather than the Lemon test. The 9-8 majority in the Fifth Circuit is revealed as a dead end. Texas and Louisiana rewrite the statutes to test new boundaries.",
+        "signal": "If the court grants cert and any justice signals that the case will be resolved on Establishment Clause grounds without overruling Stone."
+      },
+      {
+        "name": "Cert denied, injunction battle continues",
+        "whatHappens": "SCOTUS declines to hear the case, leaving the Fifth Circuit ruling standing. The ACLU pursues emergency injunction at SCOTUS. Schools in Texas must post the displays while the fight continues. Other circuits may rule differently on identical laws, creating a circuit split that eventually forces the court's hand.",
+        "signal": "SCOTUS order list does not include the Texas case within 90 days of ACLU petition filing."
+      }
+    ],
+    "whatWouldChange": "If the Supreme Court's majority explicitly accepted that the historical-tradition test does not apply to Establishment Clause challenges, this ruling would be reversed. That would require at least one current justice who voted for the Dobbs and Kennedy frameworks to draw a line at Establishment Clause cases. That is possible but not the base case."
+  }
+}

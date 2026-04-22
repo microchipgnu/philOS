@@ -1,0 +1,93 @@
+{
+  "id": "fcc-att-scotus-jury",
+  "date": "2026-04-22",
+  "generatedAt": "2026-04-22T13:00:00Z",
+  "title": "AT&T and Verizon Want a Jury Trial for Their FCC Fines. The Supreme Court Seems Skeptical But Interested.",
+  "subtitle": "FCC v. AT&T asks whether the Seventh Amendment requires a jury trial before a federal agency can impose a nine-figure fine. The answer would reshape how every regulatory agency in the US enforces penalties.",
+  "topic": "politics",
+  "category": "power",
+  "tags": ["SCOTUS", "FCC", "AT&T", "Verizon", "Seventh Amendment", "regulatory enforcement", "Jarkesy"],
+  "coverImage": {
+    "url": "https://www.digitaljournal.com/wp-content/uploads/2026/04/ebb2e1736d917a7b9c2161cc88593b9c99cda626.jpg",
+    "local": "/images/reports/2026-04-22/fcc-att-scotus-jury.jpg",
+    "credit": "Digital Journal"
+  },
+  "sources": [
+    {
+      "url": "https://www.scotusblog.com/2026/04/court-appears-skeptical-of-right-to-jury-trial-in-fcc-proceedings/",
+      "publisher": "SCOTUSblog",
+      "angle": "Oral argument analysis: justices signaled doubt about AT&T's position. The FCC argued its orders become final and enforceable only when the DOJ sues to collect, at which point a jury trial is available. Several justices found this procedural safeguard sufficient."
+    },
+    {
+      "url": "https://www.scotusblog.com/cases/federal-communications-commission-v-att-inc-2/",
+      "publisher": "SCOTUSblog",
+      "angle": "Case background: the FCC fined AT&T and Verizon over $100 million total for selling subscriber location data to third parties without consent. The question is whether the Seventh Amendment right to jury trial applies in FCC enforcement proceedings."
+    },
+    {
+      "url": "https://www.orovillemr.com/2026/04/21/supreme-court-seems-wary-of-limiting-federal-regulators-power-in-a-data-privacy-case/",
+      "publisher": "Oroville Mercury Register / AP",
+      "angle": "Broader regulatory stakes: a ruling for AT&T and Verizon would extend Jarkesy's logic from the SEC to all regulatory agencies. Several justices questioned whether the same constitutional principle applies to FCC proceedings or whether the procedural differences matter."
+    },
+    {
+      "url": "https://us.headtopics.com/news/supreme-court-grills-fcc-over-its-authority-to-impose-fines-82506082",
+      "publisher": "Head Topics",
+      "angle": "Industry perspective: telecommunications carriers and regulated industries broadly are watching this case. A win for AT&T would make large fines administratively unworkable unless agencies restructure their entire enforcement process."
+    }
+  ],
+  "brief": {
+    "actors": ["SCOTUS", "FCC", "AT&T", "Verizon", "DOJ"],
+    "whatHappened": "The Supreme Court heard oral arguments Tuesday in FCC v. AT&T, consolidated with Verizon v. FCC. The FCC fined AT&T and Verizon more than $100 million combined for selling subscriber location data to third-party aggregators without customer consent. AT&T and Verizon argue that imposing those fines in an administrative proceeding, without a jury, violates the Seventh Amendment's guarantee of a jury trial in civil cases seeking money damages. The case follows the court's 2024 ruling in SEC v. Jarkesy, which found that the SEC's in-house enforcement violated the Seventh Amendment for securities fraud penalties. Based on oral arguments, the justices signaled skepticism about AT&T's position but significant interest in the underlying question.",
+    "bottomLine": "Jarkesy gutted the SEC's enforcement capacity and the court did it anyway. The FCC case is asking whether the same logic applies to communications regulators, and the argument that saved the FCC, that its orders only become binding when the DOJ files a lawsuit, may be a distinction without a meaningful difference.",
+    "hiddenBets": [
+      {
+        "assumption": "The FCC's 'DOJ enforcement' distinction meaningfully separates this case from Jarkesy",
+        "whyItMightBeWrong": "In practice, when the FCC imposes a fine and the carrier does not pay, the DOJ sues to collect. The carrier's legal exposure is identical in either scenario. If the court treats the DOJ enforcement step as substantively different rather than procedurally cosmetic, it will be creating a formalism that can be easily manipulated by Congress redesigning agency enforcement structures."
+      },
+      {
+        "assumption": "A ruling for AT&T would only affect communications law",
+        "whyItMightBeWrong": "The Seventh Amendment applies across all federal law. If the principle is that agency-imposed money penalties require jury trials, then the EPA, FTC, OSHA, CFTC, and every other major enforcement agency faces the same structural challenge. The FCC case is the second domino, not the last."
+      },
+      {
+        "assumption": "The court's skepticism of AT&T's position in argument predicts the outcome",
+        "whyItMightBeWrong": "Oral argument skepticism is an unreliable predictor. The justices asked pointed questions of both sides. The court ruled for the SEC's challengers in Jarkesy despite mixed argument signals. The composition of the court that heard Jarkesy is the same court hearing this case."
+      }
+    ],
+    "realDisagreement": "The genuine tension is between administrative efficiency and constitutional right. Agencies impose thousands of civil penalties per year. Requiring jury trials for each would effectively end enforcement as it currently functions. AT&T and Verizon are not wrong that the Seventh Amendment says what it says. The government is not wrong that jury trials for every civil penalty would grind regulatory enforcement to a halt. The court cannot have both. If it sides with the carriers, Congress must either restructure all federal enforcement around DOJ-filed lawsuits (slow and expensive) or create a legislative carve-out that will itself be litigated. The practical consequences of an AT&T win are so severe that they may determine the outcome as much as the constitutional text.",
+    "whatNoOneIsSaying": "AT&T and Verizon were fined for a data privacy violation: selling precise subscriber location data to bail bondsmen and others. The Seventh Amendment argument is real, but it is also a diversionary move. Winning on procedural grounds erases the underlying conduct from the public record. The companies that sold your location data to third parties may win by arguing that the government needed a jury to fine them for it.",
+    "whoPays": [
+      {
+        "who": "Regulatory agencies across the federal government",
+        "how": "A ruling for AT&T extends Jarkesy's logic beyond the SEC. Agencies that rely on administrative penalty proceedings (EPA, FTC, OSHA, CFTC, FTC) face either structural redesign or effective unenforceability against large companies that can afford to litigate.",
+        "when": "Immediately if the ruling is broad; over 18-24 months through downstream litigation if narrow"
+      },
+      {
+        "who": "Consumers whose data was sold without consent",
+        "how": "If the fine is vacated on procedural grounds, the underlying violation goes unpunished. The conduct that generated over $100 million in proposed fines, selling precise location data to aggregators, becomes cheaper to do than it currently costs to defend against.",
+        "when": "Immediately upon ruling"
+      },
+      {
+        "who": "Small regulated businesses",
+        "how": "If the ruling is broad and agencies redesign enforcement around DOJ-filed lawsuits, large companies with litigation budgets benefit from slower, costlier proceedings. Small businesses face the same compliance requirements but cannot afford to fight the new litigation process the way AT&T can.",
+        "when": "Over 2-3 years as enforcement redesign unfolds"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Court upholds FCC on procedural distinction",
+        "whatHappens": "The court rules that the FCC's enforcement model, where orders become binding only through DOJ-filed lawsuits, satisfies the Seventh Amendment. The $100 million fines stand. Jarkesy is limited to in-house enforcement that bypasses the courts entirely. Regulatory agencies not using DOJ collection are unaffected.",
+        "signal": "Ruling language explicitly limits the holding to administrative processes where DOJ enforcement remains available."
+      },
+      {
+        "name": "Court extends Jarkesy, agencies must restructure",
+        "whatHappens": "The court rules that AT&T and Verizon had a Seventh Amendment right to a jury trial regardless of the DOJ enforcement distinction. The $100 million fines are vacated. Every major regulatory agency launches a structural review of its enforcement process. Congress is forced to legislate a solution.",
+        "signal": "Ruling language that finds the DOJ enforcement step insufficient to cure the Seventh Amendment problem."
+      },
+      {
+        "name": "Narrow ruling on communications law only",
+        "whatHappens": "The court uses the Communications Act's specific statutory structure to distinguish this case from Jarkesy without establishing a broad principle. Communications carriers win but the decision does not extend to other agencies. The question returns in a different case within two terms.",
+        "signal": "Ruling specifically grounded in Communications Act text rather than Seventh Amendment doctrine."
+      }
+    ],
+    "whatWouldChange": "If Congress passed legislation explicitly designating all federal agency civil penalty proceedings as equitable rather than legal proceedings, it would remove the Seventh Amendment hook entirely. That would require a legislative finding that monetary fines are equitable relief rather than legal damages, a claim the court would likely find difficult to accept given its recent jurisprudence on this exact question."
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "id": "judge-blocks-trump-wind-solar",
+  "date": "2026-04-22",
+  "generatedAt": "2026-04-22T13:00:00Z",
+  "title": "A Federal Judge Ordered Trump to Unblock Wind and Solar. The Permits Were Being Delayed While Fossil Fuels Carried On.",
+  "subtitle": "Chief Judge Denise Casper in Boston issued a preliminary injunction against five Interior Department and Army Corps policies that put wind and solar permitting in a separate, slower track from other energy sources. The court found likely APA violations.",
+  "topic": "society",
+  "category": "conflict",
+  "tags": ["climate", "renewable energy", "wind", "solar", "Trump", "courts", "APA", "energy policy"],
+  "coverImage": {
+    "url": "https://www.mcall.com/wp-content/uploads/2026/04/House_Interior_96749-1.jpg?w=1024&h=682",
+    "local": "/images/reports/2026-04-22/judge-blocks-trump-wind-solar.jpg",
+    "credit": "The Morning Call"
+  },
+  "sources": [
+    {
+      "url": "https://www.yahoo.com/news/articles/us-judge-halts-trump-admin-005500140.html",
+      "publisher": "Yahoo News / Canary Media",
+      "angle": "Clean energy industry perspective: the injunction restores permitting parity for wind and solar projects. Plaintiffs include Renew Northeast, Interwest Energy Alliance, and Southern Renewable Energy Association. They claimed 22 GW of projects were blocked."
+    },
+    {
+      "url": "https://molawyersmedia.com/2026/04/21/trump-wind-solar-permit-ruling-administrative-procedure-act/",
+      "publisher": "Reuters / MO Lawyers Media",
+      "angle": "Legal framing: Judge Casper found the administration imposed 'multi-layer approval processes' on wind and solar that did not apply to other energy sources. Court found likely APA violations: arbitrary, capricious, and discriminatory targeting of two specific technologies."
+    },
+    {
+      "url": "https://www.energycentral.com/renewables/post/news-judge-halts-trump-actions-aimed-at-throttling-renewable-energy-rs5iEvxC4a0sWCT",
+      "publisher": "Energy Central",
+      "angle": "Context on timing: the ruling came as Biden-era clean energy tax credits from the Inflation Reduction Act approach expiration. The combination of permitting delays and tax credit uncertainty is producing a financing freeze for new projects."
+    },
+    {
+      "url": "https://renewablesnow.com/news/us-court-blocks-trump-admin-policies-hampering-wind-solar-permitting-1293503/",
+      "publisher": "Renewables Now",
+      "angle": "International industry perspective: this is the latest in a series of judicial setbacks for Trump's anti-renewable agenda. Earlier courts blocked offshore wind halts. The pattern of courts overturning executive anti-renewable actions is emerging as a legal check."
+    }
+  ],
+  "brief": {
+    "actors": ["Trump", "DOI", "Army Corps of Engineers", "ACLU", "Doug Burgum"],
+    "whatHappened": "Chief U.S. District Judge Denise Casper in Boston issued a preliminary injunction on Tuesday blocking the Trump administration from enforcing five permitting policies that wind and solar industry groups said had created a discriminatory second-class status for their technologies. The policies, administered by the Interior Department under Secretary Doug Burgum and the Army Corps of Engineers, required additional reviews and approvals for wind and solar projects that did not apply to oil, gas, and other energy development on federal lands or where federal permits are required. Nine advocacy groups and trade associations sued in December 2025, arguing the policies had halted renewable energy development nationwide. The court found the plaintiffs were likely to succeed in showing the policies violated the Administrative Procedure Act.",
+    "bottomLine": "The administration did not ban renewable energy. It imposed a second permitting track that made approvals slower, more expensive, and less predictable than for fossil fuels. The court found this discrimination is likely illegal, but the damage to pipeline economics has already happened.",
+    "hiddenBets": [
+      {
+        "assumption": "Restoring permitting parity is sufficient to restart the blocked projects",
+        "whyItMightBeWrong": "The permitting delays compounded a financing problem. Developers who missed construction timelines needed to renegotiate power purchase agreements. Some projects lost investors who needed certainty to close financing. A court order restoring legal parity does not restore the economic conditions the delays destroyed."
+      },
+      {
+        "assumption": "The administration will comply with the injunction without further action",
+        "whyItMightBeWrong": "The pattern from other rulings is slow compliance, new administrative actions pursuing similar objectives through different legal mechanisms, and appeals. Interior Secretary Burgum has been the most aggressive cabinet officer on energy permitting. The injunction restrains five specific policies, not the underlying intent."
+      },
+      {
+        "assumption": "Biden-era IRA tax credits will still be available for projects that come back online",
+        "whyItMightBeWrong": "The IRA production tax credits and investment tax credits have sunset provisions that the current Congress has shown no interest in extending. Projects delayed by six to eighteen months may return to permitting just as the financing advantage from those credits begins to expire."
+      }
+    ],
+    "realDisagreement": "The structural tension is between two defensible readings of energy policy neutrality. One position: the government should not pick energy technology winners, so permitting should be equally permissive or equally restrictive across all sources. The other: fossil fuels have a century of permitting infrastructure built around them, and treating identical approval processes as neutral ignores that structural advantage. You cannot design a truly technology-neutral system without accounting for the baseline advantage incumbents already hold. The court sided with the second reading, but the administration's position was not incoherent.",
+    "whatNoOneIsSaying": "The administration's approach was procedurally clever: it did not ban renewable energy, which would have been immediately enjoined. It created friction through administrative process, which is much harder to litigate and took over a year to reach this injunction. The real lesson is that process can be weaponized as effectively as prohibition. The next version of this strategy will be designed to survive APA scrutiny.",
+    "whoPays": [
+      {
+        "who": "Developers with projects in the 22 GW blocked pipeline",
+        "how": "Every month of delay is a sunk cost: carrying costs on development capital, extended permitting fees, renegotiated contractor schedules, and potential loss of interconnection queue positions. A court order reverses the legal barrier but not the economic losses.",
+        "when": "Losses already incurred; partial recovery possible over the next 18 months"
+      },
+      {
+        "who": "Ratepayers in northeastern and southeastern US markets",
+        "how": "Renew Northeast and the Southern Renewable Energy Association represent markets where new wind and solar were scheduled to come online at lower marginal cost than existing gas peakers. Delayed clean energy means continued dependence on higher-cost dispatch during peak demand.",
+        "when": "This summer's peak demand season; ongoing through 2027"
+      },
+      {
+        "who": "Clean energy workers in manufacturing and construction",
+        "how": "Project cancellations and delays in the blocked pipeline directly reduced employment in wind turbine installation, solar panel racking, and associated supply chain manufacturing. Some of those jobs went to other jurisdictions.",
+        "when": "Already happened; some recovery possible if pipeline restarts"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Injunction holds, permitting restarts",
+        "whatHappens": "The administration does not successfully appeal the preliminary injunction. The five blocked policies are suspended. Projects that had viable financing restart permitting, though some face timeline resets. The 22 GW pipeline partially recovers, though some projects with expiring tax credit eligibility are permanently uneconomic.",
+        "signal": "Department of Interior issues formal guidance to field offices to resume processing wind and solar permits under standard procedures within 30 days."
+      },
+      {
+        "name": "Administration creates replacement barriers",
+        "whatHappens": "Interior develops new review requirements for renewable projects that are substantively similar but structured differently to survive APA challenge, perhaps under environmental review or national security grounds. The permitting queue refills with new forms of delay.",
+        "signal": "Any new Interior guidance creating additional review steps for wind or solar after the injunction takes effect."
+      },
+      {
+        "name": "Congress acts, IRA credits extended",
+        "whatHappens": "The Big Beautiful Bill or separate energy legislation extends IRA tax credits and codifies permitting reform for renewables. The executive branch's ability to discriminate by technology is constrained by statute.",
+        "signal": "Energy title in the Big Beautiful Bill includes explicit renewable permitting timeline requirements."
+      }
+    ],
+    "whatWouldChange": "If the administration successfully argued on appeal that the five policies served legitimate environmental or grid reliability purposes unrelated to energy source discrimination, the injunction could be lifted. The court would need to find a plausible non-pretextual rationale. Given that the policies explicitly targeted wind and solar while exempting fossil fuel development, that is a high bar."
+  }
+}

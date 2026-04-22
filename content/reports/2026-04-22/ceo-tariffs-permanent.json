@@ -1,0 +1,96 @@
+{
+  "id": "ceo-tariffs-permanent",
+  "date": "2026-04-22",
+  "generatedAt": "2026-04-22T13:00:00Z",
+  "title": "86% of US CEOs Are Planning as If Trump's Tariffs Will Outlast Trump",
+  "subtitle": "A PwC survey of 633 executives found the planning assumption has shifted: tariffs are no longer a negotiating tactic to wait out. They are structural. The Supreme Court struck down IEEPA tariffs. Congress didn't replace them. CEOs adapted anyway.",
+  "topic": "economy",
+  "category": "power",
+  "tags": ["tariffs", "trade policy", "CEO survey", "supply chain", "PwC", "IEEPA"],
+  "coverImage": {
+    "url": "https://media.zenfs.com/en/aol_fortune_385/e0025f3bcfa9ba2fbd18a8953e46c36d",
+    "local": "/images/reports/2026-04-22/ceo-tariffs-permanent.jpg",
+    "credit": "Fortune / Getty Images"
+  },
+  "sources": [
+    {
+      "url": "https://www.riotimesonline.com/pwc-ceo-survey-trump-tariffs-permanent-april-2026/",
+      "publisher": "The Rio Times",
+      "angle": "Data-first breakdown of the PwC survey: 86% of 633 US executives treat tariffs as a permanent planning assumption. Notes the implication for Latin American exporters facing a multi-year policy horizon rather than a negotiation window."
+    },
+    {
+      "url": "https://lnginnorthernbc.ca/2026/04/22/us-ceos-believe-tariffs-will-continue-even-after-trump-says-pwc/",
+      "publisher": "News Room USA",
+      "angle": "Covers the supply chain dimension: even after SCOTUS struck down IEEPA tariffs, Trump imposed 15% global tariffs under Section 122, which expire July 24. Section 301 tariffs from 2018 remain untouched. CEOs are planning around multiple overlapping tariff regimes."
+    },
+    {
+      "url": "https://www.aol.com/finance/tariffs-normal-now-most-ceos-060100836.html",
+      "publisher": "Fortune / AOL",
+      "angle": "Direct quotes from PwC principals: 'CEOs aren't planning around short-term tariffs anymore' and expectation they will be 'in place for years.' Survey conducted March 12-20, before the Section 122 announcement."
+    }
+  ],
+  "brief": {
+    "actors": ["Trump", "PwC", "US CEOs", "SCOTUS", "Congress", "CBO"],
+    "whatHappened": "A PwC survey of 633 US executives, conducted March 12-20 and published April 14, found that 86% now treat import tariffs as a permanent planning assumption rather than a cyclical disruption. The shift came even as the Supreme Court struck down tariffs imposed under IEEPA as unconstitutional. Trump responded by imposing a 15% global tariff under Section 122 of the 1974 Trade Act, which provides a 150-day authority that expires July 24. Section 301 tariffs from Trump's first term remain in force. The Congressional Budget Office had projected more than $4 trillion in customs duties over ten years under the prior tariff structure, and the new structure leaves the core of that projection intact.",
+    "bottomLine": "The moment a supermajority of CEOs stops asking whether tariffs will last and starts asking how to operate inside them permanently, trade policy has accomplished something that cannot be undone by any single court ruling or administration change: it has been absorbed into corporate strategy.",
+    "hiddenBets": [
+      {
+        "assumption": "The Supreme Court ruling against IEEPA tariffs meaningfully constrained tariff policy",
+        "whyItMightBeWrong": "The ruling struck one legal authority while leaving two others intact: Section 122 (150-day emergency tariffs) and Section 301 (broadly applicable, limited congressional oversight). Trump used both immediately. CEOs surveyed after the ruling still expect permanence, suggesting the market read the ruling as a procedural setback, not a policy reversal."
+      },
+      {
+        "assumption": "A future administration can reverse tariff policy if CEOs have already built it into supply chains",
+        "whyItMightBeWrong": "Once supply chains are redesigned around a tariff regime, undoing the tariffs does not undo the relocation decisions, the inventory strategies, or the pricing models. CEOs are not just predicting permanence, they are locking it in through capital allocation. The next administration inherits both the legal authority and the sunk-cost infrastructure."
+      },
+      {
+        "assumption": "The Section 122 tariffs expiring July 24 will actually expire",
+        "whyItMightBeWrong": "The 150-day authority can be renewed, and Trump has shown he uses any available authority to maintain tariff pressure. CEOs treating tariffs as permanent may be pricing in exactly this: that the administration will find and exercise whatever legal authority keeps them in place regardless of statutory deadlines."
+      }
+    ],
+    "realDisagreement": "The real fork is between two readings of what CEOs are doing: either they are rationally adapting to a stable new regime, or they are capitulating to uncertainty in a way that makes the uncertainty self-fulfilling. If 86% of CEOs plan for permanent tariffs, trade associations will lobby to preserve rather than remove them, supply chains will harden around them, and the political cost of reversal will grow. The survey may not be measuring CEO beliefs about the future. It may be measuring the mechanism by which the future becomes fixed.",
+    "whatNoOneIsSaying": "The refund dispute from the IEEPA ruling is a live legal question: the Supreme Court struck down the tariffs but did not specify how refunds would be calculated. Companies that filed for refunds are simultaneously lobbying to keep tariffs permanent on their competitors' inputs. The same CEOs who say tariffs are here to stay may be collecting refunds on past payments while ensuring the next administration cannot remove the tariffs their rivals depend on.",
+    "whoPays": [
+      {
+        "who": "Small and mid-size US importers who cannot redesign supply chains",
+        "how": "Large companies with capital and procurement teams can absorb tariff costs by diversifying suppliers or localizing production. Small importers pay the tariff with no structural alternative and cannot pass all costs to consumers without losing market share.",
+        "when": "Ongoing, compounding through 2026"
+      },
+      {
+        "who": "Latin American and Southeast Asian exporters",
+        "how": "Markets like Mexico, Vietnam, and Colombia built growth strategies around US market access under lower tariff assumptions. The PwC survey confirms the planning horizon has shifted from election cycle to decade. Their export economics have to be rebuilt.",
+        "when": "Structural shift already underway"
+      },
+      {
+        "who": "US consumers in goods categories with no domestic alternative",
+        "how": "Categories where domestic production cannot realistically substitute (specific electronics components, certain agricultural goods, specialty chemicals) will see permanent price increases that cannot be attributed to any single actor.",
+        "when": "Already embedded in prices; will intensify if Section 122 tariffs are renewed"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Tariffs renew and entrench",
+        "whatHappens": "Trump renews the Section 122 tariffs before July 24, effectively making the 15% global tariff indefinite. Congressional inaction ratifies this. CEOs interpret renewal as confirmation of their permanent-tariff planning assumption, accelerating supply chain reorganization.",
+        "signal": "White House announcement of Section 122 renewal at any point before July 10."
+      },
+      {
+        "name": "Section 122 expires, structural tariffs remain",
+        "whatHappens": "The 15% Section 122 tariffs lapse July 24 but Section 301 tariffs from 2018 remain. The effective tariff burden drops but does not disappear. CEOs maintain the permanent-tariff assumption because the underlying legal authority and political will are unchanged.",
+        "signal": "No executive action by July 24, followed by confirmation that Section 301 enforcement continues."
+      },
+      {
+        "name": "Congress legislates a tariff framework",
+        "whatHappens": "The Big Beautiful Bill's momentum prompts Congress to codify a simplified tariff structure, removing the temporary-authority patchwork. CEOs gain more legal certainty but permanently lose the expectation of a tariff-free trading environment.",
+        "signal": "Tariff-related legislation introduced in the Senate Finance Committee with bipartisan co-sponsorship."
+      }
+    ],
+    "whatWouldChange": "If a successor administration, Democrat or Republican, campaigned on tariff rollback and won, and then actually executed a systematic reduction within the first year, the CEO planning assumption would shift. The PwC survey also says implicitly that CEOs do not currently expect this. The market probability of a major tariff reversal before 2028 appears low given the structural lock-in already underway.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Will the Court Force Trump to Refund Tariffs?",
+        "url": "https://polymarket.com/event/will-the-court-force-trump-to-refund-tariffs-2026-06-30",
+        "probability": 0.605
+      }
+    ]
+  }
+}
