@@ -1,0 +1,36 @@
+{
+  "date": "2026-04-23",
+  "generatedAt": "2026-04-23T14:00:00Z",
+  "reports": [
+    {
+      "id": "iran-hormuz-ceasefire",
+      "title": "The Ceasefire That Isn't",
+      "subtitle": "The US and Iran are both blocking shipping and calling it peace.",
+      "category": "conflict"
+    },
+    {
+      "id": "virginia-redistricting-court",
+      "title": "Voters Approve the Map. A Judge Says No.",
+      "subtitle": "Virginia's redistricting passed at the ballot box and was blocked the next morning. The midterm arms race just entered legal limbo.",
+      "category": "power"
+    },
+    {
+      "id": "warsh-fed-nomination",
+      "title": "Trump Wants Rate Cuts. His Own Nominee Says He Can't Have Them.",
+      "subtitle": "Kevin Warsh's Fed confirmation hearing exposed a trap: he was picked to cut rates into a war-driven inflation surge that makes cutting impossible.",
+      "category": "power"
+    },
+    {
+      "id": "birthright-citizenship-scotus",
+      "title": "SCOTUS vs. the 14th Amendment",
+      "subtitle": "Oral arguments in Trump v. Barbara revealed a court unlikely to rewrite a 128-year-old precedent, but the hearing exposed what the administration is actually asking for.",
+      "category": "ethics"
+    },
+    {
+      "id": "druzhba-ukraine-eu-loan",
+      "title": "Russia's Oil Unlocks Europe's Money for Ukraine",
+      "subtitle": "The Druzhba pipeline resumed flowing Russian crude through Ukraine, which unblocked Hungary's veto on a $105 billion EU loan to Kyiv. The pipeline is the lever that connects everything.",
+      "category": "power"
+    }
+  ]
+}

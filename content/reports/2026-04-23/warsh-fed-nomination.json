@@ -1,0 +1,113 @@
+{
+  "id": "warsh-fed-nomination",
+  "date": "2026-04-23",
+  "generatedAt": "2026-04-23T14:00:00Z",
+  "title": "Trump Wants Rate Cuts. His Own Nominee Says He Can't Have Them.",
+  "subtitle": "Kevin Warsh's Fed confirmation hearing exposed a trap: he was picked to cut rates into a war-driven inflation surge that makes cutting impossible.",
+  "topic": "economy",
+  "category": "power",
+  "tags": ["Federal Reserve", "Warsh", "Powell", "inflation", "interest rates", "Trump", "Iran war"],
+  "coverImage": {
+    "url": "https://i.abcnewsfe.com/a/7f994203-3cbf-4c62-a177-5abba673a88f/kevin-warsh-5-rt-gmh-260421_1776781717242_hpMain_16x9.jpg?w=1600",
+    "local": "/images/reports/2026-04-23/warsh-fed-nomination.jpg",
+    "credit": "ABC News"
+  },
+  "sources": [
+    {
+      "url": "https://www.reviewjournal.com/news/politics-and-government/fed-nominee-pledges-inflation-fight-even-as-trump-renews-demands-for-rate-cuts-that-could-worsen-it-3790557/",
+      "publisher": "Las Vegas Review-Journal / AP",
+      "angle": "Core contradiction: Trump on CNBC says he'd be 'disappointed' if Warsh doesn't cut immediately; Warsh under oath says he made no such promise. Powell will likely remain on the board after Warsh is confirmed."
+    },
+    {
+      "url": "https://www.npr.org/2026/04/21/nx-s1-5787863/federal-reserve-kevin-warsh-confirmation-hearing",
+      "publisher": "NPR",
+      "angle": "Three takeaways: Warsh's confirmation blocked by Sen. Tillis over DOJ probe of Powell; Warsh's hawk-to-dove reversal on rates; his argument that AI productivity gains give the Fed 'leeway' to cut without inflation"
+    },
+    {
+      "url": "https://finance.yahoo.com/economy/policy/articles/kevin-warshs-fed-record-signals-203914796.html",
+      "publisher": "Yahoo Finance / Investopedia",
+      "angle": "Warsh's track record: dissented on QE2, called Fed balance sheet 'bloated,' but recently turned dovish. TD Securities: 'main question is whether his former hawkish persona makes a comeback.' Balance sheet reduction could raise mortgage rates."
+    },
+    {
+      "url": "https://abcnews.com/Business/trumps-federal-reserve-chair-nominee-kevin-warsh-testify/story?id=132215744",
+      "publisher": "ABC News",
+      "angle": "DOJ probe angle: Powell says investigation is political intimidation to force rate cuts; federal judge agreed; DOJ appealing; Tillis blocking Warsh until probe drops. Powell's term ends May 15."
+    },
+    {
+      "url": "https://investinglive.com/centralbank/fed-rate-cuts-pushed-to-late-2026-as-middle-east-war-fuels-inflation-surge-20260423/",
+      "publisher": "InvestingLive / Reuters poll",
+      "angle": "Macro backdrop: 71 of 103 economists expect at most one rate cut in 2026; nearly a third expect zero cuts; PCE inflation revised up 30bps to 3.7% Q2; Iran war cited as primary driver"
+    }
+  ],
+  "brief": {
+    "actors": ["Trump", "Warsh", "Powell", "Tillis", "Fed", "Senate"],
+    "whatHappened": "Kevin Warsh, Trump's nominee to replace Jerome Powell as Federal Reserve chair, testified before the Senate Banking Committee on April 21. On the same morning, Trump publicly said he'd be 'disappointed' if Warsh didn't cut interest rates 'right away' after confirmation. Warsh told the committee under oath that Trump never asked him to commit to any rate decision and that he would be 'an independent actor.' Inflation is currently running at 3.3% annually, well above the Fed's 2% target, driven largely by the Iran war's energy price shock. A majority of economists now expect no rate cuts until at least September, and nearly a third expect no cuts in 2026 at all. Republican Senator Thom Tillis has pledged to block a committee vote on Warsh's nomination until the DOJ drops its criminal investigation of Powell, which a federal judge called politically motivated intimidation.",
+    "bottomLine": "Warsh was nominated to do something the Iran war has made undoable. He is now caught between a president who wants rate cuts as a political signal and an economy where cutting rates would visibly worsen inflation that ordinary voters are already paying for in gas prices. His confirmation fight is not really about Warsh. It is about whether Trump can operationally control the Fed while maintaining the fiction that he isn't.",
+    "hiddenBets": [
+      {
+        "assumption": "Warsh will cut rates after confirmation because that's why he was picked",
+        "whyItMightBeWrong": "Warsh cannot cut rates without support from the full 12-member FOMC, many of whom are not Trump appointees. Even as chair, he needs a majority. The committee has hawks who have already dissented in both directions. Powell himself would likely remain on the board and could vote against cuts. A dovish chair running a divided committee during an inflation surge has less actual rate-cutting power than Trump imagines."
+      },
+      {
+        "assumption": "The DOJ probe of Powell is a legitimate investigation that will be resolved on its merits",
+        "whyItMightBeWrong": "A federal judge already called it politically motivated intimidation. The probe concerns Powell's testimony about a building renovation. The mechanism is transparent: keep the probe alive to block Warsh's confirmation until Trump gets leverage over the outcome, then drop it. Tillis's condition creates a Kafkaesque loop: Warsh cannot be confirmed until the investigation that exists to block Warsh is dropped."
+      },
+      {
+        "assumption": "Fed independence will survive this transition intact",
+        "whyItMightBeWrong": "The last time a predecessor chair remained on the board after a new chair took over was the late 1940s, when the Fed was still under Treasury control. The institutional precedent for that situation is not reassuring. Markets get their signal about Fed independence not from statements but from whether inflation expectations become unanchored. Consumers already expect 5% inflation over the next year, nearly double professional forecasts. That gap is the risk."
+      }
+    ],
+    "realDisagreement": "The real fork here is not about Warsh's personal views. It is about whether the president can nominate a Fed chair for the explicit purpose of lowering rates and whether the confirmation process has any mechanism to stop it. Democrats say this corrodes institutional independence. Republicans say elected officials stating preferences on rates is democratic accountability, not corruption, and point out that Powell's predecessor Bernanke and Yellen both had their rate decisions critiqued by sitting presidents. The honest difference: there is a gap between a president commenting on rates and a president engineering a DOJ investigation of the sitting chair to force his replacement. Warsh's own testimony that Trump never asked him to commit to rate decisions either represents a genuine commitment to independence or the most sophisticated performance of it anyone has seen. Polymarket gives only 1.5% probability that Warsh's nomination is withdrawn by May 15. The market says he gets through eventually. The question is what he actually does when he gets there.",
+    "whatNoOneIsSaying": "If Warsh is confirmed, refuses to cut rates because of the Iran inflation shock, and Trump publicly attacks him, the president will have burned through his political capital on a Fed chair who delivered exactly nothing on the thing the president cared about. At that point, Trump will have spent his credibility, broken institutional norms, criminally investigated the sitting chair, and gotten the same monetary policy he had with Powell. The market is not pricing that scenario, but it is the most likely outcome of the current path.",
+    "whoPays": [
+      {
+        "who": "Homebuyers and mortgage holders",
+        "how": "If Warsh cuts rates against the inflation backdrop to satisfy Trump, mortgage rates could briefly fall, then inflation accelerates, the Fed has to reverse, and rates spike sharply. If Warsh holds rates where they are, the housing market stays frozen at near-record unaffordability. Either path is bad for the marginal buyer.",
+        "when": "2026-2027"
+      },
+      {
+        "who": "Small and mid-size businesses relying on variable-rate debt",
+        "how": "Current Fed funds rate is 3.5-3.75%. Every month of delay in rate cuts with elevated inflation is a real cost. If inflation stays elevated through the Iran standoff, the 'higher for longer' scenario persists into 2027. Businesses that refinanced into floating-rate debt during the 2020-2021 era are now trapped.",
+        "when": "Immediate through 2027"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Warsh confirmed, holds rates",
+        "whatHappens": "Tillis drops his block after DOJ quietly shelves the Powell probe. Warsh is confirmed by summer. He finds the FOMC divided and inflation still elevated from the Iran war energy shock. He makes no cuts in 2026. Trump publicly attacks him by October.",
+        "signal": "DOJ announces it is 'pausing' the Powell investigation and Tillis announces he will allow a committee vote."
+      },
+      {
+        "name": "Confirmation delay into 2027",
+        "whatHappens": "Powell's term ends May 15. Trump threatens to fire Powell. A court blocks the firing. Powell stays. Warsh's nomination stalls in committee for months. The Fed operates in maximum uncertainty. Long-term rates rise as investors reprice institutional risk.",
+        "signal": "Trump makes a public statement threatening to remove Powell before Warsh is confirmed."
+      },
+      {
+        "name": "Warsh cuts, inflation spikes",
+        "whatHappens": "Warsh is confirmed and cuts 25bps in November after midterms. Iran war resolves, but tariff-driven inflation persists. PCE stays above 3%. Warsh is forced to hold or raise rates in Q1 2027. Markets whipsaw. Fed credibility takes a decade to rebuild.",
+        "signal": "Warsh publicly signals cuts are coming in the fall despite inflation above 3%."
+      }
+    ],
+    "whatWouldChange": "If the Iran ceasefire produces a real deal and oil prices drop sharply below $75/barrel by summer, the inflation dynamics reverse and rate cuts become defensible on the merits. That is the scenario in which Warsh can simultaneously satisfy Trump and the FOMC without visibly destroying the Fed's credibility.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Kevin Warsh Fed Chair nomination withdrawn by May 15?",
+        "url": "https://polymarket.com/event/kevin-warsh-fed-chair-nomination-withdrawn-by-may-15",
+        "probability": 0.015
+      },
+      {
+        "platform": "Polymarket",
+        "question": "Will there be no change in Fed interest rates after the April 2026 meeting?",
+        "url": "https://polymarket.com/event/fed-decision-in-april",
+        "probability": 0.994
+      },
+      {
+        "platform": "Polymarket",
+        "question": "Will the Fed decrease interest rates by 25 bps after the June 2026 meeting?",
+        "url": "https://polymarket.com/event/fed-decision-in-june-825",
+        "probability": 0.049
+      }
+    ]
+  }
+}

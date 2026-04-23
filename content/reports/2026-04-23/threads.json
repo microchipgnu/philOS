@@ -1,0 +1,47 @@
+{
+  "date": "2026-04-23",
+  "threads": [
+    {
+      "id": "iran-war-domestic-squeeze",
+      "title": "The Iran War Is Doing Trump's Opponents' Work For Them",
+      "description": "Three separate stories today are constrained by a single variable: the Iran war's inflation shock. The Fed cannot cut rates because of energy prices from the Hormuz closure. The Fed chair nomination is stalled because cutting into that inflation would be visibly reckless. And Trump's tariff refunds, ordered by the IEEPA tariff ruling, are being paid out at the same moment the Iran conflict is raising the cost of everything else. Trump's signature policies are being undone not by political opposition but by the downstream economic consequences of his own military campaign.",
+      "type": "dependency-web",
+      "stories": ["warsh-fed-nomination", "iran-hormuz-ceasefire"],
+      "connections": [
+        {
+          "from": "iran-hormuz-ceasefire",
+          "to": "warsh-fed-nomination",
+          "relationship": "The Hormuz closure has pushed PCE inflation to 3.7%, which makes the rate cuts Trump nominated Warsh to deliver economically indefensible and politically radioactive if they happen."
+        }
+      ]
+    },
+    {
+      "id": "executive-authority-unraveling",
+      "title": "Three Trump Overreaches, Three Courts Saying No",
+      "description": "Four of today's five stories involve courts blocking executive action: SCOTUS signaling 7-2 against the birthright citizenship order (politics), a circuit court blocking California's ICE ID law (from the politics search), a Tazewell judge blocking Virginia's certified referendum result, and the earlier IEEPA tariff ruling that forced $166B in refunds. The through-line is not that courts are biased. It is that the Trump administration has consistently staked legal positions that assume executive authority has no structural limits, and courts across the ideological spectrum keep drawing the same conclusion: it does.",
+      "type": "tension-cluster",
+      "stories": ["birthright-citizenship-scotus", "virginia-redistricting-court"],
+      "connections": [
+        {
+          "from": "birthright-citizenship-scotus",
+          "to": "virginia-redistricting-court",
+          "relationship": "Both cases turn on whether a political majority can unilaterally reinterpret settled constitutional arrangements: in SCOTUS, Trump argues the 14th Amendment means something different than 128 years of precedent says; in Virginia, Democrats argued voters could bypass a commission they themselves created. Both were challenged in court the same week."
+        }
+      ]
+    },
+    {
+      "id": "infrastructure-leverage",
+      "title": "The Pipeline and the Blockade: Infrastructure as the Real Battlefield",
+      "description": "The Druzhba pipeline story and the Hormuz blockade story are structurally identical and nobody has noticed. In both cases, a piece of physical infrastructure runs through contested territory, and the party that controls the pipe controls the negotiation. Ukraine discovered it can weaponize Russia's oil transit to extract EU funds. Iran discovered it can weaponize the Strait to survive US military superiority. In both cases, the infrastructure gives the weaker party leverage the stronger party cannot destroy without paying an equal or greater cost. This is the 21st-century version of siege warfare: you don't capture territory, you control the tube.",
+      "type": "cause-effect",
+      "stories": ["iran-hormuz-ceasefire", "druzhba-ukraine-eu-loan"],
+      "connections": [
+        {
+          "from": "druzhba-ukraine-eu-loan",
+          "to": "iran-hormuz-ceasefire",
+          "relationship": "Ukraine's use of the Druzhba pipeline as a diplomatic lever to unlock EU funds demonstrates the exact model Iran is deploying with the Strait of Hormuz: controlling physical infrastructure gives you negotiating power that military losses cannot eliminate, because destroying the infrastructure hurts both sides equally."
+        }
+      ]
+    }
+  ]
+}
