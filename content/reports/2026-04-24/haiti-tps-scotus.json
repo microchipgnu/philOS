@@ -1,0 +1,94 @@
+{
+  "id": "haiti-tps-scotus",
+  "date": "2026-04-24",
+  "generatedAt": "2026-04-24T13:20:00Z",
+  "title": "No One in Washington Wants to Own the Haiti Decision",
+  "subtitle": "The Supreme Court hears arguments April 29 on whether the Trump administration can deport Haitians back to a country in active gang war. Congress just voted to stop it. Both institutions are trying to hand the problem to the other.",
+  "topic": "politics",
+  "category": "power",
+  "tags": ["Haiti", "TPS", "SCOTUS", "immigration", "Trump", "deportation", "Congress"],
+  "sources": [
+    {
+      "url": "https://documentedny.com/2026/04/24/the-throughline-tps-congress/",
+      "publisher": "Documented NY",
+      "angle": "Analysis of the structural failure: Congress last reformed immigration law in 1990, and both Congress and SCOTUS are now positioned to let the other institution absorb responsibility for the Haiti TPS outcome."
+    },
+    {
+      "url": "https://www.vox.com/politics/486014/supreme-court-miot-doe-haiti-syria-temporary-protected-status",
+      "publisher": "Vox",
+      "angle": "Legal explainer: Trump v. Miot determines whether the executive can retroactively terminate TPS designations for countries that were given status under prior administrations, with implications for Syria as well."
+    },
+    {
+      "url": "https://dailycaller.com/2026/04/23/republicans-lawmaker-end-tps-haitians-migrants-immigration-temporary-protected-status/",
+      "publisher": "Daily Caller",
+      "angle": "Republican Rep. Andrew Clyde moved legislation to eliminate TPS entirely after 10 GOP members voted to extend Haiti's protections, framing TPS as permanent amnesty by another name."
+      },
+    {
+      "url": "https://www.scotusblog.com/2026/03/temporary-protected-status-and-the-supreme-court-an-explainer/",
+      "publisher": "SCOTUSblog",
+      "angle": "Legal analysis of the TPS statute and why the Court's ruling in Trump v. Miot will determine the extent of executive discretion to terminate any TPS designation, not just Haiti's."
+    },
+    {
+      "url": "https://www.daytondailynews.com/local/everything-is-in-limbo-as-springfield-awaits-arguments-in-haiti-tps-case/article_45ee5237-8ad4-5d1b-950b-323ecc17ccfc.html",
+      "publisher": "Dayton Daily News",
+      "angle": "Ground-level reporting from Springfield, Ohio, where tens of thousands of Haitian TPS holders live, showing the concrete stakes for a community holding its legal status in suspension."
+    }
+  ],
+  "brief": {
+    "actors": ["SCOTUS", "Trump", "Congress", "Haiti"],
+    "whatHappened": "The Supreme Court will hear oral arguments on April 29 in Trump v. Miot, which will determine whether the Trump administration acted lawfully when it terminated Temporary Protected Status for Haiti and Syria. TPS is a humanitarian program that allows nationals of designated countries to live and work legally in the US when conditions in their home country make return unsafe. Haiti is currently experiencing active gang control of large portions of Port-au-Prince and ongoing political collapse. The House voted this week to reinstate Haiti TPS, but 10 Republican members sided with Democrats to produce the majority, triggering a counter-move by Rep. Andrew Clyde to eliminate TPS entirely. Approximately 200,000 Haitian TPS holders, many in Springfield, Ohio, are living in legal uncertainty.",
+    "bottomLine": "Both Congress and the Supreme Court have the power to settle this and neither wants to. Congress passed a reinstatement bill it knows the Senate will block and the president will veto. The Court is being asked to set the legal standard for executive TPS terminations, a ruling that will outlast the current administration in both directions. The 200,000 people in limbo are not the primary consideration of either institution.",
+    "hiddenBets": [
+      {
+        "assumption": "The Supreme Court will rule broadly on presidential authority over TPS.",
+        "whyItMightBeWrong": "The Court has recently favored narrow rulings on immigration cases when a broad ruling would force it to choose between validating aggressive executive power or constraining a popular Republican policy. A procedural ruling that sends the case back to lower courts on statutory grounds would delay resolution without establishing a precedent, which is the safest path for justices who want to avoid the political exposure."
+      },
+      {
+        "assumption": "The House vote to reinstate Haiti TPS represents durable Republican moderation on immigration.",
+        "whyItMightBeWrong": "Ten Republicans voted for Haiti reinstatement. The same party then moved legislation to abolish TPS entirely as a direct response to those ten defections. The defections reflect constituent pressure in districts with large Haitian communities, not a shift in caucus position. The Clyde bill ensures that the moderates face a clear choice on the record."
+      },
+      {
+        "assumption": "Deporting Haitian TPS holders to Haiti is the administration's actual goal.",
+        "whyItMightBeWrong": "Haiti's government barely controls its own airports and cannot absorb mass deportations. The US has previously struggled to execute Haiti deportations because Haiti has intermittently refused or been unable to receive deportation flights. The termination of TPS status may be primarily about removing legal work authorization and creating a compliance threat, not about physically deporting people to a country that cannot receive them."
+      }
+    ],
+    "realDisagreement": "The actual fork is between two theories of what TPS should be. Theory one: TPS is a temporary humanitarian measure with a defined end, and no country's designation should become de facto permanent residency just because conditions never improve. This theory holds that if Haiti's permanent instability makes termination impossible, TPS has failed as a policy and should be replaced with a clearer path to either permanent status or departure. Theory two: deporting people to active gang war zones is wrong regardless of the statutory label, and the Court should find that the executive cannot terminate TPS designations for countries where return means death. Both theories have merit. The Court cannot fully endorse either without major downstream consequences: theory one threatens every TPS holder from every perpetually unstable country, theory two restricts executive authority in ways that subsequent administrations of both parties would resist.",
+    "whatNoOneIsSaying": "The administration knows it cannot deport 200,000 people to Haiti. Haiti will not take them. The goal of TPS termination is not deportation. It is the removal of work authorization, which converts a legal resident workforce into an undocumented workforce, which makes them deportable on paper and exploitable in practice. The workers become cheaper and more compliant once their legal status is gone. The industries that employ them in Ohio have not objected loudly.",
+    "whoPays": [
+      {
+        "who": "Haitian TPS holders, particularly in Springfield Ohio",
+        "how": "Loss of work authorization means immediate job loss. Loss of TPS means loss of legal driver's licenses in many states, access to certain benefits, and legal presence. Even without deportation, the removal of status creates vulnerability to enforcement action and eliminates the ability to plan for the future.",
+        "when": "Immediately upon any adverse Supreme Court ruling or Senate failure to act on the House bill."
+      },
+      {
+        "who": "Employers in industries dependent on Haitian TPS workers",
+        "how": "Meatpacking, food processing, and logistics operations in Ohio and other TPS-heavy states would lose experienced workers with no available replacement labor pool in the same timeframe.",
+        "when": "60-90 days after any TPS termination takes effect."
+      },
+      {
+        "who": "Republican moderates in TPS-heavy districts",
+        "how": "Clyde's abolition bill forces them to cast a recorded vote against TPS entirely, which can be used in primary challenges from the right. Supporting the Haiti reinstatement vote has already made them targets.",
+        "when": "2026 primary season, now underway."
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Court rules narrow, status quo extends",
+        "whatHappens": "The Supreme Court rules on procedural or statutory grounds without establishing a broad precedent on executive TPS authority. The case returns to lower courts. Haiti TPS holders remain in limbo for another 12-18 months. Nothing changes on the ground.",
+        "signal": "Oral argument questions on April 29 focus heavily on procedural standing and statutory interpretation rather than constitutional authority."
+      },
+      {
+        "name": "Court validates termination, Congress fails to respond",
+        "whatHappens": "The Court upholds the administration's authority to terminate TPS. The House-passed reinstatement bill dies in the Senate. Work authorization for 200,000 Haitians ends. Deportation is attempted but largely fails because Haiti cannot receive them, producing a large undocumented population from a formerly legal one.",
+        "signal": "A 6-3 or 7-2 decision is issued in June upholding the termination on executive discretion grounds."
+      },
+      {
+        "name": "Court limits termination authority",
+        "whatHappens": "The Court rules that the executive cannot retroactively terminate TPS designations without a clear statutory basis showing conditions have materially improved, setting a higher bar for future terminations. Haiti TPS is reinstated by court order. The administration challenges the decision.",
+        "signal": "At oral argument, two or more conservative justices express concern about the retroactive nature of the termination rather than questioning the administration's authority in principle."
+      }
+    ],
+    "whatWouldChange": "If the Supreme Court establishes a robust limit on executive TPS termination authority, the bottom line shifts: the Court would be functioning as the immigration floor rather than a ceiling. If Haiti's security situation materially improves, the statutory basis for TPS termination becomes stronger and the policy fight moves to different ground. Neither is likely in the near term.",
+    "markets": []
+  }
+}

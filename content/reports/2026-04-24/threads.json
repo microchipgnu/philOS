@@ -44,7 +44,64 @@
         {
           "from": "tariff-refund-gap",
           "to": "uk-digital-tax-ultimatum",
-          "relationship": "The Supreme Court limiting IEEPA tariff authority domestically has no equivalent external constraint; the UK cannot appeal to a court, which is why the same executive trade power that was ruled unconstitutional at home is being exercised unchecked abroad."
+          "relationship": "The Supreme Court limiting IEEPA tariff authority domestically has no equivalent external constraint; the UK cannot appeal to a court, which is why the same executive power that was ruled unconstitutional at home is being exercised unchecked abroad."
+        }
+      ]
+    },
+    {
+      "id": "ai-windfall-creates-political-pressure-everywhere",
+      "title": "The AI Profit Boom Is Now Producing Backlash in Three Continents",
+      "description": "Samsung's chip workers are demanding profit-sharing from a 755% operating profit surge built on AI chip demand. The UK digital services tax dispute is a government attempting to tax AI-enabled platform revenues. The social media liability verdicts and ban wave are a legal and regulatory reaction to AI-amplified addictive design. All three are versions of the same thing: AI-era economic concentration is producing political and legal counter-pressure simultaneously in labor markets, tax policy, and product liability. The AI companies are the common target and they are losing on all three fronts at once.",
+      "type": "tension-cluster",
+      "stories": ["samsung-chip-strike", "uk-digital-tax-ultimatum", "social-media-age-ban-wave"],
+      "connections": [
+        {
+          "from": "samsung-chip-strike",
+          "to": "uk-digital-tax-ultimatum",
+          "relationship": "Samsung workers are fighting to extract AI profits from the production layer; the UK is fighting to extract AI profits from the revenue layer; both are responses to the same concentration of AI-era economic gains in a small number of entities."
+        },
+        {
+          "from": "uk-digital-tax-ultimatum",
+          "to": "social-media-age-ban-wave",
+          "relationship": "The digital services tax targets the revenue of platforms that the ban wave is simultaneously trying to regulate for harm; both measures hit Meta and Google from different directions at the same moment."
+        }
+      ]
+    },
+    {
+      "id": "veto-as-a-commodity",
+      "title": "The Veto Has a Price and Everyone Can See the Receipt",
+      "description": "Hungary dropped its EU veto the day the Druzhba oil pipeline was repaired. Lebanon signed a ceasefire that only Hezbollah can break. The US Congress passed a Haiti TPS bill designed to fail in the Senate. Three actors with blocking power used it, sold it, or deployed it performatively, and in each case the transaction is visible to everyone paying attention. When vetoes are openly for sale or for show, the institutions they nominally protect stop functioning as checks and start functioning as clearinghouses for side deals.",
+      "type": "tension-cluster",
+      "stories": ["eu-ukraine-loan", "israel-lebanon-truce", "haiti-tps-scotus"],
+      "connections": [
+        {
+          "from": "eu-ukraine-loan",
+          "to": "israel-lebanon-truce",
+          "relationship": "Hungary sold its EU veto for Russian oil; Lebanon signed a ceasefire it cannot enforce, accepting US diplomatic cover in exchange for a truce it has no power to guarantee; both represent nominal compliance by actors who lack the means or intention to deliver the substance of what they signed."
+        },
+        {
+          "from": "israel-lebanon-truce",
+          "to": "haiti-tps-scotus",
+          "relationship": "Lebanon cannot bind Hezbollah; Congress cannot bind the Senate or the president on Haiti TPS; in both cases the visible institution has signed something while the actual controlling actor remains outside the agreement."
+        }
+      ]
+    },
+    {
+      "id": "iran-is-the-sticking-point-for-everything",
+      "title": "Every Negotiation This Week Has Iran as the Unaddressed Variable",
+      "description": "The Israel-Lebanon truce requires Hezbollah disarmament that Iran funds and prevents. The Hormuz standoff is an unresolved Iran military confrontation. Trump's Lebanon statement explicitly tied a peace deal to stopping Iranian Hezbollah funding. The EU sanctions that Hungary finally approved are designed in part to prevent Russian-Iranian military cooperation. Four separate stories today share one actor that is not at any negotiating table and whose cooperation is required for all of them to resolve.",
+      "type": "dependency-web",
+      "stories": ["hormuz-standoff", "israel-lebanon-truce", "eu-ukraine-loan"],
+      "connections": [
+        {
+          "from": "hormuz-standoff",
+          "to": "israel-lebanon-truce",
+          "relationship": "Trump's ceasefire extension explicitly conditions a Lebanon deal on Iran stopping Hezbollah funding, directly linking the Hormuz military standoff to the Lebanon diplomatic track and making Iran the blocking actor in both simultaneously."
+        },
+        {
+          "from": "israel-lebanon-truce",
+          "to": "eu-ukraine-loan",
+          "relationship": "The EU sanctions package that Hungary finally approved targets Russian-Iranian military cooperation, including drone transfers used in Ukraine; the Lebanon and Ukraine conflicts share an Iranian military supply chain that the EU is attempting to cut while the US is attempting to negotiate around."
         }
       ]
     }

@@ -1,6 +1,6 @@
 {
   "date": "2026-04-24",
-  "generatedAt": "2026-04-24T08:15:00Z",
+  "generatedAt": "2026-04-24T13:25:00Z",
   "reports": [
     {
       "id": "hormuz-standoff",
@@ -30,6 +30,36 @@
       "id": "uk-digital-tax-ultimatum",
       "title": "Trump to Britain: Protect Apple or Pay Tariffs",
       "subtitle": "The UK's digital services tax is not a trade dispute. It is a test of whether any US ally can tax American tech companies without US retaliation.",
+      "category": "power"
+    },
+    {
+      "id": "social-media-age-ban-wave",
+      "title": "The Kids App Ban That Big Tech Will Actually Win",
+      "subtitle": "Norway and Turkey both moved today to block children from social media. The courts found Meta liable last month. The laws will pass. The platforms will comply on paper and change almost nothing.",
+      "category": "power"
+    },
+    {
+      "id": "samsung-chip-strike",
+      "title": "Samsung's Workers Want Their Cut of the AI Boom",
+      "subtitle": "Thirty thousand chip workers are threatening an 18-day strike over profit-sharing. Samsung's Q1 operating profit rose 755%. The math is not complicated. The power dynamic is.",
+      "category": "power"
+    },
+    {
+      "id": "eu-ukraine-loan",
+      "title": "Hungary's Veto Ended the Moment Its Oil Came Back On",
+      "subtitle": "The EU unlocked a 90 billion euro loan for Ukraine this week after months of deadlock. Hungary and Slovakia dropped their objections the same day the Druzhba pipeline was repaired. That is not a coincidence. That is a transaction.",
+      "category": "power"
+    },
+    {
+      "id": "israel-lebanon-truce",
+      "title": "Trump Extended a Ceasefire That Lebanon Cannot Keep",
+      "subtitle": "The Oval Office meeting produced a three-week truce extension and a photo opportunity. It did not produce a party that controls Hezbollah. That remains the only thing that matters.",
+      "category": "conflict"
+    },
+    {
+      "id": "haiti-tps-scotus",
+      "title": "No One in Washington Wants to Own the Haiti Decision",
+      "subtitle": "The Supreme Court hears arguments April 29 on whether the Trump administration can deport Haitians back to a country in active gang war. Congress just voted to stop it. Both institutions are trying to hand the problem to the other.",
       "category": "power"
     }
   ]
