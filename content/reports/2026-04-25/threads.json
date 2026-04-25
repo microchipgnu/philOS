@@ -86,6 +86,53 @@
           "relationship": "Both institutions, NATO and the Federal Reserve, are in a position where their stated commitments and their operational realities are diverging. NATO's air policing mission has quietly expanded its engagement rules beyond what alliance members will publicly acknowledge; the Fed's independence is being defined in ways that are technically true but operationally compatible with doing what the president wants. The credibility of both rests on the gap staying invisible."
         }
       ]
+    },
+    {
+      "id": "law-as-obstacle-course",
+      "title": "The Law Is Not Being Defied. It Is Being Made Irrelevant.",
+      "description": "Four stories today show the same technique: rather than openly violating a law, the administration finds administrative mechanisms to achieve the same outcome while the law formally remains on the books. The War Powers clock hits May 1 with the White House claiming it does not apply. The DACA program formally exists while a BIA ruling strips it of its only practical function. The tariff refund process is legally open but Trump publicly threatens companies that use it. The MATCH Act gives Congress chip export oversight but the executive can still grant licenses unilaterally. In each case, the law survives. Its effect is eliminated.",
+      "type": "tension-cluster",
+      "stories": [
+        "war-powers-act-iran-deadline",
+        "daca-bia-deportation-ruling",
+        "tariff-refunds-businesses-consumers",
+        "match-act-chip-export-controls"
+      ],
+      "connections": [
+        {
+          "from": "war-powers-act-iran-deadline",
+          "to": "daca-bia-deportation-ruling",
+          "relationship": "The War Powers Resolution is not being repealed; the administration simply asserts it does not apply. DACA is not being repealed; the BIA rules it carries no legal weight. Both techniques leave the law intact while making its protection null. Courts can only respond to explicit violations."
+        },
+        {
+          "from": "daca-bia-deportation-ruling",
+          "to": "tariff-refunds-businesses-consumers",
+          "relationship": "In both cases, the administration is using informal coercion rather than formal rule changes to change behavior. The BIA ruling signals that DACA status will not protect you from enforcement; Trump's public threats signal that collecting court-ordered refunds will cost you politically. Neither requires a new law or rule. Both produce the intended outcome without a legal hook for challenge."
+        }
+      ]
+    },
+    {
+      "id": "republican-base-vs-republican-districts",
+      "title": "Trump's Policies Are Punishing Republican Voters",
+      "description": "Three stories today are about the same political problem: Trump's signature policies are generating their largest economic costs in Republican-leaning areas, and the party has not found a mechanism to absorb or redirect that damage. Tariff refunds go to large businesses; households in manufacturing-heavy Republican districts absorbed the price increases and get nothing back. Offshore wind cancellations eliminated jobs in coastal Republican districts at twice the rate of Democratic districts. The War Powers deadline puts Republican senators in the position of either endorsing indefinite war without authorization or breaking with a president whose base demands loyalty. The coalition Trump assembled is starting to experience the consequences of policies designed for political performance rather than economic outcomes.",
+      "type": "tension-cluster",
+      "stories": [
+        "tariff-refunds-businesses-consumers",
+        "offshore-wind-gop-civil-war",
+        "war-powers-act-iran-deadline"
+      ],
+      "connections": [
+        {
+          "from": "tariff-refunds-businesses-consumers",
+          "to": "offshore-wind-gop-civil-war",
+          "relationship": "Both policies extracted economic value from working-class and rural Republican constituencies and delivered it elsewhere: tariff costs fell on consumers while refunds go to large importers; wind cancellations eliminated union construction jobs in coastal Republican districts while the policy served Trump's ideological agenda. The beneficiaries of both are not the same people who voted for them."
+        },
+        {
+          "from": "offshore-wind-gop-civil-war",
+          "to": "war-powers-act-iran-deadline",
+          "relationship": "Republican members facing electoral risk on wind are the same members who must decide whether to force a War Powers vote. Both issues put coastal and moderate Republicans in the position of either absorbing political damage silently or challenging Trump on a substantive policy. The members doing neither on wind are likely to do the same on the war deadline."
+        }
+      ]
     }
   ]
 }

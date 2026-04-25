@@ -1,0 +1,96 @@
+{
+  "id": "offshore-wind-gop-civil-war",
+  "date": "2026-04-25",
+  "generatedAt": "2026-04-25T18:00:00Z",
+  "title": "Trump Killed $35 Billion in Wind Projects. Republican Districts Lost Twice as Much as Democratic Ones.",
+  "subtitle": "Nine House Republicans are publicly breaking with Trump on offshore wind. Courts have temporarily stopped the cancellations. Virginia's redistricting just made the political math worse for the party.",
+  "topic": "society",
+  "category": "power",
+  "tags": ["offshore-wind", "clean-energy", "Republicans", "midterms", "Trump", "Virginia"],
+  "coverImage": {
+    "url": "https://dims.apnews.com/dims4/default/166eaa4/2147483647/strip/true/crop/3896x2596+0+4/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F99%2Fd9%2F41dab2af31c51901ee9061dd5b9b%2Ff5bb7a97db464626813b95408171d739",
+    "local": "/images/reports/2026-04-25/offshore-wind-gop-civil-war.jpg",
+    "credit": "AP Photo"
+  },
+  "sources": [
+    {
+      "url": "https://apnews.com/article/trump-clean-energy-offshore-wind-democrats-virginia-2ea1ca1df84435ddddef9320bbe6084d",
+      "publisher": "AP News",
+      "angle": "Ground-level reporting from Portsmouth, Virginia. Documents the Republican dissent, the $11.5 billion Dominion wind farm, the 1,000 jobs at stake, and the redistricting that made the district more competitive."
+    },
+    {
+      "url": "https://fortune.com/2026/04/25/trump-clean-energy-wind-projects-republicans-coastal-virginia-state-redistricting-congressional-map/",
+      "publisher": "Fortune",
+      "angle": "Ties the offshore wind fight to midterm electoral risk for Republicans in coastal districts. Highlights that Republican-held districts lost nearly twice as much clean energy investment as Democratic districts."
+    },
+    {
+      "url": "https://apnews.com/article/burgum-trump-wind-solar-clean-energy-55b20ef5918b61771b215a91290a4556",
+      "publisher": "AP News",
+      "angle": "Federal court ruling striking down Trump administration actions slowing clean energy development. A Massachusetts judge blocked the Interior Department's requirement that projects be personally approved by Secretary Burgum."
+    }
+  ],
+  "brief": {
+    "actors": ["Trump", "Republicans", "Kiggans", "Dominion Energy", "Congress"],
+    "whatHappened": "President Trump moved to cancel five major offshore wind projects under construction along the US East Coast, part of a broader anti-wind campaign that eliminated nearly $35 billion in clean energy projects in 2025, according to the clean energy business group E2. Nine House Republicans signed a letter demanding an explanation, citing jobs and fiscal responsibility in their districts. Federal courts have temporarily blocked the cancellations. On Tuesday, Virginia voters approved a new congressional map that makes Rep. Jen Kiggans's coastal Virginia district, where an $11.5 billion wind farm was expected to create 1,000 jobs, more competitive. E2's analysis found that Republican-held congressional districts lost nearly twice as much clean energy investment as Democratic-held districts from Trump's policies.",
+    "bottomLine": "Trump's war on wind is costing Republicans more than Democrats. The anti-wind ideology is playing in Trump's base but it is generating real electoral exposure for coastal Republicans who cannot afford to lose moderate suburban votes, and the redistricting cycle is making the math worse.",
+    "hiddenBets": [
+      {
+        "assumption": "Republican members can break with Trump on wind without electoral consequences from the base.",
+        "whyItMightBeWrong": "Kiggans signed the letter demanding an explanation but has not voted against any Trump energy measure. The letter is a managed signal of independence designed to protect her with moderates without triggering a primary challenge from the right. Trump has not publicly retaliated. Yet. The primary threat is always live."
+      },
+      {
+        "assumption": "Federal court injunctions will hold and the projects will proceed.",
+        "whyItMightBeWrong": "The courts can block specific executive orders and Interior Department requirements. They cannot force the administration to issue permits, extend leases, or process federal approvals on a timeline that keeps projects financeable. Administrative delay is the administration's remaining tool and it does not require a court loss."
+      },
+      {
+        "assumption": "Clean energy jobs are a winning political message for Republicans in contested districts.",
+        "whyItMightBeWrong": "The jobs argument is real but the Republican base is deeply skeptical of renewables. A Republican who runs on saving wind jobs risks being characterized as a climate activist by a primary opponent. The electoral math favors silence over visible advocacy, which is why the letter was signed by nine members and none of them held press conferences."
+      }
+    ],
+    "realDisagreement": "The real tension is between party loyalty and constituent interest, and it is not actually a close call. Republican-held districts are absorbing twice the economic damage from Trump's clean energy policy as Democratic districts. The members who represent those districts know this. They are choosing not to use the leverage they have, which is a yes vote on anything from omnibus spending to committee assignments, to extract a clean energy carve-out. The political science reason is rational: the cost of defying Trump on energy now is higher than the cost of losing a marginal seat in 2026. That calculation may be wrong given the redistricting results in Virginia, but it is the calculation most of them are making.",
+    "whatNoOneIsSaying": "The nine Republicans who signed the letter represent a fraction of the districts that have lost clean energy investment. The other members whose districts have also lost billions in projects did not sign anything. Their constituents are absorbing the same economic damage with no congressional representation willing to say so publicly. The silence of the other Republicans is the story, not the letter.",
+    "whoPays": [
+      {
+        "who": "Wind energy workers in Republican districts",
+        "how": "Jobs in construction, manufacturing, and operations for cancelled offshore wind projects. Many of these are union positions in port communities that do not have alternative employment at equivalent wages.",
+        "when": "Immediate for projects already cancelled; ongoing as new projects are deterred"
+      },
+      {
+        "who": "Coastal Republican incumbents",
+        "how": "Electoral exposure in districts where clean energy investment was a bipartisan local priority. Virginia redistricting has already made Kiggans's seat more competitive. Similar exposure exists in New Jersey, New York, and Massachusetts Republican districts.",
+        "when": "November 2026 midterms"
+      },
+      {
+        "who": "Pension funds and institutional investors in offshore wind",
+        "how": "Committed capital to projects that the administration is now blocking through executive action. Legal uncertainty about permit validity and approval timelines undermines the investment thesis that made these projects financeable.",
+        "when": "Immediate, as project financing becomes more expensive or unavailable"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Courts Hold, Projects Resume",
+        "whatHappens": "Federal injunctions hold through the project completion timeline. Trump's executive actions are blocked faster than administrative delay can substitute. The $11.5 billion Virginia project comes online by 2028.",
+        "signal": "The Dominion Energy project resumes active construction and announces a revised completion date."
+      },
+      {
+        "name": "Administrative Attrition",
+        "whatHappens": "Court blocks the explicit orders but the Interior Department stops processing approvals, delays environmental reviews, and allows leases to expire without renewal. Projects stall and financing fails. Trump wins through inaction.",
+        "signal": "Dominion Energy announces a project delay citing federal permitting uncertainty despite court injunctions."
+      },
+      {
+        "name": "Electoral Blowback Forces Reversal",
+        "whatHappens": "Poll data in coastal Republican districts shows severe erosion over jobs losses. Republican House leadership quietly negotiates a carve-out for completed or near-completion wind projects in exchange for votes on an unrelated priority.",
+        "signal": "A clean energy jobs provision appears in a House spending vehicle with Republican co-sponsors from coastal districts."
+      }
+    ],
+    "whatWouldChange": "If Republican losses in November 2026 are traceable to clean energy job losses in coastal districts, the calculation for other Republicans changes. That requires clear electoral attribution, which political parties are historically reluctant to make when it implicates a sitting president of their own party. The analysis would have to be so unambiguous that ignoring it becomes politically costly. The Virginia redistricting result is the first data point in that chain.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Will the Democratic Party control the House after the 2026 Midterm elections?",
+        "url": "https://polymarket.com/event/which-party-will-win-the-house-in-2026",
+        "probability": 0.855
+      }
+    ]
+  }
+}

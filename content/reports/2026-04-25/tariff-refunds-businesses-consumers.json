@@ -1,0 +1,102 @@
+{
+  "id": "tariff-refunds-businesses-consumers",
+  "date": "2026-04-25",
+  "generatedAt": "2026-04-25T18:00:00Z",
+  "title": "Consumers Paid the Tariffs. Businesses Get the Refunds.",
+  "subtitle": "The Supreme Court struck down $166 billion in tariffs as unconstitutional. The refund portal opened Monday. Almost none of that money flows back to the households that actually bore the cost.",
+  "topic": "economy",
+  "category": "power",
+  "tags": ["tariffs", "IEEPA", "Supreme-Court", "trade", "consumers", "refunds"],
+  "coverImage": {
+    "url": "https://apicms.thestar.com.my/uploads/images/2026/04/25/3871692.jpg",
+    "local": "/images/reports/2026-04-25/tariff-refunds-businesses-consumers.jpg",
+    "credit": "The Star / AP"
+  },
+  "sources": [
+    {
+      "url": "https://www.tricityrecordnm.com/articles/businesses-begin-claiming-refunds-for-trump-tariffs-struck-down-by-u-s-supreme-court/",
+      "publisher": "Tri-City Record / AP",
+      "angle": "Ground-level reporting on the CAPE portal launch. Notes that companies are 'not obligated to share their refunds with customers.' Details the administrative complexity of 53 million entries across 330,000 importers."
+    },
+    {
+      "url": "https://www.businesstimes.com.sg/international/tariffs-raised-consumers-prices-refunds-go-only-businesses",
+      "publisher": "Business Times",
+      "angle": "Explains the legal structure: tariffs are levied on importing firms, not end consumers. The disconnect between who paid higher prices and who receives refunds is a feature of the import tax system, not an oversight."
+    },
+    {
+      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/04/25/us-firms-dash-to-recover-tariffs-paid-on-chinese-imports-as-refund-system-launches",
+      "publisher": "The Star",
+      "angle": "Business-side perspective from an importer navigating the system. Highlights the administrative burden, confusion, and fact that companies changed their pricing to absorb tariffs and now face the question of whether to pass savings back."
+    },
+    {
+      "url": "https://www.jdsupra.com/legalnews/ieepa-tariff-refunds-clarity-on-1982526/",
+      "publisher": "JD Supra",
+      "angle": "Legal analysis. Notes the complexity of reconstructing years of customs data and the emerging wave of inter-company disputes over who is entitled to the refunds in multi-party supply chains."
+    }
+  ],
+  "brief": {
+    "actors": ["Trump", "SCOTUS", "CBP", "US importers", "US consumers"],
+    "whatHappened": "US Customs and Border Protection launched the CAPE portal on April 20, allowing importers and brokers to begin claiming refunds on tariffs collected under IEEPA after the Supreme Court struck down those duties as unconstitutional in February. The refund pool exceeds $166 billion. Importers must submit declarations covering millions of entries. Legal experts note that companies are not obligated to pass refunds on to customers who paid higher prices during the tariff period. The Budget Lab at Yale previously estimated that Trump's tariffs cost households an average of $1,700 per year and eliminated 460,000 jobs. The refunds go to the firms that wrote checks to CBP, not to the households that faced higher prices at the store.",
+    "bottomLine": "The Supreme Court called the tariffs unconstitutional. The refund system is now returning $166 billion to large importers. The households who actually absorbed those costs get nothing except the possibility that a company, under no legal obligation to do so, decides to lower its prices. That is not remediation. It is a wealth transfer from consumers to corporations, laundered through a court ruling.",
+    "hiddenBets": [
+      {
+        "assumption": "Companies will pass tariff refunds back to consumers through lower prices.",
+        "whyItMightBeWrong": "Importers changed their pricing and contracts during the tariff period. Many passed costs to downstream buyers under explicit tariff surcharges. Now that the surcharges are legally void, businesses face no market pressure to reduce prices they have already normalized. Prices are sticky downward."
+      },
+      {
+        "assumption": "The $166 billion refund mostly benefits small and mid-size businesses.",
+        "whyItMightBeWrong": "The largest importers by volume handled the largest share of tariff-affected goods. The refund system is proportional to import volume. Walmart, Amazon, and large manufacturing firms will receive a dramatically larger share than the small importer scrambling to navigate the CAPE portal."
+      },
+      {
+        "assumption": "The refund process is straightforward for most businesses.",
+        "whyItMightBeWrong": "The CAPE portal covers 53 million entries across five-plus years of import records. Many small importers used brokers who filed on their behalf. The question of who is legally entitled to the refund in a multi-party supply chain is now spawning a second wave of commercial litigation."
+      }
+    ],
+    "realDisagreement": "The real tension is between two things that are both true but cannot both lead to a satisfying outcome. One: the tariffs were struck down as unconstitutional, so the money should be returned to the people who paid it. Two: import law charges tariffs to importers, not consumers, so 'the people who paid it' legally means businesses, not households. The system is working correctly under its own rules. Those rules produce an outcome that is politically and distributively indefensible. The question is whether any political actor has the incentive to change import law so consumers have direct legal standing, and the answer is no: the businesses that would pay for that reform are the same ones now collecting checks."
+    ,
+    "whatNoOneIsSaying": "Trump imposed the tariffs, consumers paid higher prices, SCOTUS struck them down, and now the refunds go to companies. If the administration tries to block or slow refund payments to companies that apply, as Trump already publicly threatened, it is simultaneously punishing businesses for obeying a court order and protecting the money that paid for a policy the court just ruled was illegal. Both of those things are happening at the same time.",
+    "whoPays": [
+      {
+        "who": "US consumers",
+        "how": "Paid an average of $1,700 per household in higher prices during the tariff period. Will receive no direct refund. Prices will not automatically fall because companies have no legal obligation and no market pressure to reduce them.",
+        "when": "Already paid; no recovery timeline"
+      },
+      {
+        "who": "Small importers",
+        "how": "Navigating a portal covering 53 million entries requires customs brokers charging fees. Small businesses may spend as much on administrative costs as they recover, particularly for businesses with low per-entry values across many small shipments.",
+        "when": "Immediate, as they file claims"
+      },
+      {
+        "who": "Firms that absorbed tariffs without passing them downstream",
+        "how": "Companies that chose to absorb tariff costs rather than raising prices took the hit directly. They are entitled to refunds and will collect. Companies that raised prices, collected higher revenue, and now also collect refunds profit twice.",
+        "when": "Refunds distributed over the next 6-12 months"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Corporate Windfall, Consumers Unchanged",
+        "whatHappens": "Large importers collect the bulk of $166 billion in refunds. Consumer prices remain flat. No political mechanism forces pass-through. The refund becomes a one-time corporate earnings boost.",
+        "signal": "Major retailers report tariff refund gains as extraordinary income in Q2 2026 without corresponding price reductions."
+      },
+      {
+        "name": "Competitive Pass-Through",
+        "whatHappens": "In competitive markets, companies that received refunds face pricing pressure from competitors and reduce prices slightly. Effect is partial and concentrated in commodity categories like electronics and apparel.",
+        "signal": "Category-level price deflation in consumer electronics and clothing in May-June 2026."
+      },
+      {
+        "name": "Trump Blocks Refunds",
+        "whatHappens": "The administration implements new regulations or threatened penalties against companies that collect refunds, as Trump publicly suggested. Companies defer filing. CBP faces a constitutional crisis over compliance with the court's ruling.",
+        "signal": "CBP publishes guidance conditioning refund eligibility on companies agreeing not to reduce domestic employment."
+      }
+    ],
+    "whatWouldChange": "If Congress passed legislation providing direct consumer relief tied to documented tariff-period price increases, the distributive unfairness changes. That requires political will to override business lobbying from the same companies collecting refunds. Alternatively, if an antitrust or consumer protection lawsuit successfully argued that companies who passed tariffs to consumers are constructively holding consumer-owed refunds, the legal framework shifts. Neither is likely.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Will the Court Force Trump to Refund Tariffs?",
+        "url": "https://polymarket.com/event/will-the-court-force-trump-to-refund-tariffs-2026-06-30",
+        "probability": 0.645
+      }
+    ]
+  }
+}

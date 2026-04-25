@@ -1,0 +1,107 @@
+{
+  "id": "war-powers-act-iran-deadline",
+  "date": "2026-04-25",
+  "generatedAt": "2026-04-25T18:00:00Z",
+  "title": "The 60-Day Clock Runs Out May 1. Trump Has No Intention of Stopping.",
+  "subtitle": "The War Powers Resolution says the Iran war needs congressional authorization by Thursday. The White House says the law does not apply. Congress has not decided whether to find out who is right.",
+  "topic": "politics",
+  "category": "power",
+  "tags": ["Iran", "War-Powers-Act", "Congress", "Trump", "constitutional-authority", "executive-power"],
+  "coverImage": {
+    "url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2272108336-20260424164027368-20260424170537204.jpg?c=16x9&q=w_800,c_fill",
+    "local": "/images/reports/2026-04-25/war-powers-act-iran-deadline.jpg",
+    "credit": "CNN / Getty Images"
+  },
+  "sources": [
+    {
+      "url": "https://edition.cnn.com/2026/04/25/politics/war-powers-act-trump-iran-war-congress-analysis",
+      "publisher": "CNN",
+      "angle": "Constitutional analysis. Explains the 60-day clock in the War Powers Resolution and the ambiguity created by the current ceasefire. Notes the White House has not acknowledged the law's applicability."
+    },
+    {
+      "url": "https://www.aljazeera.com/news/2026/4/24/trumps-may-1-deadline-can-he-continue-war-on-iran-after-that",
+      "publisher": "Al Jazeera",
+      "angle": "Regional perspective. Details the congressional deadline alongside the Iran ceasefire talks in Pakistan. Notes the 30-day extension period if Trump notifies Congress."
+    },
+    {
+      "url": "https://www.yahoo.com/news/articles/senate-gop-armed-services-chair-195234658.html",
+      "publisher": "The Hill via Yahoo News",
+      "angle": "Senate Armed Services Chair Roger Wicker calling for end to talks and resumption of military action. Splits Senate GOP from the White House's negotiating track."
+    },
+    {
+      "url": "https://www.readers.id/en/trump-deadline-congress-iran-war",
+      "publisher": "Readers.id",
+      "angle": "Detailed timeline: US-Israel strikes began February 28, ceasefire April 8, naval blockade April 13. Includes Republican Rep. Fitzpatrick's comment that the ceasefire complicates any enforcement."
+    }
+  ],
+  "brief": {
+    "actors": ["Trump", "Congress", "Iran", "Witkoff", "Kushner", "Wicker"],
+    "whatHappened": "The 1973 War Powers Resolution requires the president to obtain congressional authorization or withdraw forces within 60 days of committing troops to hostilities. The US began joint strikes with Israel against Iran on February 28; a ceasefire started April 8, but a naval blockade of Iranian shipping was imposed April 13. That puts the 60-day clock at May 1. The White House has not acknowledged that the law applies, claiming inherent commander-in-chief authority. Senate Armed Services Committee Chair Roger Wicker, a senior Republican, called on April 25 for abandoning negotiations and resuming military operations to finish destroying Iran's conventional military. Meanwhile, Witkoff and Kushner were traveling to Pakistan for a second round of indirect Iran talks.",
+    "bottomLine": "The War Powers Act has never been enforced against a sitting president, and that precedent is about to be tested or quietly buried again. The more revealing fact is that the Senate's top military Republican wants more war while the White House is negotiating peace: the administration does not have a unified position on what it is actually trying to accomplish.",
+    "hiddenBets": [
+      {
+        "assumption": "The ceasefire creates legal ambiguity that gives Trump cover past May 1.",
+        "whyItMightBeWrong": "The War Powers Resolution clock does not pause for ceasefires. The naval blockade is still an active use of force. Republican Rep. Fitzpatrick's comment about 'not punishing ceasefires' is a political wish, not a legal reading of the statute."
+      },
+      {
+        "assumption": "Congress will not force a constitutional confrontation over the deadline.",
+        "whyItMightBeWrong": "The Senate is already split. Wicker wants more war, several moderate Republicans have expressed discomfort, and Democrats have political incentive to force a vote that makes Republicans choose between Trump's authority and the rule of law. The question is whether any Democrat can find a Republican co-sponsor with spine."
+      },
+      {
+        "assumption": "The White House's legal position is at least debatable.",
+        "whyItMightBeWrong": "The administration's lawyers have claimed the war is justified as self-defense against Iran's 'aggression' and support for Israel. These are the same legal frameworks Reagan used in Lebanon in 1982, which Congress never validated. The constitutional theory requires pretending the president can unilaterally define what counts as aggression that justifies an undeclared war."
+      }
+    ],
+    "realDisagreement": "The real fork is not about Iran. It is about whether presidential war-making authority has any legal ceiling at all. One view: the commander-in-chief power, in practice, already supersedes the War Powers Resolution because no court has enforced it and no Congress has forced the issue. The president can conduct indefinite hostilities with at most congressional grumbling. The other view: each time Congress fails to enforce the law, it ratifies the expansion of executive war power, and the precedent being set in this 60-day window will be invoked by every future president in every future conflict. The first view describes current reality. The second describes the institutional cost of that reality, which no individual politician bears alone.",
+    "whatNoOneIsSaying": "Wicker's call to abandon talks and finish destroying Iran's military comes from the same party that nominally supports the White House's negotiation track. Either Wicker is freelancing or the administration is running two parallel Iran strategies simultaneously. In either case, Iran's negotiators can read this and know the US government does not speak with one voice on whether to end this war.",
+    "whoPays": [
+      {
+        "who": "US sailors and pilots in the Persian Gulf",
+        "how": "Operating under a continuing naval blockade with no clear authorization, legal status, or exit timeline. Rules of engagement in a legal gray zone create command uncertainty.",
+        "when": "Immediate and ongoing"
+      },
+      {
+        "who": "Congress as an institution",
+        "how": "Each deadline that passes without enforcement shrinks Congress's ability to credibly invoke the War Powers Resolution in any future conflict. The precedent compounds.",
+        "when": "Slow-burn, measurable over decades"
+      },
+      {
+        "who": "Iran's civilian economy",
+        "how": "The naval blockade of the Strait of Hormuz is disrupting Iranian oil exports and imports. Even a ceasefire in the shooting war leaves this economic stranglehold in place.",
+        "when": "Immediate and ongoing through the blockade's duration"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Precedent Buried",
+        "whatHappens": "May 1 passes without congressional action. The White House ignores the deadline, no court intervenes, and the War Powers Resolution becomes formally unenforceable by consensus of the political branches.",
+        "signal": "No War Powers resolution is introduced in either chamber by April 30."
+      },
+      {
+        "name": "Symbolic Vote, No Effect",
+        "whatHappens": "Democrats force a floor vote on a War Powers resolution. It fails along party lines. Trump declares validation. The deadline becomes rhetorical ammunition rather than legal constraint.",
+        "signal": "A War Powers resolution is introduced but Senate Majority Leader McConnell refuses to schedule a vote."
+      },
+      {
+        "name": "Deal Before Deadline",
+        "whatHappens": "Witkoff and Kushner reach a framework agreement with Iran in Pakistan before May 1, giving Trump a political argument that the war is winding down and the clock is moot.",
+        "signal": "A joint statement from Pakistan's foreign ministry announcing a framework agreement before April 30. Polymarket puts Iran permanent peace deal by April 30 at 3.5% probability."
+      }
+    ],
+    "whatWouldChange": "If a federal court accepted a legal challenge to the continued deployment and ruled the War Powers Resolution is justiciable, the entire constitutional premise of the White House's position collapses. Courts have consistently declined to hear these cases. That is the mechanism keeping the administration's legal theory alive.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Congress passes Iran war powers resolution by April 30?",
+        "url": "https://polymarket.com/event/congress-passes-iran-war-powers-resolution-by-april-30",
+        "probability": 0.006
+      },
+      {
+        "platform": "Polymarket",
+        "question": "US x Iran permanent peace deal by April 30, 2026?",
+        "url": "https://polymarket.com/event/us-x-iran-permanent-peace-deal-by",
+        "probability": 0.0345
+      }
+    ]
+  }
+}
