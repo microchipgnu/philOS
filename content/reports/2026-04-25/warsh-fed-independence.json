@@ -1,0 +1,112 @@
+{
+  "id": "warsh-fed-independence",
+  "date": "2026-04-25",
+  "generatedAt": "2026-04-25T12:00:00Z",
+  "title": "The Man Trump Picked to Run the Fed Says He Won't Do What Trump Wants",
+  "subtitle": "Kevin Warsh's confirmation hearing produced the predictable pledges of independence. The predictable part is the problem: every Fed nominee says this, and the chair who actually defies a sitting president has not yet existed.",
+  "topic": "economy",
+  "category": "power",
+  "tags": ["Federal Reserve", "Kevin Warsh", "Trump", "monetary policy", "interest rates", "central bank independence", "inflation"],
+  "coverImage": {
+    "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4000x2250+0+208/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F95%2Fc2%2F97a79c9040598a898417cf35ea00%2Fgettyimages-2211325619.jpg",
+    "local": "/images/reports/2026-04-25/warsh-fed-independence.jpg",
+    "credit": "NPR / Getty Images"
+  },
+  "sources": [
+    {
+      "url": "https://www.cnbc.com/2026/04/20/kevin-warsh-fed-confirmation-senate.html",
+      "publisher": "CNBC",
+      "angle": "Warsh used the hearing to redefine 'independence' as staying in the Fed's lane on core mandates, not as immunity from presidential pressure. His framing opens the door to independence-compatible rate cuts if inflation allows"
+    },
+    {
+      "url": "https://www.washingtontimes.com/news/2026/apr/21/fed-nominee-kevin-warsh-says-wont-donald-trumps-sock-puppet-interest/",
+      "publisher": "Washington Times",
+      "angle": "Warsh explicitly denied making any commitment to Trump on rates and used the phrase 'sock puppet' to distance himself; Trump told CNBC hours before the hearing he would be disappointed if Warsh did not cut rates immediately"
+    },
+    {
+      "url": "https://www.npr.org/2026/04/21/nx-s1-5787863/federal-reserve-kevin-warsh-confirmation-hearing",
+      "publisher": "NPR",
+      "angle": "The main drama at the hearing had nothing to do with Warsh: Sen. Thom Tillis threatened to hold the nomination until the DOJ drops its criminal investigation of Jerome Powell over the Fed's headquarters renovation cost overruns"
+    },
+    {
+      "url": "https://finance.yahoo.com/economy/policy/articles/kevin-warsh-set-testify-fed-135330512.html",
+      "publisher": "CBS News via Yahoo Finance",
+      "angle": "Warsh has shifted from his historically hawkish inflation stance to a more dovish view driven by his theory that AI will accelerate productivity and suppress prices, which critics say is tailored to match Trump's interest rate preferences"
+    },
+    {
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/kevin-warsh-at-fed-may-not-deliver-big-policy-shift-no-quick-rate-cuts/articleshow/130513645.cms",
+      "publisher": "Economic Times",
+      "angle": "Warsh would be one vote among 12 on the FOMC; even as chair, he cannot unilaterally cut rates, which means the independence question is partly a red herring since the institutional structure limits any single chair's capacity to deliver political outcomes"
+    }
+  ],
+  "brief": {
+    "actors": ["Warsh", "Trump", "Powell", "Fed", "Senate", "Tillis"],
+    "whatHappened": "Kevin Warsh, Trump's nominee to succeed Jerome Powell as Federal Reserve chair, testified before the Senate Banking Committee on April 21. He pledged that the Fed would remain 'strictly independent' in setting monetary policy, denied making any commitment to Trump on rate cuts, and said the Fed should 'stay in its lane' by avoiding climate and social policy. Hours before the hearing, Trump told CNBC he expected his nominee to cut rates immediately. Republican Senator Thom Tillis separately threatened to block Warsh's confirmation until the DOJ drops a criminal investigation of Powell over headquarters renovation costs. Polymarket markets give Warsh's nomination essentially no chance of being withdrawn but show significant uncertainty about whether Republican moderates like Murkowski will vote to confirm him (60% probability). The FOMC meets April 28-29.",
+    "bottomLine": "The question is not whether Warsh will be independent; it is whether 'independence' has been redefined to mean something compatible with what Trump wants, which would make the independence pledge technically true and functionally empty.",
+    "hiddenBets": [
+      {
+        "assumption": "Warsh's dovish pivot on rates reflects genuine analytical updating",
+        "whyItMightBeWrong": "Warsh was among the most vocal inflation hawks in Fed history during his prior stint as a governor from 2006 to 2011. His current view, that AI-driven productivity gains will suppress inflation and allow for rate cuts, is a real theory, but it aligns precisely with what Trump wants to hear, and it emerged after Trump selected him. His testimony did not explain what new evidence changed his prior views, only that the conclusion had changed."
+      },
+      {
+        "assumption": "The FOMC's 12-voter structure makes any single chair's political bias irrelevant",
+        "whyItMightBeWrong": "The chair sets the agenda, controls communications, and establishes the intellectual frame through which other governors evaluate data. A dovish chair can shift the default interpretation of ambiguous signals in ways that 12 votes can't reverse without a visible, politically embarrassing confrontation. The structure limits outright unilateralism, but it does not prevent sustained directional bias."
+      },
+      {
+        "assumption": "The Tillis holdout over the Powell investigation is a sideshow",
+        "whyItMightBeWrong": "The DOJ investigation of Powell over a $2.4 billion cost overrun on the Fed's headquarters is the most direct political attack on the Fed's institutional independence since the 1970s. If Tillis's condition is met and DOJ drops the probe, it establishes that the administration can use criminal investigations as leverage over the central bank. That precedent matters more than Warsh's rate decisions."
+      }
+    ],
+    "realDisagreement": "The fork is between two readings of Warsh's hearing posture. One reading: he is a genuinely independent actor who happened to evolve his views in a direction that aligns with political convenience, and the independence pledge is real because he has no motive to perjure himself before the Senate. The other reading: he is a sophisticated operator who has learned how to perform independence while delivering the politically desired outcome, and the performance is made easier because 'independence' now means not commenting on fiscal policy, which is different from resisting rate-cut pressure. The second reading is more consistent with how every Fed chair who survived a contentious relationship with a president has operated: by finding analytical frameworks that produce politically acceptable conclusions without appearing to capitulate. What would resolve this is watching whether Warsh votes against rate cuts when the unemployment data argues for them, which is the only test independence can actually pass.",
+    "whatNoOneIsSaying": "The DOJ investigation of Powell gives Trump something far more valuable than a compliant Fed chair: it gives him a sword he can hold over any future chair, of any party, who considers defying him on rates. The Warsh confirmation is almost secondary to the precedent being set by using a criminal probe to manage the central bank.",
+    "whoPays": [
+      {
+        "who": "Workers who benefit from a tight labor market",
+        "how": "If Warsh cuts rates faster than inflation warrants, the Fed risks a second inflation wave. The people most harmed by inflation are low-wage workers with fixed-rate incomes and minimal savings, who cannot hedge against price increases the way higher-income households can",
+        "when": "12-24 months after any premature rate cuts, if inflation reaccelerates"
+      },
+      {
+        "who": "Future Fed chairs",
+        "how": "If a DOJ investigation is used to extract policy concessions from the current Fed chair, every future Fed chair operates under the implicit threat that non-compliance can be punished through the justice system",
+        "when": "Ongoing, as structural precedent"
+      },
+      {
+        "who": "Global dollar-denominated debt holders",
+        "how": "The dollar's reserve currency status rests partly on confidence that the Fed cannot be politicized. Visible political interference in monetary policy, even if it produces the same rate decisions that would have happened anyway, erodes that confidence over time and raises the cost of dollar-denominated borrowing globally",
+        "when": "Slow-burn over years"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Warsh Confirmed, Cuts Rates, Independence Myth Survives",
+        "whatHappens": "Warsh is confirmed, the FOMC cuts rates in mid-2026 citing slowing inflation and AI productivity gains, Trump declares victory, and Warsh maintains the public posture of having made data-driven decisions. The 'independence' narrative is sustained because the cuts are defensible on their own terms.",
+        "signal": "Murkowski votes yes, Tillis stand-down happens, confirmation proceeds before May 15"
+      },
+      {
+        "name": "Confirmation Stalls, Powell Stays, Markets Price Political Risk",
+        "whatHappens": "Tillis's hold extends, other Republican defections emerge, and the confirmation process drags into summer. Powell remains chair through the end of his term under a cloud. The ambiguity about who is actually running monetary policy creates a risk premium in bond markets.",
+        "signal": "A 10-year Treasury yield spike of more than 30 basis points in May without a corresponding inflation data release"
+      },
+      {
+        "name": "Warsh Defies Trump on Rates",
+        "whatHappens": "Confirmed, Warsh actually holds rates higher than Trump wants as inflation stays elevated from Iran war energy prices, Trump attacks him publicly, Warsh does not resign. The confrontation validates the independence pledge and sets a real precedent, but only after months of political conflict that damages both institutions.",
+        "signal": "Trump posts a named attack on Warsh on Truth Social after a Fed meeting where rates are held"
+      }
+    ],
+    "whatWouldChange": "If the Iran war continues to push energy prices higher and inflation reaccelerates before Warsh is confirmed, the analytical case for rate cuts collapses regardless of political pressure. In that scenario, Warsh would face his first test before he has any political capital to spend.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Kevin Warsh Fed Chair nomination withdrawn by May 15?",
+        "url": "https://polymarket.com/event/kevin-warsh-fed-chair-nomination-withdrawn-by-may-15",
+        "probability": 0.003
+      },
+      {
+        "platform": "Polymarket",
+        "question": "Will Lisa Murkowski vote to confirm Kevin Warsh as Chair of the Federal Reserve?",
+        "url": "https://polymarket.com/event/who-will-vote-to-confirm-kevin-warsh-as-fed-chair",
+        "probability": 0.6
+      }
+    ]
+  }
+}

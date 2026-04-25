@@ -4,57 +4,86 @@
     {
       "id": "executive-without-authority",
       "title": "Acting Without Permission",
-      "description": "Four stories today are variations on the same question: can the executive branch do things that no law authorizes? Trump's asylum ban was struck down for creating removal procedures 'of his own making.' His IRS lawsuit was questioned because he controls both parties. The Polymarket market on courts forcing a tariff refund sits at 64.5%. The tariff sanctions on Chinese refiners are imposed under executive authority with no congressional vote. The same administration that is fighting courts over the scope of presidential power is simultaneously expanding that scope in every domain where it has not yet been stopped.",
+      "description": "Five stories today are variations on the same question: can the executive branch do things that no law authorizes, and what happens when courts say no? The asylum ban was struck down for rewriting removal procedures by proclamation. The IEEPA tariffs were struck down as exceeding emergency economic powers. The DOJ is now arguing that state-level AI regulation is itself unconstitutional, extending federal executive reach into technology governance. And Trump is publicly warning companies not to exercise their court-ordered refund rights. The administration is fighting courts over the scope of presidential power while simultaneously testing whether informal presidential threats can accomplish what legal authority could not.",
       "type": "tension-cluster",
       "stories": [
         "trump-asylum-ban-overturned",
-        "tariffs-one-year-reckoning",
-        "iran-pakistan-talks-hormuz"
+        "trump-scotus-tariff-repayment",
+        "doj-xai-colorado-ai-law"
       ],
       "connections": [
         {
           "from": "trump-asylum-ban-overturned",
-          "to": "tariffs-one-year-reckoning",
-          "relationship": "The asylum ban ruling and the Polymarket 64.5% probability of courts forcing tariff refunds both reflect the same judicial posture: courts are increasingly willing to find that the president has exceeded statutory authority, even in domains where broad deference was previously assumed."
+          "to": "trump-scotus-tariff-repayment",
+          "relationship": "Both rulings held that the president exceeded statutory authority by acting as if Congress had delegated powers it had not. The tariff case adds a new element: Trump's public warnings to companies not to collect court-ordered refunds is the first test of whether a presidential threat can neutralize a SCOTUS remedy without defying it directly."
         },
         {
-          "from": "tariffs-one-year-reckoning",
-          "to": "iran-pakistan-talks-hormuz",
-          "relationship": "The tariff sanctions on Chinese teapot refineries for buying Iranian oil are imposed under the same executive sanction authority that courts have not yet challenged, and that is being used as a pressure tool in the Iran ceasefire negotiations: the sanctions announcement and the Pakistan talks happened the same day, as a signal not a policy."
+          "from": "trump-scotus-tariff-repayment",
+          "to": "doj-xai-colorado-ai-law",
+          "relationship": "After losing on IEEPA tariffs, the administration is opening a second front by arguing that state regulation of AI bias is federally preempted. This is the same executive branch that was just told it overreached now asserting that states are overreaching in the opposite direction, using federal authority to block regulation rather than impose it."
         }
       ]
     },
     {
       "id": "hormuz-as-inflation-amplifier",
       "title": "The Strait Is Doing the Tariffs' Work",
-      "description": "Tariffs pushed US consumer prices 1.9-2.3% above pre-tariff baseline. The Hormuz closure has pushed Brent crude from $70 to $105, a 50% increase. Both hit the same low-income households through fuel, food transport, and manufactured goods. The Yale Budget Lab found tariffs cost the bottom quintile 5-8% of income. The Hormuz oil shock adds a separate and compounding cost that no one in the tariff debate is accounting for. The households absorbing both shocks simultaneously are not being discussed in either story.",
+      "description": "Tariffs pushed US consumer prices 1.9-2.3% above pre-tariff baseline. The Hormuz closure pushed Brent crude from $70 to $105, a 50% increase. Both hit the same low-income households through fuel, food transport, and manufactured goods. The Fed's rate decision is being shaped by both shocks simultaneously. Warsh's dovish pivot on rates rests on the theory that AI productivity gains will suppress inflation. That theory has to beat both the tariff floor and the energy price shock at the same time, which is a much harder problem than either one alone.",
       "type": "dependency-web",
       "stories": [
+        "tariffs-one-year-reckoning",
         "iran-pakistan-talks-hormuz",
-        "tariffs-one-year-reckoning"
+        "warsh-fed-independence"
       ],
       "connections": [
         {
           "from": "iran-pakistan-talks-hormuz",
           "to": "tariffs-one-year-reckoning",
-          "relationship": "The Hormuz oil shock is an independent inflationary force hitting the same populations already harmed by tariff-driven price increases. A deal that reopens the Strait would provide more consumer price relief than any tariff rollback currently being contemplated, but neither story is being told as connected to the other."
+          "relationship": "The Hormuz oil shock is an independent inflationary force compounding the tariff-driven price increases. A deal that reopens the Strait would provide more consumer price relief than any tariff rollback currently being contemplated, but neither story is being told as connected to the other in the policy debate."
+        },
+        {
+          "from": "tariffs-one-year-reckoning",
+          "to": "warsh-fed-independence",
+          "relationship": "Warsh's AI-driven productivity theory is being offered as the reason rate cuts are safe despite inflation. But the tariff baseline and energy shock mean any Fed loosening risks igniting a second inflation wave. His dovish case is only persuasive if both the trade and energy supply shocks resolve simultaneously, which is the precise condition the Iran talks and tariff policy may prevent."
         }
       ]
     },
     {
       "id": "meta-liability-infrastructure",
       "title": "Meta Scales What It Was Fined For Building",
-      "description": "Meta was found liable in March for designing platforms that harmed children. Parents lobbied Congress this week for laws that would constrain how Meta deploys recommendation algorithms. In the same week, Meta announced it will spend $125 billion in 2026 building more AI infrastructure, signed a multi-billion dollar deal for CPU cores to power more autonomous AI agents, and cut 8,000 employees it is replacing with the technology at issue in the liability cases. The jury found the harm came from deliberate algorithmic design. The infrastructure spending is funding more algorithmic design at greater scale. The liability verdict and the capex expansion are about the same product.",
+      "description": "Meta was found liable for designing platforms that harmed children through algorithmic amplification. In the same week, Meta announced it will spend $125 billion in 2026 building more AI infrastructure and signed a multi-billion dollar deal for CPU cores to power more autonomous agents. Turkey then passed a law banning children from the platforms at the center of the liability cases. The verdict, the capex expansion, and the regulatory response are all about the same product. The liability is for the 2015-2023 system; the infrastructure investment is building the 2026-2030 system that will face the same questions. And Turkey's solution is to exclude children from it rather than fix it.",
       "type": "cause-effect",
       "stories": [
         "meta-social-media-liability",
-        "meta-aws-graviton-ai-chips"
+        "meta-aws-graviton-ai-chips",
+        "turkey-social-media-ban-children"
       ],
       "connections": [
         {
           "from": "meta-social-media-liability",
           "to": "meta-aws-graviton-ai-chips",
-          "relationship": "The landmark verdicts found Meta's recommendation algorithms caused measurable harm to minors. Meta's response is to spend $125B building more capable algorithms at infrastructure scale. The legal liability is for the 2015-2023 system; the infrastructure investment is building the 2026-2030 system that will face the same questions."
+          "relationship": "The landmark verdicts found Meta's recommendation algorithms caused measurable harm to minors. Meta's response is to spend $125B building more capable algorithms at infrastructure scale. The legal liability is for the 2015-2023 system; the capital is funding the next one."
+        },
+        {
+          "from": "meta-social-media-liability",
+          "to": "turkey-social-media-ban-children",
+          "relationship": "Turkey's ban is a direct policy response to the same harm the US courts found Meta liable for: algorithmic design that amplifies harmful content to children. The US response is litigation; Turkey's is exclusion. Both are reactions to the same product. Neither requires Meta to change how the product works."
+        }
+      ]
+    },
+    {
+      "id": "nato-credibility-test",
+      "title": "The Alliance That Cannot Say What It Did",
+      "description": "Two stories today reveal the same problem with NATO's operational credibility: the alliance cannot afford to publicly acknowledge the things it is actually doing. The RAF incident produced two incompatible official statements because acknowledging engagement over Ukrainian territory is politically costly regardless of whether it happened. The Warsh confirmation involves a Fed nominee who must publicly deny that he is doing what the president who nominated him expects him to do. In both cases, the institution's credibility depends on maintaining a position that may not be true, and the contradiction is visible to anyone paying attention.",
+      "type": "tension-cluster",
+      "stories": [
+        "raf-ukraine-drones-nato",
+        "warsh-fed-independence"
+      ],
+      "connections": [
+        {
+          "from": "raf-ukraine-drones-nato",
+          "to": "warsh-fed-independence",
+          "relationship": "Both institutions, NATO and the Federal Reserve, are in a position where their stated commitments and their operational realities are diverging. NATO's air policing mission has quietly expanded its engagement rules beyond what alliance members will publicly acknowledge; the Fed's independence is being defined in ways that are technically true but operationally compatible with doing what the president wants. The credibility of both rests on the gap staying invisible."
         }
       ]
     }

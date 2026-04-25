@@ -1,6 +1,6 @@
 {
   "date": "2026-04-25",
-  "generatedAt": "2026-04-25T07:45:00Z",
+  "generatedAt": "2026-04-25T12:00:00Z",
   "reports": [
     {
       "id": "iran-pakistan-talks-hormuz",
@@ -30,6 +30,36 @@
       "id": "meta-aws-graviton-ai-chips",
       "title": "Meta Bets Billions on AWS Chips While Cutting 8,000 Jobs",
       "subtitle": "The agentic AI era needs CPUs more than GPUs, and that changes who controls the infrastructure of artificial intelligence.",
+      "category": "power"
+    },
+    {
+      "id": "doj-xai-colorado-ai-law",
+      "title": "The Federal Government Just Told States They Cannot Regulate AI Bias",
+      "subtitle": "The DOJ's decision to join xAI's suit against Colorado isn't about Musk. It's a constitutional claim that anti-discrimination mandates in AI are themselves unconstitutional discrimination.",
+      "category": "power"
+    },
+    {
+      "id": "trump-scotus-tariff-repayment",
+      "title": "Trump Owes $159 Billion in Tariff Refunds. He Is Telling Companies Not to Collect.",
+      "subtitle": "The Supreme Court struck down the IEEPA tariffs, CBP opened a refund portal, and Trump responded by publicly threatening companies that use it. The rule of law is now a political risk calculation.",
+      "category": "power"
+    },
+    {
+      "id": "raf-ukraine-drones-nato",
+      "title": "Britain Shot Down a Russian Drone Over Ukraine. Or It Didn't.",
+      "subtitle": "Romania says the RAF engaged and destroyed a Russian drone over Ukrainian territory. The UK MoD says the jets returned to base without firing. The gap between those two accounts is where the actual escalation lives.",
+      "category": "conflict"
+    },
+    {
+      "id": "warsh-fed-independence",
+      "title": "The Man Trump Picked to Run the Fed Says He Won't Do What Trump Wants",
+      "subtitle": "Kevin Warsh's confirmation hearing produced the predictable pledges of independence. The predictable part is the problem: every Fed nominee says this, and the chair who actually defies a sitting president has not yet existed.",
+      "category": "power"
+    },
+    {
+      "id": "turkey-social-media-ban-children",
+      "title": "Turkey Bans Social Media for Under-15s. The Global Wave Just Got Bigger.",
+      "subtitle": "A school shooting triggered the law. Erdogan's political agenda is sustaining it. The question is whether any country that bans children from social media is actually protecting them or just building surveillance infrastructure with parental consent.",
       "category": "power"
     }
   ]

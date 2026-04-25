@@ -1,0 +1,94 @@
+{
+  "id": "turkey-social-media-ban-children",
+  "date": "2026-04-25",
+  "generatedAt": "2026-04-25T12:00:00Z",
+  "title": "Turkey Bans Social Media for Under-15s. The Global Wave Just Got Bigger.",
+  "subtitle": "A school shooting triggered the law. Erdogan's political agenda is sustaining it. The question is whether any country that bans children from social media is actually protecting them or just building surveillance infrastructure with parental consent.",
+  "topic": "society",
+  "category": "power",
+  "tags": ["social media", "children", "Turkey", "Erdogan", "age verification", "digital rights", "platform regulation", "censorship"],
+  "coverImage": {
+    "url": "https://img.theepochtimes.com/assets/uploads/2026/04/22/id6015471-GettyImages-2243719467.jpg",
+    "local": "/images/reports/2026-04-25/turkey-social-media-ban-children.jpg",
+    "credit": "Epoch Times / Getty Images"
+  },
+  "sources": [
+    {
+      "url": "https://www.lite.aol.com/tech/story/0001/20260423/d88963a7446a12cf4963b73d455b5ef7",
+      "publisher": "AP via AOL",
+      "angle": "Neutral wire service: law passed late Wednesday, triggered by the Kahramanmaras school shooting, requires age verification and parental controls; Erdogan must sign within 15 days"
+    },
+    {
+      "url": "https://www.theepochtimes.com/world/turkey-bans-social-media-access-for-under-15s-6016041",
+      "publisher": "Epoch Times",
+      "angle": "Frames Turkey as joining a global wave that started with Australia in December 2025 and now includes Indonesia, Malaysia, Greece; UK and France expressing intent to follow"
+    },
+    {
+      "url": "https://www.autechtimes.com/national/turkiye-bans-social-media-for-children-under-15-years-old/",
+      "publisher": "Australian Tech Times",
+      "angle": "Highlights that video game companies are also covered, requiring local Turkey representatives and age classification; this goes beyond social media into the full digital entertainment ecosystem"
+    },
+    {
+      "url": "https://srnnews.com/turkey-passes-law-banning-social-media-use-for-under-15s/",
+      "publisher": "Reuters via SRN News",
+      "angle": "Brief factual Reuters wire; notes that the law amends the Social Services Law and that platforms with high user counts must appoint a local representative in Turkey"
+    }
+  ],
+  "brief": {
+    "actors": ["Erdogan", "Turkey", "Meta", "TikTok", "CHP"],
+    "whatHappened": "Turkey's parliament passed legislation on April 22 banning social media use by children under 15. The law requires platforms to implement age verification, provide parental control tools, respond more quickly to harmful content, and appoint a local representative in Turkey. Game software companies are also covered and must classify games by age. The law came one week after a 14-year-old student killed nine classmates and a teacher at a school in Kahramanmaras; police are examining the shooter's online activity. President Erdogan, who must sign the bill within 15 days, publicly called social media platforms 'cesspools.' Turkey's main opposition, the Republican People's Party, criticized the ban as rights-violating. Turkey joins Australia, Indonesia, Malaysia, and Greece in passing similar restrictions, with the UK and France signaling similar intentions.",
+    "bottomLine": "The school shooting gave Erdogan a politically unassailable justification to pass a law he wanted for different reasons, and the same dynamic is playing out in every country where child safety has become the crowbar that opens the door to platform regulation and the surveillance infrastructure it requires.",
+    "hiddenBets": [
+      {
+        "assumption": "Age verification protects children from social media harm",
+        "whyItMightBeWrong": "Age verification has never worked at scale. Australia passed its law in December 2025 and is already documenting VPN workarounds by the cohort it was designed to protect. The teenagers who are most at risk from social media harm are also the most technically capable of circumventing age gates. The law changes who is nominally on a platform, not who is actually on it."
+      },
+      {
+        "assumption": "This is primarily a child welfare policy",
+        "whyItMightBeWrong": "Turkey has spent a decade using legal mechanisms to restrict social media access for political reasons: demanding local representatives who can be pressured to remove content, imposing bandwidth restrictions, and blocking platforms that don't comply. The new law's requirement for local representatives and rapid content removal applies to every user, not just children. The child welfare framing is politically bulletproof and provides the institutional infrastructure that broader censorship has always required."
+      },
+      {
+        "assumption": "Western democracies passing similar laws face the same tradeoffs as Turkey",
+        "whyItMightBeWrong": "The UK and France have stronger judicial oversight, independent regulators, and different relationships between state power and platform compliance than Turkey does. But the surveillance infrastructure required for age verification, specifically the collection of identity documents and biometric data to authenticate users, is identical regardless of the government asking for it. The risk is not that the UK becomes Turkey, but that the infrastructure built for child safety can be repurposed by any future government."
+      }
+    ],
+    "realDisagreement": "The fork is between two positions that both have genuine support among people who care about children: unlimited platform access at any age causes demonstrable harm, including increased rates of depression, anxiety, and self-harm in adolescents, and the parental consent model is failing because parents cannot practically monitor children's digital lives. The opposing view is that prohibition and surveillance create children who are either fully excluded from the digital literacy development their peers are gaining, or who have learned to operate underground in ways that are less visible and potentially more dangerous. The harm data favors the first position for very young children. For 14-year-olds, the evidence is more contested, and the Kahramanmaras shooter was 14. What you give up by accepting the ban is the ability to teach children to navigate harmful content rather than hiding it.",
+    "whatNoOneIsSaying": "The Kahramanmaras shooter killed because he had access to a firearm, not because he had access to TikTok. Turkey's parliament passed a social media law and not a gun law. The online activity investigation is ongoing, which means the law was passed before anyone established what role, if any, online content played in the attack. The speed of the legislative response suggests the shooting was an occasion rather than a cause.",
+    "whoPays": [
+      {
+        "who": "Turkish teenagers between 13 and 15",
+        "how": "They are excluded from platforms where their peers organize socially and access information, with no practical mechanism for age-appropriate access to digital social life; the more technically capable will circumvent the ban and face no consequences, while the less technically capable will be genuinely excluded",
+        "when": "Immediately upon law taking effect"
+      },
+      {
+        "who": "Turkish political dissidents and journalists who rely on younger users amplifying content",
+        "how": "The local representative requirement gives the Turkish government direct leverage to demand content removal under penalty of bandwidth throttling; the child safety framing makes it politically impossible to resist compliance without appearing to endanger children",
+        "when": "Ongoing, as enforcement ramps up in the 12 months following the law's enactment"
+      },
+      {
+        "who": "Global users of age verification-mandated platforms",
+        "how": "Every country that requires platforms to build age verification infrastructure creates databases of identity documents linked to social media activity that are targets for data breaches and that can be subpoenaed or hacked. The risk is not Turkish; it is wherever the data is stored and whoever the next government is.",
+        "when": "Slow-burn, years out, but permanent"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Compliance Theater, Circumvention Normalized",
+        "whatHappens": "Platforms implement nominal age verification, Turkish teenagers use VPNs and parents' accounts at rates comparable to Australia, the government claims success, enforcement focuses on platforms that don't cooperate rather than actual underage users. The ban becomes a compliance cost rather than an effective restriction.",
+        "signal": "VPN app downloads in Turkey spike 300% or more within 60 days of enforcement beginning, as documented in app store data"
+      },
+      {
+        "name": "Law Weaponized for Content Removal",
+        "whatHappens": "The local representative requirement enables a series of takedown demands framed as protecting children but targeting political content. Platforms that comply face accusations of censorship; platforms that resist face bandwidth throttling. The child safety law becomes the de facto content moderation law.",
+        "signal": "A documented request from Turkish authorities to remove political content citing the child safety law's rapid-response requirement"
+      },
+      {
+        "name": "Western Cascade",
+        "whatHappens": "UK legislation passes within six months, citing the global wave and citing Turkey's law as a model. France follows. The EU begins considering a harmonized standard. The age verification surveillance infrastructure becomes a global norm rather than an outlier.",
+        "signal": "UK parliament passes a vote on second reading of an age verification bill before the end of 2026"
+      }
+    ],
+    "whatWouldChange": "If the Kahramanmaras investigation concludes that online content had no documented role in the attack, the entire rationale for the law collapses in legal terms, though politically it may not matter. The analysis would also shift if age verification technology advances to the point where it can be implemented without creating identity databases, which does not currently exist.",
+    "markets": []
+  }
+}
